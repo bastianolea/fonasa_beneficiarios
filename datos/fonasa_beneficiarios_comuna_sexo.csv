@@ -1,0 +1,3015 @@
+codigo_region;nombre_region;codigo_comuna;nombre_comuna;clasificacion;sexo;tramo_fonasa;beneficiarios
+5;Valparaíso;5602;Algarrobo;Mixta;Hombre;A;1211
+13;Metropolitana de Santiago;13502;Alhué;Rural;Hombre;A;473
+8;Biobío;8314;Alto Biobío;Rural;Hombre;A;890
+3;Atacama;3302;Alto del Carmen;Rural;Hombre;A;470
+1;Tarapacá;1107;Alto Hospicio;Urbana;Hombre;A;19408
+10;Los Lagos;10202;Ancud;Mixta;Hombre;A;4560
+4;Coquimbo;4103;Andacollo;Rural;Hombre;A;566
+9;La Araucanía;9201;Angol;Urbana;Hombre;A;5056
+2;Antofagasta;2101;Antofagasta;Urbana;Hombre;A;22669
+8;Biobío;8302;Antuco;Rural;Hombre;A;411
+12;Magallanes y de la Antártica Chilena;12202;Antártica;NA;Hombre;A;4
+8;Biobío;8202;Arauco;Rural;Hombre;A;3790
+15;Arica y Parinacota;15101;Arica;Urbana;Hombre;A;26148
+11;Aysén del General Carlos Ibáñez del Campo;11201;Aysén;Rural;Hombre;A;2103
+13;Metropolitana de Santiago;13402;Buin;Urbana;Hombre;A;6581
+16;Ñuble;16102;Bulnes;Rural;Hombre;A;1584
+5;Valparaíso;5402;Cabildo;Mixta;Hombre;A;950
+12;Magallanes y de la Antártica Chilena;12201;Cabo de Hornos;Rural;Hombre;A;23
+8;Biobío;8303;Cabrero;Rural;Hombre;A;2543
+2;Antofagasta;2201;Calama;Urbana;Hombre;A;8465
+10;Los Lagos;10102;Calbuco;Mixta;Hombre;A;5324
+3;Atacama;3102;Caldera;Rural;Hombre;A;2068
+5;Valparaíso;5502;Calera;Urbana;Hombre;A;3209
+13;Metropolitana de Santiago;13403;Calera de Tango;Mixta;Hombre;A;1157
+5;Valparaíso;5302;Calle Larga;Mixta;Hombre;A;971
+15;Arica y Parinacota;15102;Camarones;Rural;Hombre;A;27
+1;Tarapacá;1402;Camiña;Rural;Hombre;A;246
+4;Coquimbo;4202;Canela;Rural;Hombre;A;982
+9;La Araucanía;9102;Carahue;Rural;Hombre;A;3315
+5;Valparaíso;5603;Cartagena;Mixta;Hombre;A;3528
+5;Valparaíso;5102;Casablanca;Mixta;Hombre;A;1420
+10;Los Lagos;10201;Castro;Mixta;Hombre;A;4252
+5;Valparaíso;5702;Catemu;Rural;Hombre;A;1116
+7;Maule;7201;Cauquenes;Rural;Hombre;A;4606
+8;Biobío;8203;Cañete;Rural;Hombre;A;4326
+13;Metropolitana de Santiago;13102;Cerrillos;Urbana;Hombre;A;4490
+13;Metropolitana de Santiago;13103;Cerro Navia;Urbana;Hombre;A;11269
+10;Los Lagos;10401;Chaitén;Rural;Hombre;A;262
+7;Maule;7202;Chanco;Rural;Hombre;A;846
+3;Atacama;3201;Chañaral;Rural;Hombre;A;1124
+8;Biobío;8103;Chiguayante;Urbana;Hombre;A;4458
+11;Aysén del General Carlos Ibáñez del Campo;11401;Chile Chico;Rural;Hombre;A;293
+16;Ñuble;16101;Chillán;Urbana;Hombre;A;12718
+16;Ñuble;16103;Chillán Viejo;Mixta;Hombre;A;2753
+6;Libertador General Bernardo O'Higgins;6303;Chimbarongo;Rural;Hombre;A;1860
+9;La Araucanía;9121;Cholchol;Rural;Hombre;A;1863
+10;Los Lagos;10203;Chonchi;Rural;Hombre;A;1756
+6;Libertador General Bernardo O'Higgins;6302;Chépica;Mixta;Hombre;A;1068
+11;Aysén del General Carlos Ibáñez del Campo;11202;Cisnes;Rural;Hombre;A;458
+16;Ñuble;16202;Cobquecura;Rural;Hombre;A;792
+10;Los Lagos;10103;Cochamó;Rural;Hombre;A;350
+11;Aysén del General Carlos Ibáñez del Campo;11301;Cochrane;Rural;Hombre;A;378
+6;Libertador General Bernardo O'Higgins;6102;Codegua;Mixta;Hombre;A;948
+16;Ñuble;16203;Coelemu;Rural;Hombre;A;885
+16;Ñuble;16302;Coihueco;Rural;Hombre;A;2849
+6;Libertador General Bernardo O'Higgins;6103;Coinco;Rural;Hombre;A;314
+7;Maule;7402;Colbún;Rural;Hombre;A;2390
+1;Tarapacá;1403;Colchane;Rural;Hombre;A;222
+13;Metropolitana de Santiago;13301;Colina;Urbana;Hombre;A;11924
+9;La Araucanía;9202;Collipulli;Rural;Hombre;A;2010
+6;Libertador General Bernardo O'Higgins;6104;Coltauco;Mixta;Hombre;A;1257
+4;Coquimbo;4302;Combarbalá;Rural;Hombre;A;916
+8;Biobío;8101;Concepción;Urbana;Hombre;A;13090
+13;Metropolitana de Santiago;13104;Conchalí;Urbana;Hombre;A;8940
+5;Valparaíso;5103;Concón;Mixta;Hombre;A;2324
+7;Maule;7102;Constitución;Mixta;Hombre;A;5352
+8;Biobío;8204;Contulmo;Rural;Hombre;A;682
+3;Atacama;3101;Copiapó;Urbana;Hombre;A;10855
+4;Coquimbo;4102;Coquimbo;Urbana;Hombre;A;17344
+8;Biobío;8102;Coronel;Urbana;Hombre;A;8753
+14;Los Ríos;14102;Corral;Rural;Hombre;A;358
+11;Aysén del General Carlos Ibáñez del Campo;11101;Coyhaique;Urbana;Hombre;A;4157
+9;La Araucanía;9103;Cunco;Rural;Hombre;A;1729
+9;La Araucanía;9203;Curacautín;Mixta;Hombre;A;1570
+13;Metropolitana de Santiago;13503;Curacaví;Mixta;Hombre;A;2193
+10;Los Lagos;10204;Curaco de Vélez;Rural;Hombre;A;365
+8;Biobío;8205;Curanilahue;Mixta;Hombre;A;2418
+9;La Araucanía;9104;Curarrehue;Rural;Hombre;A;1537
+7;Maule;7103;Curepto;Rural;Hombre;A;648
+7;Maule;7301;Curicó;Urbana;Hombre;A;9870
+10;Los Lagos;10205;Dalcahue;Rural;Hombre;A;2095
+3;Atacama;3202;Diego de Almagro;Rural;Hombre;A;456
+6;Libertador General Bernardo O'Higgins;6105;Doñihue;Mixta;Hombre;A;1369
+13;Metropolitana de Santiago;13105;El Bosque;Urbana;Hombre;A;15902
+16;Ñuble;16104;El Carmen;Rural;Hombre;A;1207
+13;Metropolitana de Santiago;13602;El Monte;Mixta;Hombre;A;2788
+5;Valparaíso;5604;El Quisco;Mixta;Hombre;A;1978
+5;Valparaíso;5605;El Tabo;Mixta;Hombre;A;1592
+7;Maule;7104;Empedrado;Rural;Hombre;A;485
+9;La Araucanía;9204;Ercilla;Rural;Hombre;A;1248
+13;Metropolitana de Santiago;13106;Estación Central;Urbana;Hombre;A;10139
+8;Biobío;8104;Florida;Rural;Hombre;A;954
+9;La Araucanía;9105;Freire;Rural;Hombre;A;2526
+3;Atacama;3303;Freirina;Rural;Hombre;A;740
+10;Los Lagos;10104;Fresia;Rural;Hombre;A;1226
+10;Los Lagos;10105;Frutillar;Rural;Hombre;A;1488
+10;Los Lagos;10402;Futaleufú;Rural;Hombre;A;284
+14;Los Ríos;14202;Futrono;Rural;Hombre;A;1875
+9;La Araucanía;9106;Galvarino;Rural;Hombre;A;1454
+15;Arica y Parinacota;15202;General Lagos;Rural;Hombre;A;45
+9;La Araucanía;9107;Gorbea;Mixta;Hombre;A;1206
+6;Libertador General Bernardo O'Higgins;6106;Graneros;Mixta;Hombre;A;1191
+11;Aysén del General Carlos Ibáñez del Campo;11203;Guaitecas;Rural;Hombre;A;51
+5;Valparaíso;5503;Hijuelas;Mixta;Hombre;A;1714
+10;Los Lagos;10403;Hualaihué;Rural;Hombre;A;1139
+7;Maule;7302;Hualañé;Rural;Hombre;A;639
+8;Biobío;8112;Hualpén;Urbana;Hombre;A;5265
+8;Biobío;8105;Hualqui;Mixta;Hombre;A;2269
+1;Tarapacá;1404;Huara;Rural;Hombre;A;672
+3;Atacama;3304;Huasco;Rural;Hombre;A;969
+13;Metropolitana de Santiago;13107;Huechuraba;Urbana;Hombre;A;6306
+4;Coquimbo;4201;Illapel;Rural;Hombre;A;2611
+13;Metropolitana de Santiago;13108;Independencia;Urbana;Hombre;A;10372
+1;Tarapacá;1101;Iquique;Urbana;Hombre;A;15540
+13;Metropolitana de Santiago;13603;Isla de Maipo;Mixta;Hombre;A;2152
+5;Valparaíso;5201;Isla de Pascua;Rural;Hombre;A;448
+5;Valparaíso;5104;Juan Fernández;Rural;Hombre;A;4
+13;Metropolitana de Santiago;13109;La Cisterna;Urbana;Hombre;A;6385
+5;Valparaíso;5504;La Cruz;Mixta;Hombre;A;1009
+6;Libertador General Bernardo O'Higgins;6202;La Estrella;Rural;Hombre;A;313
+13;Metropolitana de Santiago;13110;La Florida;Urbana;Hombre;A;23691
+13;Metropolitana de Santiago;13111;La Granja;Urbana;Hombre;A;12547
+4;Coquimbo;4104;La Higuera;Rural;Hombre;A;277
+5;Valparaíso;5401;La Ligua;Mixta;Hombre;A;3085
+13;Metropolitana de Santiago;13112;La Pintana;Urbana;Hombre;A;17833
+13;Metropolitana de Santiago;13113;La Reina;Urbana;Hombre;A;1951
+4;Coquimbo;4101;La Serena;Urbana;Hombre;A;15266
+14;Los Ríos;14201;La Unión;Rural;Hombre;A;3292
+14;Los Ríos;14203;Lago Ranco;Rural;Hombre;A;1500
+11;Aysén del General Carlos Ibáñez del Campo;11102;Lago Verde;Rural;Hombre;A;21
+8;Biobío;8304;Laja;Mixta;Hombre;A;1670
+13;Metropolitana de Santiago;13302;Lampa;Urbana;Hombre;A;9415
+14;Los Ríos;14103;Lanco;Mixta;Hombre;A;1573
+6;Libertador General Bernardo O'Higgins;6107;Las Cabras;Rural;Hombre;A;2118
+13;Metropolitana de Santiago;13114;Las Condes;Urbana;Hombre;A;3920
+9;La Araucanía;9108;Lautaro;Mixta;Hombre;A;4476
+8;Biobío;8201;Lebu;Mixta;Hombre;A;3618
+7;Maule;7303;Licantén;Rural;Hombre;A;711
+5;Valparaíso;5802;Limache;Mixta;Hombre;A;2164
+7;Maule;7401;Linares;Urbana;Hombre;A;7634
+6;Libertador General Bernardo O'Higgins;6203;Litueche;Rural;Hombre;A;355
+5;Valparaíso;5703;Llaillay;Mixta;Hombre;A;1637
+10;Los Lagos;10107;Llanquihue;Rural;Hombre;A;1303
+13;Metropolitana de Santiago;13115;Lo Barnechea;Urbana;Hombre;A;2294
+13;Metropolitana de Santiago;13116;Lo Espejo;Urbana;Hombre;A;9478
+13;Metropolitana de Santiago;13117;Lo Prado;Urbana;Hombre;A;10099
+6;Libertador General Bernardo O'Higgins;6304;Lolol;Rural;Hombre;A;416
+9;La Araucanía;9109;Loncoche;Mixta;Hombre;A;2348
+7;Maule;7403;Longaví;Rural;Hombre;A;3418
+9;La Araucanía;9205;Lonquimay;Rural;Hombre;A;1305
+5;Valparaíso;5301;Los Andes;Urbana;Hombre;A;3094
+14;Los Ríos;14104;Los Lagos;Rural;Hombre;A;1904
+10;Los Lagos;10106;Los Muermos;Rural;Hombre;A;2726
+9;La Araucanía;9206;Los Sauces;Rural;Hombre;A;869
+4;Coquimbo;4203;Los Vilos;Rural;Hombre;A;2255
+8;Biobío;8206;Los Alamos;Rural;Hombre;A;2500
+8;Biobío;8301;Los Angeles;Urbana;Hombre;A;15914
+8;Biobío;8106;Lota;Mixta;Hombre;A;3424
+9;La Araucanía;9207;Lumaco;Rural;Hombre;A;1183
+6;Libertador General Bernardo O'Higgins;6108;Machalí;Urbana;Hombre;A;1890
+13;Metropolitana de Santiago;13118;Macul;Urbana;Hombre;A;9922
+13;Metropolitana de Santiago;13119;Maipú;Urbana;Hombre;A;17685
+6;Libertador General Bernardo O'Higgins;6109;Malloa;Rural;Hombre;A;1241
+6;Libertador General Bernardo O'Higgins;6204;Marchihue;Rural;Hombre;A;311
+14;Los Ríos;14106;Mariquina;Rural;Hombre;A;2684
+2;Antofagasta;2302;María Elena;Rural;Hombre;A;175
+13;Metropolitana de Santiago;13504;María Pinto;Rural;Hombre;A;1253
+7;Maule;7105;Maule;Mixta;Hombre;A;4209
+10;Los Lagos;10108;Maullín;Rural;Hombre;A;1872
+2;Antofagasta;2102;Mejillones;Rural;Hombre;A;754
+9;La Araucanía;9110;Melipeuco;Rural;Hombre;A;1046
+13;Metropolitana de Santiago;13501;Melipilla;Urbana;Hombre;A;9898
+7;Maule;7304;Molina;Mixta;Hombre;A;3576
+4;Coquimbo;4303;Monte Patria;Rural;Hombre;A;2709
+6;Libertador General Bernardo O'Higgins;6110;Mostazal;Mixta;Hombre;A;1546
+8;Biobío;8305;Mulchén;Mixta;Hombre;A;2764
+14;Los Ríos;14105;Máfil;Mixta;Hombre;A;879
+8;Biobío;8306;Nacimiento;Mixta;Hombre;A;1744
+6;Libertador General Bernardo O'Higgins;6305;Nancagua;Mixta;Hombre;A;1167
+12;Magallanes y de la Antártica Chilena;12401;Natales;Rural;Hombre;A;1874
+6;Libertador General Bernardo O'Higgins;6205;Navidad;Rural;Hombre;A;857
+8;Biobío;8307;Negrete;Rural;Hombre;A;960
+16;Ñuble;16204;Ninhue;Rural;Hombre;A;514
+5;Valparaíso;5506;Nogales;Rural;Hombre;A;1246
+9;La Araucanía;9111;Nueva Imperial;Mixta;Hombre;A;6045
+11;Aysén del General Carlos Ibáñez del Campo;11302;O'Higgins;Rural;Hombre;A;9
+6;Libertador General Bernardo O'Higgins;6111;Olivar;Mixta;Hombre;A;906
+2;Antofagasta;2202;Ollagüe;Rural;Hombre;A;3
+5;Valparaíso;5803;Olmué;Rural;Hombre;A;1311
+10;Los Lagos;10301;Osorno;Urbana;Hombre;A;11894
+4;Coquimbo;4301;Ovalle;Urbana;Hombre;A;7778
+13;Metropolitana de Santiago;13604;Padre Hurtado;Urbana;Hombre;A;4378
+9;La Araucanía;9112;Padre Las Casas;Mixta;Hombre;A;8282
+4;Coquimbo;4105;Paiguano;Rural;Hombre;A;245
+14;Los Ríos;14107;Paillaco;Rural;Hombre;A;2142
+13;Metropolitana de Santiago;13404;Paine;Mixta;Hombre;A;5135
+10;Los Lagos;10404;Palena;Rural;Hombre;A;130
+6;Libertador General Bernardo O'Higgins;6306;Palmilla;Rural;Hombre;A;614
+14;Los Ríos;14108;Panguipulli;Rural;Hombre;A;5091
+5;Valparaíso;5704;Panquehue;Rural;Hombre;A;383
+5;Valparaíso;5403;Papudo;Rural;Hombre;A;426
+6;Libertador General Bernardo O'Higgins;6206;Paredones;Rural;Hombre;A;606
+7;Maule;7404;Parral;Mixta;Hombre;A;4201
+13;Metropolitana de Santiago;13121;Pedro Aguirre Cerda;Urbana;Hombre;A;9459
+7;Maule;7106;Pelarco;Rural;Hombre;A;1025
+7;Maule;7203;Pelluhue;Rural;Hombre;A;1514
+16;Ñuble;16105;Pemuco;Rural;Hombre;A;733
+7;Maule;7107;Pencahue;Rural;Hombre;A;855
+8;Biobío;8107;Penco;Mixta;Hombre;A;3548
+6;Libertador General Bernardo O'Higgins;6307;Peralillo;Rural;Hombre;A;922
+9;La Araucanía;9113;Perquenco;Rural;Hombre;A;633
+5;Valparaíso;5404;Petorca;Rural;Hombre;A;856
+6;Libertador General Bernardo O'Higgins;6112;Peumo;Mixta;Hombre;A;564
+13;Metropolitana de Santiago;13605;Peñaflor;Urbana;Hombre;A;5654
+13;Metropolitana de Santiago;13122;Peñalolén;Urbana;Hombre;A;17932
+1;Tarapacá;1405;Pica;Rural;Hombre;A;1054
+6;Libertador General Bernardo O'Higgins;6113;Pichidegua;Rural;Hombre;A;1134
+6;Libertador General Bernardo O'Higgins;6201;Pichilemu;Rural;Hombre;A;945
+16;Ñuble;16106;Pinto;Rural;Hombre;A;1537
+13;Metropolitana de Santiago;13202;Pirque;Rural;Hombre;A;1671
+9;La Araucanía;9114;Pitrufquén;Mixta;Hombre;A;2754
+6;Libertador General Bernardo O'Higgins;6308;Placilla;Rural;Hombre;A;698
+16;Ñuble;16205;Portezuelo;Rural;Hombre;A;524
+12;Magallanes y de la Antártica Chilena;12301;Porvenir;Rural;Hombre;A;310
+1;Tarapacá;1401;Pozo Almonte;Rural;Hombre;A;2191
+12;Magallanes y de la Antártica Chilena;12302;Primavera;Rural;Hombre;A;3
+13;Metropolitana de Santiago;13123;Providencia;Urbana;Hombre;A;2749
+5;Valparaíso;5105;Puchuncaví;Mixta;Hombre;A;1525
+9;La Araucanía;9115;Pucón;Rural;Hombre;A;3520
+13;Metropolitana de Santiago;13124;Pudahuel;Urbana;Hombre;A;15753
+13;Metropolitana de Santiago;13201;Puente Alto;Urbana;Hombre;A;29157
+10;Los Lagos;10101;Puerto Montt;Urbana;Hombre;A;18303
+10;Los Lagos;10302;Puerto Octay;Rural;Hombre;A;671
+10;Los Lagos;10109;Puerto Varas;Mixta;Hombre;A;3103
+6;Libertador General Bernardo O'Higgins;6309;Pumanque;Rural;Hombre;A;309
+4;Coquimbo;4304;Punitaqui;Rural;Hombre;A;1348
+12;Magallanes y de la Antártica Chilena;12101;Punta Arenas;Urbana;Hombre;A;5269
+10;Los Lagos;10206;Puqueldón;Rural;Hombre;A;360
+10;Los Lagos;10303;Purranque;Rural;Hombre;A;1731
+9;La Araucanía;9208;Purén;Rural;Hombre;A;1195
+5;Valparaíso;5705;Putaendo;Mixta;Hombre;A;1302
+15;Arica y Parinacota;15201;Putre;Rural;Hombre;A;121
+10;Los Lagos;10304;Puyehue;Rural;Hombre;A;1103
+10;Los Lagos;10207;Queilén;Rural;Hombre;A;614
+10;Los Lagos;10208;Quellón;Mixta;Hombre;A;4387
+10;Los Lagos;10209;Quemchi;Rural;Hombre;A;1113
+8;Biobío;8308;Quilaco;Rural;Hombre;A;364
+13;Metropolitana de Santiago;13125;Quilicura;Urbana;Hombre;A;10486
+8;Biobío;8309;Quilleco;Rural;Hombre;A;773
+5;Valparaíso;5501;Quillota;Urbana;Hombre;A;6280
+16;Ñuble;16107;Quillón;Mixta;Hombre;A;1921
+5;Valparaíso;5801;Quilpué;Urbana;Hombre;A;7658
+10;Los Lagos;10210;Quinchao;Rural;Hombre;A;865
+6;Libertador General Bernardo O'Higgins;6114;Quinta de Tilcoco;Mixta;Hombre;A;1242
+13;Metropolitana de Santiago;13126;Quinta Normal;Urbana;Hombre;A;9314
+5;Valparaíso;5107;Quintero;Mixta;Hombre;A;1913
+16;Ñuble;16201;Quirihue;Mixta;Hombre;A;717
+6;Libertador General Bernardo O'Higgins;6101;Rancagua;Urbana;Hombre;A;14979
+16;Ñuble;16206;Ranquil;Rural;Hombre;A;549
+7;Maule;7305;Rauco;Rural;Hombre;A;794
+13;Metropolitana de Santiago;13127;Recoleta;Urbana;Hombre;A;13226
+9;La Araucanía;9209;Renaico;Mixta;Hombre;A;1023
+13;Metropolitana de Santiago;13128;Renca;Urbana;Hombre;A;12510
+6;Libertador General Bernardo O'Higgins;6115;Rengo;Urbana;Hombre;A;4752
+6;Libertador General Bernardo O'Higgins;6116;Requínoa;Mixta;Hombre;A;1281
+7;Maule;7405;Retiro;Rural;Hombre;A;2312
+5;Valparaíso;5303;Rinconada;Rural;Hombre;A;848
+7;Maule;7306;Romeral;Mixta;Hombre;A;1182
+14;Los Ríos;14204;Río Bueno;Mixta;Hombre;A;2556
+7;Maule;7108;Río Claro;Rural;Hombre;A;969
+4;Coquimbo;4305;Río Hurtado;Rural;Hombre;A;500
+11;Aysén del General Carlos Ibáñez del Campo;11402;Río Ibáñez;Rural;Hombre;A;96
+10;Los Lagos;10305;Río Negro;Rural;Hombre;A;1327
+12;Magallanes y de la Antártica Chilena;12103;Río Verde;Rural;Hombre;A;3
+9;La Araucanía;9116;Saavedra;Rural;Hombre;A;2223
+7;Maule;7307;Sagrada Familia;Rural;Hombre;A;1124
+4;Coquimbo;4204;Salamanca;Rural;Hombre;A;1715
+5;Valparaíso;5601;San Antonio;Urbana;Hombre;A;7091
+13;Metropolitana de Santiago;13401;San Bernardo;Urbana;Hombre;A;20727
+16;Ñuble;16301;San Carlos;Mixta;Hombre;A;5065
+7;Maule;7109;San Clemente;Rural;Hombre;A;4363
+5;Valparaíso;5304;San Esteban;Mixta;Hombre;A;979
+16;Ñuble;16304;San Fabián;Rural;Hombre;A;553
+5;Valparaíso;5701;San Felipe;Urbana;Hombre;A;4429
+6;Libertador General Bernardo O'Higgins;6301;San Fernando;Urbana;Hombre;A;5272
+12;Magallanes y de la Antártica Chilena;12104;San Gregorio;Rural;Hombre;A;3
+16;Ñuble;16108;San Ignacio;Rural;Hombre;A;1993
+7;Maule;7406;San Javier;Mixta;Hombre;A;3520
+13;Metropolitana de Santiago;13129;San Joaquín;Urbana;Hombre;A;8072
+13;Metropolitana de Santiago;13203;San José de Maipo;Rural;Hombre;A;855
+10;Los Lagos;10306;San Juan de la Costa;Rural;Hombre;A;1664
+13;Metropolitana de Santiago;13130;San Miguel;Urbana;Hombre;A;7128
+16;Ñuble;16305;San Nicolás;Rural;Hombre;A;1137
+10;Los Lagos;10307;San Pablo;Rural;Hombre;A;941
+13;Metropolitana de Santiago;13505;San Pedro;Rural;Hombre;A;1728
+2;Antofagasta;2203;San Pedro de Atacama;Rural;Hombre;A;818
+8;Biobío;8108;San Pedro de la Paz;Urbana;Hombre;A;8140
+7;Maule;7110;San Rafael;Rural;Hombre;A;946
+13;Metropolitana de Santiago;13131;San Ramón;Urbana;Hombre;A;8472
+8;Biobío;8310;San Rosendo;Rural;Hombre;A;364
+6;Libertador General Bernardo O'Higgins;6117;San Vicente;Mixta;Hombre;A;3019
+8;Biobío;8311;Santa Bárbara;Rural;Hombre;A;1446
+6;Libertador General Bernardo O'Higgins;6310;Santa Cruz;Mixta;Hombre;A;3282
+8;Biobío;8109;Santa Juana;Mixta;Hombre;A;1296
+5;Valparaíso;5706;Santa María;Mixta;Hombre;A;1031
+13;Metropolitana de Santiago;13101;Santiago;Urbana;Hombre;A;24563
+5;Valparaíso;5606;Santo Domingo;Rural;Hombre;A;572
+2;Antofagasta;2103;Sierra Gorda;Rural;Hombre;A;92
+13;Metropolitana de Santiago;13601;Talagante;Urbana;Hombre;A;3779
+7;Maule;7101;Talca;Urbana;Hombre;A;17889
+8;Biobío;8110;Talcahuano;Urbana;Hombre;A;7400
+2;Antofagasta;2104;Taltal;Rural;Hombre;A;719
+9;La Araucanía;9101;Temuco;Urbana;Hombre;A;21643
+7;Maule;7308;Teno;Rural;Hombre;A;1718
+9;La Araucanía;9117;Teodoro Schmidt;Rural;Hombre;A;2439
+3;Atacama;3103;Tierra Amarilla;Rural;Hombre;A;1612
+13;Metropolitana de Santiago;13303;Tiltil;Rural;Hombre;A;1344
+8;Biobío;8207;Tirúa;Rural;Hombre;A;1977
+2;Antofagasta;2301;Tocopilla;Rural;Hombre;A;2036
+9;La Araucanía;9118;Toltén;Rural;Hombre;A;1226
+8;Biobío;8111;Tomé;Urbana;Hombre;A;5197
+11;Aysén del General Carlos Ibáñez del Campo;11303;Tortel;Rural;Hombre;A;16
+9;La Araucanía;9210;Traiguén;Mixta;Hombre;A;1535
+16;Ñuble;16207;Treguaco;Rural;Hombre;A;392
+8;Biobío;8312;Tucapel;Rural;Hombre;A;1287
+14;Los Ríos;14101;Valdivia;Urbana;Hombre;A;10003
+3;Atacama;3301;Vallenar;Mixta;Hombre;A;4303
+5;Valparaíso;5101;Valparaíso;Urbana;Hombre;A;22677
+7;Maule;7309;Vichuquén;Rural;Hombre;A;462
+9;La Araucanía;9211;Victoria;Mixta;Hombre;A;3831
+4;Coquimbo;4106;Vicuña;Rural;Hombre;A;1785
+9;La Araucanía;9119;Vilcún;Rural;Hombre;A;2825
+7;Maule;7407;Villa Alegre;Mixta;Hombre;A;1430
+5;Valparaíso;5804;Villa Alemana;Urbana;Hombre;A;6529
+9;La Araucanía;9120;Villarrica;Mixta;Hombre;A;7788
+13;Metropolitana de Santiago;13132;Vitacura;Urbana;Hombre;A;579
+5;Valparaíso;5109;Viña del Mar;Urbana;Hombre;A;17437
+7;Maule;7408;Yerbas Buenas;Rural;Hombre;A;1935
+8;Biobío;8313;Yumbel;Mixta;Hombre;A;1951
+16;Ñuble;16109;Yungay;Mixta;Hombre;A;933
+5;Valparaíso;5405;Zapallar;Rural;Hombre;A;521
+16;Ñuble;16303;Ñiquén;Rural;Hombre;A;1166
+13;Metropolitana de Santiago;13120;Ñuñoa;Urbana;Hombre;A;4665
+5;Valparaíso;5602;Algarrobo;Mixta;Hombre;B;3210
+13;Metropolitana de Santiago;13502;Alhué;Rural;Hombre;B;1832
+8;Biobío;8314;Alto Biobío;Rural;Hombre;B;1278
+3;Atacama;3302;Alto del Carmen;Rural;Hombre;B;1038
+1;Tarapacá;1107;Alto Hospicio;Urbana;Hombre;B;15947
+10;Los Lagos;10202;Ancud;Mixta;Hombre;B;8012
+4;Coquimbo;4103;Andacollo;Rural;Hombre;B;1165
+9;La Araucanía;9201;Angol;Urbana;Hombre;B;10289
+2;Antofagasta;2101;Antofagasta;Urbana;Hombre;B;44066
+8;Biobío;8302;Antuco;Rural;Hombre;B;755
+12;Magallanes y de la Antártica Chilena;12202;Antártica;NA;Hombre;B;6
+8;Biobío;8202;Arauco;Rural;Hombre;B;5317
+15;Arica y Parinacota;15101;Arica;Urbana;Hombre;B;38618
+11;Aysén del General Carlos Ibáñez del Campo;11201;Aysén;Rural;Hombre;B;3100
+13;Metropolitana de Santiago;13402;Buin;Urbana;Hombre;B;17895
+16;Ñuble;16102;Bulnes;Rural;Hombre;B;3797
+5;Valparaíso;5402;Cabildo;Mixta;Hombre;B;3081
+12;Magallanes y de la Antártica Chilena;12201;Cabo de Hornos;Rural;Hombre;B;61
+8;Biobío;8303;Cabrero;Rural;Hombre;B;5151
+2;Antofagasta;2201;Calama;Urbana;Hombre;B;18495
+10;Los Lagos;10102;Calbuco;Mixta;Hombre;B;5904
+3;Atacama;3102;Caldera;Rural;Hombre;B;3017
+5;Valparaíso;5502;Calera;Urbana;Hombre;B;8164
+13;Metropolitana de Santiago;13403;Calera de Tango;Mixta;Hombre;B;3972
+5;Valparaíso;5302;Calle Larga;Mixta;Hombre;B;2413
+15;Arica y Parinacota;15102;Camarones;Rural;Hombre;B;38
+1;Tarapacá;1402;Camiña;Rural;Hombre;B;159
+4;Coquimbo;4202;Canela;Rural;Hombre;B;2007
+9;La Araucanía;9102;Carahue;Rural;Hombre;B;4000
+5;Valparaíso;5603;Cartagena;Mixta;Hombre;B;5278
+5;Valparaíso;5102;Casablanca;Mixta;Hombre;B;4062
+10;Los Lagos;10201;Castro;Mixta;Hombre;B;8675
+5;Valparaíso;5702;Catemu;Rural;Hombre;B;2809
+7;Maule;7201;Cauquenes;Rural;Hombre;B;8424
+8;Biobío;8203;Cañete;Rural;Hombre;B;5801
+13;Metropolitana de Santiago;13102;Cerrillos;Urbana;Hombre;B;9686
+13;Metropolitana de Santiago;13103;Cerro Navia;Urbana;Hombre;B;21695
+10;Los Lagos;10401;Chaitén;Rural;Hombre;B;430
+7;Maule;7202;Chanco;Rural;Hombre;B;1285
+3;Atacama;3201;Chañaral;Rural;Hombre;B;1826
+8;Biobío;8103;Chiguayante;Urbana;Hombre;B;11973
+11;Aysén del General Carlos Ibáñez del Campo;11401;Chile Chico;Rural;Hombre;B;806
+16;Ñuble;16101;Chillán;Urbana;Hombre;B;33800
+16;Ñuble;16103;Chillán Viejo;Mixta;Hombre;B;6234
+6;Libertador General Bernardo O'Higgins;6303;Chimbarongo;Rural;Hombre;B;6718
+9;La Araucanía;9121;Cholchol;Rural;Hombre;B;2545
+10;Los Lagos;10203;Chonchi;Rural;Hombre;B;2710
+6;Libertador General Bernardo O'Higgins;6302;Chépica;Mixta;Hombre;B;3798
+11;Aysén del General Carlos Ibáñez del Campo;11202;Cisnes;Rural;Hombre;B;862
+16;Ñuble;16202;Cobquecura;Rural;Hombre;B;1240
+10;Los Lagos;10103;Cochamó;Rural;Hombre;B;536
+11;Aysén del General Carlos Ibáñez del Campo;11301;Cochrane;Rural;Hombre;B;687
+6;Libertador General Bernardo O'Higgins;6102;Codegua;Mixta;Hombre;B;3297
+16;Ñuble;16203;Coelemu;Rural;Hombre;B;2013
+16;Ñuble;16302;Coihueco;Rural;Hombre;B;5886
+6;Libertador General Bernardo O'Higgins;6103;Coinco;Rural;Hombre;B;940
+7;Maule;7402;Colbún;Rural;Hombre;B;5108
+1;Tarapacá;1403;Colchane;Rural;Hombre;B;167
+13;Metropolitana de Santiago;13301;Colina;Urbana;Hombre;B;19414
+9;La Araucanía;9202;Collipulli;Rural;Hombre;B;3472
+6;Libertador General Bernardo O'Higgins;6104;Coltauco;Mixta;Hombre;B;4159
+4;Coquimbo;4302;Combarbalá;Rural;Hombre;B;1977
+8;Biobío;8101;Concepción;Urbana;Hombre;B;34680
+13;Metropolitana de Santiago;13104;Conchalí;Urbana;Hombre;B;20595
+5;Valparaíso;5103;Concón;Mixta;Hombre;B;6720
+7;Maule;7102;Constitución;Mixta;Hombre;B;7926
+8;Biobío;8204;Contulmo;Rural;Hombre;B;1210
+3;Atacama;3101;Copiapó;Urbana;Hombre;B;20498
+4;Coquimbo;4102;Coquimbo;Urbana;Hombre;B;38871
+8;Biobío;8102;Coronel;Urbana;Hombre;B;16294
+14;Los Ríos;14102;Corral;Rural;Hombre;B;660
+11;Aysén del General Carlos Ibáñez del Campo;11101;Coyhaique;Urbana;Hombre;B;9056
+9;La Araucanía;9103;Cunco;Rural;Hombre;B;3514
+9;La Araucanía;9203;Curacautín;Mixta;Hombre;B;2819
+13;Metropolitana de Santiago;13503;Curacaví;Mixta;Hombre;B;5497
+10;Los Lagos;10204;Curaco de Vélez;Rural;Hombre;B;669
+8;Biobío;8205;Curanilahue;Mixta;Hombre;B;6137
+9;La Araucanía;9104;Curarrehue;Rural;Hombre;B;1813
+7;Maule;7103;Curepto;Rural;Hombre;B;1623
+7;Maule;7301;Curicó;Urbana;Hombre;B;30867
+10;Los Lagos;10205;Dalcahue;Rural;Hombre;B;2680
+3;Atacama;3202;Diego de Almagro;Rural;Hombre;B;1197
+6;Libertador General Bernardo O'Higgins;6105;Doñihue;Mixta;Hombre;B;4693
+13;Metropolitana de Santiago;13105;El Bosque;Urbana;Hombre;B;30109
+16;Ñuble;16104;El Carmen;Rural;Hombre;B;2431
+13;Metropolitana de Santiago;13602;El Monte;Mixta;Hombre;B;6299
+5;Valparaíso;5604;El Quisco;Mixta;Hombre;B;3741
+5;Valparaíso;5605;El Tabo;Mixta;Hombre;B;3218
+7;Maule;7104;Empedrado;Rural;Hombre;B;905
+9;La Araucanía;9204;Ercilla;Rural;Hombre;B;1840
+13;Metropolitana de Santiago;13106;Estación Central;Urbana;Hombre;B;19104
+8;Biobío;8104;Florida;Rural;Hombre;B;1960
+9;La Araucanía;9105;Freire;Rural;Hombre;B;4685
+3;Atacama;3303;Freirina;Rural;Hombre;B;1210
+10;Los Lagos;10104;Fresia;Rural;Hombre;B;2208
+10;Los Lagos;10105;Frutillar;Rural;Hombre;B;3813
+10;Los Lagos;10402;Futaleufú;Rural;Hombre;B;363
+14;Los Ríos;14202;Futrono;Rural;Hombre;B;3533
+9;La Araucanía;9106;Galvarino;Rural;Hombre;B;2426
+15;Arica y Parinacota;15202;General Lagos;Rural;Hombre;B;43
+9;La Araucanía;9107;Gorbea;Mixta;Hombre;B;2698
+6;Libertador General Bernardo O'Higgins;6106;Graneros;Mixta;Hombre;B;3749
+11;Aysén del General Carlos Ibáñez del Campo;11203;Guaitecas;Rural;Hombre;B;95
+5;Valparaíso;5503;Hijuelas;Mixta;Hombre;B;3754
+10;Los Lagos;10403;Hualaihué;Rural;Hombre;B;1262
+7;Maule;7302;Hualañé;Rural;Hombre;B;2212
+8;Biobío;8112;Hualpén;Urbana;Hombre;B;14532
+8;Biobío;8105;Hualqui;Mixta;Hombre;B;4079
+1;Tarapacá;1404;Huara;Rural;Hombre;B;433
+3;Atacama;3304;Huasco;Rural;Hombre;B;1337
+13;Metropolitana de Santiago;13107;Huechuraba;Urbana;Hombre;B;12319
+4;Coquimbo;4201;Illapel;Rural;Hombre;B;5120
+13;Metropolitana de Santiago;13108;Independencia;Urbana;Hombre;B;15792
+1;Tarapacá;1101;Iquique;Urbana;Hombre;B;29439
+13;Metropolitana de Santiago;13603;Isla de Maipo;Mixta;Hombre;B;7018
+5;Valparaíso;5201;Isla de Pascua;Rural;Hombre;B;618
+5;Valparaíso;5104;Juan Fernández;Rural;Hombre;B;135
+13;Metropolitana de Santiago;13109;La Cisterna;Urbana;Hombre;B;12923
+5;Valparaíso;5504;La Cruz;Mixta;Hombre;B;3699
+6;Libertador General Bernardo O'Higgins;6202;La Estrella;Rural;Hombre;B;957
+13;Metropolitana de Santiago;13110;La Florida;Urbana;Hombre;B;58015
+13;Metropolitana de Santiago;13111;La Granja;Urbana;Hombre;B;24026
+4;Coquimbo;4104;La Higuera;Rural;Hombre;B;284
+5;Valparaíso;5401;La Ligua;Mixta;Hombre;B;7636
+13;Metropolitana de Santiago;13112;La Pintana;Urbana;Hombre;B;26624
+13;Metropolitana de Santiago;13113;La Reina;Urbana;Hombre;B;7906
+4;Coquimbo;4101;La Serena;Urbana;Hombre;B;38179
+14;Los Ríos;14201;La Unión;Rural;Hombre;B;6910
+14;Los Ríos;14203;Lago Ranco;Rural;Hombre;B;2452
+11;Aysén del General Carlos Ibáñez del Campo;11102;Lago Verde;Rural;Hombre;B;49
+12;Magallanes y de la Antártica Chilena;12102;Laguna Blanca;Rural;Hombre;B;8
+8;Biobío;8304;Laja;Mixta;Hombre;B;3332
+13;Metropolitana de Santiago;13302;Lampa;Urbana;Hombre;B;12992
+14;Los Ríos;14103;Lanco;Mixta;Hombre;B;2906
+6;Libertador General Bernardo O'Higgins;6107;Las Cabras;Rural;Hombre;B;6287
+13;Metropolitana de Santiago;13114;Las Condes;Urbana;Hombre;B;15136
+9;La Araucanía;9108;Lautaro;Mixta;Hombre;B;7942
+8;Biobío;8201;Lebu;Mixta;Hombre;B;4543
+7;Maule;7303;Licantén;Rural;Hombre;B;1304
+5;Valparaíso;5802;Limache;Mixta;Hombre;B;7254
+7;Maule;7401;Linares;Urbana;Hombre;B;17900
+6;Libertador General Bernardo O'Higgins;6203;Litueche;Rural;Hombre;B;1046
+5;Valparaíso;5703;Llaillay;Mixta;Hombre;B;3819
+10;Los Lagos;10107;Llanquihue;Rural;Hombre;B;3221
+13;Metropolitana de Santiago;13115;Lo Barnechea;Urbana;Hombre;B;6901
+13;Metropolitana de Santiago;13116;Lo Espejo;Urbana;Hombre;B;16260
+13;Metropolitana de Santiago;13117;Lo Prado;Urbana;Hombre;B;20380
+6;Libertador General Bernardo O'Higgins;6304;Lolol;Rural;Hombre;B;1774
+9;La Araucanía;9109;Loncoche;Mixta;Hombre;B;4092
+7;Maule;7403;Longaví;Rural;Hombre;B;7301
+9;La Araucanía;9205;Lonquimay;Rural;Hombre;B;1816
+5;Valparaíso;5301;Los Andes;Urbana;Hombre;B;9546
+14;Los Ríos;14104;Los Lagos;Rural;Hombre;B;3947
+10;Los Lagos;10106;Los Muermos;Rural;Hombre;B;3963
+9;La Araucanía;9206;Los Sauces;Rural;Hombre;B;1665
+4;Coquimbo;4203;Los Vilos;Rural;Hombre;B;2937
+8;Biobío;8206;Los Alamos;Rural;Hombre;B;4016
+8;Biobío;8301;Los Angeles;Urbana;Hombre;B;34945
+8;Biobío;8106;Lota;Mixta;Hombre;B;7804
+9;La Araucanía;9207;Lumaco;Rural;Hombre;B;1965
+6;Libertador General Bernardo O'Higgins;6108;Machalí;Urbana;Hombre;B;5592
+13;Metropolitana de Santiago;13118;Macul;Urbana;Hombre;B;19996
+13;Metropolitana de Santiago;13119;Maipú;Urbana;Hombre;B;56382
+6;Libertador General Bernardo O'Higgins;6109;Malloa;Rural;Hombre;B;3467
+6;Libertador General Bernardo O'Higgins;6204;Marchihue;Rural;Hombre;B;1272
+14;Los Ríos;14106;Mariquina;Rural;Hombre;B;4237
+2;Antofagasta;2302;María Elena;Rural;Hombre;B;254
+13;Metropolitana de Santiago;13504;María Pinto;Rural;Hombre;B;3039
+7;Maule;7105;Maule;Mixta;Hombre;B;6538
+10;Los Lagos;10108;Maullín;Rural;Hombre;B;2742
+2;Antofagasta;2102;Mejillones;Rural;Hombre;B;869
+9;La Araucanía;9110;Melipeuco;Rural;Hombre;B;1526
+13;Metropolitana de Santiago;13501;Melipilla;Urbana;Hombre;B;25858
+7;Maule;7304;Molina;Mixta;Hombre;B;10113
+4;Coquimbo;4303;Monte Patria;Rural;Hombre;B;6668
+6;Libertador General Bernardo O'Higgins;6110;Mostazal;Mixta;Hombre;B;5120
+8;Biobío;8305;Mulchén;Mixta;Hombre;B;5405
+14;Los Ríos;14105;Máfil;Mixta;Hombre;B;1732
+8;Biobío;8306;Nacimiento;Mixta;Hombre;B;3815
+6;Libertador General Bernardo O'Higgins;6305;Nancagua;Mixta;Hombre;B;3544
+12;Magallanes y de la Antártica Chilena;12401;Natales;Rural;Hombre;B;4317
+6;Libertador General Bernardo O'Higgins;6205;Navidad;Rural;Hombre;B;1703
+8;Biobío;8307;Negrete;Rural;Hombre;B;1890
+16;Ñuble;16204;Ninhue;Rural;Hombre;B;1506
+5;Valparaíso;5506;Nogales;Rural;Hombre;B;3558
+9;La Araucanía;9111;Nueva Imperial;Mixta;Hombre;B;7667
+11;Aysén del General Carlos Ibáñez del Campo;11302;O'Higgins;Rural;Hombre;B;22
+6;Libertador General Bernardo O'Higgins;6111;Olivar;Mixta;Hombre;B;2747
+2;Antofagasta;2202;Ollagüe;Rural;Hombre;B;12
+5;Valparaíso;5803;Olmué;Rural;Hombre;B;4132
+10;Los Lagos;10301;Osorno;Urbana;Hombre;B;28603
+4;Coquimbo;4301;Ovalle;Urbana;Hombre;B;21769
+13;Metropolitana de Santiago;13604;Padre Hurtado;Urbana;Hombre;B;9285
+9;La Araucanía;9112;Padre Las Casas;Mixta;Hombre;B;14046
+4;Coquimbo;4105;Paiguano;Rural;Hombre;B;633
+14;Los Ríos;14107;Paillaco;Rural;Hombre;B;4088
+13;Metropolitana de Santiago;13404;Paine;Mixta;Hombre;B;14680
+10;Los Lagos;10404;Palena;Rural;Hombre;B;279
+6;Libertador General Bernardo O'Higgins;6306;Palmilla;Rural;Hombre;B;2835
+14;Los Ríos;14108;Panguipulli;Rural;Hombre;B;7514
+5;Valparaíso;5704;Panquehue;Rural;Hombre;B;1646
+5;Valparaíso;5403;Papudo;Rural;Hombre;B;1270
+6;Libertador General Bernardo O'Higgins;6206;Paredones;Rural;Hombre;B;1882
+7;Maule;7404;Parral;Mixta;Hombre;B;9379
+13;Metropolitana de Santiago;13121;Pedro Aguirre Cerda;Urbana;Hombre;B;19257
+7;Maule;7106;Pelarco;Rural;Hombre;B;2339
+7;Maule;7203;Pelluhue;Rural;Hombre;B;1674
+16;Ñuble;16105;Pemuco;Rural;Hombre;B;1908
+7;Maule;7107;Pencahue;Rural;Hombre;B;1923
+8;Biobío;8107;Penco;Mixta;Hombre;B;7916
+6;Libertador General Bernardo O'Higgins;6307;Peralillo;Rural;Hombre;B;2918
+9;La Araucanía;9113;Perquenco;Rural;Hombre;B;1182
+5;Valparaíso;5404;Petorca;Rural;Hombre;B;2156
+6;Libertador General Bernardo O'Higgins;6112;Peumo;Mixta;Hombre;B;2537
+13;Metropolitana de Santiago;13605;Peñaflor;Urbana;Hombre;B;14264
+13;Metropolitana de Santiago;13122;Peñalolén;Urbana;Hombre;B;35281
+1;Tarapacá;1405;Pica;Rural;Hombre;B;1055
+6;Libertador General Bernardo O'Higgins;6113;Pichidegua;Rural;Hombre;B;4581
+6;Libertador General Bernardo O'Higgins;6201;Pichilemu;Rural;Hombre;B;2920
+16;Ñuble;16106;Pinto;Rural;Hombre;B;2927
+13;Metropolitana de Santiago;13202;Pirque;Rural;Hombre;B;4852
+9;La Araucanía;9114;Pitrufquén;Mixta;Hombre;B;5226
+6;Libertador General Bernardo O'Higgins;6308;Placilla;Rural;Hombre;B;2287
+16;Ñuble;16205;Portezuelo;Rural;Hombre;B;1304
+12;Magallanes y de la Antártica Chilena;12301;Porvenir;Rural;Hombre;B;853
+1;Tarapacá;1401;Pozo Almonte;Rural;Hombre;B;2448
+12;Magallanes y de la Antártica Chilena;12302;Primavera;Rural;Hombre;B;7
+13;Metropolitana de Santiago;13123;Providencia;Urbana;Hombre;B;12688
+5;Valparaíso;5105;Puchuncaví;Mixta;Hombre;B;3778
+9;La Araucanía;9115;Pucón;Rural;Hombre;B;6907
+13;Metropolitana de Santiago;13124;Pudahuel;Urbana;Hombre;B;33000
+13;Metropolitana de Santiago;13201;Puente Alto;Urbana;Hombre;B;70899
+10;Los Lagos;10101;Puerto Montt;Urbana;Hombre;B;40249
+10;Los Lagos;10302;Puerto Octay;Rural;Hombre;B;1562
+10;Los Lagos;10109;Puerto Varas;Mixta;Hombre;B;7914
+6;Libertador General Bernardo O'Higgins;6309;Pumanque;Rural;Hombre;B;997
+4;Coquimbo;4304;Punitaqui;Rural;Hombre;B;2388
+12;Magallanes y de la Antártica Chilena;12101;Punta Arenas;Urbana;Hombre;B;18840
+10;Los Lagos;10206;Puqueldón;Rural;Hombre;B;694
+10;Los Lagos;10303;Purranque;Rural;Hombre;B;4394
+9;La Araucanía;9208;Purén;Rural;Hombre;B;1809
+5;Valparaíso;5705;Putaendo;Mixta;Hombre;B;3945
+15;Arica y Parinacota;15201;Putre;Rural;Hombre;B;124
+10;Los Lagos;10304;Puyehue;Rural;Hombre;B;2542
+10;Los Lagos;10207;Queilén;Rural;Hombre;B;811
+10;Los Lagos;10208;Quellón;Mixta;Hombre;B;4273
+10;Los Lagos;10209;Quemchi;Rural;Hombre;B;1594
+8;Biobío;8308;Quilaco;Rural;Hombre;B;843
+13;Metropolitana de Santiago;13125;Quilicura;Urbana;Hombre;B;25636
+8;Biobío;8309;Quilleco;Rural;Hombre;B;1861
+5;Valparaíso;5501;Quillota;Urbana;Hombre;B;17461
+16;Ñuble;16107;Quillón;Mixta;Hombre;B;3887
+5;Valparaíso;5801;Quilpué;Urbana;Hombre;B;23705
+10;Los Lagos;10210;Quinchao;Rural;Hombre;B;1215
+6;Libertador General Bernardo O'Higgins;6114;Quinta de Tilcoco;Mixta;Hombre;B;3225
+13;Metropolitana de Santiago;13126;Quinta Normal;Urbana;Hombre;B;17510
+5;Valparaíso;5107;Quintero;Mixta;Hombre;B;4018
+16;Ñuble;16201;Quirihue;Mixta;Hombre;B;1678
+6;Libertador General Bernardo O'Higgins;6101;Rancagua;Urbana;Hombre;B;39420
+16;Ñuble;16206;Ranquil;Rural;Hombre;B;1216
+7;Maule;7305;Rauco;Rural;Hombre;B;2725
+13;Metropolitana de Santiago;13127;Recoleta;Urbana;Hombre;B;24362
+9;La Araucanía;9209;Renaico;Mixta;Hombre;B;1988
+13;Metropolitana de Santiago;13128;Renca;Urbana;Hombre;B;21592
+6;Libertador General Bernardo O'Higgins;6115;Rengo;Urbana;Hombre;B;12904
+6;Libertador General Bernardo O'Higgins;6116;Requínoa;Mixta;Hombre;B;5640
+7;Maule;7405;Retiro;Rural;Hombre;B;4896
+5;Valparaíso;5303;Rinconada;Rural;Hombre;B;2358
+7;Maule;7306;Romeral;Mixta;Hombre;B;3492
+14;Los Ríos;14204;Río Bueno;Mixta;Hombre;B;5837
+7;Maule;7108;Río Claro;Rural;Hombre;B;2977
+4;Coquimbo;4305;Río Hurtado;Rural;Hombre;B;894
+11;Aysén del General Carlos Ibáñez del Campo;11402;Río Ibáñez;Rural;Hombre;B;217
+10;Los Lagos;10305;Río Negro;Rural;Hombre;B;2964
+12;Magallanes y de la Antártica Chilena;12103;Río Verde;Rural;Hombre;B;1
+9;La Araucanía;9116;Saavedra;Rural;Hombre;B;2466
+7;Maule;7307;Sagrada Familia;Rural;Hombre;B;4700
+4;Coquimbo;4204;Salamanca;Rural;Hombre;B;3871
+5;Valparaíso;5601;San Antonio;Urbana;Hombre;B;16412
+13;Metropolitana de Santiago;13401;San Bernardo;Urbana;Hombre;B;42295
+16;Ñuble;16301;San Carlos;Mixta;Hombre;B;11844
+7;Maule;7109;San Clemente;Rural;Hombre;B;8422
+5;Valparaíso;5304;San Esteban;Mixta;Hombre;B;3177
+16;Ñuble;16304;San Fabián;Rural;Hombre;B;1131
+5;Valparaíso;5701;San Felipe;Urbana;Hombre;B;14403
+6;Libertador General Bernardo O'Higgins;6301;San Fernando;Urbana;Hombre;B;16243
+12;Magallanes y de la Antártica Chilena;12104;San Gregorio;Rural;Hombre;B;8
+16;Ñuble;16108;San Ignacio;Rural;Hombre;B;3993
+7;Maule;7406;San Javier;Mixta;Hombre;B;9321
+13;Metropolitana de Santiago;13129;San Joaquín;Urbana;Hombre;B;16478
+13;Metropolitana de Santiago;13203;San José de Maipo;Rural;Hombre;B;2127
+10;Los Lagos;10306;San Juan de la Costa;Rural;Hombre;B;1937
+13;Metropolitana de Santiago;13130;San Miguel;Urbana;Hombre;B;16355
+16;Ñuble;16305;San Nicolás;Rural;Hombre;B;2956
+10;Los Lagos;10307;San Pablo;Rural;Hombre;B;2172
+13;Metropolitana de Santiago;13505;San Pedro;Rural;Hombre;B;2461
+2;Antofagasta;2203;San Pedro de Atacama;Rural;Hombre;B;1658
+8;Biobío;8108;San Pedro de la Paz;Urbana;Hombre;B;16951
+7;Maule;7110;San Rafael;Rural;Hombre;B;2002
+13;Metropolitana de Santiago;13131;San Ramón;Urbana;Hombre;B;14157
+8;Biobío;8310;San Rosendo;Rural;Hombre;B;633
+6;Libertador General Bernardo O'Higgins;6117;San Vicente;Mixta;Hombre;B;11205
+8;Biobío;8311;Santa Bárbara;Rural;Hombre;B;3077
+6;Libertador General Bernardo O'Higgins;6310;Santa Cruz;Mixta;Hombre;B;10161
+8;Biobío;8109;Santa Juana;Mixta;Hombre;B;2072
+5;Valparaíso;5706;Santa María;Mixta;Hombre;B;3413
+13;Metropolitana de Santiago;13101;Santiago;Urbana;Hombre;B;51435
+5;Valparaíso;5606;Santo Domingo;Rural;Hombre;B;2195
+2;Antofagasta;2103;Sierra Gorda;Rural;Hombre;B;57
+13;Metropolitana de Santiago;13601;Talagante;Urbana;Hombre;B;11059
+7;Maule;7101;Talca;Urbana;Hombre;B;43734
+8;Biobío;8110;Talcahuano;Urbana;Hombre;B;21977
+2;Antofagasta;2104;Taltal;Rural;Hombre;B;1084
+9;La Araucanía;9101;Temuco;Urbana;Hombre;B;45326
+7;Maule;7308;Teno;Rural;Hombre;B;6300
+9;La Araucanía;9117;Teodoro Schmidt;Rural;Hombre;B;2900
+3;Atacama;3103;Tierra Amarilla;Rural;Hombre;B;2814
+13;Metropolitana de Santiago;13303;Tiltil;Rural;Hombre;B;2636
+12;Magallanes y de la Antártica Chilena;12303;Timaukel;Rural;Hombre;B;1
+8;Biobío;8207;Tirúa;Rural;Hombre;B;1936
+2;Antofagasta;2301;Tocopilla;Rural;Hombre;B;2046
+9;La Araucanía;9118;Toltén;Rural;Hombre;B;1809
+8;Biobío;8111;Tomé;Urbana;Hombre;B;10355
+12;Magallanes y de la Antártica Chilena;12402;Torres del Paine;Rural;Hombre;B;7
+11;Aysén del General Carlos Ibáñez del Campo;11303;Tortel;Rural;Hombre;B;21
+9;La Araucanía;9210;Traiguén;Mixta;Hombre;B;3112
+16;Ñuble;16207;Treguaco;Rural;Hombre;B;1208
+8;Biobío;8312;Tucapel;Rural;Hombre;B;2995
+14;Los Ríos;14101;Valdivia;Urbana;Hombre;B;27420
+3;Atacama;3301;Vallenar;Mixta;Hombre;B;7403
+5;Valparaíso;5101;Valparaíso;Urbana;Hombre;B;49923
+7;Maule;7309;Vichuquén;Rural;Hombre;B;1114
+9;La Araucanía;9211;Victoria;Mixta;Hombre;B;7225
+4;Coquimbo;4106;Vicuña;Rural;Hombre;B;4601
+9;La Araucanía;9119;Vilcún;Rural;Hombre;B;5193
+7;Maule;7407;Villa Alegre;Mixta;Hombre;B;3931
+5;Valparaíso;5804;Villa Alemana;Urbana;Hombre;B;19915
+9;La Araucanía;9120;Villarrica;Mixta;Hombre;B;13055
+13;Metropolitana de Santiago;13132;Vitacura;Urbana;Hombre;B;2765
+5;Valparaíso;5109;Viña del Mar;Urbana;Hombre;B;49797
+7;Maule;7408;Yerbas Buenas;Rural;Hombre;B;4444
+8;Biobío;8313;Yumbel;Mixta;Hombre;B;3923
+16;Ñuble;16109;Yungay;Mixta;Hombre;B;2568
+5;Valparaíso;5405;Zapallar;Rural;Hombre;B;1819
+16;Ñuble;16303;Ñiquén;Rural;Hombre;B;2618
+13;Metropolitana de Santiago;13120;Ñuñoa;Urbana;Hombre;B;17828
+5;Valparaíso;5602;Algarrobo;Mixta;Hombre;C;1460
+13;Metropolitana de Santiago;13502;Alhué;Rural;Hombre;C;683
+8;Biobío;8314;Alto Biobío;Rural;Hombre;C;405
+3;Atacama;3302;Alto del Carmen;Rural;Hombre;C;355
+1;Tarapacá;1107;Alto Hospicio;Urbana;Hombre;C;8861
+10;Los Lagos;10202;Ancud;Mixta;Hombre;C;3019
+4;Coquimbo;4103;Andacollo;Rural;Hombre;C;527
+9;La Araucanía;9201;Angol;Urbana;Hombre;C;4488
+2;Antofagasta;2101;Antofagasta;Urbana;Hombre;C;28856
+8;Biobío;8302;Antuco;Rural;Hombre;C;320
+12;Magallanes y de la Antártica Chilena;12202;Antártica;NA;Hombre;C;8
+8;Biobío;8202;Arauco;Rural;Hombre;C;2502
+15;Arica y Parinacota;15101;Arica;Urbana;Hombre;C;16232
+11;Aysén del General Carlos Ibáñez del Campo;11201;Aysén;Rural;Hombre;C;1412
+13;Metropolitana de Santiago;13402;Buin;Urbana;Hombre;C;8421
+16;Ñuble;16102;Bulnes;Rural;Hombre;C;1706
+5;Valparaíso;5402;Cabildo;Mixta;Hombre;C;1672
+12;Magallanes y de la Antártica Chilena;12201;Cabo de Hornos;Rural;Hombre;C;29
+8;Biobío;8303;Cabrero;Rural;Hombre;C;2920
+2;Antofagasta;2201;Calama;Urbana;Hombre;C;12101
+10;Los Lagos;10102;Calbuco;Mixta;Hombre;C;2343
+3;Atacama;3102;Caldera;Rural;Hombre;C;1501
+5;Valparaíso;5502;Calera;Urbana;Hombre;C;3953
+13;Metropolitana de Santiago;13403;Calera de Tango;Mixta;Hombre;C;2014
+5;Valparaíso;5302;Calle Larga;Mixta;Hombre;C;1204
+15;Arica y Parinacota;15102;Camarones;Rural;Hombre;C;15
+1;Tarapacá;1402;Camiña;Rural;Hombre;C;57
+4;Coquimbo;4202;Canela;Rural;Hombre;C;734
+9;La Araucanía;9102;Carahue;Rural;Hombre;C;1342
+5;Valparaíso;5603;Cartagena;Mixta;Hombre;C;2083
+5;Valparaíso;5102;Casablanca;Mixta;Hombre;C;2347
+10;Los Lagos;10201;Castro;Mixta;Hombre;C;4273
+5;Valparaíso;5702;Catemu;Rural;Hombre;C;1118
+7;Maule;7201;Cauquenes;Rural;Hombre;C;2814
+8;Biobío;8203;Cañete;Rural;Hombre;C;1998
+13;Metropolitana de Santiago;13102;Cerrillos;Urbana;Hombre;C;5468
+13;Metropolitana de Santiago;13103;Cerro Navia;Urbana;Hombre;C;11613
+10;Los Lagos;10401;Chaitén;Rural;Hombre;C;161
+7;Maule;7202;Chanco;Rural;Hombre;C;451
+3;Atacama;3201;Chañaral;Rural;Hombre;C;1039
+8;Biobío;8103;Chiguayante;Urbana;Hombre;C;6455
+11;Aysén del General Carlos Ibáñez del Campo;11401;Chile Chico;Rural;Hombre;C;368
+16;Ñuble;16101;Chillán;Urbana;Hombre;C;14924
+16;Ñuble;16103;Chillán Viejo;Mixta;Hombre;C;3017
+6;Libertador General Bernardo O'Higgins;6303;Chimbarongo;Rural;Hombre;C;2364
+9;La Araucanía;9121;Cholchol;Rural;Hombre;C;825
+10;Los Lagos;10203;Chonchi;Rural;Hombre;C;1231
+6;Libertador General Bernardo O'Higgins;6302;Chépica;Mixta;Hombre;C;1123
+11;Aysén del General Carlos Ibáñez del Campo;11202;Cisnes;Rural;Hombre;C;375
+16;Ñuble;16202;Cobquecura;Rural;Hombre;C;363
+10;Los Lagos;10103;Cochamó;Rural;Hombre;C;146
+11;Aysén del General Carlos Ibáñez del Campo;11301;Cochrane;Rural;Hombre;C;280
+6;Libertador General Bernardo O'Higgins;6102;Codegua;Mixta;Hombre;C;1600
+16;Ñuble;16203;Coelemu;Rural;Hombre;C;898
+16;Ñuble;16302;Coihueco;Rural;Hombre;C;2415
+6;Libertador General Bernardo O'Higgins;6103;Coinco;Rural;Hombre;C;288
+7;Maule;7402;Colbún;Rural;Hombre;C;2165
+1;Tarapacá;1403;Colchane;Rural;Hombre;C;36
+13;Metropolitana de Santiago;13301;Colina;Urbana;Hombre;C;10235
+9;La Araucanía;9202;Collipulli;Rural;Hombre;C;1444
+6;Libertador General Bernardo O'Higgins;6104;Coltauco;Mixta;Hombre;C;1470
+4;Coquimbo;4302;Combarbalá;Rural;Hombre;C;731
+8;Biobío;8101;Concepción;Urbana;Hombre;C;17677
+13;Metropolitana de Santiago;13104;Conchalí;Urbana;Hombre;C;11346
+5;Valparaíso;5103;Concón;Mixta;Hombre;C;3399
+7;Maule;7102;Constitución;Mixta;Hombre;C;4446
+8;Biobío;8204;Contulmo;Rural;Hombre;C;360
+3;Atacama;3101;Copiapó;Urbana;Hombre;C;12002
+4;Coquimbo;4102;Coquimbo;Urbana;Hombre;C;20302
+8;Biobío;8102;Coronel;Urbana;Hombre;C;8753
+14;Los Ríos;14102;Corral;Rural;Hombre;C;265
+11;Aysén del General Carlos Ibáñez del Campo;11101;Coyhaique;Urbana;Hombre;C;4492
+9;La Araucanía;9103;Cunco;Rural;Hombre;C;1481
+9;La Araucanía;9203;Curacautín;Mixta;Hombre;C;936
+13;Metropolitana de Santiago;13503;Curacaví;Mixta;Hombre;C;2122
+10;Los Lagos;10204;Curaco de Vélez;Rural;Hombre;C;320
+8;Biobío;8205;Curanilahue;Mixta;Hombre;C;2376
+9;La Araucanía;9104;Curarrehue;Rural;Hombre;C;670
+7;Maule;7103;Curepto;Rural;Hombre;C;521
+7;Maule;7301;Curicó;Urbana;Hombre;C;12851
+10;Los Lagos;10205;Dalcahue;Rural;Hombre;C;1315
+3;Atacama;3202;Diego de Almagro;Rural;Hombre;C;1038
+6;Libertador General Bernardo O'Higgins;6105;Doñihue;Mixta;Hombre;C;2059
+13;Metropolitana de Santiago;13105;El Bosque;Urbana;Hombre;C;15657
+16;Ñuble;16104;El Carmen;Rural;Hombre;C;669
+13;Metropolitana de Santiago;13602;El Monte;Mixta;Hombre;C;3084
+5;Valparaíso;5604;El Quisco;Mixta;Hombre;C;1596
+5;Valparaíso;5605;El Tabo;Mixta;Hombre;C;1151
+7;Maule;7104;Empedrado;Rural;Hombre;C;576
+9;La Araucanía;9204;Ercilla;Rural;Hombre;C;614
+13;Metropolitana de Santiago;13106;Estación Central;Urbana;Hombre;C;12209
+8;Biobío;8104;Florida;Rural;Hombre;C;826
+9;La Araucanía;9105;Freire;Rural;Hombre;C;2226
+3;Atacama;3303;Freirina;Rural;Hombre;C;632
+10;Los Lagos;10104;Fresia;Rural;Hombre;C;757
+10;Los Lagos;10105;Frutillar;Rural;Hombre;C;1893
+10;Los Lagos;10402;Futaleufú;Rural;Hombre;C;138
+14;Los Ríos;14202;Futrono;Rural;Hombre;C;1531
+9;La Araucanía;9106;Galvarino;Rural;Hombre;C;764
+15;Arica y Parinacota;15202;General Lagos;Rural;Hombre;C;15
+9;La Araucanía;9107;Gorbea;Mixta;Hombre;C;1003
+6;Libertador General Bernardo O'Higgins;6106;Graneros;Mixta;Hombre;C;1580
+11;Aysén del General Carlos Ibáñez del Campo;11203;Guaitecas;Rural;Hombre;C;30
+5;Valparaíso;5503;Hijuelas;Mixta;Hombre;C;1743
+10;Los Lagos;10403;Hualaihué;Rural;Hombre;C;542
+7;Maule;7302;Hualañé;Rural;Hombre;C;585
+8;Biobío;8112;Hualpén;Urbana;Hombre;C;7751
+8;Biobío;8105;Hualqui;Mixta;Hombre;C;1996
+1;Tarapacá;1404;Huara;Rural;Hombre;C;168
+3;Atacama;3304;Huasco;Rural;Hombre;C;662
+13;Metropolitana de Santiago;13107;Huechuraba;Urbana;Hombre;C;6597
+4;Coquimbo;4201;Illapel;Rural;Hombre;C;2618
+13;Metropolitana de Santiago;13108;Independencia;Urbana;Hombre;C;9611
+1;Tarapacá;1101;Iquique;Urbana;Hombre;C;16743
+13;Metropolitana de Santiago;13603;Isla de Maipo;Mixta;Hombre;C;3245
+5;Valparaíso;5201;Isla de Pascua;Rural;Hombre;C;356
+5;Valparaíso;5104;Juan Fernández;Rural;Hombre;C;25
+13;Metropolitana de Santiago;13109;La Cisterna;Urbana;Hombre;C;6867
+5;Valparaíso;5504;La Cruz;Mixta;Hombre;C;1802
+6;Libertador General Bernardo O'Higgins;6202;La Estrella;Rural;Hombre;C;344
+13;Metropolitana de Santiago;13110;La Florida;Urbana;Hombre;C;30657
+13;Metropolitana de Santiago;13111;La Granja;Urbana;Hombre;C;12631
+4;Coquimbo;4104;La Higuera;Rural;Hombre;C;123
+5;Valparaíso;5401;La Ligua;Mixta;Hombre;C;3245
+13;Metropolitana de Santiago;13112;La Pintana;Urbana;Hombre;C;13901
+13;Metropolitana de Santiago;13113;La Reina;Urbana;Hombre;C;3525
+4;Coquimbo;4101;La Serena;Urbana;Hombre;C;20156
+14;Los Ríos;14201;La Unión;Rural;Hombre;C;2893
+14;Los Ríos;14203;Lago Ranco;Rural;Hombre;C;918
+11;Aysén del General Carlos Ibáñez del Campo;11102;Lago Verde;Rural;Hombre;C;22
+8;Biobío;8304;Laja;Mixta;Hombre;C;1770
+13;Metropolitana de Santiago;13302;Lampa;Urbana;Hombre;C;7532
+14;Los Ríos;14103;Lanco;Mixta;Hombre;C;1187
+6;Libertador General Bernardo O'Higgins;6107;Las Cabras;Rural;Hombre;C;2010
+13;Metropolitana de Santiago;13114;Las Condes;Urbana;Hombre;C;6545
+9;La Araucanía;9108;Lautaro;Mixta;Hombre;C;3630
+8;Biobío;8201;Lebu;Mixta;Hombre;C;1333
+7;Maule;7303;Licantén;Rural;Hombre;C;438
+5;Valparaíso;5802;Limache;Mixta;Hombre;C;3197
+7;Maule;7401;Linares;Urbana;Hombre;C;7362
+6;Libertador General Bernardo O'Higgins;6203;Litueche;Rural;Hombre;C;455
+5;Valparaíso;5703;Llaillay;Mixta;Hombre;C;1676
+10;Los Lagos;10107;Llanquihue;Rural;Hombre;C;1751
+13;Metropolitana de Santiago;13115;Lo Barnechea;Urbana;Hombre;C;3364
+13;Metropolitana de Santiago;13116;Lo Espejo;Urbana;Hombre;C;8761
+13;Metropolitana de Santiago;13117;Lo Prado;Urbana;Hombre;C;10731
+6;Libertador General Bernardo O'Higgins;6304;Lolol;Rural;Hombre;C;488
+9;La Araucanía;9109;Loncoche;Mixta;Hombre;C;1562
+7;Maule;7403;Longaví;Rural;Hombre;C;2708
+9;La Araucanía;9205;Lonquimay;Rural;Hombre;C;464
+5;Valparaíso;5301;Los Andes;Urbana;Hombre;C;4907
+14;Los Ríos;14104;Los Lagos;Rural;Hombre;C;1804
+10;Los Lagos;10106;Los Muermos;Rural;Hombre;C;1352
+9;La Araucanía;9206;Los Sauces;Rural;Hombre;C;648
+4;Coquimbo;4203;Los Vilos;Rural;Hombre;C;1149
+8;Biobío;8206;Los Alamos;Rural;Hombre;C;1569
+8;Biobío;8301;Los Angeles;Urbana;Hombre;C;18180
+8;Biobío;8106;Lota;Mixta;Hombre;C;3400
+9;La Araucanía;9207;Lumaco;Rural;Hombre;C;783
+6;Libertador General Bernardo O'Higgins;6108;Machalí;Urbana;Hombre;C;2993
+13;Metropolitana de Santiago;13118;Macul;Urbana;Hombre;C;10353
+13;Metropolitana de Santiago;13119;Maipú;Urbana;Hombre;C;31714
+6;Libertador General Bernardo O'Higgins;6109;Malloa;Rural;Hombre;C;1167
+6;Libertador General Bernardo O'Higgins;6204;Marchihue;Rural;Hombre;C;588
+14;Los Ríos;14106;Mariquina;Rural;Hombre;C;1768
+2;Antofagasta;2302;María Elena;Rural;Hombre;C;245
+13;Metropolitana de Santiago;13504;María Pinto;Rural;Hombre;C;1265
+7;Maule;7105;Maule;Mixta;Hombre;C;2928
+10;Los Lagos;10108;Maullín;Rural;Hombre;C;834
+2;Antofagasta;2102;Mejillones;Rural;Hombre;C;838
+9;La Araucanía;9110;Melipeuco;Rural;Hombre;C;496
+13;Metropolitana de Santiago;13501;Melipilla;Urbana;Hombre;C;10393
+7;Maule;7304;Molina;Mixta;Hombre;C;3808
+4;Coquimbo;4303;Monte Patria;Rural;Hombre;C;2350
+6;Libertador General Bernardo O'Higgins;6110;Mostazal;Mixta;Hombre;C;2453
+8;Biobío;8305;Mulchén;Mixta;Hombre;C;2411
+14;Los Ríos;14105;Máfil;Mixta;Hombre;C;753
+8;Biobío;8306;Nacimiento;Mixta;Hombre;C;1946
+6;Libertador General Bernardo O'Higgins;6305;Nancagua;Mixta;Hombre;C;1300
+12;Magallanes y de la Antártica Chilena;12401;Natales;Rural;Hombre;C;2016
+6;Libertador General Bernardo O'Higgins;6205;Navidad;Rural;Hombre;C;611
+8;Biobío;8307;Negrete;Rural;Hombre;C;857
+16;Ñuble;16204;Ninhue;Rural;Hombre;C;417
+5;Valparaíso;5506;Nogales;Rural;Hombre;C;1991
+9;La Araucanía;9111;Nueva Imperial;Mixta;Hombre;C;2909
+11;Aysén del General Carlos Ibáñez del Campo;11302;O'Higgins;Rural;Hombre;C;14
+6;Libertador General Bernardo O'Higgins;6111;Olivar;Mixta;Hombre;C;1254
+2;Antofagasta;2202;Ollagüe;Rural;Hombre;C;9
+5;Valparaíso;5803;Olmué;Rural;Hombre;C;1634
+10;Los Lagos;10301;Osorno;Urbana;Hombre;C;13307
+4;Coquimbo;4301;Ovalle;Urbana;Hombre;C;9426
+13;Metropolitana de Santiago;13604;Padre Hurtado;Urbana;Hombre;C;5461
+9;La Araucanía;9112;Padre Las Casas;Mixta;Hombre;C;6993
+4;Coquimbo;4105;Paiguano;Rural;Hombre;C;265
+14;Los Ríos;14107;Paillaco;Rural;Hombre;C;1739
+13;Metropolitana de Santiago;13404;Paine;Mixta;Hombre;C;6362
+10;Los Lagos;10404;Palena;Rural;Hombre;C;115
+6;Libertador General Bernardo O'Higgins;6306;Palmilla;Rural;Hombre;C;1056
+14;Los Ríos;14108;Panguipulli;Rural;Hombre;C;3438
+5;Valparaíso;5704;Panquehue;Rural;Hombre;C;751
+5;Valparaíso;5403;Papudo;Rural;Hombre;C;790
+6;Libertador General Bernardo O'Higgins;6206;Paredones;Rural;Hombre;C;519
+7;Maule;7404;Parral;Mixta;Hombre;C;3460
+13;Metropolitana de Santiago;13121;Pedro Aguirre Cerda;Urbana;Hombre;C;9525
+7;Maule;7106;Pelarco;Rural;Hombre;C;1001
+7;Maule;7203;Pelluhue;Rural;Hombre;C;434
+16;Ñuble;16105;Pemuco;Rural;Hombre;C;694
+7;Maule;7107;Pencahue;Rural;Hombre;C;794
+8;Biobío;8107;Penco;Mixta;Hombre;C;4182
+6;Libertador General Bernardo O'Higgins;6307;Peralillo;Rural;Hombre;C;1249
+9;La Araucanía;9113;Perquenco;Rural;Hombre;C;586
+5;Valparaíso;5404;Petorca;Rural;Hombre;C;887
+6;Libertador General Bernardo O'Higgins;6112;Peumo;Mixta;Hombre;C;868
+13;Metropolitana de Santiago;13605;Peñaflor;Urbana;Hombre;C;7621
+13;Metropolitana de Santiago;13122;Peñalolén;Urbana;Hombre;C;17864
+1;Tarapacá;1405;Pica;Rural;Hombre;C;506
+6;Libertador General Bernardo O'Higgins;6113;Pichidegua;Rural;Hombre;C;1347
+6;Libertador General Bernardo O'Higgins;6201;Pichilemu;Rural;Hombre;C;1069
+16;Ñuble;16106;Pinto;Rural;Hombre;C;995
+13;Metropolitana de Santiago;13202;Pirque;Rural;Hombre;C;2425
+9;La Araucanía;9114;Pitrufquén;Mixta;Hombre;C;2054
+6;Libertador General Bernardo O'Higgins;6308;Placilla;Rural;Hombre;C;834
+16;Ñuble;16205;Portezuelo;Rural;Hombre;C;395
+12;Magallanes y de la Antártica Chilena;12301;Porvenir;Rural;Hombre;C;445
+1;Tarapacá;1401;Pozo Almonte;Rural;Hombre;C;1546
+12;Magallanes y de la Antártica Chilena;12302;Primavera;Rural;Hombre;C;9
+13;Metropolitana de Santiago;13123;Providencia;Urbana;Hombre;C;5373
+5;Valparaíso;5105;Puchuncaví;Mixta;Hombre;C;1901
+9;La Araucanía;9115;Pucón;Rural;Hombre;C;3200
+13;Metropolitana de Santiago;13124;Pudahuel;Urbana;Hombre;C;18657
+13;Metropolitana de Santiago;13201;Puente Alto;Urbana;Hombre;C;39630
+10;Los Lagos;10101;Puerto Montt;Urbana;Hombre;C;20351
+10;Los Lagos;10302;Puerto Octay;Rural;Hombre;C;732
+10;Los Lagos;10109;Puerto Varas;Mixta;Hombre;C;3985
+6;Libertador General Bernardo O'Higgins;6309;Pumanque;Rural;Hombre;C;315
+4;Coquimbo;4304;Punitaqui;Rural;Hombre;C;877
+12;Magallanes y de la Antártica Chilena;12101;Punta Arenas;Urbana;Hombre;C;9229
+10;Los Lagos;10206;Puqueldón;Rural;Hombre;C;305
+10;Los Lagos;10303;Purranque;Rural;Hombre;C;1830
+9;La Araucanía;9208;Purén;Rural;Hombre;C;484
+5;Valparaíso;5705;Putaendo;Mixta;Hombre;C;1289
+15;Arica y Parinacota;15201;Putre;Rural;Hombre;C;55
+10;Los Lagos;10304;Puyehue;Rural;Hombre;C;1276
+10;Los Lagos;10207;Queilén;Rural;Hombre;C;285
+10;Los Lagos;10208;Quellón;Mixta;Hombre;C;2160
+10;Los Lagos;10209;Quemchi;Rural;Hombre;C;506
+8;Biobío;8308;Quilaco;Rural;Hombre;C;335
+13;Metropolitana de Santiago;13125;Quilicura;Urbana;Hombre;C;16513
+8;Biobío;8309;Quilleco;Rural;Hombre;C;821
+5;Valparaíso;5501;Quillota;Urbana;Hombre;C;7899
+16;Ñuble;16107;Quillón;Mixta;Hombre;C;1466
+5;Valparaíso;5801;Quilpué;Urbana;Hombre;C;11865
+10;Los Lagos;10210;Quinchao;Rural;Hombre;C;491
+6;Libertador General Bernardo O'Higgins;6114;Quinta de Tilcoco;Mixta;Hombre;C;1059
+13;Metropolitana de Santiago;13126;Quinta Normal;Urbana;Hombre;C;10191
+5;Valparaíso;5107;Quintero;Mixta;Hombre;C;2051
+16;Ñuble;16201;Quirihue;Mixta;Hombre;C;677
+6;Libertador General Bernardo O'Higgins;6101;Rancagua;Urbana;Hombre;C;20043
+16;Ñuble;16206;Ranquil;Rural;Hombre;C;439
+7;Maule;7305;Rauco;Rural;Hombre;C;948
+13;Metropolitana de Santiago;13127;Recoleta;Urbana;Hombre;C;13199
+9;La Araucanía;9209;Renaico;Mixta;Hombre;C;980
+13;Metropolitana de Santiago;13128;Renca;Urbana;Hombre;C;12508
+6;Libertador General Bernardo O'Higgins;6115;Rengo;Urbana;Hombre;C;5013
+6;Libertador General Bernardo O'Higgins;6116;Requínoa;Mixta;Hombre;C;2573
+7;Maule;7405;Retiro;Rural;Hombre;C;1821
+5;Valparaíso;5303;Rinconada;Rural;Hombre;C;856
+7;Maule;7306;Romeral;Mixta;Hombre;C;1523
+14;Los Ríos;14204;Río Bueno;Mixta;Hombre;C;2451
+7;Maule;7108;Río Claro;Rural;Hombre;C;1211
+4;Coquimbo;4305;Río Hurtado;Rural;Hombre;C;306
+11;Aysén del General Carlos Ibáñez del Campo;11402;Río Ibáñez;Rural;Hombre;C;77
+10;Los Lagos;10305;Río Negro;Rural;Hombre;C;1137
+12;Magallanes y de la Antártica Chilena;12103;Río Verde;Rural;Hombre;C;3
+9;La Araucanía;9116;Saavedra;Rural;Hombre;C;758
+7;Maule;7307;Sagrada Familia;Rural;Hombre;C;1429
+4;Coquimbo;4204;Salamanca;Rural;Hombre;C;1549
+5;Valparaíso;5601;San Antonio;Urbana;Hombre;C;7751
+13;Metropolitana de Santiago;13401;San Bernardo;Urbana;Hombre;C;23835
+16;Ñuble;16301;San Carlos;Mixta;Hombre;C;3992
+7;Maule;7109;San Clemente;Rural;Hombre;C;3572
+5;Valparaíso;5304;San Esteban;Mixta;Hombre;C;1540
+16;Ñuble;16304;San Fabián;Rural;Hombre;C;416
+5;Valparaíso;5701;San Felipe;Urbana;Hombre;C;5858
+6;Libertador General Bernardo O'Higgins;6301;San Fernando;Urbana;Hombre;C;6949
+12;Magallanes y de la Antártica Chilena;12104;San Gregorio;Rural;Hombre;C;13
+16;Ñuble;16108;San Ignacio;Rural;Hombre;C;1295
+7;Maule;7406;San Javier;Mixta;Hombre;C;3547
+13;Metropolitana de Santiago;13129;San Joaquín;Urbana;Hombre;C;8386
+13;Metropolitana de Santiago;13203;San José de Maipo;Rural;Hombre;C;1010
+10;Los Lagos;10306;San Juan de la Costa;Rural;Hombre;C;531
+13;Metropolitana de Santiago;13130;San Miguel;Urbana;Hombre;C;8731
+16;Ñuble;16305;San Nicolás;Rural;Hombre;C;1264
+10;Los Lagos;10307;San Pablo;Rural;Hombre;C;914
+13;Metropolitana de Santiago;13505;San Pedro;Rural;Hombre;C;838
+2;Antofagasta;2203;San Pedro de Atacama;Rural;Hombre;C;943
+8;Biobío;8108;San Pedro de la Paz;Urbana;Hombre;C;9317
+7;Maule;7110;San Rafael;Rural;Hombre;C;1040
+13;Metropolitana de Santiago;13131;San Ramón;Urbana;Hombre;C;7029
+8;Biobío;8310;San Rosendo;Rural;Hombre;C;316
+6;Libertador General Bernardo O'Higgins;6117;San Vicente;Mixta;Hombre;C;3950
+8;Biobío;8311;Santa Bárbara;Rural;Hombre;C;1265
+6;Libertador General Bernardo O'Higgins;6310;Santa Cruz;Mixta;Hombre;C;3538
+8;Biobío;8109;Santa Juana;Mixta;Hombre;C;808
+5;Valparaíso;5706;Santa María;Mixta;Hombre;C;1301
+13;Metropolitana de Santiago;13101;Santiago;Urbana;Hombre;C;32809
+5;Valparaíso;5606;Santo Domingo;Rural;Hombre;C;1121
+2;Antofagasta;2103;Sierra Gorda;Rural;Hombre;C;54
+13;Metropolitana de Santiago;13601;Talagante;Urbana;Hombre;C;5706
+7;Maule;7101;Talca;Urbana;Hombre;C;19301
+8;Biobío;8110;Talcahuano;Urbana;Hombre;C;11288
+2;Antofagasta;2104;Taltal;Rural;Hombre;C;792
+9;La Araucanía;9101;Temuco;Urbana;Hombre;C;22585
+7;Maule;7308;Teno;Rural;Hombre;C;2540
+9;La Araucanía;9117;Teodoro Schmidt;Rural;Hombre;C;940
+3;Atacama;3103;Tierra Amarilla;Rural;Hombre;C;1477
+13;Metropolitana de Santiago;13303;Tiltil;Rural;Hombre;C;1504
+8;Biobío;8207;Tirúa;Rural;Hombre;C;644
+2;Antofagasta;2301;Tocopilla;Rural;Hombre;C;1140
+9;La Araucanía;9118;Toltén;Rural;Hombre;C;558
+8;Biobío;8111;Tomé;Urbana;Hombre;C;4089
+12;Magallanes y de la Antártica Chilena;12402;Torres del Paine;Rural;Hombre;C;6
+11;Aysén del General Carlos Ibáñez del Campo;11303;Tortel;Rural;Hombre;C;16
+9;La Araucanía;9210;Traiguén;Mixta;Hombre;C;991
+16;Ñuble;16207;Treguaco;Rural;Hombre;C;503
+8;Biobío;8312;Tucapel;Rural;Hombre;C;1188
+14;Los Ríos;14101;Valdivia;Urbana;Hombre;C;12375
+3;Atacama;3301;Vallenar;Mixta;Hombre;C;4179
+5;Valparaíso;5101;Valparaíso;Urbana;Hombre;C;24552
+7;Maule;7309;Vichuquén;Rural;Hombre;C;319
+9;La Araucanía;9211;Victoria;Mixta;Hombre;C;3210
+4;Coquimbo;4106;Vicuña;Rural;Hombre;C;1655
+9;La Araucanía;9119;Vilcún;Rural;Hombre;C;2383
+7;Maule;7407;Villa Alegre;Mixta;Hombre;C;1482
+5;Valparaíso;5804;Villa Alemana;Urbana;Hombre;C;10003
+9;La Araucanía;9120;Villarrica;Mixta;Hombre;C;5769
+13;Metropolitana de Santiago;13132;Vitacura;Urbana;Hombre;C;1096
+5;Valparaíso;5109;Viña del Mar;Urbana;Hombre;C;25430
+7;Maule;7408;Yerbas Buenas;Rural;Hombre;C;1748
+8;Biobío;8313;Yumbel;Mixta;Hombre;C;1460
+16;Ñuble;16109;Yungay;Mixta;Hombre;C;1122
+5;Valparaíso;5405;Zapallar;Rural;Hombre;C;902
+16;Ñuble;16303;Ñiquén;Rural;Hombre;C;769
+13;Metropolitana de Santiago;13120;Ñuñoa;Urbana;Hombre;C;8127
+5;Valparaíso;5602;Algarrobo;Mixta;Hombre;D;1747
+13;Metropolitana de Santiago;13502;Alhué;Rural;Hombre;D;1370
+8;Biobío;8314;Alto Biobío;Rural;Hombre;D;626
+3;Atacama;3302;Alto del Carmen;Rural;Hombre;D;698
+1;Tarapacá;1107;Alto Hospicio;Urbana;Hombre;D;14553
+10;Los Lagos;10202;Ancud;Mixta;Hombre;D;4777
+4;Coquimbo;4103;Andacollo;Rural;Hombre;D;1217
+9;La Araucanía;9201;Angol;Urbana;Hombre;D;6885
+2;Antofagasta;2101;Antofagasta;Urbana;Hombre;D;60072
+8;Biobío;8302;Antuco;Rural;Hombre;D;693
+12;Magallanes y de la Antártica Chilena;12202;Antártica;NA;Hombre;D;13
+8;Biobío;8202;Arauco;Rural;Hombre;D;5102
+15;Arica y Parinacota;15101;Arica;Urbana;Hombre;D;27534
+11;Aysén del General Carlos Ibáñez del Campo;11201;Aysén;Rural;Hombre;D;3044
+13;Metropolitana de Santiago;13402;Buin;Urbana;Hombre;D;13660
+16;Ñuble;16102;Bulnes;Rural;Hombre;D;2186
+5;Valparaíso;5402;Cabildo;Mixta;Hombre;D;2295
+12;Magallanes y de la Antártica Chilena;12201;Cabo de Hornos;Rural;Hombre;D;89
+8;Biobío;8303;Cabrero;Rural;Hombre;D;4628
+2;Antofagasta;2201;Calama;Urbana;Hombre;D;31477
+10;Los Lagos;10102;Calbuco;Mixta;Hombre;D;5569
+3;Atacama;3102;Caldera;Rural;Hombre;D;3184
+5;Valparaíso;5502;Calera;Urbana;Hombre;D;6436
+13;Metropolitana de Santiago;13403;Calera de Tango;Mixta;Hombre;D;2706
+5;Valparaíso;5302;Calle Larga;Mixta;Hombre;D;2266
+15;Arica y Parinacota;15102;Camarones;Rural;Hombre;D;39
+1;Tarapacá;1402;Camiña;Rural;Hombre;D;58
+4;Coquimbo;4202;Canela;Rural;Hombre;D;1288
+9;La Araucanía;9102;Carahue;Rural;Hombre;D;1566
+5;Valparaíso;5603;Cartagena;Mixta;Hombre;D;2664
+5;Valparaíso;5102;Casablanca;Mixta;Hombre;D;3827
+10;Los Lagos;10201;Castro;Mixta;Hombre;D;6153
+5;Valparaíso;5702;Catemu;Rural;Hombre;D;2342
+7;Maule;7201;Cauquenes;Rural;Hombre;D;3521
+8;Biobío;8203;Cañete;Rural;Hombre;D;2869
+13;Metropolitana de Santiago;13102;Cerrillos;Urbana;Hombre;D;9022
+13;Metropolitana de Santiago;13103;Cerro Navia;Urbana;Hombre;D;17023
+10;Los Lagos;10401;Chaitén;Rural;Hombre;D;310
+7;Maule;7202;Chanco;Rural;Hombre;D;447
+3;Atacama;3201;Chañaral;Rural;Hombre;D;2255
+8;Biobío;8103;Chiguayante;Urbana;Hombre;D;10723
+11;Aysén del General Carlos Ibáñez del Campo;11401;Chile Chico;Rural;Hombre;D;615
+16;Ñuble;16101;Chillán;Urbana;Hombre;D;21512
+16;Ñuble;16103;Chillán Viejo;Mixta;Hombre;D;4313
+6;Libertador General Bernardo O'Higgins;6303;Chimbarongo;Rural;Hombre;D;3138
+9;La Araucanía;9121;Cholchol;Rural;Hombre;D;936
+10;Los Lagos;10203;Chonchi;Rural;Hombre;D;2036
+6;Libertador General Bernardo O'Higgins;6302;Chépica;Mixta;Hombre;D;1281
+11;Aysén del General Carlos Ibáñez del Campo;11202;Cisnes;Rural;Hombre;D;775
+16;Ñuble;16202;Cobquecura;Rural;Hombre;D;432
+10;Los Lagos;10103;Cochamó;Rural;Hombre;D;246
+11;Aysén del General Carlos Ibáñez del Campo;11301;Cochrane;Rural;Hombre;D;481
+6;Libertador General Bernardo O'Higgins;6102;Codegua;Mixta;Hombre;D;2728
+16;Ñuble;16203;Coelemu;Rural;Hombre;D;1389
+16;Ñuble;16302;Coihueco;Rural;Hombre;D;2614
+6;Libertador General Bernardo O'Higgins;6103;Coinco;Rural;Hombre;D;514
+7;Maule;7402;Colbún;Rural;Hombre;D;3254
+1;Tarapacá;1403;Colchane;Rural;Hombre;D;103
+13;Metropolitana de Santiago;13301;Colina;Urbana;Hombre;D;15912
+9;La Araucanía;9202;Collipulli;Rural;Hombre;D;2271
+6;Libertador General Bernardo O'Higgins;6104;Coltauco;Mixta;Hombre;D;2603
+4;Coquimbo;4302;Combarbalá;Rural;Hombre;D;1276
+8;Biobío;8101;Concepción;Urbana;Hombre;D;28550
+13;Metropolitana de Santiago;13104;Conchalí;Urbana;Hombre;D;17551
+5;Valparaíso;5103;Concón;Mixta;Hombre;D;5730
+7;Maule;7102;Constitución;Mixta;Hombre;D;5836
+8;Biobío;8204;Contulmo;Rural;Hombre;D;492
+3;Atacama;3101;Copiapó;Urbana;Hombre;D;26926
+4;Coquimbo;4102;Coquimbo;Urbana;Hombre;D;33391
+8;Biobío;8102;Coronel;Urbana;Hombre;D;16562
+14;Los Ríos;14102;Corral;Rural;Hombre;D;519
+11;Aysén del General Carlos Ibáñez del Campo;11101;Coyhaique;Urbana;Hombre;D;6640
+9;La Araucanía;9103;Cunco;Rural;Hombre;D;1428
+9;La Araucanía;9203;Curacautín;Mixta;Hombre;D;1227
+13;Metropolitana de Santiago;13503;Curacaví;Mixta;Hombre;D;3102
+10;Los Lagos;10204;Curaco de Vélez;Rural;Hombre;D;487
+8;Biobío;8205;Curanilahue;Mixta;Hombre;D;4879
+9;La Araucanía;9104;Curarrehue;Rural;Hombre;D;727
+7;Maule;7103;Curepto;Rural;Hombre;D;705
+7;Maule;7301;Curicó;Urbana;Hombre;D;18644
+10;Los Lagos;10205;Dalcahue;Rural;Hombre;D;1734
+3;Atacama;3202;Diego de Almagro;Rural;Hombre;D;2555
+6;Libertador General Bernardo O'Higgins;6105;Doñihue;Mixta;Hombre;D;3873
+13;Metropolitana de Santiago;13105;El Bosque;Urbana;Hombre;D;22936
+16;Ñuble;16104;El Carmen;Rural;Hombre;D;724
+13;Metropolitana de Santiago;13602;El Monte;Mixta;Hombre;D;4706
+5;Valparaíso;5604;El Quisco;Mixta;Hombre;D;1794
+5;Valparaíso;5605;El Tabo;Mixta;Hombre;D;1460
+7;Maule;7104;Empedrado;Rural;Hombre;D;379
+9;La Araucanía;9204;Ercilla;Rural;Hombre;D;654
+13;Metropolitana de Santiago;13106;Estación Central;Urbana;Hombre;D;18504
+8;Biobío;8104;Florida;Rural;Hombre;D;994
+9;La Araucanía;9105;Freire;Rural;Hombre;D;2612
+3;Atacama;3303;Freirina;Rural;Hombre;D;1398
+10;Los Lagos;10104;Fresia;Rural;Hombre;D;952
+10;Los Lagos;10105;Frutillar;Rural;Hombre;D;2588
+10;Los Lagos;10402;Futaleufú;Rural;Hombre;D;167
+14;Los Ríos;14202;Futrono;Rural;Hombre;D;1892
+9;La Araucanía;9106;Galvarino;Rural;Hombre;D;771
+15;Arica y Parinacota;15202;General Lagos;Rural;Hombre;D;33
+9;La Araucanía;9107;Gorbea;Mixta;Hombre;D;1188
+6;Libertador General Bernardo O'Higgins;6106;Graneros;Mixta;Hombre;D;2948
+11;Aysén del General Carlos Ibáñez del Campo;11203;Guaitecas;Rural;Hombre;D;42
+5;Valparaíso;5503;Hijuelas;Mixta;Hombre;D;2728
+10;Los Lagos;10403;Hualaihué;Rural;Hombre;D;1122
+7;Maule;7302;Hualañé;Rural;Hombre;D;839
+8;Biobío;8112;Hualpén;Urbana;Hombre;D;14120
+8;Biobío;8105;Hualqui;Mixta;Hombre;D;3348
+1;Tarapacá;1404;Huara;Rural;Hombre;D;288
+3;Atacama;3304;Huasco;Rural;Hombre;D;1724
+13;Metropolitana de Santiago;13107;Huechuraba;Urbana;Hombre;D;10209
+4;Coquimbo;4201;Illapel;Rural;Hombre;D;4729
+13;Metropolitana de Santiago;13108;Independencia;Urbana;Hombre;D;14557
+1;Tarapacá;1101;Iquique;Urbana;Hombre;D;27744
+13;Metropolitana de Santiago;13603;Isla de Maipo;Mixta;Hombre;D;4594
+5;Valparaíso;5201;Isla de Pascua;Rural;Hombre;D;540
+5;Valparaíso;5104;Juan Fernández;Rural;Hombre;D;67
+13;Metropolitana de Santiago;13109;La Cisterna;Urbana;Hombre;D;10906
+5;Valparaíso;5504;La Cruz;Mixta;Hombre;D;3123
+6;Libertador General Bernardo O'Higgins;6202;La Estrella;Rural;Hombre;D;482
+13;Metropolitana de Santiago;13110;La Florida;Urbana;Hombre;D;50430
+13;Metropolitana de Santiago;13111;La Granja;Urbana;Hombre;D;19315
+4;Coquimbo;4104;La Higuera;Rural;Hombre;D;260
+5;Valparaíso;5401;La Ligua;Mixta;Hombre;D;4089
+13;Metropolitana de Santiago;13112;La Pintana;Urbana;Hombre;D;19845
+13;Metropolitana de Santiago;13113;La Reina;Urbana;Hombre;D;6240
+4;Coquimbo;4101;La Serena;Urbana;Hombre;D;35261
+14;Los Ríos;14201;La Unión;Rural;Hombre;D;4389
+14;Los Ríos;14203;Lago Ranco;Rural;Hombre;D;1301
+11;Aysén del General Carlos Ibáñez del Campo;11102;Lago Verde;Rural;Hombre;D;38
+12;Magallanes y de la Antártica Chilena;12102;Laguna Blanca;Rural;Hombre;D;12
+8;Biobío;8304;Laja;Mixta;Hombre;D;3972
+13;Metropolitana de Santiago;13302;Lampa;Urbana;Hombre;D;11460
+14;Los Ríos;14103;Lanco;Mixta;Hombre;D;1945
+6;Libertador General Bernardo O'Higgins;6107;Las Cabras;Rural;Hombre;D;3138
+13;Metropolitana de Santiago;13114;Las Condes;Urbana;Hombre;D;12560
+9;La Araucanía;9108;Lautaro;Mixta;Hombre;D;5298
+8;Biobío;8201;Lebu;Mixta;Hombre;D;1899
+7;Maule;7303;Licantén;Rural;Hombre;D;571
+5;Valparaíso;5802;Limache;Mixta;Hombre;D;3835
+7;Maule;7401;Linares;Urbana;Hombre;D;9677
+6;Libertador General Bernardo O'Higgins;6203;Litueche;Rural;Hombre;D;440
+5;Valparaíso;5703;Llaillay;Mixta;Hombre;D;3321
+10;Los Lagos;10107;Llanquihue;Rural;Hombre;D;2790
+13;Metropolitana de Santiago;13115;Lo Barnechea;Urbana;Hombre;D;5204
+13;Metropolitana de Santiago;13116;Lo Espejo;Urbana;Hombre;D;12515
+13;Metropolitana de Santiago;13117;Lo Prado;Urbana;Hombre;D;16849
+6;Libertador General Bernardo O'Higgins;6304;Lolol;Rural;Hombre;D;561
+9;La Araucanía;9109;Loncoche;Mixta;Hombre;D;2442
+7;Maule;7403;Longaví;Rural;Hombre;D;3315
+9;La Araucanía;9205;Lonquimay;Rural;Hombre;D;472
+5;Valparaíso;5301;Los Andes;Urbana;Hombre;D;9509
+14;Los Ríos;14104;Los Lagos;Rural;Hombre;D;2924
+10;Los Lagos;10106;Los Muermos;Rural;Hombre;D;1771
+9;La Araucanía;9206;Los Sauces;Rural;Hombre;D;764
+4;Coquimbo;4203;Los Vilos;Rural;Hombre;D;1994
+8;Biobío;8206;Los Alamos;Rural;Hombre;D;2822
+8;Biobío;8301;Los Angeles;Urbana;Hombre;D;28433
+8;Biobío;8106;Lota;Mixta;Hombre;D;6764
+9;La Araucanía;9207;Lumaco;Rural;Hombre;D;1162
+6;Libertador General Bernardo O'Higgins;6108;Machalí;Urbana;Hombre;D;5817
+13;Metropolitana de Santiago;13118;Macul;Urbana;Hombre;D;18022
+13;Metropolitana de Santiago;13119;Maipú;Urbana;Hombre;D;56588
+6;Libertador General Bernardo O'Higgins;6109;Malloa;Rural;Hombre;D;1525
+6;Libertador General Bernardo O'Higgins;6204;Marchihue;Rural;Hombre;D;695
+14;Los Ríos;14106;Mariquina;Rural;Hombre;D;3075
+2;Antofagasta;2302;María Elena;Rural;Hombre;D;550
+13;Metropolitana de Santiago;13504;María Pinto;Rural;Hombre;D;1967
+7;Maule;7105;Maule;Mixta;Hombre;D;3952
+10;Los Lagos;10108;Maullín;Rural;Hombre;D;1597
+2;Antofagasta;2102;Mejillones;Rural;Hombre;D;1723
+9;La Araucanía;9110;Melipeuco;Rural;Hombre;D;670
+13;Metropolitana de Santiago;13501;Melipilla;Urbana;Hombre;D;14667
+7;Maule;7304;Molina;Mixta;Hombre;D;6123
+4;Coquimbo;4303;Monte Patria;Rural;Hombre;D;4616
+6;Libertador General Bernardo O'Higgins;6110;Mostazal;Mixta;Hombre;D;3815
+8;Biobío;8305;Mulchén;Mixta;Hombre;D;3746
+14;Los Ríos;14105;Máfil;Mixta;Hombre;D;1406
+8;Biobío;8306;Nacimiento;Mixta;Hombre;D;4290
+6;Libertador General Bernardo O'Higgins;6305;Nancagua;Mixta;Hombre;D;1620
+12;Magallanes y de la Antártica Chilena;12401;Natales;Rural;Hombre;D;4258
+6;Libertador General Bernardo O'Higgins;6205;Navidad;Rural;Hombre;D;786
+8;Biobío;8307;Negrete;Rural;Hombre;D;1619
+16;Ñuble;16204;Ninhue;Rural;Hombre;D;438
+5;Valparaíso;5506;Nogales;Rural;Hombre;D;3987
+9;La Araucanía;9111;Nueva Imperial;Mixta;Hombre;D;3461
+11;Aysén del General Carlos Ibáñez del Campo;11302;O'Higgins;Rural;Hombre;D;18
+6;Libertador General Bernardo O'Higgins;6111;Olivar;Mixta;Hombre;D;2112
+2;Antofagasta;2202;Ollagüe;Rural;Hombre;D;17
+5;Valparaíso;5803;Olmué;Rural;Hombre;D;1970
+10;Los Lagos;10301;Osorno;Urbana;Hombre;D;19332
+4;Coquimbo;4301;Ovalle;Urbana;Hombre;D;15704
+13;Metropolitana de Santiago;13604;Padre Hurtado;Urbana;Hombre;D;8560
+9;La Araucanía;9112;Padre Las Casas;Mixta;Hombre;D;8347
+4;Coquimbo;4105;Paiguano;Rural;Hombre;D;394
+14;Los Ríos;14107;Paillaco;Rural;Hombre;D;2406
+13;Metropolitana de Santiago;13404;Paine;Mixta;Hombre;D;9253
+10;Los Lagos;10404;Palena;Rural;Hombre;D;121
+6;Libertador General Bernardo O'Higgins;6306;Palmilla;Rural;Hombre;D;1496
+14;Los Ríos;14108;Panguipulli;Rural;Hombre;D;3862
+5;Valparaíso;5704;Panquehue;Rural;Hombre;D;1200
+5;Valparaíso;5403;Papudo;Rural;Hombre;D;816
+6;Libertador General Bernardo O'Higgins;6206;Paredones;Rural;Hombre;D;536
+7;Maule;7404;Parral;Mixta;Hombre;D;3748
+13;Metropolitana de Santiago;13121;Pedro Aguirre Cerda;Urbana;Hombre;D;14467
+7;Maule;7106;Pelarco;Rural;Hombre;D;1284
+7;Maule;7203;Pelluhue;Rural;Hombre;D;631
+16;Ñuble;16105;Pemuco;Rural;Hombre;D;917
+7;Maule;7107;Pencahue;Rural;Hombre;D;1158
+8;Biobío;8107;Penco;Mixta;Hombre;D;6798
+6;Libertador General Bernardo O'Higgins;6307;Peralillo;Rural;Hombre;D;1626
+9;La Araucanía;9113;Perquenco;Rural;Hombre;D;695
+5;Valparaíso;5404;Petorca;Rural;Hombre;D;1432
+6;Libertador General Bernardo O'Higgins;6112;Peumo;Mixta;Hombre;D;1752
+13;Metropolitana de Santiago;13605;Peñaflor;Urbana;Hombre;D;12396
+13;Metropolitana de Santiago;13122;Peñalolén;Urbana;Hombre;D;27369
+1;Tarapacá;1405;Pica;Rural;Hombre;D;908
+6;Libertador General Bernardo O'Higgins;6113;Pichidegua;Rural;Hombre;D;2160
+6;Libertador General Bernardo O'Higgins;6201;Pichilemu;Rural;Hombre;D;1057
+16;Ñuble;16106;Pinto;Rural;Hombre;D;1140
+13;Metropolitana de Santiago;13202;Pirque;Rural;Hombre;D;3490
+9;La Araucanía;9114;Pitrufquén;Mixta;Hombre;D;2832
+6;Libertador General Bernardo O'Higgins;6308;Placilla;Rural;Hombre;D;1018
+16;Ñuble;16205;Portezuelo;Rural;Hombre;D;389
+12;Magallanes y de la Antártica Chilena;12301;Porvenir;Rural;Hombre;D;1113
+1;Tarapacá;1401;Pozo Almonte;Rural;Hombre;D;2662
+12;Magallanes y de la Antártica Chilena;12302;Primavera;Rural;Hombre;D;16
+13;Metropolitana de Santiago;13123;Providencia;Urbana;Hombre;D;11360
+5;Valparaíso;5105;Puchuncaví;Mixta;Hombre;D;2582
+9;La Araucanía;9115;Pucón;Rural;Hombre;D;3542
+13;Metropolitana de Santiago;13124;Pudahuel;Urbana;Hombre;D;31474
+13;Metropolitana de Santiago;13201;Puente Alto;Urbana;Hombre;D;63125
+10;Los Lagos;10101;Puerto Montt;Urbana;Hombre;D;36500
+10;Los Lagos;10302;Puerto Octay;Rural;Hombre;D;1213
+10;Los Lagos;10109;Puerto Varas;Mixta;Hombre;D;5997
+6;Libertador General Bernardo O'Higgins;6309;Pumanque;Rural;Hombre;D;473
+4;Coquimbo;4304;Punitaqui;Rural;Hombre;D;1786
+12;Magallanes y de la Antártica Chilena;12101;Punta Arenas;Urbana;Hombre;D;20258
+10;Los Lagos;10206;Puqueldón;Rural;Hombre;D;516
+10;Los Lagos;10303;Purranque;Rural;Hombre;D;2597
+9;La Araucanía;9208;Purén;Rural;Hombre;D;667
+5;Valparaíso;5705;Putaendo;Mixta;Hombre;D;1778
+15;Arica y Parinacota;15201;Putre;Rural;Hombre;D;84
+10;Los Lagos;10304;Puyehue;Rural;Hombre;D;1708
+10;Los Lagos;10207;Queilén;Rural;Hombre;D;472
+10;Los Lagos;10208;Quellón;Mixta;Hombre;D;4738
+10;Los Lagos;10209;Quemchi;Rural;Hombre;D;1326
+8;Biobío;8308;Quilaco;Rural;Hombre;D;454
+13;Metropolitana de Santiago;13125;Quilicura;Urbana;Hombre;D;30169
+8;Biobío;8309;Quilleco;Rural;Hombre;D;1532
+5;Valparaíso;5501;Quillota;Urbana;Hombre;D;12420
+16;Ñuble;16107;Quillón;Mixta;Hombre;D;1917
+5;Valparaíso;5801;Quilpué;Urbana;Hombre;D;18449
+10;Los Lagos;10210;Quinchao;Rural;Hombre;D;836
+6;Libertador General Bernardo O'Higgins;6114;Quinta de Tilcoco;Mixta;Hombre;D;1503
+13;Metropolitana de Santiago;13126;Quinta Normal;Urbana;Hombre;D;15697
+5;Valparaíso;5107;Quintero;Mixta;Hombre;D;3395
+16;Ñuble;16201;Quirihue;Mixta;Hombre;D;706
+6;Libertador General Bernardo O'Higgins;6101;Rancagua;Urbana;Hombre;D;35457
+16;Ñuble;16206;Ranquil;Rural;Hombre;D;811
+7;Maule;7305;Rauco;Rural;Hombre;D;1078
+13;Metropolitana de Santiago;13127;Recoleta;Urbana;Hombre;D;18536
+9;La Araucanía;9209;Renaico;Mixta;Hombre;D;1618
+13;Metropolitana de Santiago;13128;Renca;Urbana;Hombre;D;20078
+6;Libertador General Bernardo O'Higgins;6115;Rengo;Urbana;Hombre;D;8065
+6;Libertador General Bernardo O'Higgins;6116;Requínoa;Mixta;Hombre;D;4086
+7;Maule;7405;Retiro;Rural;Hombre;D;2019
+5;Valparaíso;5303;Rinconada;Rural;Hombre;D;1676
+7;Maule;7306;Romeral;Mixta;Hombre;D;1909
+14;Los Ríos;14204;Río Bueno;Mixta;Hombre;D;3598
+7;Maule;7108;Río Claro;Rural;Hombre;D;1540
+4;Coquimbo;4305;Río Hurtado;Rural;Hombre;D;552
+11;Aysén del General Carlos Ibáñez del Campo;11402;Río Ibáñez;Rural;Hombre;D;104
+10;Los Lagos;10305;Río Negro;Rural;Hombre;D;1607
+12;Magallanes y de la Antártica Chilena;12103;Río Verde;Rural;Hombre;D;3
+9;La Araucanía;9116;Saavedra;Rural;Hombre;D;779
+7;Maule;7307;Sagrada Familia;Rural;Hombre;D;2540
+4;Coquimbo;4204;Salamanca;Rural;Hombre;D;3540
+5;Valparaíso;5601;San Antonio;Urbana;Hombre;D;12037
+13;Metropolitana de Santiago;13401;San Bernardo;Urbana;Hombre;D;35996
+16;Ñuble;16301;San Carlos;Mixta;Hombre;D;5546
+7;Maule;7109;San Clemente;Rural;Hombre;D;5408
+5;Valparaíso;5304;San Esteban;Mixta;Hombre;D;2677
+16;Ñuble;16304;San Fabián;Rural;Hombre;D;518
+5;Valparaíso;5701;San Felipe;Urbana;Hombre;D;9395
+6;Libertador General Bernardo O'Higgins;6301;San Fernando;Urbana;Hombre;D;10914
+12;Magallanes y de la Antártica Chilena;12104;San Gregorio;Rural;Hombre;D;22
+16;Ñuble;16108;San Ignacio;Rural;Hombre;D;1454
+7;Maule;7406;San Javier;Mixta;Hombre;D;4921
+13;Metropolitana de Santiago;13129;San Joaquín;Urbana;Hombre;D;12611
+13;Metropolitana de Santiago;13203;San José de Maipo;Rural;Hombre;D;1674
+10;Los Lagos;10306;San Juan de la Costa;Rural;Hombre;D;736
+13;Metropolitana de Santiago;13130;San Miguel;Urbana;Hombre;D;15902
+16;Ñuble;16305;San Nicolás;Rural;Hombre;D;1444
+10;Los Lagos;10307;San Pablo;Rural;Hombre;D;1274
+13;Metropolitana de Santiago;13505;San Pedro;Rural;Hombre;D;1243
+2;Antofagasta;2203;San Pedro de Atacama;Rural;Hombre;D;1916
+8;Biobío;8108;San Pedro de la Paz;Urbana;Hombre;D;14838
+7;Maule;7110;San Rafael;Rural;Hombre;D;1410
+13;Metropolitana de Santiago;13131;San Ramón;Urbana;Hombre;D;10373
+8;Biobío;8310;San Rosendo;Rural;Hombre;D;665
+6;Libertador General Bernardo O'Higgins;6117;San Vicente;Mixta;Hombre;D;5636
+8;Biobío;8311;Santa Bárbara;Rural;Hombre;D;1758
+6;Libertador General Bernardo O'Higgins;6310;Santa Cruz;Mixta;Hombre;D;4379
+8;Biobío;8109;Santa Juana;Mixta;Hombre;D;1419
+5;Valparaíso;5706;Santa María;Mixta;Hombre;D;1889
+13;Metropolitana de Santiago;13101;Santiago;Urbana;Hombre;D;53183
+5;Valparaíso;5606;Santo Domingo;Rural;Hombre;D;1644
+2;Antofagasta;2103;Sierra Gorda;Rural;Hombre;D;146
+13;Metropolitana de Santiago;13601;Talagante;Urbana;Hombre;D;9254
+7;Maule;7101;Talca;Urbana;Hombre;D;28630
+8;Biobío;8110;Talcahuano;Urbana;Hombre;D;21807
+2;Antofagasta;2104;Taltal;Rural;Hombre;D;1201
+9;La Araucanía;9101;Temuco;Urbana;Hombre;D;31486
+7;Maule;7308;Teno;Rural;Hombre;D;3420
+9;La Araucanía;9117;Teodoro Schmidt;Rural;Hombre;D;925
+3;Atacama;3103;Tierra Amarilla;Rural;Hombre;D;3645
+13;Metropolitana de Santiago;13303;Tiltil;Rural;Hombre;D;2681
+12;Magallanes y de la Antártica Chilena;12303;Timaukel;Rural;Hombre;D;8
+8;Biobío;8207;Tirúa;Rural;Hombre;D;953
+2;Antofagasta;2301;Tocopilla;Rural;Hombre;D;2582
+9;La Araucanía;9118;Toltén;Rural;Hombre;D;630
+8;Biobío;8111;Tomé;Urbana;Hombre;D;7276
+12;Magallanes y de la Antártica Chilena;12402;Torres del Paine;Rural;Hombre;D;12
+11;Aysén del General Carlos Ibáñez del Campo;11303;Tortel;Rural;Hombre;D;20
+9;La Araucanía;9210;Traiguén;Mixta;Hombre;D;1051
+16;Ñuble;16207;Treguaco;Rural;Hombre;D;862
+8;Biobío;8312;Tucapel;Rural;Hombre;D;2270
+14;Los Ríos;14101;Valdivia;Urbana;Hombre;D;18873
+3;Atacama;3301;Vallenar;Mixta;Hombre;D;8941
+5;Valparaíso;5101;Valparaíso;Urbana;Hombre;D;35934
+7;Maule;7309;Vichuquén;Rural;Hombre;D;391
+9;La Araucanía;9211;Victoria;Mixta;Hombre;D;3671
+4;Coquimbo;4106;Vicuña;Rural;Hombre;D;3459
+9;La Araucanía;9119;Vilcún;Rural;Hombre;D;2873
+7;Maule;7407;Villa Alegre;Mixta;Hombre;D;1904
+5;Valparaíso;5804;Villa Alemana;Urbana;Hombre;D;14953
+9;La Araucanía;9120;Villarrica;Mixta;Hombre;D;6663
+13;Metropolitana de Santiago;13132;Vitacura;Urbana;Hombre;D;2232
+5;Valparaíso;5109;Viña del Mar;Urbana;Hombre;D;37153
+7;Maule;7408;Yerbas Buenas;Rural;Hombre;D;2412
+8;Biobío;8313;Yumbel;Mixta;Hombre;D;2316
+16;Ñuble;16109;Yungay;Mixta;Hombre;D;1853
+5;Valparaíso;5405;Zapallar;Rural;Hombre;D;1245
+16;Ñuble;16303;Ñiquén;Rural;Hombre;D;1105
+13;Metropolitana de Santiago;13120;Ñuñoa;Urbana;Hombre;D;16189
+1;Tarapacá;1107;Alto Hospicio;Urbana;Indeterminado;A;7
+9;La Araucanía;9201;Angol;Urbana;Indeterminado;A;1
+2;Antofagasta;2101;Antofagasta;Urbana;Indeterminado;A;19
+8;Biobío;8202;Arauco;Rural;Indeterminado;A;1
+15;Arica y Parinacota;15101;Arica;Urbana;Indeterminado;A;17
+2;Antofagasta;2201;Calama;Urbana;Indeterminado;A;9
+3;Atacama;3102;Caldera;Rural;Indeterminado;A;1
+13;Metropolitana de Santiago;13403;Calera de Tango;Mixta;Indeterminado;A;1
+10;Los Lagos;10201;Castro;Mixta;Indeterminado;A;1
+13;Metropolitana de Santiago;13102;Cerrillos;Urbana;Indeterminado;A;4
+13;Metropolitana de Santiago;13103;Cerro Navia;Urbana;Indeterminado;A;16
+16;Ñuble;16101;Chillán;Urbana;Indeterminado;A;2
+6;Libertador General Bernardo O'Higgins;6303;Chimbarongo;Rural;Indeterminado;A;1
+6;Libertador General Bernardo O'Higgins;6102;Codegua;Mixta;Indeterminado;A;1
+13;Metropolitana de Santiago;13301;Colina;Urbana;Indeterminado;A;10
+8;Biobío;8101;Concepción;Urbana;Indeterminado;A;5
+13;Metropolitana de Santiago;13104;Conchalí;Urbana;Indeterminado;A;8
+3;Atacama;3101;Copiapó;Urbana;Indeterminado;A;4
+4;Coquimbo;4102;Coquimbo;Urbana;Indeterminado;A;4
+8;Biobío;8102;Coronel;Urbana;Indeterminado;A;1
+7;Maule;7301;Curicó;Urbana;Indeterminado;A;4
+3;Atacama;3202;Diego de Almagro;Rural;Indeterminado;A;1
+13;Metropolitana de Santiago;13105;El Bosque;Urbana;Indeterminado;A;11
+13;Metropolitana de Santiago;13106;Estación Central;Urbana;Indeterminado;A;18
+8;Biobío;8112;Hualpén;Urbana;Indeterminado;A;2
+1;Tarapacá;1404;Huara;Rural;Indeterminado;A;1
+3;Atacama;3304;Huasco;Rural;Indeterminado;A;1
+13;Metropolitana de Santiago;13107;Huechuraba;Urbana;Indeterminado;A;2
+13;Metropolitana de Santiago;13108;Independencia;Urbana;Indeterminado;A;23
+1;Tarapacá;1101;Iquique;Urbana;Indeterminado;A;12
+13;Metropolitana de Santiago;13109;La Cisterna;Urbana;Indeterminado;A;8
+13;Metropolitana de Santiago;13110;La Florida;Urbana;Indeterminado;A;7
+13;Metropolitana de Santiago;13111;La Granja;Urbana;Indeterminado;A;14
+5;Valparaíso;5401;La Ligua;Mixta;Indeterminado;A;1
+13;Metropolitana de Santiago;13112;La Pintana;Urbana;Indeterminado;A;10
+4;Coquimbo;4101;La Serena;Urbana;Indeterminado;A;2
+13;Metropolitana de Santiago;13302;Lampa;Urbana;Indeterminado;A;3
+6;Libertador General Bernardo O'Higgins;6107;Las Cabras;Rural;Indeterminado;A;1
+13;Metropolitana de Santiago;13114;Las Condes;Urbana;Indeterminado;A;1
+13;Metropolitana de Santiago;13115;Lo Barnechea;Urbana;Indeterminado;A;3
+13;Metropolitana de Santiago;13116;Lo Espejo;Urbana;Indeterminado;A;1
+13;Metropolitana de Santiago;13117;Lo Prado;Urbana;Indeterminado;A;4
+8;Biobío;8206;Los Alamos;Rural;Indeterminado;A;1
+8;Biobío;8301;Los Angeles;Urbana;Indeterminado;A;1
+6;Libertador General Bernardo O'Higgins;6108;Machalí;Urbana;Indeterminado;A;1
+13;Metropolitana de Santiago;13118;Macul;Urbana;Indeterminado;A;4
+13;Metropolitana de Santiago;13119;Maipú;Urbana;Indeterminado;A;3
+13;Metropolitana de Santiago;13504;María Pinto;Rural;Indeterminado;A;1
+13;Metropolitana de Santiago;13501;Melipilla;Urbana;Indeterminado;A;3
+7;Maule;7304;Molina;Mixta;Indeterminado;A;1
+9;La Araucanía;9112;Padre Las Casas;Mixta;Indeterminado;A;1
+13;Metropolitana de Santiago;13404;Paine;Mixta;Indeterminado;A;2
+6;Libertador General Bernardo O'Higgins;6306;Palmilla;Rural;Indeterminado;A;1
+13;Metropolitana de Santiago;13121;Pedro Aguirre Cerda;Urbana;Indeterminado;A;3
+13;Metropolitana de Santiago;13605;Peñaflor;Urbana;Indeterminado;A;2
+13;Metropolitana de Santiago;13122;Peñalolén;Urbana;Indeterminado;A;3
+1;Tarapacá;1401;Pozo Almonte;Rural;Indeterminado;A;1
+13;Metropolitana de Santiago;13123;Providencia;Urbana;Indeterminado;A;1
+13;Metropolitana de Santiago;13124;Pudahuel;Urbana;Indeterminado;A;7
+13;Metropolitana de Santiago;13201;Puente Alto;Urbana;Indeterminado;A;8
+10;Los Lagos;10101;Puerto Montt;Urbana;Indeterminado;A;4
+10;Los Lagos;10109;Puerto Varas;Mixta;Indeterminado;A;1
+12;Magallanes y de la Antártica Chilena;12101;Punta Arenas;Urbana;Indeterminado;A;2
+13;Metropolitana de Santiago;13125;Quilicura;Urbana;Indeterminado;A;9
+5;Valparaíso;5501;Quillota;Urbana;Indeterminado;A;1
+16;Ñuble;16107;Quillón;Mixta;Indeterminado;A;1
+5;Valparaíso;5801;Quilpué;Urbana;Indeterminado;A;3
+10;Los Lagos;10210;Quinchao;Rural;Indeterminado;A;1
+13;Metropolitana de Santiago;13126;Quinta Normal;Urbana;Indeterminado;A;20
+6;Libertador General Bernardo O'Higgins;6101;Rancagua;Urbana;Indeterminado;A;6
+13;Metropolitana de Santiago;13127;Recoleta;Urbana;Indeterminado;A;10
+13;Metropolitana de Santiago;13128;Renca;Urbana;Indeterminado;A;11
+6;Libertador General Bernardo O'Higgins;6115;Rengo;Urbana;Indeterminado;A;3
+13;Metropolitana de Santiago;13401;San Bernardo;Urbana;Indeterminado;A;7
+5;Valparaíso;5304;San Esteban;Mixta;Indeterminado;A;1
+5;Valparaíso;5701;San Felipe;Urbana;Indeterminado;A;2
+6;Libertador General Bernardo O'Higgins;6301;San Fernando;Urbana;Indeterminado;A;3
+16;Ñuble;16108;San Ignacio;Rural;Indeterminado;A;1
+13;Metropolitana de Santiago;13129;San Joaquín;Urbana;Indeterminado;A;5
+13;Metropolitana de Santiago;13130;San Miguel;Urbana;Indeterminado;A;3
+13;Metropolitana de Santiago;13505;San Pedro;Rural;Indeterminado;A;7
+13;Metropolitana de Santiago;13131;San Ramón;Urbana;Indeterminado;A;1
+6;Libertador General Bernardo O'Higgins;6310;Santa Cruz;Mixta;Indeterminado;A;3
+13;Metropolitana de Santiago;13101;Santiago;Urbana;Indeterminado;A;37
+7;Maule;7101;Talca;Urbana;Indeterminado;A;3
+2;Antofagasta;2104;Taltal;Rural;Indeterminado;A;1
+9;La Araucanía;9101;Temuco;Urbana;Indeterminado;A;2
+3;Atacama;3301;Vallenar;Mixta;Indeterminado;A;1
+5;Valparaíso;5101;Valparaíso;Urbana;Indeterminado;A;2
+5;Valparaíso;5109;Viña del Mar;Urbana;Indeterminado;A;3
+13;Metropolitana de Santiago;13120;Ñuñoa;Urbana;Indeterminado;A;3
+3;Atacama;3302;Alto del Carmen;Rural;Indeterminado;B;1
+1;Tarapacá;1107;Alto Hospicio;Urbana;Indeterminado;B;1
+2;Antofagasta;2101;Antofagasta;Urbana;Indeterminado;B;6
+15;Arica y Parinacota;15101;Arica;Urbana;Indeterminado;B;1
+2;Antofagasta;2201;Calama;Urbana;Indeterminado;B;3
+10;Los Lagos;10102;Calbuco;Mixta;Indeterminado;B;1
+3;Atacama;3102;Caldera;Rural;Indeterminado;B;1
+5;Valparaíso;5502;Calera;Urbana;Indeterminado;B;1
+5;Valparaíso;5102;Casablanca;Mixta;Indeterminado;B;2
+16;Ñuble;16101;Chillán;Urbana;Indeterminado;B;1
+11;Aysén del General Carlos Ibáñez del Campo;11301;Cochrane;Rural;Indeterminado;B;1
+13;Metropolitana de Santiago;13301;Colina;Urbana;Indeterminado;B;2
+8;Biobío;8101;Concepción;Urbana;Indeterminado;B;1
+3;Atacama;3101;Copiapó;Urbana;Indeterminado;B;2
+4;Coquimbo;4102;Coquimbo;Urbana;Indeterminado;B;3
+11;Aysén del General Carlos Ibáñez del Campo;11101;Coyhaique;Urbana;Indeterminado;B;2
+9;La Araucanía;9104;Curarrehue;Rural;Indeterminado;B;1
+7;Maule;7301;Curicó;Urbana;Indeterminado;B;5
+13;Metropolitana de Santiago;13105;El Bosque;Urbana;Indeterminado;B;2
+13;Metropolitana de Santiago;13106;Estación Central;Urbana;Indeterminado;B;6
+5;Valparaíso;5503;Hijuelas;Mixta;Indeterminado;B;1
+13;Metropolitana de Santiago;13108;Independencia;Urbana;Indeterminado;B;2
+13;Metropolitana de Santiago;13109;La Cisterna;Urbana;Indeterminado;B;1
+13;Metropolitana de Santiago;13111;La Granja;Urbana;Indeterminado;B;1
+13;Metropolitana de Santiago;13113;La Reina;Urbana;Indeterminado;B;2
+4;Coquimbo;4101;La Serena;Urbana;Indeterminado;B;1
+7;Maule;7401;Linares;Urbana;Indeterminado;B;1
+13;Metropolitana de Santiago;13116;Lo Espejo;Urbana;Indeterminado;B;1
+13;Metropolitana de Santiago;13117;Lo Prado;Urbana;Indeterminado;B;1
+5;Valparaíso;5301;Los Andes;Urbana;Indeterminado;B;1
+13;Metropolitana de Santiago;13118;Macul;Urbana;Indeterminado;B;5
+13;Metropolitana de Santiago;13119;Maipú;Urbana;Indeterminado;B;4
+7;Maule;7304;Molina;Mixta;Indeterminado;B;2
+6;Libertador General Bernardo O'Higgins;6305;Nancagua;Mixta;Indeterminado;B;1
+9;La Araucanía;9112;Padre Las Casas;Mixta;Indeterminado;B;1
+13;Metropolitana de Santiago;13404;Paine;Mixta;Indeterminado;B;1
+7;Maule;7404;Parral;Mixta;Indeterminado;B;2
+13;Metropolitana de Santiago;13605;Peñaflor;Urbana;Indeterminado;B;3
+13;Metropolitana de Santiago;13122;Peñalolén;Urbana;Indeterminado;B;2
+6;Libertador General Bernardo O'Higgins;6201;Pichilemu;Rural;Indeterminado;B;1
+13;Metropolitana de Santiago;13123;Providencia;Urbana;Indeterminado;B;1
+9;La Araucanía;9115;Pucón;Rural;Indeterminado;B;1
+10;Los Lagos;10101;Puerto Montt;Urbana;Indeterminado;B;5
+4;Coquimbo;4304;Punitaqui;Rural;Indeterminado;B;1
+12;Magallanes y de la Antártica Chilena;12101;Punta Arenas;Urbana;Indeterminado;B;1
+5;Valparaíso;5801;Quilpué;Urbana;Indeterminado;B;1
+6;Libertador General Bernardo O'Higgins;6101;Rancagua;Urbana;Indeterminado;B;2
+13;Metropolitana de Santiago;13127;Recoleta;Urbana;Indeterminado;B;2
+9;La Araucanía;9116;Saavedra;Rural;Indeterminado;B;1
+5;Valparaíso;5601;San Antonio;Urbana;Indeterminado;B;1
+13;Metropolitana de Santiago;13401;San Bernardo;Urbana;Indeterminado;B;1
+5;Valparaíso;5701;San Felipe;Urbana;Indeterminado;B;1
+13;Metropolitana de Santiago;13129;San Joaquín;Urbana;Indeterminado;B;2
+13;Metropolitana de Santiago;13130;San Miguel;Urbana;Indeterminado;B;1
+8;Biobío;8108;San Pedro de la Paz;Urbana;Indeterminado;B;1
+13;Metropolitana de Santiago;13131;San Ramón;Urbana;Indeterminado;B;2
+5;Valparaíso;5706;Santa María;Mixta;Indeterminado;B;2
+13;Metropolitana de Santiago;13101;Santiago;Urbana;Indeterminado;B;15
+9;La Araucanía;9101;Temuco;Urbana;Indeterminado;B;2
+7;Maule;7308;Teno;Rural;Indeterminado;B;2
+13;Metropolitana de Santiago;13132;Vitacura;Urbana;Indeterminado;B;1
+5;Valparaíso;5109;Viña del Mar;Urbana;Indeterminado;B;4
+1;Tarapacá;1107;Alto Hospicio;Urbana;Indeterminado;C;1
+9;La Araucanía;9201;Angol;Urbana;Indeterminado;C;1
+2;Antofagasta;2101;Antofagasta;Urbana;Indeterminado;C;5
+15;Arica y Parinacota;15101;Arica;Urbana;Indeterminado;C;1
+13;Metropolitana de Santiago;13402;Buin;Urbana;Indeterminado;C;3
+2;Antofagasta;2201;Calama;Urbana;Indeterminado;C;3
+5;Valparaíso;5502;Calera;Urbana;Indeterminado;C;1
+13;Metropolitana de Santiago;13102;Cerrillos;Urbana;Indeterminado;C;1
+13;Metropolitana de Santiago;13103;Cerro Navia;Urbana;Indeterminado;C;1
+6;Libertador General Bernardo O'Higgins;6303;Chimbarongo;Rural;Indeterminado;C;1
+13;Metropolitana de Santiago;13301;Colina;Urbana;Indeterminado;C;8
+8;Biobío;8101;Concepción;Urbana;Indeterminado;C;3
+13;Metropolitana de Santiago;13104;Conchalí;Urbana;Indeterminado;C;4
+5;Valparaíso;5103;Concón;Mixta;Indeterminado;C;1
+7;Maule;7102;Constitución;Mixta;Indeterminado;C;1
+3;Atacama;3101;Copiapó;Urbana;Indeterminado;C;3
+4;Coquimbo;4102;Coquimbo;Urbana;Indeterminado;C;1
+11;Aysén del General Carlos Ibáñez del Campo;11101;Coyhaique;Urbana;Indeterminado;C;1
+7;Maule;7301;Curicó;Urbana;Indeterminado;C;2
+13;Metropolitana de Santiago;13105;El Bosque;Urbana;Indeterminado;C;1
+13;Metropolitana de Santiago;13106;Estación Central;Urbana;Indeterminado;C;7
+8;Biobío;8105;Hualqui;Mixta;Indeterminado;C;1
+13;Metropolitana de Santiago;13108;Independencia;Urbana;Indeterminado;C;2
+5;Valparaíso;5201;Isla de Pascua;Rural;Indeterminado;C;1
+5;Valparaíso;5504;La Cruz;Mixta;Indeterminado;C;1
+13;Metropolitana de Santiago;13110;La Florida;Urbana;Indeterminado;C;1
+13;Metropolitana de Santiago;13111;La Granja;Urbana;Indeterminado;C;1
+13;Metropolitana de Santiago;13302;Lampa;Urbana;Indeterminado;C;1
+13;Metropolitana de Santiago;13114;Las Condes;Urbana;Indeterminado;C;1
+13;Metropolitana de Santiago;13117;Lo Prado;Urbana;Indeterminado;C;1
+8;Biobío;8301;Los Angeles;Urbana;Indeterminado;C;1
+6;Libertador General Bernardo O'Higgins;6108;Machalí;Urbana;Indeterminado;C;1
+13;Metropolitana de Santiago;13118;Macul;Urbana;Indeterminado;C;4
+13;Metropolitana de Santiago;13119;Maipú;Urbana;Indeterminado;C;3
+10;Los Lagos;10301;Osorno;Urbana;Indeterminado;C;1
+13;Metropolitana de Santiago;13404;Paine;Mixta;Indeterminado;C;1
+7;Maule;7404;Parral;Mixta;Indeterminado;C;1
+13;Metropolitana de Santiago;13121;Pedro Aguirre Cerda;Urbana;Indeterminado;C;1
+7;Maule;7106;Pelarco;Rural;Indeterminado;C;1
+13;Metropolitana de Santiago;13123;Providencia;Urbana;Indeterminado;C;3
+13;Metropolitana de Santiago;13124;Pudahuel;Urbana;Indeterminado;C;2
+13;Metropolitana de Santiago;13201;Puente Alto;Urbana;Indeterminado;C;1
+10;Los Lagos;10101;Puerto Montt;Urbana;Indeterminado;C;1
+12;Magallanes y de la Antártica Chilena;12101;Punta Arenas;Urbana;Indeterminado;C;1
+13;Metropolitana de Santiago;13125;Quilicura;Urbana;Indeterminado;C;1
+6;Libertador General Bernardo O'Higgins;6114;Quinta de Tilcoco;Mixta;Indeterminado;C;1
+13;Metropolitana de Santiago;13126;Quinta Normal;Urbana;Indeterminado;C;4
+6;Libertador General Bernardo O'Higgins;6101;Rancagua;Urbana;Indeterminado;C;1
+13;Metropolitana de Santiago;13127;Recoleta;Urbana;Indeterminado;C;1
+4;Coquimbo;4204;Salamanca;Rural;Indeterminado;C;1
+13;Metropolitana de Santiago;13401;San Bernardo;Urbana;Indeterminado;C;3
+6;Libertador General Bernardo O'Higgins;6301;San Fernando;Urbana;Indeterminado;C;1
+13;Metropolitana de Santiago;13129;San Joaquín;Urbana;Indeterminado;C;1
+13;Metropolitana de Santiago;13130;San Miguel;Urbana;Indeterminado;C;1
+13;Metropolitana de Santiago;13101;Santiago;Urbana;Indeterminado;C;11
+13;Metropolitana de Santiago;13601;Talagante;Urbana;Indeterminado;C;2
+9;La Araucanía;9120;Villarrica;Mixta;Indeterminado;C;1
+5;Valparaíso;5109;Viña del Mar;Urbana;Indeterminado;C;4
+2;Antofagasta;2101;Antofagasta;Urbana;Indeterminado;D;5
+15;Arica y Parinacota;15101;Arica;Urbana;Indeterminado;D;3
+2;Antofagasta;2201;Calama;Urbana;Indeterminado;D;5
+16;Ñuble;16101;Chillán;Urbana;Indeterminado;D;1
+13;Metropolitana de Santiago;13301;Colina;Urbana;Indeterminado;D;8
+13;Metropolitana de Santiago;13104;Conchalí;Urbana;Indeterminado;D;4
+3;Atacama;3101;Copiapó;Urbana;Indeterminado;D;2
+4;Coquimbo;4102;Coquimbo;Urbana;Indeterminado;D;1
+11;Aysén del General Carlos Ibáñez del Campo;11101;Coyhaique;Urbana;Indeterminado;D;1
+7;Maule;7301;Curicó;Urbana;Indeterminado;D;1
+13;Metropolitana de Santiago;13105;El Bosque;Urbana;Indeterminado;D;1
+5;Valparaíso;5604;El Quisco;Mixta;Indeterminado;D;1
+13;Metropolitana de Santiago;13106;Estación Central;Urbana;Indeterminado;D;7
+13;Metropolitana de Santiago;13108;Independencia;Urbana;Indeterminado;D;4
+1;Tarapacá;1101;Iquique;Urbana;Indeterminado;D;2
+13;Metropolitana de Santiago;13109;La Cisterna;Urbana;Indeterminado;D;1
+13;Metropolitana de Santiago;13110;La Florida;Urbana;Indeterminado;D;2
+13;Metropolitana de Santiago;13113;La Reina;Urbana;Indeterminado;D;2
+4;Coquimbo;4101;La Serena;Urbana;Indeterminado;D;1
+13;Metropolitana de Santiago;13302;Lampa;Urbana;Indeterminado;D;1
+13;Metropolitana de Santiago;13114;Las Condes;Urbana;Indeterminado;D;2
+7;Maule;7401;Linares;Urbana;Indeterminado;D;1
+9;La Araucanía;9109;Loncoche;Mixta;Indeterminado;D;1
+4;Coquimbo;4203;Los Vilos;Rural;Indeterminado;D;1
+13;Metropolitana de Santiago;13119;Maipú;Urbana;Indeterminado;D;2
+7;Maule;7304;Molina;Mixta;Indeterminado;D;1
+6;Libertador General Bernardo O'Higgins;6305;Nancagua;Mixta;Indeterminado;D;1
+7;Maule;7404;Parral;Mixta;Indeterminado;D;1
+13;Metropolitana de Santiago;13202;Pirque;Rural;Indeterminado;D;1
+13;Metropolitana de Santiago;13123;Providencia;Urbana;Indeterminado;D;1
+13;Metropolitana de Santiago;13124;Pudahuel;Urbana;Indeterminado;D;1
+13;Metropolitana de Santiago;13201;Puente Alto;Urbana;Indeterminado;D;1
+10;Los Lagos;10109;Puerto Varas;Mixta;Indeterminado;D;1
+12;Magallanes y de la Antártica Chilena;12101;Punta Arenas;Urbana;Indeterminado;D;1
+10;Los Lagos;10303;Purranque;Rural;Indeterminado;D;1
+13;Metropolitana de Santiago;13125;Quilicura;Urbana;Indeterminado;D;2
+6;Libertador General Bernardo O'Higgins;6101;Rancagua;Urbana;Indeterminado;D;2
+13;Metropolitana de Santiago;13401;San Bernardo;Urbana;Indeterminado;D;4
+13;Metropolitana de Santiago;13130;San Miguel;Urbana;Indeterminado;D;2
+2;Antofagasta;2203;San Pedro de Atacama;Rural;Indeterminado;D;1
+8;Biobío;8108;San Pedro de la Paz;Urbana;Indeterminado;D;1
+13;Metropolitana de Santiago;13101;Santiago;Urbana;Indeterminado;D;14
+7;Maule;7101;Talca;Urbana;Indeterminado;D;1
+5;Valparaíso;5101;Valparaíso;Urbana;Indeterminado;D;2
+13;Metropolitana de Santiago;13120;Ñuñoa;Urbana;Indeterminado;D;2
+5;Valparaíso;5602;Algarrobo;Mixta;Mujer;A;1415
+13;Metropolitana de Santiago;13502;Alhué;Rural;Mujer;A;787
+8;Biobío;8314;Alto Biobío;Rural;Mujer;A;1299
+3;Atacama;3302;Alto del Carmen;Rural;Mujer;A;681
+1;Tarapacá;1107;Alto Hospicio;Urbana;Mujer;A;25585
+10;Los Lagos;10202;Ancud;Mixta;Mujer;A;5005
+4;Coquimbo;4103;Andacollo;Rural;Mujer;A;759
+9;La Araucanía;9201;Angol;Urbana;Mujer;A;6483
+2;Antofagasta;2101;Antofagasta;Urbana;Mujer;A;34729
+8;Biobío;8302;Antuco;Rural;Mujer;A;630
+12;Magallanes y de la Antártica Chilena;12202;Antártica;NA;Mujer;A;1
+8;Biobío;8202;Arauco;Rural;Mujer;A;5009
+15;Arica y Parinacota;15101;Arica;Urbana;Mujer;A;37065
+11;Aysén del General Carlos Ibáñez del Campo;11201;Aysén;Rural;Mujer;A;2539
+13;Metropolitana de Santiago;13402;Buin;Urbana;Mujer;A;8484
+16;Ñuble;16102;Bulnes;Rural;Mujer;A;2155
+5;Valparaíso;5402;Cabildo;Mixta;Mujer;A;1339
+12;Magallanes y de la Antártica Chilena;12201;Cabo de Hornos;Rural;Mujer;A;15
+8;Biobío;8303;Cabrero;Rural;Mujer;A;3836
+2;Antofagasta;2201;Calama;Urbana;Mujer;A;13801
+10;Los Lagos;10102;Calbuco;Mixta;Mujer;A;6159
+3;Atacama;3102;Caldera;Rural;Mujer;A;2558
+5;Valparaíso;5502;Calera;Urbana;Mujer;A;4666
+13;Metropolitana de Santiago;13403;Calera de Tango;Mixta;Mujer;A;1552
+5;Valparaíso;5302;Calle Larga;Mixta;Mujer;A;1456
+15;Arica y Parinacota;15102;Camarones;Rural;Mujer;A;51
+1;Tarapacá;1402;Camiña;Rural;Mujer;A;332
+4;Coquimbo;4202;Canela;Rural;Mujer;A;1344
+9;La Araucanía;9102;Carahue;Rural;Mujer;A;4253
+5;Valparaíso;5603;Cartagena;Mixta;Mujer;A;4704
+5;Valparaíso;5102;Casablanca;Mixta;Mujer;A;2023
+10;Los Lagos;10201;Castro;Mixta;Mujer;A;4943
+5;Valparaíso;5702;Catemu;Rural;Mujer;A;1690
+7;Maule;7201;Cauquenes;Rural;Mujer;A;6135
+8;Biobío;8203;Cañete;Rural;Mujer;A;5817
+13;Metropolitana de Santiago;13102;Cerrillos;Urbana;Mujer;A;6614
+13;Metropolitana de Santiago;13103;Cerro Navia;Urbana;Mujer;A;15607
+10;Los Lagos;10401;Chaitén;Rural;Mujer;A;203
+7;Maule;7202;Chanco;Rural;Mujer;A;1181
+3;Atacama;3201;Chañaral;Rural;Mujer;A;1437
+8;Biobío;8103;Chiguayante;Urbana;Mujer;A;6540
+11;Aysén del General Carlos Ibáñez del Campo;11401;Chile Chico;Rural;Mujer;A;344
+16;Ñuble;16101;Chillán;Urbana;Mujer;A;16259
+16;Ñuble;16103;Chillán Viejo;Mixta;Mujer;A;3671
+6;Libertador General Bernardo O'Higgins;6303;Chimbarongo;Rural;Mujer;A;2324
+9;La Araucanía;9121;Cholchol;Rural;Mujer;A;2382
+10;Los Lagos;10203;Chonchi;Rural;Mujer;A;2051
+6;Libertador General Bernardo O'Higgins;6302;Chépica;Mixta;Mujer;A;1459
+11;Aysén del General Carlos Ibáñez del Campo;11202;Cisnes;Rural;Mujer;A;455
+16;Ñuble;16202;Cobquecura;Rural;Mujer;A;910
+10;Los Lagos;10103;Cochamó;Rural;Mujer;A;326
+11;Aysén del General Carlos Ibáñez del Campo;11301;Cochrane;Rural;Mujer;A;355
+6;Libertador General Bernardo O'Higgins;6102;Codegua;Mixta;Mujer;A;1274
+16;Ñuble;16203;Coelemu;Rural;Mujer;A;1133
+16;Ñuble;16302;Coihueco;Rural;Mujer;A;3969
+6;Libertador General Bernardo O'Higgins;6103;Coinco;Rural;Mujer;A;332
+7;Maule;7402;Colbún;Rural;Mujer;A;3505
+1;Tarapacá;1403;Colchane;Rural;Mujer;A;328
+13;Metropolitana de Santiago;13301;Colina;Urbana;Mujer;A;13352
+9;La Araucanía;9202;Collipulli;Rural;Mujer;A;2739
+6;Libertador General Bernardo O'Higgins;6104;Coltauco;Mixta;Mujer;A;1588
+4;Coquimbo;4302;Combarbalá;Rural;Mujer;A;1186
+8;Biobío;8101;Concepción;Urbana;Mujer;A;17409
+13;Metropolitana de Santiago;13104;Conchalí;Urbana;Mujer;A;12312
+5;Valparaíso;5103;Concón;Mixta;Mujer;A;2976
+7;Maule;7102;Constitución;Mixta;Mujer;A;8198
+8;Biobío;8204;Contulmo;Rural;Mujer;A;861
+3;Atacama;3101;Copiapó;Urbana;Mujer;A;15837
+4;Coquimbo;4102;Coquimbo;Urbana;Mujer;A;24341
+8;Biobío;8102;Coronel;Urbana;Mujer;A;12881
+14;Los Ríos;14102;Corral;Rural;Mujer;A;483
+11;Aysén del General Carlos Ibáñez del Campo;11101;Coyhaique;Urbana;Mujer;A;5117
+9;La Araucanía;9103;Cunco;Rural;Mujer;A;2316
+9;La Araucanía;9203;Curacautín;Mixta;Mujer;A;2063
+13;Metropolitana de Santiago;13503;Curacaví;Mixta;Mujer;A;2804
+10;Los Lagos;10204;Curaco de Vélez;Rural;Mujer;A;479
+8;Biobío;8205;Curanilahue;Mixta;Mujer;A;3325
+9;La Araucanía;9104;Curarrehue;Rural;Mujer;A;1760
+7;Maule;7103;Curepto;Rural;Mujer;A;742
+7;Maule;7301;Curicó;Urbana;Mujer;A;14027
+10;Los Lagos;10205;Dalcahue;Rural;Mujer;A;2292
+3;Atacama;3202;Diego de Almagro;Rural;Mujer;A;742
+6;Libertador General Bernardo O'Higgins;6105;Doñihue;Mixta;Mujer;A;1963
+13;Metropolitana de Santiago;13105;El Bosque;Urbana;Mujer;A;20901
+16;Ñuble;16104;El Carmen;Rural;Mujer;A;1233
+13;Metropolitana de Santiago;13602;El Monte;Mixta;Mujer;A;3497
+5;Valparaíso;5604;El Quisco;Mixta;Mujer;A;2260
+5;Valparaíso;5605;El Tabo;Mixta;Mujer;A;1922
+7;Maule;7104;Empedrado;Rural;Mujer;A;729
+9;La Araucanía;9204;Ercilla;Rural;Mujer;A;1528
+13;Metropolitana de Santiago;13106;Estación Central;Urbana;Mujer;A;15988
+8;Biobío;8104;Florida;Rural;Mujer;A;1403
+9;La Araucanía;9105;Freire;Rural;Mujer;A;3351
+3;Atacama;3303;Freirina;Rural;Mujer;A;1114
+10;Los Lagos;10104;Fresia;Rural;Mujer;A;1320
+10;Los Lagos;10105;Frutillar;Rural;Mujer;A;2034
+10;Los Lagos;10402;Futaleufú;Rural;Mujer;A;278
+14;Los Ríos;14202;Futrono;Rural;Mujer;A;2512
+9;La Araucanía;9106;Galvarino;Rural;Mujer;A;1953
+15;Arica y Parinacota;15202;General Lagos;Rural;Mujer;A;75
+9;La Araucanía;9107;Gorbea;Mixta;Mujer;A;1466
+6;Libertador General Bernardo O'Higgins;6106;Graneros;Mixta;Mujer;A;1520
+11;Aysén del General Carlos Ibáñez del Campo;11203;Guaitecas;Rural;Mujer;A;42
+5;Valparaíso;5503;Hijuelas;Mixta;Mujer;A;2175
+10;Los Lagos;10403;Hualaihué;Rural;Mujer;A;1331
+7;Maule;7302;Hualañé;Rural;Mujer;A;837
+8;Biobío;8112;Hualpén;Urbana;Mujer;A;7418
+8;Biobío;8105;Hualqui;Mixta;Mujer;A;3247
+1;Tarapacá;1404;Huara;Rural;Mujer;A;903
+3;Atacama;3304;Huasco;Rural;Mujer;A;1243
+13;Metropolitana de Santiago;13107;Huechuraba;Urbana;Mujer;A;8193
+4;Coquimbo;4201;Illapel;Rural;Mujer;A;3867
+13;Metropolitana de Santiago;13108;Independencia;Urbana;Mujer;A;16122
+1;Tarapacá;1101;Iquique;Urbana;Mujer;A;23268
+13;Metropolitana de Santiago;13603;Isla de Maipo;Mixta;Mujer;A;2787
+5;Valparaíso;5201;Isla de Pascua;Rural;Mujer;A;423
+5;Valparaíso;5104;Juan Fernández;Rural;Mujer;A;9
+13;Metropolitana de Santiago;13109;La Cisterna;Urbana;Mujer;A;8673
+5;Valparaíso;5504;La Cruz;Mixta;Mujer;A;1508
+6;Libertador General Bernardo O'Higgins;6202;La Estrella;Rural;Mujer;A;385
+13;Metropolitana de Santiago;13110;La Florida;Urbana;Mujer;A;32453
+13;Metropolitana de Santiago;13111;La Granja;Urbana;Mujer;A;15719
+4;Coquimbo;4104;La Higuera;Rural;Mujer;A;291
+5;Valparaíso;5401;La Ligua;Mixta;Mujer;A;3936
+13;Metropolitana de Santiago;13112;La Pintana;Urbana;Mujer;A;23833
+13;Metropolitana de Santiago;13113;La Reina;Urbana;Mujer;A;2371
+4;Coquimbo;4101;La Serena;Urbana;Mujer;A;19744
+14;Los Ríos;14201;La Unión;Rural;Mujer;A;4172
+14;Los Ríos;14203;Lago Ranco;Rural;Mujer;A;1951
+11;Aysén del General Carlos Ibáñez del Campo;11102;Lago Verde;Rural;Mujer;A;13
+12;Magallanes y de la Antártica Chilena;12102;Laguna Blanca;Rural;Mujer;A;2
+8;Biobío;8304;Laja;Mixta;Mujer;A;2672
+13;Metropolitana de Santiago;13302;Lampa;Urbana;Mujer;A;13355
+14;Los Ríos;14103;Lanco;Mixta;Mujer;A;2043
+6;Libertador General Bernardo O'Higgins;6107;Las Cabras;Rural;Mujer;A;2642
+13;Metropolitana de Santiago;13114;Las Condes;Urbana;Mujer;A;4768
+9;La Araucanía;9108;Lautaro;Mixta;Mujer;A;6401
+8;Biobío;8201;Lebu;Mixta;Mujer;A;3944
+7;Maule;7303;Licantén;Rural;Mujer;A;691
+5;Valparaíso;5802;Limache;Mixta;Mujer;A;2801
+7;Maule;7401;Linares;Urbana;Mujer;A;9623
+6;Libertador General Bernardo O'Higgins;6203;Litueche;Rural;Mujer;A;505
+5;Valparaíso;5703;Llaillay;Mixta;Mujer;A;2269
+10;Los Lagos;10107;Llanquihue;Rural;Mujer;A;1789
+13;Metropolitana de Santiago;13115;Lo Barnechea;Urbana;Mujer;A;2859
+13;Metropolitana de Santiago;13116;Lo Espejo;Urbana;Mujer;A;12148
+13;Metropolitana de Santiago;13117;Lo Prado;Urbana;Mujer;A;13541
+6;Libertador General Bernardo O'Higgins;6304;Lolol;Rural;Mujer;A;656
+9;La Araucanía;9109;Loncoche;Mixta;Mujer;A;3049
+7;Maule;7403;Longaví;Rural;Mujer;A;4680
+9;La Araucanía;9205;Lonquimay;Rural;Mujer;A;1641
+5;Valparaíso;5301;Los Andes;Urbana;Mujer;A;4302
+14;Los Ríos;14104;Los Lagos;Rural;Mujer;A;2734
+10;Los Lagos;10106;Los Muermos;Rural;Mujer;A;3088
+9;La Araucanía;9206;Los Sauces;Rural;Mujer;A;1140
+4;Coquimbo;4203;Los Vilos;Rural;Mujer;A;2419
+8;Biobío;8206;Los Alamos;Rural;Mujer;A;3726
+8;Biobío;8301;Los Angeles;Urbana;Mujer;A;22599
+8;Biobío;8106;Lota;Mixta;Mujer;A;4840
+9;La Araucanía;9207;Lumaco;Rural;Mujer;A;1782
+6;Libertador General Bernardo O'Higgins;6108;Machalí;Urbana;Mujer;A;2636
+13;Metropolitana de Santiago;13118;Macul;Urbana;Mujer;A;12222
+13;Metropolitana de Santiago;13119;Maipú;Urbana;Mujer;A;25649
+6;Libertador General Bernardo O'Higgins;6109;Malloa;Rural;Mujer;A;1391
+6;Libertador General Bernardo O'Higgins;6204;Marchihue;Rural;Mujer;A;429
+14;Los Ríos;14106;Mariquina;Rural;Mujer;A;3305
+2;Antofagasta;2302;María Elena;Rural;Mujer;A;280
+13;Metropolitana de Santiago;13504;María Pinto;Rural;Mujer;A;1647
+7;Maule;7105;Maule;Mixta;Mujer;A;5772
+10;Los Lagos;10108;Maullín;Rural;Mujer;A;2125
+2;Antofagasta;2102;Mejillones;Rural;Mujer;A;1337
+9;La Araucanía;9110;Melipeuco;Rural;Mujer;A;1337
+13;Metropolitana de Santiago;13501;Melipilla;Urbana;Mujer;A;14231
+7;Maule;7304;Molina;Mixta;Mujer;A;5272
+4;Coquimbo;4303;Monte Patria;Rural;Mujer;A;3770
+6;Libertador General Bernardo O'Higgins;6110;Mostazal;Mixta;Mujer;A;2080
+8;Biobío;8305;Mulchén;Mixta;Mujer;A;4054
+14;Los Ríos;14105;Máfil;Mixta;Mujer;A;1082
+8;Biobío;8306;Nacimiento;Mixta;Mujer;A;2680
+6;Libertador General Bernardo O'Higgins;6305;Nancagua;Mixta;Mujer;A;1659
+12;Magallanes y de la Antártica Chilena;12401;Natales;Rural;Mujer;A;2193
+6;Libertador General Bernardo O'Higgins;6205;Navidad;Rural;Mujer;A;1011
+8;Biobío;8307;Negrete;Rural;Mujer;A;1521
+16;Ñuble;16204;Ninhue;Rural;Mujer;A;734
+5;Valparaíso;5506;Nogales;Rural;Mujer;A;1838
+9;La Araucanía;9111;Nueva Imperial;Mixta;Mujer;A;7398
+11;Aysén del General Carlos Ibáñez del Campo;11302;O'Higgins;Rural;Mujer;A;17
+6;Libertador General Bernardo O'Higgins;6111;Olivar;Mixta;Mujer;A;1101
+2;Antofagasta;2202;Ollagüe;Rural;Mujer;A;5
+5;Valparaíso;5803;Olmué;Rural;Mujer;A;1700
+10;Los Lagos;10301;Osorno;Urbana;Mujer;A;17086
+4;Coquimbo;4301;Ovalle;Urbana;Mujer;A;10928
+13;Metropolitana de Santiago;13604;Padre Hurtado;Urbana;Mujer;A;6696
+9;La Araucanía;9112;Padre Las Casas;Mixta;Mujer;A;11408
+4;Coquimbo;4105;Paiguano;Rural;Mujer;A;310
+14;Los Ríos;14107;Paillaco;Rural;Mujer;A;2656
+13;Metropolitana de Santiago;13404;Paine;Mixta;Mujer;A;6803
+10;Los Lagos;10404;Palena;Rural;Mujer;A;132
+6;Libertador General Bernardo O'Higgins;6306;Palmilla;Rural;Mujer;A;842
+14;Los Ríos;14108;Panguipulli;Rural;Mujer;A;6592
+5;Valparaíso;5704;Panquehue;Rural;Mujer;A;603
+5;Valparaíso;5403;Papudo;Rural;Mujer;A;614
+6;Libertador General Bernardo O'Higgins;6206;Paredones;Rural;Mujer;A;739
+7;Maule;7404;Parral;Mixta;Mujer;A;5484
+13;Metropolitana de Santiago;13121;Pedro Aguirre Cerda;Urbana;Mujer;A;12071
+7;Maule;7106;Pelarco;Rural;Mujer;A;1357
+7;Maule;7203;Pelluhue;Rural;Mujer;A;1485
+16;Ñuble;16105;Pemuco;Rural;Mujer;A;1080
+7;Maule;7107;Pencahue;Rural;Mujer;A;1053
+8;Biobío;8107;Penco;Mixta;Mujer;A;5196
+6;Libertador General Bernardo O'Higgins;6307;Peralillo;Rural;Mujer;A;1235
+9;La Araucanía;9113;Perquenco;Rural;Mujer;A;964
+5;Valparaíso;5404;Petorca;Rural;Mujer;A;989
+6;Libertador General Bernardo O'Higgins;6112;Peumo;Mixta;Mujer;A;811
+13;Metropolitana de Santiago;13605;Peñaflor;Urbana;Mujer;A;7618
+13;Metropolitana de Santiago;13122;Peñalolén;Urbana;Mujer;A;22226
+1;Tarapacá;1405;Pica;Rural;Mujer;A;1401
+6;Libertador General Bernardo O'Higgins;6113;Pichidegua;Rural;Mujer;A;1496
+6;Libertador General Bernardo O'Higgins;6201;Pichilemu;Rural;Mujer;A;1017
+16;Ñuble;16106;Pinto;Rural;Mujer;A;1903
+13;Metropolitana de Santiago;13202;Pirque;Rural;Mujer;A;2203
+9;La Araucanía;9114;Pitrufquén;Mixta;Mujer;A;3512
+6;Libertador General Bernardo O'Higgins;6308;Placilla;Rural;Mujer;A;893
+16;Ñuble;16205;Portezuelo;Rural;Mujer;A;637
+12;Magallanes y de la Antártica Chilena;12301;Porvenir;Rural;Mujer;A;298
+1;Tarapacá;1401;Pozo Almonte;Rural;Mujer;A;3023
+12;Magallanes y de la Antártica Chilena;12302;Primavera;Rural;Mujer;A;2
+13;Metropolitana de Santiago;13123;Providencia;Urbana;Mujer;A;3400
+5;Valparaíso;5105;Puchuncaví;Mixta;Mujer;A;1988
+9;La Araucanía;9115;Pucón;Rural;Mujer;A;3867
+13;Metropolitana de Santiago;13124;Pudahuel;Urbana;Mujer;A;21167
+13;Metropolitana de Santiago;13201;Puente Alto;Urbana;Mujer;A;40699
+10;Los Lagos;10101;Puerto Montt;Urbana;Mujer;A;24382
+10;Los Lagos;10302;Puerto Octay;Rural;Mujer;A;915
+10;Los Lagos;10109;Puerto Varas;Mixta;Mujer;A;3852
+6;Libertador General Bernardo O'Higgins;6309;Pumanque;Rural;Mujer;A;459
+4;Coquimbo;4304;Punitaqui;Rural;Mujer;A;1965
+12;Magallanes y de la Antártica Chilena;12101;Punta Arenas;Urbana;Mujer;A;7024
+10;Los Lagos;10206;Puqueldón;Rural;Mujer;A;530
+10;Los Lagos;10303;Purranque;Rural;Mujer;A;2262
+9;La Araucanía;9208;Purén;Rural;Mujer;A;1689
+5;Valparaíso;5705;Putaendo;Mixta;Mujer;A;1625
+15;Arica y Parinacota;15201;Putre;Rural;Mujer;A;178
+10;Los Lagos;10304;Puyehue;Rural;Mujer;A;1462
+10;Los Lagos;10207;Queilén;Rural;Mujer;A;644
+10;Los Lagos;10208;Quellón;Mixta;Mujer;A;4528
+10;Los Lagos;10209;Quemchi;Rural;Mujer;A;1237
+8;Biobío;8308;Quilaco;Rural;Mujer;A;546
+13;Metropolitana de Santiago;13125;Quilicura;Urbana;Mujer;A;16625
+8;Biobío;8309;Quilleco;Rural;Mujer;A;1223
+5;Valparaíso;5501;Quillota;Urbana;Mujer;A;9186
+16;Ñuble;16107;Quillón;Mixta;Mujer;A;2478
+5;Valparaíso;5801;Quilpué;Urbana;Mujer;A;11001
+10;Los Lagos;10210;Quinchao;Rural;Mujer;A;1111
+6;Libertador General Bernardo O'Higgins;6114;Quinta de Tilcoco;Mixta;Mujer;A;1484
+13;Metropolitana de Santiago;13126;Quinta Normal;Urbana;Mujer;A;12874
+5;Valparaíso;5107;Quintero;Mixta;Mujer;A;2729
+16;Ñuble;16201;Quirihue;Mixta;Mujer;A;890
+6;Libertador General Bernardo O'Higgins;6101;Rancagua;Urbana;Mujer;A;19753
+16;Ñuble;16206;Ranquil;Rural;Mujer;A;782
+7;Maule;7305;Rauco;Rural;Mujer;A;993
+13;Metropolitana de Santiago;13127;Recoleta;Urbana;Mujer;A;18592
+9;La Araucanía;9209;Renaico;Mixta;Mujer;A;1510
+13;Metropolitana de Santiago;13128;Renca;Urbana;Mujer;A;16489
+6;Libertador General Bernardo O'Higgins;6115;Rengo;Urbana;Mujer;A;6046
+6;Libertador General Bernardo O'Higgins;6116;Requínoa;Mixta;Mujer;A;1732
+7;Maule;7405;Retiro;Rural;Mujer;A;3259
+5;Valparaíso;5303;Rinconada;Rural;Mujer;A;1088
+7;Maule;7306;Romeral;Mixta;Mujer;A;1437
+14;Los Ríos;14204;Río Bueno;Mixta;Mujer;A;3187
+7;Maule;7108;Río Claro;Rural;Mujer;A;1389
+4;Coquimbo;4305;Río Hurtado;Rural;Mujer;A;597
+11;Aysén del General Carlos Ibáñez del Campo;11402;Río Ibáñez;Rural;Mujer;A;83
+10;Los Lagos;10305;Río Negro;Rural;Mujer;A;1626
+9;La Araucanía;9116;Saavedra;Rural;Mujer;A;2633
+7;Maule;7307;Sagrada Familia;Rural;Mujer;A;1588
+4;Coquimbo;4204;Salamanca;Rural;Mujer;A;2438
+5;Valparaíso;5601;San Antonio;Urbana;Mujer;A;9030
+13;Metropolitana de Santiago;13401;San Bernardo;Urbana;Mujer;A;28874
+16;Ñuble;16301;San Carlos;Mixta;Mujer;A;6674
+7;Maule;7109;San Clemente;Rural;Mujer;A;6989
+5;Valparaíso;5304;San Esteban;Mixta;Mujer;A;1407
+16;Ñuble;16304;San Fabián;Rural;Mujer;A;686
+5;Valparaíso;5701;San Felipe;Urbana;Mujer;A;5814
+6;Libertador General Bernardo O'Higgins;6301;San Fernando;Urbana;Mujer;A;6359
+16;Ñuble;16108;San Ignacio;Rural;Mujer;A;2474
+7;Maule;7406;San Javier;Mixta;Mujer;A;5258
+13;Metropolitana de Santiago;13129;San Joaquín;Urbana;Mujer;A;10637
+13;Metropolitana de Santiago;13203;San José de Maipo;Rural;Mujer;A;1140
+10;Los Lagos;10306;San Juan de la Costa;Rural;Mujer;A;1755
+13;Metropolitana de Santiago;13130;San Miguel;Urbana;Mujer;A;10437
+16;Ñuble;16305;San Nicolás;Rural;Mujer;A;1494
+10;Los Lagos;10307;San Pablo;Rural;Mujer;A;1272
+13;Metropolitana de Santiago;13505;San Pedro;Rural;Mujer;A;2161
+2;Antofagasta;2203;San Pedro de Atacama;Rural;Mujer;A;1308
+8;Biobío;8108;San Pedro de la Paz;Urbana;Mujer;A;11590
+7;Maule;7110;San Rafael;Rural;Mujer;A;1375
+13;Metropolitana de Santiago;13131;San Ramón;Urbana;Mujer;A;10565
+8;Biobío;8310;San Rosendo;Rural;Mujer;A;564
+6;Libertador General Bernardo O'Higgins;6117;San Vicente;Mixta;Mujer;A;3755
+8;Biobío;8311;Santa Bárbara;Rural;Mujer;A;2026
+6;Libertador General Bernardo O'Higgins;6310;Santa Cruz;Mixta;Mujer;A;4014
+8;Biobío;8109;Santa Juana;Mixta;Mujer;A;1827
+5;Valparaíso;5706;Santa María;Mixta;Mujer;A;1326
+13;Metropolitana de Santiago;13101;Santiago;Urbana;Mujer;A;37956
+5;Valparaíso;5606;Santo Domingo;Rural;Mujer;A;685
+2;Antofagasta;2103;Sierra Gorda;Rural;Mujer;A;186
+13;Metropolitana de Santiago;13601;Talagante;Urbana;Mujer;A;4958
+7;Maule;7101;Talca;Urbana;Mujer;A;23980
+8;Biobío;8110;Talcahuano;Urbana;Mujer;A;10578
+2;Antofagasta;2104;Taltal;Rural;Mujer;A;865
+9;La Araucanía;9101;Temuco;Urbana;Mujer;A;28486
+7;Maule;7308;Teno;Rural;Mujer;A;2289
+9;La Araucanía;9117;Teodoro Schmidt;Rural;Mujer;A;2604
+3;Atacama;3103;Tierra Amarilla;Rural;Mujer;A;2231
+13;Metropolitana de Santiago;13303;Tiltil;Rural;Mujer;A;1703
+12;Magallanes y de la Antártica Chilena;12303;Timaukel;Rural;Mujer;A;1
+8;Biobío;8207;Tirúa;Rural;Mujer;A;2362
+2;Antofagasta;2301;Tocopilla;Rural;Mujer;A;2703
+9;La Araucanía;9118;Toltén;Rural;Mujer;A;1333
+8;Biobío;8111;Tomé;Urbana;Mujer;A;7150
+12;Magallanes y de la Antártica Chilena;12402;Torres del Paine;Rural;Mujer;A;1
+11;Aysén del General Carlos Ibáñez del Campo;11303;Tortel;Rural;Mujer;A;9
+9;La Araucanía;9210;Traiguén;Mixta;Mujer;A;2153
+16;Ñuble;16207;Treguaco;Rural;Mujer;A;704
+8;Biobío;8312;Tucapel;Rural;Mujer;A;2065
+14;Los Ríos;14101;Valdivia;Urbana;Mujer;A;12485
+3;Atacama;3301;Vallenar;Mixta;Mujer;A;6232
+5;Valparaíso;5101;Valparaíso;Urbana;Mujer;A;27509
+7;Maule;7309;Vichuquén;Rural;Mujer;A;493
+9;La Araucanía;9211;Victoria;Mixta;Mujer;A;5108
+4;Coquimbo;4106;Vicuña;Rural;Mujer;A;2351
+9;La Araucanía;9119;Vilcún;Rural;Mujer;A;4042
+7;Maule;7407;Villa Alegre;Mixta;Mujer;A;2077
+5;Valparaíso;5804;Villa Alemana;Urbana;Mujer;A;9182
+9;La Araucanía;9120;Villarrica;Mixta;Mujer;A;9505
+13;Metropolitana de Santiago;13132;Vitacura;Urbana;Mujer;A;699
+5;Valparaíso;5109;Viña del Mar;Urbana;Mujer;A;23677
+7;Maule;7408;Yerbas Buenas;Rural;Mujer;A;2646
+8;Biobío;8313;Yumbel;Mixta;Mujer;A;2596
+16;Ñuble;16109;Yungay;Mixta;Mujer;A;1165
+5;Valparaíso;5405;Zapallar;Rural;Mujer;A;711
+16;Ñuble;16303;Ñiquén;Rural;Mujer;A;1658
+13;Metropolitana de Santiago;13120;Ñuñoa;Urbana;Mujer;A;6327
+5;Valparaíso;5602;Algarrobo;Mixta;Mujer;B;4515
+13;Metropolitana de Santiago;13502;Alhué;Rural;Mujer;B;1969
+8;Biobío;8314;Alto Biobío;Rural;Mujer;B;1136
+3;Atacama;3302;Alto del Carmen;Rural;Mujer;B;1057
+1;Tarapacá;1107;Alto Hospicio;Urbana;Mujer;B;18162
+10;Los Lagos;10202;Ancud;Mixta;Mujer;B;9921
+4;Coquimbo;4103;Andacollo;Rural;Mujer;B;1443
+9;La Araucanía;9201;Angol;Urbana;Mujer;B;14188
+2;Antofagasta;2101;Antofagasta;Urbana;Mujer;B;66413
+8;Biobío;8302;Antuco;Rural;Mujer;B;1051
+12;Magallanes y de la Antártica Chilena;12202;Antártica;NA;Mujer;B;6
+8;Biobío;8202;Arauco;Rural;Mujer;B;6961
+15;Arica y Parinacota;15101;Arica;Urbana;Mujer;B;49692
+11;Aysén del General Carlos Ibáñez del Campo;11201;Aysén;Rural;Mujer;B;3641
+13;Metropolitana de Santiago;13402;Buin;Urbana;Mujer;B;23223
+16;Ñuble;16102;Bulnes;Rural;Mujer;B;4879
+5;Valparaíso;5402;Cabildo;Mixta;Mujer;B;3868
+12;Magallanes y de la Antártica Chilena;12201;Cabo de Hornos;Rural;Mujer;B;79
+8;Biobío;8303;Cabrero;Rural;Mujer;B;6897
+2;Antofagasta;2201;Calama;Urbana;Mujer;B;28245
+10;Los Lagos;10102;Calbuco;Mixta;Mujer;B;7022
+3;Atacama;3102;Caldera;Rural;Mujer;B;3704
+5;Valparaíso;5502;Calera;Urbana;Mujer;B;11228
+13;Metropolitana de Santiago;13403;Calera de Tango;Mixta;Mujer;B;4910
+5;Valparaíso;5302;Calle Larga;Mixta;Mujer;B;3285
+15;Arica y Parinacota;15102;Camarones;Rural;Mujer;B;23
+1;Tarapacá;1402;Camiña;Rural;Mujer;B;143
+4;Coquimbo;4202;Canela;Rural;Mujer;B;2441
+9;La Araucanía;9102;Carahue;Rural;Mujer;B;4284
+5;Valparaíso;5603;Cartagena;Mixta;Mujer;B;6315
+5;Valparaíso;5102;Casablanca;Mixta;Mujer;B;5690
+10;Los Lagos;10201;Castro;Mixta;Mujer;B;11275
+5;Valparaíso;5702;Catemu;Rural;Mujer;B;3493
+7;Maule;7201;Cauquenes;Rural;Mujer;B;11143
+8;Biobío;8203;Cañete;Rural;Mujer;B;6530
+13;Metropolitana de Santiago;13102;Cerrillos;Urbana;Mujer;B;13369
+13;Metropolitana de Santiago;13103;Cerro Navia;Urbana;Mujer;B;27083
+10;Los Lagos;10401;Chaitén;Rural;Mujer;B;440
+7;Maule;7202;Chanco;Rural;Mujer;B;1385
+3;Atacama;3201;Chañaral;Rural;Mujer;B;2482
+8;Biobío;8103;Chiguayante;Urbana;Mujer;B;17678
+11;Aysén del General Carlos Ibáñez del Campo;11401;Chile Chico;Rural;Mujer;B;886
+16;Ñuble;16101;Chillán;Urbana;Mujer;B;46397
+16;Ñuble;16103;Chillán Viejo;Mixta;Mujer;B;8754
+6;Libertador General Bernardo O'Higgins;6303;Chimbarongo;Rural;Mujer;B;7196
+9;La Araucanía;9121;Cholchol;Rural;Mujer;B;2451
+10;Los Lagos;10203;Chonchi;Rural;Mujer;B;3461
+6;Libertador General Bernardo O'Higgins;6302;Chépica;Mixta;Mujer;B;4006
+11;Aysén del General Carlos Ibáñez del Campo;11202;Cisnes;Rural;Mujer;B;797
+16;Ñuble;16202;Cobquecura;Rural;Mujer;B;1370
+10;Los Lagos;10103;Cochamó;Rural;Mujer;B;465
+11;Aysén del General Carlos Ibáñez del Campo;11301;Cochrane;Rural;Mujer;B;816
+6;Libertador General Bernardo O'Higgins;6102;Codegua;Mixta;Mujer;B;4351
+16;Ñuble;16203;Coelemu;Rural;Mujer;B;2475
+16;Ñuble;16302;Coihueco;Rural;Mujer;B;6443
+6;Libertador General Bernardo O'Higgins;6103;Coinco;Rural;Mujer;B;1066
+7;Maule;7402;Colbún;Rural;Mujer;B;6284
+1;Tarapacá;1403;Colchane;Rural;Mujer;B;157
+13;Metropolitana de Santiago;13301;Colina;Urbana;Mujer;B;23067
+9;La Araucanía;9202;Collipulli;Rural;Mujer;B;4388
+6;Libertador General Bernardo O'Higgins;6104;Coltauco;Mixta;Mujer;B;4911
+4;Coquimbo;4302;Combarbalá;Rural;Mujer;B;2469
+8;Biobío;8101;Concepción;Urbana;Mujer;B;50034
+13;Metropolitana de Santiago;13104;Conchalí;Urbana;Mujer;B;28248
+5;Valparaíso;5103;Concón;Mixta;Mujer;B;9961
+7;Maule;7102;Constitución;Mixta;Mujer;B;9364
+8;Biobío;8204;Contulmo;Rural;Mujer;B;1286
+3;Atacama;3101;Copiapó;Urbana;Mujer;B;29734
+4;Coquimbo;4102;Coquimbo;Urbana;Mujer;B;53072
+8;Biobío;8102;Coronel;Urbana;Mujer;B;23751
+14;Los Ríos;14102;Corral;Rural;Mujer;B;813
+11;Aysén del General Carlos Ibáñez del Campo;11101;Coyhaique;Urbana;Mujer;B;11863
+9;La Araucanía;9103;Cunco;Rural;Mujer;B;4023
+9;La Araucanía;9203;Curacautín;Mixta;Mujer;B;3397
+13;Metropolitana de Santiago;13503;Curacaví;Mixta;Mujer;B;6668
+10;Los Lagos;10204;Curaco de Vélez;Rural;Mujer;B;927
+8;Biobío;8205;Curanilahue;Mixta;Mujer;B;8100
+9;La Araucanía;9104;Curarrehue;Rural;Mujer;B;1850
+7;Maule;7103;Curepto;Rural;Mujer;B;1803
+7;Maule;7301;Curicó;Urbana;Mujer;B;37651
+10;Los Lagos;10205;Dalcahue;Rural;Mujer;B;3586
+3;Atacama;3202;Diego de Almagro;Rural;Mujer;B;1634
+6;Libertador General Bernardo O'Higgins;6105;Doñihue;Mixta;Mujer;B;6262
+13;Metropolitana de Santiago;13105;El Bosque;Urbana;Mujer;B;39177
+16;Ñuble;16104;El Carmen;Rural;Mujer;B;2685
+13;Metropolitana de Santiago;13602;El Monte;Mixta;Mujer;B;7531
+5;Valparaíso;5604;El Quisco;Mixta;Mujer;B;4988
+5;Valparaíso;5605;El Tabo;Mixta;Mujer;B;3983
+7;Maule;7104;Empedrado;Rural;Mujer;B;943
+9;La Araucanía;9204;Ercilla;Rural;Mujer;B;2060
+13;Metropolitana de Santiago;13106;Estación Central;Urbana;Mujer;B;23562
+8;Biobío;8104;Florida;Rural;Mujer;B;2099
+9;La Araucanía;9105;Freire;Rural;Mujer;B;5688
+3;Atacama;3303;Freirina;Rural;Mujer;B;1711
+10;Los Lagos;10104;Fresia;Rural;Mujer;B;2475
+10;Los Lagos;10105;Frutillar;Rural;Mujer;B;4840
+10;Los Lagos;10402;Futaleufú;Rural;Mujer;B;363
+14;Los Ríos;14202;Futrono;Rural;Mujer;B;4161
+9;La Araucanía;9106;Galvarino;Rural;Mujer;B;2201
+15;Arica y Parinacota;15202;General Lagos;Rural;Mujer;B;34
+9;La Araucanía;9107;Gorbea;Mixta;Mujer;B;3294
+6;Libertador General Bernardo O'Higgins;6106;Graneros;Mixta;Mujer;B;4153
+11;Aysén del General Carlos Ibáñez del Campo;11203;Guaitecas;Rural;Mujer;B;70
+5;Valparaíso;5503;Hijuelas;Mixta;Mujer;B;4519
+10;Los Lagos;10403;Hualaihué;Rural;Mujer;B;1281
+7;Maule;7302;Hualañé;Rural;Mujer;B;2426
+8;Biobío;8112;Hualpén;Urbana;Mujer;B;21181
+8;Biobío;8105;Hualqui;Mixta;Mujer;B;5434
+1;Tarapacá;1404;Huara;Rural;Mujer;B;474
+3;Atacama;3304;Huasco;Rural;Mujer;B;1909
+13;Metropolitana de Santiago;13107;Huechuraba;Urbana;Mujer;B;16897
+4;Coquimbo;4201;Illapel;Rural;Mujer;B;7384
+13;Metropolitana de Santiago;13108;Independencia;Urbana;Mujer;B;21358
+1;Tarapacá;1101;Iquique;Urbana;Mujer;B;39664
+13;Metropolitana de Santiago;13603;Isla de Maipo;Mixta;Mujer;B;8626
+5;Valparaíso;5201;Isla de Pascua;Rural;Mujer;B;605
+5;Valparaíso;5104;Juan Fernández;Rural;Mujer;B;116
+13;Metropolitana de Santiago;13109;La Cisterna;Urbana;Mujer;B;18155
+5;Valparaíso;5504;La Cruz;Mixta;Mujer;B;5481
+6;Libertador General Bernardo O'Higgins;6202;La Estrella;Rural;Mujer;B;1086
+13;Metropolitana de Santiago;13110;La Florida;Urbana;Mujer;B;84482
+13;Metropolitana de Santiago;13111;La Granja;Urbana;Mujer;B;29663
+4;Coquimbo;4104;La Higuera;Rural;Mujer;B;337
+5;Valparaíso;5401;La Ligua;Mixta;Mujer;B;9530
+13;Metropolitana de Santiago;13112;La Pintana;Urbana;Mujer;B;33105
+13;Metropolitana de Santiago;13113;La Reina;Urbana;Mujer;B;12899
+4;Coquimbo;4101;La Serena;Urbana;Mujer;B;52991
+14;Los Ríos;14201;La Unión;Rural;Mujer;B;9197
+14;Los Ríos;14203;Lago Ranco;Rural;Mujer;B;2772
+11;Aysén del General Carlos Ibáñez del Campo;11102;Lago Verde;Rural;Mujer;B;46
+12;Magallanes y de la Antártica Chilena;12102;Laguna Blanca;Rural;Mujer;B;2
+8;Biobío;8304;Laja;Mixta;Mujer;B;4881
+13;Metropolitana de Santiago;13302;Lampa;Urbana;Mujer;B;15390
+14;Los Ríos;14103;Lanco;Mixta;Mujer;B;3796
+6;Libertador General Bernardo O'Higgins;6107;Las Cabras;Rural;Mujer;B;6859
+13;Metropolitana de Santiago;13114;Las Condes;Urbana;Mujer;B;28004
+9;La Araucanía;9108;Lautaro;Mixta;Mujer;B;9847
+8;Biobío;8201;Lebu;Mixta;Mujer;B;5522
+7;Maule;7303;Licantén;Rural;Mujer;B;1559
+5;Valparaíso;5802;Limache;Mixta;Mujer;B;9568
+7;Maule;7401;Linares;Urbana;Mujer;B;23351
+6;Libertador General Bernardo O'Higgins;6203;Litueche;Rural;Mujer;B;1084
+5;Valparaíso;5703;Llaillay;Mixta;Mujer;B;4988
+10;Los Lagos;10107;Llanquihue;Rural;Mujer;B;4151
+13;Metropolitana de Santiago;13115;Lo Barnechea;Urbana;Mujer;B;11254
+13;Metropolitana de Santiago;13116;Lo Espejo;Urbana;Mujer;B;20833
+13;Metropolitana de Santiago;13117;Lo Prado;Urbana;Mujer;B;28247
+6;Libertador General Bernardo O'Higgins;6304;Lolol;Rural;Mujer;B;1884
+9;La Araucanía;9109;Loncoche;Mixta;Mujer;B;5243
+7;Maule;7403;Longaví;Rural;Mujer;B;7960
+9;La Araucanía;9205;Lonquimay;Rural;Mujer;B;1769
+5;Valparaíso;5301;Los Andes;Urbana;Mujer;B;13917
+14;Los Ríos;14104;Los Lagos;Rural;Mujer;B;4959
+10;Los Lagos;10106;Los Muermos;Rural;Mujer;B;4354
+9;La Araucanía;9206;Los Sauces;Rural;Mujer;B;1860
+4;Coquimbo;4203;Los Vilos;Rural;Mujer;B;3532
+8;Biobío;8206;Los Alamos;Rural;Mujer;B;5272
+8;Biobío;8301;Los Angeles;Urbana;Mujer;B;48364
+8;Biobío;8106;Lota;Mixta;Mujer;B;11913
+9;La Araucanía;9207;Lumaco;Rural;Mujer;B;2112
+6;Libertador General Bernardo O'Higgins;6108;Machalí;Urbana;Mujer;B;8342
+13;Metropolitana de Santiago;13118;Macul;Urbana;Mujer;B;28339
+13;Metropolitana de Santiago;13119;Maipú;Urbana;Mujer;B;83649
+6;Libertador General Bernardo O'Higgins;6109;Malloa;Rural;Mujer;B;3888
+6;Libertador General Bernardo O'Higgins;6204;Marchihue;Rural;Mujer;B;1443
+14;Los Ríos;14106;Mariquina;Rural;Mujer;B;5399
+2;Antofagasta;2302;María Elena;Rural;Mujer;B;319
+13;Metropolitana de Santiago;13504;María Pinto;Rural;Mujer;B;3833
+7;Maule;7105;Maule;Mixta;Mujer;B;7483
+10;Los Lagos;10108;Maullín;Rural;Mujer;B;3029
+2;Antofagasta;2102;Mejillones;Rural;Mujer;B;1086
+9;La Araucanía;9110;Melipeuco;Rural;Mujer;B;1712
+13;Metropolitana de Santiago;13501;Melipilla;Urbana;Mujer;B;30539
+7;Maule;7304;Molina;Mixta;Mujer;B;11560
+4;Coquimbo;4303;Monte Patria;Rural;Mujer;B;7594
+6;Libertador General Bernardo O'Higgins;6110;Mostazal;Mixta;Mujer;B;6565
+8;Biobío;8305;Mulchén;Mixta;Mujer;B;7211
+14;Los Ríos;14105;Máfil;Mixta;Mujer;B;2097
+8;Biobío;8306;Nacimiento;Mixta;Mujer;B;5078
+6;Libertador General Bernardo O'Higgins;6305;Nancagua;Mixta;Mujer;B;4010
+12;Magallanes y de la Antártica Chilena;12401;Natales;Rural;Mujer;B;5240
+6;Libertador General Bernardo O'Higgins;6205;Navidad;Rural;Mujer;B;1937
+8;Biobío;8307;Negrete;Rural;Mujer;B;2600
+16;Ñuble;16204;Ninhue;Rural;Mujer;B;1638
+5;Valparaíso;5506;Nogales;Rural;Mujer;B;4925
+9;La Araucanía;9111;Nueva Imperial;Mixta;Mujer;B;8846
+11;Aysén del General Carlos Ibáñez del Campo;11302;O'Higgins;Rural;Mujer;B;18
+6;Libertador General Bernardo O'Higgins;6111;Olivar;Mixta;Mujer;B;3457
+2;Antofagasta;2202;Ollagüe;Rural;Mujer;B;11
+5;Valparaíso;5803;Olmué;Rural;Mujer;B;5263
+10;Los Lagos;10301;Osorno;Urbana;Mujer;B;38274
+4;Coquimbo;4301;Ovalle;Urbana;Mujer;B;28302
+13;Metropolitana de Santiago;13604;Padre Hurtado;Urbana;Mujer;B;12358
+9;La Araucanía;9112;Padre Las Casas;Mixta;Mujer;B;17580
+4;Coquimbo;4105;Paiguano;Rural;Mujer;B;809
+14;Los Ríos;14107;Paillaco;Rural;Mujer;B;5448
+13;Metropolitana de Santiago;13404;Paine;Mixta;Mujer;B;16915
+10;Los Lagos;10404;Palena;Rural;Mujer;B;290
+6;Libertador General Bernardo O'Higgins;6306;Palmilla;Rural;Mujer;B;3241
+14;Los Ríos;14108;Panguipulli;Rural;Mujer;B;8586
+5;Valparaíso;5704;Panquehue;Rural;Mujer;B;2019
+5;Valparaíso;5403;Papudo;Rural;Mujer;B;1565
+6;Libertador General Bernardo O'Higgins;6206;Paredones;Rural;Mujer;B;2019
+7;Maule;7404;Parral;Mixta;Mujer;B;11324
+13;Metropolitana de Santiago;13121;Pedro Aguirre Cerda;Urbana;Mujer;B;24947
+7;Maule;7106;Pelarco;Rural;Mujer;B;2697
+7;Maule;7203;Pelluhue;Rural;Mujer;B;1969
+16;Ñuble;16105;Pemuco;Rural;Mujer;B;2233
+7;Maule;7107;Pencahue;Rural;Mujer;B;2258
+8;Biobío;8107;Penco;Mixta;Mujer;B;11172
+6;Libertador General Bernardo O'Higgins;6307;Peralillo;Rural;Mujer;B;3507
+9;La Araucanía;9113;Perquenco;Rural;Mujer;B;1544
+5;Valparaíso;5404;Petorca;Rural;Mujer;B;2645
+6;Libertador General Bernardo O'Higgins;6112;Peumo;Mixta;Mujer;B;2922
+13;Metropolitana de Santiago;13605;Peñaflor;Urbana;Mujer;B;19279
+13;Metropolitana de Santiago;13122;Peñalolén;Urbana;Mujer;B;48359
+1;Tarapacá;1405;Pica;Rural;Mujer;B;1241
+6;Libertador General Bernardo O'Higgins;6113;Pichidegua;Rural;Mujer;B;4979
+6;Libertador General Bernardo O'Higgins;6201;Pichilemu;Rural;Mujer;B;2847
+16;Ñuble;16106;Pinto;Rural;Mujer;B;3377
+13;Metropolitana de Santiago;13202;Pirque;Rural;Mujer;B;5767
+9;La Araucanía;9114;Pitrufquén;Mixta;Mujer;B;6919
+6;Libertador General Bernardo O'Higgins;6308;Placilla;Rural;Mujer;B;2657
+16;Ñuble;16205;Portezuelo;Rural;Mujer;B;1425
+12;Magallanes y de la Antártica Chilena;12301;Porvenir;Rural;Mujer;B;918
+1;Tarapacá;1401;Pozo Almonte;Rural;Mujer;B;2758
+12;Magallanes y de la Antártica Chilena;12302;Primavera;Rural;Mujer;B;6
+13;Metropolitana de Santiago;13123;Providencia;Urbana;Mujer;B;22714
+5;Valparaíso;5105;Puchuncaví;Mixta;Mujer;B;5018
+9;La Araucanía;9115;Pucón;Rural;Mujer;B;8081
+13;Metropolitana de Santiago;13124;Pudahuel;Urbana;Mujer;B;44983
+13;Metropolitana de Santiago;13201;Puente Alto;Urbana;Mujer;B;99624
+10;Los Lagos;10101;Puerto Montt;Urbana;Mujer;B;53237
+10;Los Lagos;10302;Puerto Octay;Rural;Mujer;B;1867
+10;Los Lagos;10109;Puerto Varas;Mixta;Mujer;B;10323
+6;Libertador General Bernardo O'Higgins;6309;Pumanque;Rural;Mujer;B;1144
+4;Coquimbo;4304;Punitaqui;Rural;Mujer;B;3086
+12;Magallanes y de la Antártica Chilena;12101;Punta Arenas;Urbana;Mujer;B;27759
+10;Los Lagos;10206;Puqueldón;Rural;Mujer;B;807
+10;Los Lagos;10303;Purranque;Rural;Mujer;B;5695
+9;La Araucanía;9208;Purén;Rural;Mujer;B;1791
+5;Valparaíso;5705;Putaendo;Mixta;Mujer;B;4700
+15;Arica y Parinacota;15201;Putre;Rural;Mujer;B;111
+10;Los Lagos;10304;Puyehue;Rural;Mujer;B;3237
+10;Los Lagos;10207;Queilén;Rural;Mujer;B;975
+10;Los Lagos;10208;Quellón;Mixta;Mujer;B;5322
+10;Los Lagos;10209;Quemchi;Rural;Mujer;B;1822
+8;Biobío;8308;Quilaco;Rural;Mujer;B;1041
+13;Metropolitana de Santiago;13125;Quilicura;Urbana;Mujer;B;34996
+8;Biobío;8309;Quilleco;Rural;Mujer;B;2353
+5;Valparaíso;5501;Quillota;Urbana;Mujer;B;23459
+16;Ñuble;16107;Quillón;Mixta;Mujer;B;4901
+5;Valparaíso;5801;Quilpué;Urbana;Mujer;B;34135
+10;Los Lagos;10210;Quinchao;Rural;Mujer;B;1546
+6;Libertador General Bernardo O'Higgins;6114;Quinta de Tilcoco;Mixta;Mujer;B;3636
+13;Metropolitana de Santiago;13126;Quinta Normal;Urbana;Mujer;B;22849
+5;Valparaíso;5107;Quintero;Mixta;Mujer;B;5771
+16;Ñuble;16201;Quirihue;Mixta;Mujer;B;1892
+6;Libertador General Bernardo O'Higgins;6101;Rancagua;Urbana;Mujer;B;56753
+16;Ñuble;16206;Ranquil;Rural;Mujer;B;1524
+7;Maule;7305;Rauco;Rural;Mujer;B;3001
+13;Metropolitana de Santiago;13127;Recoleta;Urbana;Mujer;B;31225
+9;La Araucanía;9209;Renaico;Mixta;Mujer;B;2722
+13;Metropolitana de Santiago;13128;Renca;Urbana;Mujer;B;29047
+6;Libertador General Bernardo O'Higgins;6115;Rengo;Urbana;Mujer;B;15798
+6;Libertador General Bernardo O'Higgins;6116;Requínoa;Mixta;Mujer;B;6836
+7;Maule;7405;Retiro;Rural;Mujer;B;5352
+5;Valparaíso;5303;Rinconada;Rural;Mujer;B;2980
+7;Maule;7306;Romeral;Mixta;Mujer;B;4171
+14;Los Ríos;14204;Río Bueno;Mixta;Mujer;B;7717
+7;Maule;7108;Río Claro;Rural;Mujer;B;3156
+4;Coquimbo;4305;Río Hurtado;Rural;Mujer;B;1159
+11;Aysén del General Carlos Ibáñez del Campo;11402;Río Ibáñez;Rural;Mujer;B;198
+10;Los Lagos;10305;Río Negro;Rural;Mujer;B;3607
+9;La Araucanía;9116;Saavedra;Rural;Mujer;B;2788
+7;Maule;7307;Sagrada Familia;Rural;Mujer;B;5026
+4;Coquimbo;4204;Salamanca;Rural;Mujer;B;4579
+5;Valparaíso;5601;San Antonio;Urbana;Mujer;B;21885
+13;Metropolitana de Santiago;13401;San Bernardo;Urbana;Mujer;B;57141
+16;Ñuble;16301;San Carlos;Mixta;Mujer;B;14935
+7;Maule;7109;San Clemente;Rural;Mujer;B;9788
+5;Valparaíso;5304;San Esteban;Mixta;Mujer;B;4177
+16;Ñuble;16304;San Fabián;Rural;Mujer;B;1316
+5;Valparaíso;5701;San Felipe;Urbana;Mujer;B;18809
+6;Libertador General Bernardo O'Higgins;6301;San Fernando;Urbana;Mujer;B;21349
+12;Magallanes y de la Antártica Chilena;12104;San Gregorio;Rural;Mujer;B;9
+16;Ñuble;16108;San Ignacio;Rural;Mujer;B;4696
+7;Maule;7406;San Javier;Mixta;Mujer;B;11780
+13;Metropolitana de Santiago;13129;San Joaquín;Urbana;Mujer;B;21535
+13;Metropolitana de Santiago;13203;San José de Maipo;Rural;Mujer;B;2780
+10;Los Lagos;10306;San Juan de la Costa;Rural;Mujer;B;1950
+13;Metropolitana de Santiago;13130;San Miguel;Urbana;Mujer;B;23706
+16;Ñuble;16305;San Nicolás;Rural;Mujer;B;3458
+10;Los Lagos;10307;San Pablo;Rural;Mujer;B;2701
+13;Metropolitana de Santiago;13505;San Pedro;Rural;Mujer;B;2598
+2;Antofagasta;2203;San Pedro de Atacama;Rural;Mujer;B;2179
+8;Biobío;8108;San Pedro de la Paz;Urbana;Mujer;B;23657
+7;Maule;7110;San Rafael;Rural;Mujer;B;2658
+13;Metropolitana de Santiago;13131;San Ramón;Urbana;Mujer;B;18002
+8;Biobío;8310;San Rosendo;Rural;Mujer;B;956
+6;Libertador General Bernardo O'Higgins;6117;San Vicente;Mixta;Mujer;B;12869
+8;Biobío;8311;Santa Bárbara;Rural;Mujer;B;3973
+6;Libertador General Bernardo O'Higgins;6310;Santa Cruz;Mixta;Mujer;B;11784
+8;Biobío;8109;Santa Juana;Mixta;Mujer;B;2419
+5;Valparaíso;5706;Santa María;Mixta;Mujer;B;4195
+13;Metropolitana de Santiago;13101;Santiago;Urbana;Mujer;B;65983
+5;Valparaíso;5606;Santo Domingo;Rural;Mujer;B;2824
+2;Antofagasta;2103;Sierra Gorda;Rural;Mujer;B;97
+13;Metropolitana de Santiago;13601;Talagante;Urbana;Mujer;B;14946
+7;Maule;7101;Talca;Urbana;Mujer;B;57605
+8;Biobío;8110;Talcahuano;Urbana;Mujer;B;33179
+2;Antofagasta;2104;Taltal;Rural;Mujer;B;1306
+9;La Araucanía;9101;Temuco;Urbana;Mujer;B;62621
+7;Maule;7308;Teno;Rural;Mujer;B;7069
+9;La Araucanía;9117;Teodoro Schmidt;Rural;Mujer;B;3327
+3;Atacama;3103;Tierra Amarilla;Rural;Mujer;B;2774
+13;Metropolitana de Santiago;13303;Tiltil;Rural;Mujer;B;3283
+12;Magallanes y de la Antártica Chilena;12303;Timaukel;Rural;Mujer;B;1
+8;Biobío;8207;Tirúa;Rural;Mujer;B;2319
+2;Antofagasta;2301;Tocopilla;Rural;Mujer;B;2722
+9;La Araucanía;9118;Toltén;Rural;Mujer;B;2078
+8;Biobío;8111;Tomé;Urbana;Mujer;B;14214
+12;Magallanes y de la Antártica Chilena;12402;Torres del Paine;Rural;Mujer;B;7
+11;Aysén del General Carlos Ibáñez del Campo;11303;Tortel;Rural;Mujer;B;3
+9;La Araucanía;9210;Traiguén;Mixta;Mujer;B;3370
+16;Ñuble;16207;Treguaco;Rural;Mujer;B;1430
+8;Biobío;8312;Tucapel;Rural;Mujer;B;3906
+14;Los Ríos;14101;Valdivia;Urbana;Mujer;B;38050
+3;Atacama;3301;Vallenar;Mixta;Mujer;B;10457
+5;Valparaíso;5101;Valparaíso;Urbana;Mujer;B;68963
+7;Maule;7309;Vichuquén;Rural;Mujer;B;1182
+9;La Araucanía;9211;Victoria;Mixta;Mujer;B;9215
+4;Coquimbo;4106;Vicuña;Rural;Mujer;B;5668
+9;La Araucanía;9119;Vilcún;Rural;Mujer;B;6238
+7;Maule;7407;Villa Alegre;Mixta;Mujer;B;4864
+5;Valparaíso;5804;Villa Alemana;Urbana;Mujer;B;29869
+9;La Araucanía;9120;Villarrica;Mixta;Mujer;B;16205
+13;Metropolitana de Santiago;13132;Vitacura;Urbana;Mujer;B;6781
+5;Valparaíso;5109;Viña del Mar;Urbana;Mujer;B;73213
+7;Maule;7408;Yerbas Buenas;Rural;Mujer;B;4883
+8;Biobío;8313;Yumbel;Mixta;Mujer;B;4799
+16;Ñuble;16109;Yungay;Mixta;Mujer;B;3100
+5;Valparaíso;5405;Zapallar;Rural;Mujer;B;2283
+16;Ñuble;16303;Ñiquén;Rural;Mujer;B;2986
+13;Metropolitana de Santiago;13120;Ñuñoa;Urbana;Mujer;B;29019
+5;Valparaíso;5602;Algarrobo;Mixta;Mujer;C;1274
+13;Metropolitana de Santiago;13502;Alhué;Rural;Mujer;C;603
+8;Biobío;8314;Alto Biobío;Rural;Mujer;C;298
+3;Atacama;3302;Alto del Carmen;Rural;Mujer;C;242
+1;Tarapacá;1107;Alto Hospicio;Urbana;Mujer;C;8002
+10;Los Lagos;10202;Ancud;Mixta;Mujer;C;2716
+4;Coquimbo;4103;Andacollo;Rural;Mujer;C;464
+9;La Araucanía;9201;Angol;Urbana;Mujer;C;3891
+2;Antofagasta;2101;Antofagasta;Urbana;Mujer;C;31245
+8;Biobío;8302;Antuco;Rural;Mujer;C;267
+12;Magallanes y de la Antártica Chilena;12202;Antártica;NA;Mujer;C;5
+8;Biobío;8202;Arauco;Rural;Mujer;C;2292
+15;Arica y Parinacota;15101;Arica;Urbana;Mujer;C;15266
+11;Aysén del General Carlos Ibáñez del Campo;11201;Aysén;Rural;Mujer;C;1177
+13;Metropolitana de Santiago;13402;Buin;Urbana;Mujer;C;7797
+16;Ñuble;16102;Bulnes;Rural;Mujer;C;1376
+5;Valparaíso;5402;Cabildo;Mixta;Mujer;C;1248
+12;Magallanes y de la Antártica Chilena;12201;Cabo de Hornos;Rural;Mujer;C;15
+8;Biobío;8303;Cabrero;Rural;Mujer;C;2454
+2;Antofagasta;2201;Calama;Urbana;Mujer;C;13509
+10;Los Lagos;10102;Calbuco;Mixta;Mujer;C;2009
+3;Atacama;3102;Caldera;Rural;Mujer;C;1341
+5;Valparaíso;5502;Calera;Urbana;Mujer;C;3557
+13;Metropolitana de Santiago;13403;Calera de Tango;Mixta;Mujer;C;1807
+5;Valparaíso;5302;Calle Larga;Mixta;Mujer;C;1137
+15;Arica y Parinacota;15102;Camarones;Rural;Mujer;C;12
+1;Tarapacá;1402;Camiña;Rural;Mujer;C;35
+4;Coquimbo;4202;Canela;Rural;Mujer;C;547
+9;La Araucanía;9102;Carahue;Rural;Mujer;C;867
+5;Valparaíso;5603;Cartagena;Mixta;Mujer;C;1726
+5;Valparaíso;5102;Casablanca;Mixta;Mujer;C;2177
+10;Los Lagos;10201;Castro;Mixta;Mujer;C;3818
+5;Valparaíso;5702;Catemu;Rural;Mujer;C;1032
+7;Maule;7201;Cauquenes;Rural;Mujer;C;2513
+8;Biobío;8203;Cañete;Rural;Mujer;C;1491
+13;Metropolitana de Santiago;13102;Cerrillos;Urbana;Mujer;C;5132
+13;Metropolitana de Santiago;13103;Cerro Navia;Urbana;Mujer;C;10170
+10;Los Lagos;10401;Chaitén;Rural;Mujer;C;101
+7;Maule;7202;Chanco;Rural;Mujer;C;387
+3;Atacama;3201;Chañaral;Rural;Mujer;C;1025
+8;Biobío;8103;Chiguayante;Urbana;Mujer;C;6003
+11;Aysén del General Carlos Ibáñez del Campo;11401;Chile Chico;Rural;Mujer;C;287
+16;Ñuble;16101;Chillán;Urbana;Mujer;C;13872
+16;Ñuble;16103;Chillán Viejo;Mixta;Mujer;C;2862
+6;Libertador General Bernardo O'Higgins;6303;Chimbarongo;Rural;Mujer;C;1995
+9;La Araucanía;9121;Cholchol;Rural;Mujer;C;689
+10;Los Lagos;10203;Chonchi;Rural;Mujer;C;919
+6;Libertador General Bernardo O'Higgins;6302;Chépica;Mixta;Mujer;C;984
+11;Aysén del General Carlos Ibáñez del Campo;11202;Cisnes;Rural;Mujer;C;265
+16;Ñuble;16202;Cobquecura;Rural;Mujer;C;300
+10;Los Lagos;10103;Cochamó;Rural;Mujer;C;69
+11;Aysén del General Carlos Ibáñez del Campo;11301;Cochrane;Rural;Mujer;C;189
+6;Libertador General Bernardo O'Higgins;6102;Codegua;Mixta;Mujer;C;1456
+16;Ñuble;16203;Coelemu;Rural;Mujer;C;688
+16;Ñuble;16302;Coihueco;Rural;Mujer;C;1868
+6;Libertador General Bernardo O'Higgins;6103;Coinco;Rural;Mujer;C;250
+7;Maule;7402;Colbún;Rural;Mujer;C;1804
+1;Tarapacá;1403;Colchane;Rural;Mujer;C;41
+13;Metropolitana de Santiago;13301;Colina;Urbana;Mujer;C;9408
+9;La Araucanía;9202;Collipulli;Rural;Mujer;C;1195
+6;Libertador General Bernardo O'Higgins;6104;Coltauco;Mixta;Mujer;C;1385
+4;Coquimbo;4302;Combarbalá;Rural;Mujer;C;545
+8;Biobío;8101;Concepción;Urbana;Mujer;C;17142
+13;Metropolitana de Santiago;13104;Conchalí;Urbana;Mujer;C;10406
+5;Valparaíso;5103;Concón;Mixta;Mujer;C;3541
+7;Maule;7102;Constitución;Mixta;Mujer;C;3482
+8;Biobío;8204;Contulmo;Rural;Mujer;C;259
+3;Atacama;3101;Copiapó;Urbana;Mujer;C;12247
+4;Coquimbo;4102;Coquimbo;Urbana;Mujer;C;18699
+8;Biobío;8102;Coronel;Urbana;Mujer;C;8045
+14;Los Ríos;14102;Corral;Rural;Mujer;C;200
+11;Aysén del General Carlos Ibáñez del Campo;11101;Coyhaique;Urbana;Mujer;C;4271
+9;La Araucanía;9103;Cunco;Rural;Mujer;C;1054
+9;La Araucanía;9203;Curacautín;Mixta;Mujer;C;726
+13;Metropolitana de Santiago;13503;Curacaví;Mixta;Mujer;C;1997
+10;Los Lagos;10204;Curaco de Vélez;Rural;Mujer;C;242
+8;Biobío;8205;Curanilahue;Mixta;Mujer;C;1912
+9;La Araucanía;9104;Curarrehue;Rural;Mujer;C;553
+7;Maule;7103;Curepto;Rural;Mujer;C;352
+7;Maule;7301;Curicó;Urbana;Mujer;C;12281
+10;Los Lagos;10205;Dalcahue;Rural;Mujer;C;1075
+3;Atacama;3202;Diego de Almagro;Rural;Mujer;C;957
+6;Libertador General Bernardo O'Higgins;6105;Doñihue;Mixta;Mujer;C;1807
+13;Metropolitana de Santiago;13105;El Bosque;Urbana;Mujer;C;13901
+16;Ñuble;16104;El Carmen;Rural;Mujer;C;484
+13;Metropolitana de Santiago;13602;El Monte;Mixta;Mujer;C;2748
+5;Valparaíso;5604;El Quisco;Mixta;Mujer;C;1326
+5;Valparaíso;5605;El Tabo;Mixta;Mujer;C;970
+7;Maule;7104;Empedrado;Rural;Mujer;C;288
+9;La Araucanía;9204;Ercilla;Rural;Mujer;C;437
+13;Metropolitana de Santiago;13106;Estación Central;Urbana;Mujer;C;11358
+8;Biobío;8104;Florida;Rural;Mujer;C;604
+9;La Araucanía;9105;Freire;Rural;Mujer;C;1667
+3;Atacama;3303;Freirina;Rural;Mujer;C;564
+10;Los Lagos;10104;Fresia;Rural;Mujer;C;499
+10;Los Lagos;10105;Frutillar;Rural;Mujer;C;1684
+10;Los Lagos;10402;Futaleufú;Rural;Mujer;C;119
+14;Los Ríos;14202;Futrono;Rural;Mujer;C;1160
+9;La Araucanía;9106;Galvarino;Rural;Mujer;C;478
+15;Arica y Parinacota;15202;General Lagos;Rural;Mujer;C;5
+9;La Araucanía;9107;Gorbea;Mixta;Mujer;C;875
+6;Libertador General Bernardo O'Higgins;6106;Graneros;Mixta;Mujer;C;1397
+11;Aysén del General Carlos Ibáñez del Campo;11203;Guaitecas;Rural;Mujer;C;23
+5;Valparaíso;5503;Hijuelas;Mixta;Mujer;C;1553
+10;Los Lagos;10403;Hualaihué;Rural;Mujer;C;382
+7;Maule;7302;Hualañé;Rural;Mujer;C;472
+8;Biobío;8112;Hualpén;Urbana;Mujer;C;7684
+8;Biobío;8105;Hualqui;Mixta;Mujer;C;1689
+1;Tarapacá;1404;Huara;Rural;Mujer;C;145
+3;Atacama;3304;Huasco;Rural;Mujer;C;686
+13;Metropolitana de Santiago;13107;Huechuraba;Urbana;Mujer;C;6268
+4;Coquimbo;4201;Illapel;Rural;Mujer;C;2330
+13;Metropolitana de Santiago;13108;Independencia;Urbana;Mujer;C;10130
+1;Tarapacá;1101;Iquique;Urbana;Mujer;C;16753
+13;Metropolitana de Santiago;13603;Isla de Maipo;Mixta;Mujer;C;2782
+5;Valparaíso;5201;Isla de Pascua;Rural;Mujer;C;290
+5;Valparaíso;5104;Juan Fernández;Rural;Mujer;C;16
+13;Metropolitana de Santiago;13109;La Cisterna;Urbana;Mujer;C;6865
+5;Valparaíso;5504;La Cruz;Mixta;Mujer;C;1848
+6;Libertador General Bernardo O'Higgins;6202;La Estrella;Rural;Mujer;C;292
+13;Metropolitana de Santiago;13110;La Florida;Urbana;Mujer;C;29365
+13;Metropolitana de Santiago;13111;La Granja;Urbana;Mujer;C;10657
+4;Coquimbo;4104;La Higuera;Rural;Mujer;C;81
+5;Valparaíso;5401;La Ligua;Mixta;Mujer;C;2624
+13;Metropolitana de Santiago;13112;La Pintana;Urbana;Mujer;C;11979
+13;Metropolitana de Santiago;13113;La Reina;Urbana;Mujer;C;4291
+4;Coquimbo;4101;La Serena;Urbana;Mujer;C;19920
+14;Los Ríos;14201;La Unión;Rural;Mujer;C;2434
+14;Los Ríos;14203;Lago Ranco;Rural;Mujer;C;726
+11;Aysén del General Carlos Ibáñez del Campo;11102;Lago Verde;Rural;Mujer;C;13
+12;Magallanes y de la Antártica Chilena;12102;Laguna Blanca;Rural;Mujer;C;3
+8;Biobío;8304;Laja;Mixta;Mujer;C;1644
+13;Metropolitana de Santiago;13302;Lampa;Urbana;Mujer;C;6721
+14;Los Ríos;14103;Lanco;Mixta;Mujer;C;1026
+6;Libertador General Bernardo O'Higgins;6107;Las Cabras;Rural;Mujer;C;1705
+13;Metropolitana de Santiago;13114;Las Condes;Urbana;Mujer;C;9456
+9;La Araucanía;9108;Lautaro;Mixta;Mujer;C;3141
+8;Biobío;8201;Lebu;Mixta;Mujer;C;1058
+7;Maule;7303;Licantén;Rural;Mujer;C;394
+5;Valparaíso;5802;Limache;Mixta;Mujer;C;2994
+7;Maule;7401;Linares;Urbana;Mujer;C;6733
+6;Libertador General Bernardo O'Higgins;6203;Litueche;Rural;Mujer;C;283
+5;Valparaíso;5703;Llaillay;Mixta;Mujer;C;1644
+10;Los Lagos;10107;Llanquihue;Rural;Mujer;C;1508
+13;Metropolitana de Santiago;13115;Lo Barnechea;Urbana;Mujer;C;5147
+13;Metropolitana de Santiago;13116;Lo Espejo;Urbana;Mujer;C;7458
+13;Metropolitana de Santiago;13117;Lo Prado;Urbana;Mujer;C;10250
+6;Libertador General Bernardo O'Higgins;6304;Lolol;Rural;Mujer;C;324
+9;La Araucanía;9109;Loncoche;Mixta;Mujer;C;1287
+7;Maule;7403;Longaví;Rural;Mujer;C;2185
+9;La Araucanía;9205;Lonquimay;Rural;Mujer;C;305
+5;Valparaíso;5301;Los Andes;Urbana;Mujer;C;5037
+14;Los Ríos;14104;Los Lagos;Rural;Mujer;C;1392
+10;Los Lagos;10106;Los Muermos;Rural;Mujer;C;1015
+9;La Araucanía;9206;Los Sauces;Rural;Mujer;C;457
+4;Coquimbo;4203;Los Vilos;Rural;Mujer;C;946
+8;Biobío;8206;Los Alamos;Rural;Mujer;C;1197
+8;Biobío;8301;Los Angeles;Urbana;Mujer;C;16672
+8;Biobío;8106;Lota;Mixta;Mujer;C;2805
+9;La Araucanía;9207;Lumaco;Rural;Mujer;C;508
+6;Libertador General Bernardo O'Higgins;6108;Machalí;Urbana;Mujer;C;2884
+13;Metropolitana de Santiago;13118;Macul;Urbana;Mujer;C;9898
+13;Metropolitana de Santiago;13119;Maipú;Urbana;Mujer;C;31900
+6;Libertador General Bernardo O'Higgins;6109;Malloa;Rural;Mujer;C;985
+6;Libertador General Bernardo O'Higgins;6204;Marchihue;Rural;Mujer;C;451
+14;Los Ríos;14106;Mariquina;Rural;Mujer;C;1654
+2;Antofagasta;2302;María Elena;Rural;Mujer;C;256
+13;Metropolitana de Santiago;13504;María Pinto;Rural;Mujer;C;1200
+7;Maule;7105;Maule;Mixta;Mujer;C;2384
+10;Los Lagos;10108;Maullín;Rural;Mujer;C;747
+2;Antofagasta;2102;Mejillones;Rural;Mujer;C;875
+9;La Araucanía;9110;Melipeuco;Rural;Mujer;C;351
+13;Metropolitana de Santiago;13501;Melipilla;Urbana;Mujer;C;8641
+7;Maule;7304;Molina;Mixta;Mujer;C;3562
+4;Coquimbo;4303;Monte Patria;Rural;Mujer;C;2067
+6;Libertador General Bernardo O'Higgins;6110;Mostazal;Mixta;Mujer;C;2153
+8;Biobío;8305;Mulchén;Mixta;Mujer;C;1883
+14;Los Ríos;14105;Máfil;Mixta;Mujer;C;642
+8;Biobío;8306;Nacimiento;Mixta;Mujer;C;1890
+6;Libertador General Bernardo O'Higgins;6305;Nancagua;Mixta;Mujer;C;1136
+12;Magallanes y de la Antártica Chilena;12401;Natales;Rural;Mujer;C;2061
+6;Libertador General Bernardo O'Higgins;6205;Navidad;Rural;Mujer;C;473
+8;Biobío;8307;Negrete;Rural;Mujer;C;702
+16;Ñuble;16204;Ninhue;Rural;Mujer;C;281
+5;Valparaíso;5506;Nogales;Rural;Mujer;C;1755
+9;La Araucanía;9111;Nueva Imperial;Mixta;Mujer;C;2190
+11;Aysén del General Carlos Ibáñez del Campo;11302;O'Higgins;Rural;Mujer;C;7
+6;Libertador General Bernardo O'Higgins;6111;Olivar;Mixta;Mujer;C;1043
+5;Valparaíso;5803;Olmué;Rural;Mujer;C;1465
+10;Los Lagos;10301;Osorno;Urbana;Mujer;C;11946
+4;Coquimbo;4301;Ovalle;Urbana;Mujer;C;9219
+13;Metropolitana de Santiago;13604;Padre Hurtado;Urbana;Mujer;C;5008
+9;La Araucanía;9112;Padre Las Casas;Mixta;Mujer;C;5621
+4;Coquimbo;4105;Paiguano;Rural;Mujer;C;269
+14;Los Ríos;14107;Paillaco;Rural;Mujer;C;1486
+13;Metropolitana de Santiago;13404;Paine;Mixta;Mujer;C;5626
+10;Los Lagos;10404;Palena;Rural;Mujer;C;81
+6;Libertador General Bernardo O'Higgins;6306;Palmilla;Rural;Mujer;C;871
+14;Los Ríos;14108;Panguipulli;Rural;Mujer;C;2681
+5;Valparaíso;5704;Panquehue;Rural;Mujer;C;636
+5;Valparaíso;5403;Papudo;Rural;Mujer;C;575
+6;Libertador General Bernardo O'Higgins;6206;Paredones;Rural;Mujer;C;392
+7;Maule;7404;Parral;Mixta;Mujer;C;2799
+13;Metropolitana de Santiago;13121;Pedro Aguirre Cerda;Urbana;Mujer;C;8343
+7;Maule;7106;Pelarco;Rural;Mujer;C;776
+7;Maule;7203;Pelluhue;Rural;Mujer;C;430
+16;Ñuble;16105;Pemuco;Rural;Mujer;C;485
+7;Maule;7107;Pencahue;Rural;Mujer;C;602
+8;Biobío;8107;Penco;Mixta;Mujer;C;3744
+6;Libertador General Bernardo O'Higgins;6307;Peralillo;Rural;Mujer;C;985
+9;La Araucanía;9113;Perquenco;Rural;Mujer;C;415
+5;Valparaíso;5404;Petorca;Rural;Mujer;C;557
+6;Libertador General Bernardo O'Higgins;6112;Peumo;Mixta;Mujer;C;819
+13;Metropolitana de Santiago;13605;Peñaflor;Urbana;Mujer;C;6841
+13;Metropolitana de Santiago;13122;Peñalolén;Urbana;Mujer;C;16889
+1;Tarapacá;1405;Pica;Rural;Mujer;C;580
+6;Libertador General Bernardo O'Higgins;6113;Pichidegua;Rural;Mujer;C;1167
+6;Libertador General Bernardo O'Higgins;6201;Pichilemu;Rural;Mujer;C;907
+16;Ñuble;16106;Pinto;Rural;Mujer;C;832
+13;Metropolitana de Santiago;13202;Pirque;Rural;Mujer;C;2000
+9;La Araucanía;9114;Pitrufquén;Mixta;Mujer;C;1817
+6;Libertador General Bernardo O'Higgins;6308;Placilla;Rural;Mujer;C;689
+16;Ñuble;16205;Portezuelo;Rural;Mujer;C;289
+12;Magallanes y de la Antártica Chilena;12301;Porvenir;Rural;Mujer;C;317
+1;Tarapacá;1401;Pozo Almonte;Rural;Mujer;C;1306
+12;Magallanes y de la Antártica Chilena;12302;Primavera;Rural;Mujer;C;5
+13;Metropolitana de Santiago;13123;Providencia;Urbana;Mujer;C;7032
+5;Valparaíso;5105;Puchuncaví;Mixta;Mujer;C;1599
+9;La Araucanía;9115;Pucón;Rural;Mujer;C;3006
+13;Metropolitana de Santiago;13124;Pudahuel;Urbana;Mujer;C;17141
+13;Metropolitana de Santiago;13201;Puente Alto;Urbana;Mujer;C;37624
+10;Los Lagos;10101;Puerto Montt;Urbana;Mujer;C;19682
+10;Los Lagos;10302;Puerto Octay;Rural;Mujer;C;486
+10;Los Lagos;10109;Puerto Varas;Mixta;Mujer;C;3981
+6;Libertador General Bernardo O'Higgins;6309;Pumanque;Rural;Mujer;C;269
+4;Coquimbo;4304;Punitaqui;Rural;Mujer;C;817
+12;Magallanes y de la Antártica Chilena;12101;Punta Arenas;Urbana;Mujer;C;9566
+10;Los Lagos;10206;Puqueldón;Rural;Mujer;C;145
+10;Los Lagos;10303;Purranque;Rural;Mujer;C;1503
+9;La Araucanía;9208;Purén;Rural;Mujer;C;288
+5;Valparaíso;5705;Putaendo;Mixta;Mujer;C;1074
+15;Arica y Parinacota;15201;Putre;Rural;Mujer;C;27
+10;Los Lagos;10304;Puyehue;Rural;Mujer;C;1045
+10;Los Lagos;10207;Queilén;Rural;Mujer;C;202
+10;Los Lagos;10208;Quellón;Mixta;Mujer;C;1849
+10;Los Lagos;10209;Quemchi;Rural;Mujer;C;378
+8;Biobío;8308;Quilaco;Rural;Mujer;C;226
+13;Metropolitana de Santiago;13125;Quilicura;Urbana;Mujer;C;16628
+8;Biobío;8309;Quilleco;Rural;Mujer;C;646
+5;Valparaíso;5501;Quillota;Urbana;Mujer;C;7522
+16;Ñuble;16107;Quillón;Mixta;Mujer;C;1254
+5;Valparaíso;5801;Quilpué;Urbana;Mujer;C;11145
+10;Los Lagos;10210;Quinchao;Rural;Mujer;C;338
+6;Libertador General Bernardo O'Higgins;6114;Quinta de Tilcoco;Mixta;Mujer;C;1018
+13;Metropolitana de Santiago;13126;Quinta Normal;Urbana;Mujer;C;9418
+5;Valparaíso;5107;Quintero;Mixta;Mujer;C;1844
+16;Ñuble;16201;Quirihue;Mixta;Mujer;C;516
+6;Libertador General Bernardo O'Higgins;6101;Rancagua;Urbana;Mujer;C;19819
+16;Ñuble;16206;Ranquil;Rural;Mujer;C;323
+7;Maule;7305;Rauco;Rural;Mujer;C;782
+13;Metropolitana de Santiago;13127;Recoleta;Urbana;Mujer;C;12416
+9;La Araucanía;9209;Renaico;Mixta;Mujer;C;796
+13;Metropolitana de Santiago;13128;Renca;Urbana;Mujer;C;11651
+6;Libertador General Bernardo O'Higgins;6115;Rengo;Urbana;Mujer;C;4673
+6;Libertador General Bernardo O'Higgins;6116;Requínoa;Mixta;Mujer;C;2333
+7;Maule;7405;Retiro;Rural;Mujer;C;1370
+5;Valparaíso;5303;Rinconada;Rural;Mujer;C;772
+7;Maule;7306;Romeral;Mixta;Mujer;C;1453
+14;Los Ríos;14204;Río Bueno;Mixta;Mujer;C;2001
+7;Maule;7108;Río Claro;Rural;Mujer;C;1038
+4;Coquimbo;4305;Río Hurtado;Rural;Mujer;C;196
+11;Aysén del General Carlos Ibáñez del Campo;11402;Río Ibáñez;Rural;Mujer;C;44
+10;Los Lagos;10305;Río Negro;Rural;Mujer;C;884
+12;Magallanes y de la Antártica Chilena;12103;Río Verde;Rural;Mujer;C;2
+9;La Araucanía;9116;Saavedra;Rural;Mujer;C;502
+7;Maule;7307;Sagrada Familia;Rural;Mujer;C;1384
+4;Coquimbo;4204;Salamanca;Rural;Mujer;C;1438
+5;Valparaíso;5601;San Antonio;Urbana;Mujer;C;6639
+13;Metropolitana de Santiago;13401;San Bernardo;Urbana;Mujer;C;21434
+16;Ñuble;16301;San Carlos;Mixta;Mujer;C;3470
+7;Maule;7109;San Clemente;Rural;Mujer;C;2853
+5;Valparaíso;5304;San Esteban;Mixta;Mujer;C;1462
+16;Ñuble;16304;San Fabián;Rural;Mujer;C;303
+5;Valparaíso;5701;San Felipe;Urbana;Mujer;C;5535
+6;Libertador General Bernardo O'Higgins;6301;San Fernando;Urbana;Mujer;C;6222
+12;Magallanes y de la Antártica Chilena;12104;San Gregorio;Rural;Mujer;C;5
+16;Ñuble;16108;San Ignacio;Rural;Mujer;C;899
+7;Maule;7406;San Javier;Mixta;Mujer;C;3081
+13;Metropolitana de Santiago;13129;San Joaquín;Urbana;Mujer;C;7484
+13;Metropolitana de Santiago;13203;San José de Maipo;Rural;Mujer;C;854
+10;Los Lagos;10306;San Juan de la Costa;Rural;Mujer;C;358
+13;Metropolitana de Santiago;13130;San Miguel;Urbana;Mujer;C;9389
+16;Ñuble;16305;San Nicolás;Rural;Mujer;C;977
+10;Los Lagos;10307;San Pablo;Rural;Mujer;C;717
+13;Metropolitana de Santiago;13505;San Pedro;Rural;Mujer;C;721
+2;Antofagasta;2203;San Pedro de Atacama;Rural;Mujer;C;1072
+8;Biobío;8108;San Pedro de la Paz;Urbana;Mujer;C;8713
+7;Maule;7110;San Rafael;Rural;Mujer;C;877
+13;Metropolitana de Santiago;13131;San Ramón;Urbana;Mujer;C;5965
+8;Biobío;8310;San Rosendo;Rural;Mujer;C;264
+6;Libertador General Bernardo O'Higgins;6117;San Vicente;Mixta;Mujer;C;3727
+8;Biobío;8311;Santa Bárbara;Rural;Mujer;C;969
+6;Libertador General Bernardo O'Higgins;6310;Santa Cruz;Mixta;Mujer;C;3242
+8;Biobío;8109;Santa Juana;Mixta;Mujer;C;729
+5;Valparaíso;5706;Santa María;Mixta;Mujer;C;1235
+13;Metropolitana de Santiago;13101;Santiago;Urbana;Mujer;C;32570
+5;Valparaíso;5606;Santo Domingo;Rural;Mujer;C;1046
+2;Antofagasta;2103;Sierra Gorda;Rural;Mujer;C;75
+13;Metropolitana de Santiago;13601;Talagante;Urbana;Mujer;C;5499
+7;Maule;7101;Talca;Urbana;Mujer;C;17981
+8;Biobío;8110;Talcahuano;Urbana;Mujer;C;10623
+2;Antofagasta;2104;Taltal;Rural;Mujer;C;644
+9;La Araucanía;9101;Temuco;Urbana;Mujer;C;20071
+7;Maule;7308;Teno;Rural;Mujer;C;2122
+9;La Araucanía;9117;Teodoro Schmidt;Rural;Mujer;C;690
+3;Atacama;3103;Tierra Amarilla;Rural;Mujer;C;1143
+13;Metropolitana de Santiago;13303;Tiltil;Rural;Mujer;C;1306
+8;Biobío;8207;Tirúa;Rural;Mujer;C;429
+2;Antofagasta;2301;Tocopilla;Rural;Mujer;C;1206
+9;La Araucanía;9118;Toltén;Rural;Mujer;C;442
+8;Biobío;8111;Tomé;Urbana;Mujer;C;3614
+12;Magallanes y de la Antártica Chilena;12402;Torres del Paine;Rural;Mujer;C;2
+11;Aysén del General Carlos Ibáñez del Campo;11303;Tortel;Rural;Mujer;C;6
+9;La Araucanía;9210;Traiguén;Mixta;Mujer;C;751
+16;Ñuble;16207;Treguaco;Rural;Mujer;C;365
+8;Biobío;8312;Tucapel;Rural;Mujer;C;1011
+14;Los Ríos;14101;Valdivia;Urbana;Mujer;C;12102
+3;Atacama;3301;Vallenar;Mixta;Mujer;C;3861
+5;Valparaíso;5101;Valparaíso;Urbana;Mujer;C;21799
+7;Maule;7309;Vichuquén;Rural;Mujer;C;262
+9;La Araucanía;9211;Victoria;Mixta;Mujer;C;2652
+4;Coquimbo;4106;Vicuña;Rural;Mujer;C;1564
+9;La Araucanía;9119;Vilcún;Rural;Mujer;C;1864
+7;Maule;7407;Villa Alegre;Mixta;Mujer;C;1226
+5;Valparaíso;5804;Villa Alemana;Urbana;Mujer;C;9720
+9;La Araucanía;9120;Villarrica;Mixta;Mujer;C;5209
+13;Metropolitana de Santiago;13132;Vitacura;Urbana;Mujer;C;2773
+5;Valparaíso;5109;Viña del Mar;Urbana;Mujer;C;23224
+7;Maule;7408;Yerbas Buenas;Rural;Mujer;C;1375
+8;Biobío;8313;Yumbel;Mixta;Mujer;C;1232
+16;Ñuble;16109;Yungay;Mixta;Mujer;C;942
+5;Valparaíso;5405;Zapallar;Rural;Mujer;C;827
+16;Ñuble;16303;Ñiquén;Rural;Mujer;C;566
+13;Metropolitana de Santiago;13120;Ñuñoa;Urbana;Mujer;C;9168
+5;Valparaíso;5602;Algarrobo;Mixta;Mujer;D;1526
+13;Metropolitana de Santiago;13502;Alhué;Rural;Mujer;D;885
+8;Biobío;8314;Alto Biobío;Rural;Mujer;D;313
+3;Atacama;3302;Alto del Carmen;Rural;Mujer;D;437
+1;Tarapacá;1107;Alto Hospicio;Urbana;Mujer;D;8892
+10;Los Lagos;10202;Ancud;Mixta;Mujer;D;3771
+4;Coquimbo;4103;Andacollo;Rural;Mujer;D;685
+9;La Araucanía;9201;Angol;Urbana;Mujer;D;4821
+2;Antofagasta;2101;Antofagasta;Urbana;Mujer;D;44693
+8;Biobío;8302;Antuco;Rural;Mujer;D;379
+12;Magallanes y de la Antártica Chilena;12202;Antártica;NA;Mujer;D;6
+8;Biobío;8202;Arauco;Rural;Mujer;D;3135
+15;Arica y Parinacota;15101;Arica;Urbana;Mujer;D;20264
+11;Aysén del General Carlos Ibáñez del Campo;11201;Aysén;Rural;Mujer;D;2043
+13;Metropolitana de Santiago;13402;Buin;Urbana;Mujer;D;10718
+16;Ñuble;16102;Bulnes;Rural;Mujer;D;1548
+5;Valparaíso;5402;Cabildo;Mixta;Mujer;D;1463
+12;Magallanes y de la Antártica Chilena;12201;Cabo de Hornos;Rural;Mujer;D;62
+8;Biobío;8303;Cabrero;Rural;Mujer;D;2693
+2;Antofagasta;2201;Calama;Urbana;Mujer;D;21895
+10;Los Lagos;10102;Calbuco;Mixta;Mujer;D;3769
+3;Atacama;3102;Caldera;Rural;Mujer;D;2041
+5;Valparaíso;5502;Calera;Urbana;Mujer;D;4279
+13;Metropolitana de Santiago;13403;Calera de Tango;Mixta;Mujer;D;1942
+5;Valparaíso;5302;Calle Larga;Mixta;Mujer;D;1660
+15;Arica y Parinacota;15102;Camarones;Rural;Mujer;D;9
+1;Tarapacá;1402;Camiña;Rural;Mujer;D;65
+4;Coquimbo;4202;Canela;Rural;Mujer;D;795
+9;La Araucanía;9102;Carahue;Rural;Mujer;D;1164
+5;Valparaíso;5603;Cartagena;Mixta;Mujer;D;1885
+5;Valparaíso;5102;Casablanca;Mixta;Mujer;D;2658
+10;Los Lagos;10201;Castro;Mixta;Mujer;D;5155
+5;Valparaíso;5702;Catemu;Rural;Mujer;D;1438
+7;Maule;7201;Cauquenes;Rural;Mujer;D;2708
+8;Biobío;8203;Cañete;Rural;Mujer;D;1837
+13;Metropolitana de Santiago;13102;Cerrillos;Urbana;Mujer;D;7199
+13;Metropolitana de Santiago;13103;Cerro Navia;Urbana;Mujer;D;12376
+10;Los Lagos;10401;Chaitén;Rural;Mujer;D;168
+7;Maule;7202;Chanco;Rural;Mujer;D;308
+3;Atacama;3201;Chañaral;Rural;Mujer;D;1327
+8;Biobío;8103;Chiguayante;Urbana;Mujer;D;8140
+11;Aysén del General Carlos Ibáñez del Campo;11401;Chile Chico;Rural;Mujer;D;456
+16;Ñuble;16101;Chillán;Urbana;Mujer;D;17963
+16;Ñuble;16103;Chillán Viejo;Mixta;Mujer;D;3495
+6;Libertador General Bernardo O'Higgins;6303;Chimbarongo;Rural;Mujer;D;2232
+9;La Araucanía;9121;Cholchol;Rural;Mujer;D;693
+10;Los Lagos;10203;Chonchi;Rural;Mujer;D;1794
+6;Libertador General Bernardo O'Higgins;6302;Chépica;Mixta;Mujer;D;999
+11;Aysén del General Carlos Ibáñez del Campo;11202;Cisnes;Rural;Mujer;D;426
+16;Ñuble;16202;Cobquecura;Rural;Mujer;D;354
+10;Los Lagos;10103;Cochamó;Rural;Mujer;D;116
+11;Aysén del General Carlos Ibáñez del Campo;11301;Cochrane;Rural;Mujer;D;365
+6;Libertador General Bernardo O'Higgins;6102;Codegua;Mixta;Mujer;D;1947
+16;Ñuble;16203;Coelemu;Rural;Mujer;D;822
+16;Ñuble;16302;Coihueco;Rural;Mujer;D;1822
+6;Libertador General Bernardo O'Higgins;6103;Coinco;Rural;Mujer;D;372
+7;Maule;7402;Colbún;Rural;Mujer;D;1945
+1;Tarapacá;1403;Colchane;Rural;Mujer;D;76
+13;Metropolitana de Santiago;13301;Colina;Urbana;Mujer;D;11543
+9;La Araucanía;9202;Collipulli;Rural;Mujer;D;1347
+6;Libertador General Bernardo O'Higgins;6104;Coltauco;Mixta;Mujer;D;1818
+4;Coquimbo;4302;Combarbalá;Rural;Mujer;D;715
+8;Biobío;8101;Concepción;Urbana;Mujer;D;23941
+13;Metropolitana de Santiago;13104;Conchalí;Urbana;Mujer;D;14169
+5;Valparaíso;5103;Concón;Mixta;Mujer;D;4229
+7;Maule;7102;Constitución;Mixta;Mujer;D;3612
+8;Biobío;8204;Contulmo;Rural;Mujer;D;316
+3;Atacama;3101;Copiapó;Urbana;Mujer;D;18632
+4;Coquimbo;4102;Coquimbo;Urbana;Mujer;D;24636
+8;Biobío;8102;Coronel;Urbana;Mujer;D;10729
+14;Los Ríos;14102;Corral;Rural;Mujer;D;273
+11;Aysén del General Carlos Ibáñez del Campo;11101;Coyhaique;Urbana;Mujer;D;5699
+9;La Araucanía;9103;Cunco;Rural;Mujer;D;1052
+9;La Araucanía;9203;Curacautín;Mixta;Mujer;D;943
+13;Metropolitana de Santiago;13503;Curacaví;Mixta;Mujer;D;2560
+10;Los Lagos;10204;Curaco de Vélez;Rural;Mujer;D;377
+8;Biobío;8205;Curanilahue;Mixta;Mujer;D;2662
+9;La Araucanía;9104;Curarrehue;Rural;Mujer;D;550
+7;Maule;7103;Curepto;Rural;Mujer;D;459
+7;Maule;7301;Curicó;Urbana;Mujer;D;15952
+10;Los Lagos;10205;Dalcahue;Rural;Mujer;D;1325
+3;Atacama;3202;Diego de Almagro;Rural;Mujer;D;1495
+6;Libertador General Bernardo O'Higgins;6105;Doñihue;Mixta;Mujer;D;2671
+13;Metropolitana de Santiago;13105;El Bosque;Urbana;Mujer;D;17147
+16;Ñuble;16104;El Carmen;Rural;Mujer;D;507
+13;Metropolitana de Santiago;13602;El Monte;Mixta;Mujer;D;3424
+5;Valparaíso;5604;El Quisco;Mixta;Mujer;D;1502
+5;Valparaíso;5605;El Tabo;Mixta;Mujer;D;1200
+7;Maule;7104;Empedrado;Rural;Mujer;D;243
+9;La Araucanía;9204;Ercilla;Rural;Mujer;D;429
+13;Metropolitana de Santiago;13106;Estación Central;Urbana;Mujer;D;14433
+8;Biobío;8104;Florida;Rural;Mujer;D;589
+9;La Araucanía;9105;Freire;Rural;Mujer;D;1710
+3;Atacama;3303;Freirina;Rural;Mujer;D;855
+10;Los Lagos;10104;Fresia;Rural;Mujer;D;705
+10;Los Lagos;10105;Frutillar;Rural;Mujer;D;2003
+10;Los Lagos;10402;Futaleufú;Rural;Mujer;D;137
+14;Los Ríos;14202;Futrono;Rural;Mujer;D;1340
+9;La Araucanía;9106;Galvarino;Rural;Mujer;D;572
+15;Arica y Parinacota;15202;General Lagos;Rural;Mujer;D;10
+9;La Araucanía;9107;Gorbea;Mixta;Mujer;D;883
+6;Libertador General Bernardo O'Higgins;6106;Graneros;Mixta;Mujer;D;2019
+11;Aysén del General Carlos Ibáñez del Campo;11203;Guaitecas;Rural;Mujer;D;26
+5;Valparaíso;5503;Hijuelas;Mixta;Mujer;D;1833
+10;Los Lagos;10403;Hualaihué;Rural;Mujer;D;585
+7;Maule;7302;Hualañé;Rural;Mujer;D;669
+8;Biobío;8112;Hualpén;Urbana;Mujer;D;10437
+8;Biobío;8105;Hualqui;Mixta;Mujer;D;1995
+1;Tarapacá;1404;Huara;Rural;Mujer;D;204
+3;Atacama;3304;Huasco;Rural;Mujer;D;1096
+13;Metropolitana de Santiago;13107;Huechuraba;Urbana;Mujer;D;8249
+4;Coquimbo;4201;Illapel;Rural;Mujer;D;2986
+13;Metropolitana de Santiago;13108;Independencia;Urbana;Mujer;D;12424
+1;Tarapacá;1101;Iquique;Urbana;Mujer;D;20889
+13;Metropolitana de Santiago;13603;Isla de Maipo;Mixta;Mujer;D;3234
+5;Valparaíso;5201;Isla de Pascua;Rural;Mujer;D;534
+5;Valparaíso;5104;Juan Fernández;Rural;Mujer;D;62
+13;Metropolitana de Santiago;13109;La Cisterna;Urbana;Mujer;D;9675
+5;Valparaíso;5504;La Cruz;Mixta;Mujer;D;2680
+6;Libertador General Bernardo O'Higgins;6202;La Estrella;Rural;Mujer;D;313
+13;Metropolitana de Santiago;13110;La Florida;Urbana;Mujer;D;43872
+13;Metropolitana de Santiago;13111;La Granja;Urbana;Mujer;D;14057
+4;Coquimbo;4104;La Higuera;Rural;Mujer;D;138
+5;Valparaíso;5401;La Ligua;Mixta;Mujer;D;3007
+13;Metropolitana de Santiago;13112;La Pintana;Urbana;Mujer;D;13608
+13;Metropolitana de Santiago;13113;La Reina;Urbana;Mujer;D;6702
+4;Coquimbo;4101;La Serena;Urbana;Mujer;D;28785
+14;Los Ríos;14201;La Unión;Rural;Mujer;D;3076
+14;Los Ríos;14203;Lago Ranco;Rural;Mujer;D;824
+11;Aysén del General Carlos Ibáñez del Campo;11102;Lago Verde;Rural;Mujer;D;17
+12;Magallanes y de la Antártica Chilena;12102;Laguna Blanca;Rural;Mujer;D;6
+8;Biobío;8304;Laja;Mixta;Mujer;D;2100
+13;Metropolitana de Santiago;13302;Lampa;Urbana;Mujer;D;8097
+14;Los Ríos;14103;Lanco;Mixta;Mujer;D;1247
+6;Libertador General Bernardo O'Higgins;6107;Las Cabras;Rural;Mujer;D;2285
+13;Metropolitana de Santiago;13114;Las Condes;Urbana;Mujer;D;15621
+9;La Araucanía;9108;Lautaro;Mixta;Mujer;D;3635
+8;Biobío;8201;Lebu;Mixta;Mujer;D;1613
+7;Maule;7303;Licantén;Rural;Mujer;D;415
+5;Valparaíso;5802;Limache;Mixta;Mujer;D;3174
+7;Maule;7401;Linares;Urbana;Mujer;D;8224
+6;Libertador General Bernardo O'Higgins;6203;Litueche;Rural;Mujer;D;363
+5;Valparaíso;5703;Llaillay;Mixta;Mujer;D;2285
+10;Los Lagos;10107;Llanquihue;Rural;Mujer;D;2098
+13;Metropolitana de Santiago;13115;Lo Barnechea;Urbana;Mujer;D;6519
+13;Metropolitana de Santiago;13116;Lo Espejo;Urbana;Mujer;D;8970
+13;Metropolitana de Santiago;13117;Lo Prado;Urbana;Mujer;D;13571
+6;Libertador General Bernardo O'Higgins;6304;Lolol;Rural;Mujer;D;388
+9;La Araucanía;9109;Loncoche;Mixta;Mujer;D;1505
+7;Maule;7403;Longaví;Rural;Mujer;D;2079
+9;La Araucanía;9205;Lonquimay;Rural;Mujer;D;394
+5;Valparaíso;5301;Los Andes;Urbana;Mujer;D;6862
+14;Los Ríos;14104;Los Lagos;Rural;Mujer;D;1720
+10;Los Lagos;10106;Los Muermos;Rural;Mujer;D;1351
+9;La Araucanía;9206;Los Sauces;Rural;Mujer;D;456
+4;Coquimbo;4203;Los Vilos;Rural;Mujer;D;1345
+8;Biobío;8206;Los Alamos;Rural;Mujer;D;1517
+8;Biobío;8301;Los Angeles;Urbana;Mujer;D;19670
+8;Biobío;8106;Lota;Mixta;Mujer;D;3513
+9;La Araucanía;9207;Lumaco;Rural;Mujer;D;613
+6;Libertador General Bernardo O'Higgins;6108;Machalí;Urbana;Mujer;D;4262
+13;Metropolitana de Santiago;13118;Macul;Urbana;Mujer;D;16387
+13;Metropolitana de Santiago;13119;Maipú;Urbana;Mujer;D;50509
+6;Libertador General Bernardo O'Higgins;6109;Malloa;Rural;Mujer;D;1235
+6;Libertador General Bernardo O'Higgins;6204;Marchihue;Rural;Mujer;D;463
+14;Los Ríos;14106;Mariquina;Rural;Mujer;D;1824
+2;Antofagasta;2302;María Elena;Rural;Mujer;D;397
+13;Metropolitana de Santiago;13504;María Pinto;Rural;Mujer;D;1378
+7;Maule;7105;Maule;Mixta;Mujer;D;2850
+10;Los Lagos;10108;Maullín;Rural;Mujer;D;930
+2;Antofagasta;2102;Mejillones;Rural;Mujer;D;1118
+9;La Araucanía;9110;Melipeuco;Rural;Mujer;D;505
+13;Metropolitana de Santiago;13501;Melipilla;Urbana;Mujer;D;11128
+7;Maule;7304;Molina;Mixta;Mujer;D;4351
+4;Coquimbo;4303;Monte Patria;Rural;Mujer;D;2769
+6;Libertador General Bernardo O'Higgins;6110;Mostazal;Mixta;Mujer;D;2619
+8;Biobío;8305;Mulchén;Mixta;Mujer;D;2270
+14;Los Ríos;14105;Máfil;Mixta;Mujer;D;829
+8;Biobío;8306;Nacimiento;Mixta;Mujer;D;2341
+6;Libertador General Bernardo O'Higgins;6305;Nancagua;Mixta;Mujer;D;1166
+12;Magallanes y de la Antártica Chilena;12401;Natales;Rural;Mujer;D;3165
+6;Libertador General Bernardo O'Higgins;6205;Navidad;Rural;Mujer;D;673
+8;Biobío;8307;Negrete;Rural;Mujer;D;787
+16;Ñuble;16204;Ninhue;Rural;Mujer;D;339
+5;Valparaíso;5506;Nogales;Rural;Mujer;D;2509
+9;La Araucanía;9111;Nueva Imperial;Mixta;Mujer;D;2514
+11;Aysén del General Carlos Ibáñez del Campo;11302;O'Higgins;Rural;Mujer;D;15
+6;Libertador General Bernardo O'Higgins;6111;Olivar;Mixta;Mujer;D;1251
+2;Antofagasta;2202;Ollagüe;Rural;Mujer;D;11
+5;Valparaíso;5803;Olmué;Rural;Mujer;D;1528
+10;Los Lagos;10301;Osorno;Urbana;Mujer;D;15057
+4;Coquimbo;4301;Ovalle;Urbana;Mujer;D;11660
+13;Metropolitana de Santiago;13604;Padre Hurtado;Urbana;Mujer;D;6763
+9;La Araucanía;9112;Padre Las Casas;Mixta;Mujer;D;6502
+4;Coquimbo;4105;Paiguano;Rural;Mujer;D;300
+14;Los Ríos;14107;Paillaco;Rural;Mujer;D;1650
+13;Metropolitana de Santiago;13404;Paine;Mixta;Mujer;D;7060
+10;Los Lagos;10404;Palena;Rural;Mujer;D;114
+6;Libertador General Bernardo O'Higgins;6306;Palmilla;Rural;Mujer;D;1059
+14;Los Ríos;14108;Panguipulli;Rural;Mujer;D;2823
+5;Valparaíso;5704;Panquehue;Rural;Mujer;D;711
+5;Valparaíso;5403;Papudo;Rural;Mujer;D;587
+6;Libertador General Bernardo O'Higgins;6206;Paredones;Rural;Mujer;D;383
+7;Maule;7404;Parral;Mixta;Mujer;D;3168
+13;Metropolitana de Santiago;13121;Pedro Aguirre Cerda;Urbana;Mujer;D;11139
+7;Maule;7106;Pelarco;Rural;Mujer;D;828
+7;Maule;7203;Pelluhue;Rural;Mujer;D;666
+16;Ñuble;16105;Pemuco;Rural;Mujer;D;597
+7;Maule;7107;Pencahue;Rural;Mujer;D;728
+8;Biobío;8107;Penco;Mixta;Mujer;D;4586
+6;Libertador General Bernardo O'Higgins;6307;Peralillo;Rural;Mujer;D;1073
+9;La Araucanía;9113;Perquenco;Rural;Mujer;D;409
+5;Valparaíso;5404;Petorca;Rural;Mujer;D;842
+6;Libertador General Bernardo O'Higgins;6112;Peumo;Mixta;Mujer;D;1114
+13;Metropolitana de Santiago;13605;Peñaflor;Urbana;Mujer;D;9534
+13;Metropolitana de Santiago;13122;Peñalolén;Urbana;Mujer;D;22107
+1;Tarapacá;1405;Pica;Rural;Mujer;D;652
+6;Libertador General Bernardo O'Higgins;6113;Pichidegua;Rural;Mujer;D;1538
+6;Libertador General Bernardo O'Higgins;6201;Pichilemu;Rural;Mujer;D;907
+16;Ñuble;16106;Pinto;Rural;Mujer;D;849
+13;Metropolitana de Santiago;13202;Pirque;Rural;Mujer;D;2802
+9;La Araucanía;9114;Pitrufquén;Mixta;Mujer;D;2156
+6;Libertador General Bernardo O'Higgins;6308;Placilla;Rural;Mujer;D;774
+16;Ñuble;16205;Portezuelo;Rural;Mujer;D;330
+12;Magallanes y de la Antártica Chilena;12301;Porvenir;Rural;Mujer;D;760
+1;Tarapacá;1401;Pozo Almonte;Rural;Mujer;D;1475
+12;Magallanes y de la Antártica Chilena;12302;Primavera;Rural;Mujer;D;7
+13;Metropolitana de Santiago;13123;Providencia;Urbana;Mujer;D;13816
+5;Valparaíso;5105;Puchuncaví;Mixta;Mujer;D;1863
+9;La Araucanía;9115;Pucón;Rural;Mujer;D;3250
+13;Metropolitana de Santiago;13124;Pudahuel;Urbana;Mujer;D;25587
+13;Metropolitana de Santiago;13201;Puente Alto;Urbana;Mujer;D;52505
+10;Los Lagos;10101;Puerto Montt;Urbana;Mujer;D;30389
+10;Los Lagos;10302;Puerto Octay;Rural;Mujer;D;638
+10;Los Lagos;10109;Puerto Varas;Mixta;Mujer;D;5110
+6;Libertador General Bernardo O'Higgins;6309;Pumanque;Rural;Mujer;D;327
+4;Coquimbo;4304;Punitaqui;Rural;Mujer;D;1023
+12;Magallanes y de la Antártica Chilena;12101;Punta Arenas;Urbana;Mujer;D;15841
+10;Los Lagos;10206;Puqueldón;Rural;Mujer;D;357
+10;Los Lagos;10303;Purranque;Rural;Mujer;D;1686
+9;La Araucanía;9208;Purén;Rural;Mujer;D;468
+5;Valparaíso;5705;Putaendo;Mixta;Mujer;D;1373
+15;Arica y Parinacota;15201;Putre;Rural;Mujer;D;45
+10;Los Lagos;10304;Puyehue;Rural;Mujer;D;1004
+10;Los Lagos;10207;Queilén;Rural;Mujer;D;369
+10;Los Lagos;10208;Quellón;Mixta;Mujer;D;3748
+10;Los Lagos;10209;Quemchi;Rural;Mujer;D;878
+8;Biobío;8308;Quilaco;Rural;Mujer;D;257
+13;Metropolitana de Santiago;13125;Quilicura;Urbana;Mujer;D;24753
+8;Biobío;8309;Quilleco;Rural;Mujer;D;749
+5;Valparaíso;5501;Quillota;Urbana;Mujer;D;9377
+16;Ñuble;16107;Quillón;Mixta;Mujer;D;1195
+5;Valparaíso;5801;Quilpué;Urbana;Mujer;D;15367
+10;Los Lagos;10210;Quinchao;Rural;Mujer;D;566
+6;Libertador General Bernardo O'Higgins;6114;Quinta de Tilcoco;Mixta;Mujer;D;1169
+13;Metropolitana de Santiago;13126;Quinta Normal;Urbana;Mujer;D;12484
+5;Valparaíso;5107;Quintero;Mixta;Mujer;D;2251
+16;Ñuble;16201;Quirihue;Mixta;Mujer;D;605
+6;Libertador General Bernardo O'Higgins;6101;Rancagua;Urbana;Mujer;D;26349
+16;Ñuble;16206;Ranquil;Rural;Mujer;D;512
+7;Maule;7305;Rauco;Rural;Mujer;D;846
+13;Metropolitana de Santiago;13127;Recoleta;Urbana;Mujer;D;14369
+9;La Araucanía;9209;Renaico;Mixta;Mujer;D;829
+13;Metropolitana de Santiago;13128;Renca;Urbana;Mujer;D;15472
+6;Libertador General Bernardo O'Higgins;6115;Rengo;Urbana;Mujer;D;5986
+6;Libertador General Bernardo O'Higgins;6116;Requínoa;Mixta;Mujer;D;2786
+7;Maule;7405;Retiro;Rural;Mujer;D;1291
+5;Valparaíso;5303;Rinconada;Rural;Mujer;D;1101
+7;Maule;7306;Romeral;Mixta;Mujer;D;1431
+14;Los Ríos;14204;Río Bueno;Mixta;Mujer;D;2426
+7;Maule;7108;Río Claro;Rural;Mujer;D;1040
+4;Coquimbo;4305;Río Hurtado;Rural;Mujer;D;387
+11;Aysén del General Carlos Ibáñez del Campo;11402;Río Ibáñez;Rural;Mujer;D;68
+10;Los Lagos;10305;Río Negro;Rural;Mujer;D;971
+12;Magallanes y de la Antártica Chilena;12103;Río Verde;Rural;Mujer;D;2
+9;La Araucanía;9116;Saavedra;Rural;Mujer;D;519
+7;Maule;7307;Sagrada Familia;Rural;Mujer;D;1803
+4;Coquimbo;4204;Salamanca;Rural;Mujer;D;1896
+5;Valparaíso;5601;San Antonio;Urbana;Mujer;D;9540
+13;Metropolitana de Santiago;13401;San Bernardo;Urbana;Mujer;D;27894
+16;Ñuble;16301;San Carlos;Mixta;Mujer;D;3934
+7;Maule;7109;San Clemente;Rural;Mujer;D;3034
+5;Valparaíso;5304;San Esteban;Mixta;Mujer;D;1738
+16;Ñuble;16304;San Fabián;Rural;Mujer;D;353
+5;Valparaíso;5701;San Felipe;Urbana;Mujer;D;6912
+6;Libertador General Bernardo O'Higgins;6301;San Fernando;Urbana;Mujer;D;8416
+12;Magallanes y de la Antártica Chilena;12104;San Gregorio;Rural;Mujer;D;5
+16;Ñuble;16108;San Ignacio;Rural;Mujer;D;1022
+7;Maule;7406;San Javier;Mixta;Mujer;D;3624
+13;Metropolitana de Santiago;13129;San Joaquín;Urbana;Mujer;D;10114
+13;Metropolitana de Santiago;13203;San José de Maipo;Rural;Mujer;D;1275
+10;Los Lagos;10306;San Juan de la Costa;Rural;Mujer;D;456
+13;Metropolitana de Santiago;13130;San Miguel;Urbana;Mujer;D;15238
+16;Ñuble;16305;San Nicolás;Rural;Mujer;D;1034
+10;Los Lagos;10307;San Pablo;Rural;Mujer;D;748
+13;Metropolitana de Santiago;13505;San Pedro;Rural;Mujer;D;908
+2;Antofagasta;2203;San Pedro de Atacama;Rural;Mujer;D;1779
+8;Biobío;8108;San Pedro de la Paz;Urbana;Mujer;D;10784
+7;Maule;7110;San Rafael;Rural;Mujer;D;845
+13;Metropolitana de Santiago;13131;San Ramón;Urbana;Mujer;D;7397
+8;Biobío;8310;San Rosendo;Rural;Mujer;D;370
+6;Libertador General Bernardo O'Higgins;6117;San Vicente;Mixta;Mujer;D;4531
+8;Biobío;8311;Santa Bárbara;Rural;Mujer;D;1092
+6;Libertador General Bernardo O'Higgins;6310;Santa Cruz;Mixta;Mujer;D;3785
+8;Biobío;8109;Santa Juana;Mixta;Mujer;D;726
+5;Valparaíso;5706;Santa María;Mixta;Mujer;D;1402
+13;Metropolitana de Santiago;13101;Santiago;Urbana;Mujer;D;46447
+5;Valparaíso;5606;Santo Domingo;Rural;Mujer;D;1375
+2;Antofagasta;2103;Sierra Gorda;Rural;Mujer;D;103
+13;Metropolitana de Santiago;13601;Talagante;Urbana;Mujer;D;7189
+7;Maule;7101;Talca;Urbana;Mujer;D;23528
+8;Biobío;8110;Talcahuano;Urbana;Mujer;D;15913
+2;Antofagasta;2104;Taltal;Rural;Mujer;D;746
+9;La Araucanía;9101;Temuco;Urbana;Mujer;D;27763
+7;Maule;7308;Teno;Rural;Mujer;D;2457
+9;La Araucanía;9117;Teodoro Schmidt;Rural;Mujer;D;778
+3;Atacama;3103;Tierra Amarilla;Rural;Mujer;D;1885
+13;Metropolitana de Santiago;13303;Tiltil;Rural;Mujer;D;1853
+12;Magallanes y de la Antártica Chilena;12303;Timaukel;Rural;Mujer;D;9
+8;Biobío;8207;Tirúa;Rural;Mujer;D;674
+2;Antofagasta;2301;Tocopilla;Rural;Mujer;D;1457
+9;La Araucanía;9118;Toltén;Rural;Mujer;D;483
+8;Biobío;8111;Tomé;Urbana;Mujer;D;5261
+12;Magallanes y de la Antártica Chilena;12402;Torres del Paine;Rural;Mujer;D;14
+11;Aysén del General Carlos Ibáñez del Campo;11303;Tortel;Rural;Mujer;D;9
+9;La Araucanía;9210;Traiguén;Mixta;Mujer;D;860
+16;Ñuble;16207;Treguaco;Rural;Mujer;D;489
+8;Biobío;8312;Tucapel;Rural;Mujer;D;1369
+14;Los Ríos;14101;Valdivia;Urbana;Mujer;D;16689
+3;Atacama;3301;Vallenar;Mixta;Mujer;D;5734
+5;Valparaíso;5101;Valparaíso;Urbana;Mujer;D;28118
+7;Maule;7309;Vichuquén;Rural;Mujer;D;313
+9;La Araucanía;9211;Victoria;Mixta;Mujer;D;2831
+4;Coquimbo;4106;Vicuña;Rural;Mujer;D;2175
+9;La Araucanía;9119;Vilcún;Rural;Mujer;D;2052
+7;Maule;7407;Villa Alegre;Mixta;Mujer;D;1430
+5;Valparaíso;5804;Villa Alemana;Urbana;Mujer;D;12428
+9;La Araucanía;9120;Villarrica;Mixta;Mujer;D;6008
+13;Metropolitana de Santiago;13132;Vitacura;Urbana;Mujer;D;3896
+5;Valparaíso;5109;Viña del Mar;Urbana;Mujer;D;30747
+7;Maule;7408;Yerbas Buenas;Rural;Mujer;D;1468
+8;Biobío;8313;Yumbel;Mixta;Mujer;D;1438
+16;Ñuble;16109;Yungay;Mixta;Mujer;D;1164
+5;Valparaíso;5405;Zapallar;Rural;Mujer;D;1021
+16;Ñuble;16303;Ñiquén;Rural;Mujer;D;631
+13;Metropolitana de Santiago;13120;Ñuñoa;Urbana;Mujer;D;18087

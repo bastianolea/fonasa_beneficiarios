@@ -1,0 +1,347 @@
+codigo_region;nombre_region;codigo_comuna;nombre_comuna;clasificacion;beneficiarios
+1;Tarapacá;1101;Iquique;Urbana;190054
+1;Tarapacá;1107;Alto Hospicio;Urbana;119419
+1;Tarapacá;1401;Pozo Almonte;Rural;17410
+1;Tarapacá;1402;Camiña;Rural;1095
+1;Tarapacá;1403;Colchane;Rural;1130
+1;Tarapacá;1404;Huara;Rural;3288
+1;Tarapacá;1405;Pica;Rural;7397
+2;Antofagasta;2101;Antofagasta;Urbana;332778
+2;Antofagasta;2102;Mejillones;Rural;8600
+2;Antofagasta;2103;Sierra Gorda;Rural;810
+2;Antofagasta;2104;Taltal;Rural;7358
+2;Antofagasta;2201;Calama;Urbana;148008
+2;Antofagasta;2202;Ollagüe;Rural;68
+2;Antofagasta;2203;San Pedro de Atacama;Rural;11674
+2;Antofagasta;2301;Tocopilla;Rural;15892
+2;Antofagasta;2302;María Elena;Rural;2476
+3;Atacama;3101;Copiapó;Urbana;146742
+3;Atacama;3102;Caldera;Rural;19416
+3;Atacama;3103;Tierra Amarilla;Rural;17581
+3;Atacama;3201;Chañaral;Rural;12515
+3;Atacama;3202;Diego de Almagro;Rural;10075
+3;Atacama;3301;Vallenar;Mixta;51111
+3;Atacama;3302;Alto del Carmen;Rural;4979
+3;Atacama;3303;Freirina;Rural;8224
+3;Atacama;3304;Huasco;Rural;9627
+4;Coquimbo;4101;La Serena;Urbana;230306
+4;Coquimbo;4102;Coquimbo;Urbana;230665
+4;Coquimbo;4103;Andacollo;Rural;6826
+4;Coquimbo;4104;La Higuera;Rural;1791
+4;Coquimbo;4105;Paiguano;Rural;3225
+4;Coquimbo;4106;Vicuña;Rural;23258
+4;Coquimbo;4201;Illapel;Rural;31645
+4;Coquimbo;4202;Canela;Rural;10138
+4;Coquimbo;4203;Los Vilos;Rural;16578
+4;Coquimbo;4204;Salamanca;Rural;21027
+4;Coquimbo;4301;Ovalle;Urbana;114786
+4;Coquimbo;4302;Combarbalá;Rural;9815
+4;Coquimbo;4303;Monte Patria;Rural;32543
+4;Coquimbo;4304;Punitaqui;Rural;13291
+4;Coquimbo;4305;Río Hurtado;Rural;4591
+5;Valparaíso;5101;Valparaíso;Urbana;279479
+5;Valparaíso;5102;Casablanca;Mixta;24206
+5;Valparaíso;5103;Concón;Mixta;38881
+5;Valparaíso;5104;Juan Fernández;Rural;434
+5;Valparaíso;5105;Puchuncaví;Mixta;20254
+5;Valparaíso;5107;Quintero;Mixta;23972
+5;Valparaíso;5109;Viña del Mar;Urbana;280689
+5;Valparaíso;5201;Isla de Pascua;Rural;3815
+5;Valparaíso;5301;Los Andes;Urbana;57175
+5;Valparaíso;5302;Calle Larga;Mixta;14392
+5;Valparaíso;5303;Rinconada;Rural;11679
+5;Valparaíso;5304;San Esteban;Mixta;17158
+5;Valparaíso;5401;La Ligua;Mixta;37153
+5;Valparaíso;5402;Cabildo;Mixta;15916
+5;Valparaíso;5403;Papudo;Rural;6643
+5;Valparaíso;5404;Petorca;Rural;10364
+5;Valparaíso;5405;Zapallar;Rural;9329
+5;Valparaíso;5501;Quillota;Urbana;93605
+5;Valparaíso;5502;Calera;Urbana;45494
+5;Valparaíso;5503;Hijuelas;Mixta;20020
+5;Valparaíso;5504;La Cruz;Mixta;21151
+5;Valparaíso;5506;Nogales;Rural;21809
+5;Valparaíso;5601;San Antonio;Urbana;90386
+5;Valparaíso;5602;Algarrobo;Mixta;16358
+5;Valparaíso;5603;Cartagena;Mixta;28183
+5;Valparaíso;5604;El Quisco;Mixta;19186
+5;Valparaíso;5605;El Tabo;Mixta;15496
+5;Valparaíso;5606;Santo Domingo;Rural;11462
+5;Valparaíso;5701;San Felipe;Urbana;71158
+5;Valparaíso;5702;Catemu;Rural;15038
+5;Valparaíso;5703;Llaillay;Mixta;21639
+5;Valparaíso;5704;Panquehue;Rural;7949
+5;Valparaíso;5705;Putaendo;Mixta;17086
+5;Valparaíso;5706;Santa María;Mixta;15794
+5;Valparaíso;5801;Quilpué;Urbana;133329
+5;Valparaíso;5802;Limache;Mixta;34987
+5;Valparaíso;5803;Olmué;Rural;19003
+5;Valparaíso;5804;Villa Alemana;Urbana;112599
+6;Libertador General Bernardo O'Higgins;6101;Rancagua;Urbana;232584
+6;Libertador General Bernardo O'Higgins;6102;Codegua;Mixta;17602
+6;Libertador General Bernardo O'Higgins;6103;Coinco;Rural;4076
+6;Libertador General Bernardo O'Higgins;6104;Coltauco;Mixta;19191
+6;Libertador General Bernardo O'Higgins;6105;Doñihue;Mixta;24697
+6;Libertador General Bernardo O'Higgins;6106;Graneros;Mixta;18557
+6;Libertador General Bernardo O'Higgins;6107;Las Cabras;Rural;27045
+6;Libertador General Bernardo O'Higgins;6108;Machalí;Urbana;34418
+6;Libertador General Bernardo O'Higgins;6109;Malloa;Rural;14899
+6;Libertador General Bernardo O'Higgins;6110;Mostazal;Mixta;26351
+6;Libertador General Bernardo O'Higgins;6111;Olivar;Mixta;13871
+6;Libertador General Bernardo O'Higgins;6112;Peumo;Mixta;11387
+6;Libertador General Bernardo O'Higgins;6113;Pichidegua;Rural;18402
+6;Libertador General Bernardo O'Higgins;6114;Quinta de Tilcoco;Mixta;14337
+6;Libertador General Bernardo O'Higgins;6115;Rengo;Urbana;63240
+6;Libertador General Bernardo O'Higgins;6116;Requínoa;Mixta;27267
+6;Libertador General Bernardo O'Higgins;6117;San Vicente;Mixta;48692
+6;Libertador General Bernardo O'Higgins;6201;Pichilemu;Rural;11670
+6;Libertador General Bernardo O'Higgins;6202;La Estrella;Rural;4172
+6;Libertador General Bernardo O'Higgins;6203;Litueche;Rural;4531
+6;Libertador General Bernardo O'Higgins;6204;Marchihue;Rural;5652
+6;Libertador General Bernardo O'Higgins;6205;Navidad;Rural;8051
+6;Libertador General Bernardo O'Higgins;6206;Paredones;Rural;7076
+6;Libertador General Bernardo O'Higgins;6301;San Fernando;Urbana;81728
+6;Libertador General Bernardo O'Higgins;6302;Chépica;Mixta;14718
+6;Libertador General Bernardo O'Higgins;6303;Chimbarongo;Rural;27829
+6;Libertador General Bernardo O'Higgins;6304;Lolol;Rural;6491
+6;Libertador General Bernardo O'Higgins;6305;Nancagua;Mixta;15604
+6;Libertador General Bernardo O'Higgins;6306;Palmilla;Rural;12015
+6;Libertador General Bernardo O'Higgins;6307;Peralillo;Rural;13515
+6;Libertador General Bernardo O'Higgins;6308;Placilla;Rural;9850
+6;Libertador General Bernardo O'Higgins;6309;Pumanque;Rural;4293
+6;Libertador General Bernardo O'Higgins;6310;Santa Cruz;Mixta;44188
+7;Maule;7101;Talca;Urbana;232652
+7;Maule;7102;Constitución;Mixta;48217
+7;Maule;7103;Curepto;Rural;6853
+7;Maule;7104;Empedrado;Rural;4548
+7;Maule;7105;Maule;Mixta;36116
+7;Maule;7106;Pelarco;Rural;11308
+7;Maule;7107;Pencahue;Rural;9371
+7;Maule;7108;Río Claro;Rural;13320
+7;Maule;7109;San Clemente;Rural;44429
+7;Maule;7110;San Rafael;Rural;11153
+7;Maule;7201;Cauquenes;Rural;41864
+7;Maule;7202;Chanco;Rural;6290
+7;Maule;7203;Pelluhue;Rural;8803
+7;Maule;7301;Curicó;Urbana;152155
+7;Maule;7302;Hualañé;Rural;8679
+7;Maule;7303;Licantén;Rural;6083
+7;Maule;7304;Molina;Mixta;48369
+7;Maule;7305;Rauco;Rural;11167
+7;Maule;7306;Romeral;Mixta;16598
+7;Maule;7307;Sagrada Familia;Rural;19594
+7;Maule;7308;Teno;Rural;27917
+7;Maule;7309;Vichuquén;Rural;4536
+7;Maule;7401;Linares;Urbana;90506
+7;Maule;7402;Colbún;Rural;26455
+7;Maule;7403;Longaví;Rural;33646
+7;Maule;7404;Parral;Mixta;43567
+7;Maule;7405;Retiro;Rural;22320
+7;Maule;7406;San Javier;Mixta;45052
+7;Maule;7407;Villa Alegre;Mixta;18344
+7;Maule;7408;Yerbas Buenas;Rural;20911
+8;Biobío;8101;Concepción;Urbana;202532
+8;Biobío;8102;Coronel;Urbana;105769
+8;Biobío;8103;Chiguayante;Urbana;71970
+8;Biobío;8104;Florida;Rural;9429
+8;Biobío;8105;Hualqui;Mixta;24058
+8;Biobío;8106;Lota;Mixta;44463
+8;Biobío;8107;Penco;Mixta;47142
+8;Biobío;8108;San Pedro de la Paz;Urbana;103992
+8;Biobío;8109;Santa Juana;Mixta;11296
+8;Biobío;8110;Talcahuano;Urbana;132765
+8;Biobío;8111;Tomé;Urbana;57156
+8;Biobío;8112;Hualpén;Urbana;88390
+8;Biobío;8201;Lebu;Mixta;23530
+8;Biobío;8202;Arauco;Rural;34109
+8;Biobío;8203;Cañete;Rural;30669
+8;Biobío;8204;Contulmo;Rural;5466
+8;Biobío;8205;Curanilahue;Mixta;31809
+8;Biobío;8206;Los Alamos;Rural;22620
+8;Biobío;8207;Tirúa;Rural;11294
+8;Biobío;8301;Los Angeles;Urbana;204779
+8;Biobío;8302;Antuco;Rural;4506
+8;Biobío;8303;Cabrero;Rural;31122
+8;Biobío;8304;Laja;Mixta;22041
+8;Biobío;8305;Mulchén;Mixta;29744
+8;Biobío;8306;Nacimiento;Mixta;23784
+8;Biobío;8307;Negrete;Rural;10936
+8;Biobío;8308;Quilaco;Rural;4066
+8;Biobío;8309;Quilleco;Rural;9958
+8;Biobío;8310;San Rosendo;Rural;4132
+8;Biobío;8311;Santa Bárbara;Rural;15606
+8;Biobío;8312;Tucapel;Rural;16091
+8;Biobío;8313;Yumbel;Mixta;19715
+8;Biobío;8314;Alto Biobío;Rural;6245
+9;La Araucanía;9101;Temuco;Urbana;259985
+9;La Araucanía;9102;Carahue;Rural;20791
+9;La Araucanía;9103;Cunco;Rural;16597
+9;La Araucanía;9104;Curarrehue;Rural;9461
+9;La Araucanía;9105;Freire;Rural;24465
+9;La Araucanía;9106;Galvarino;Rural;10619
+9;La Araucanía;9107;Gorbea;Mixta;12613
+9;La Araucanía;9108;Lautaro;Mixta;44370
+9;La Araucanía;9109;Loncoche;Mixta;21529
+9;La Araucanía;9110;Melipeuco;Rural;7643
+9;La Araucanía;9111;Nueva Imperial;Mixta;41030
+9;La Araucanía;9112;Padre Las Casas;Mixta;78781
+9;La Araucanía;9113;Perquenco;Rural;6428
+9;La Araucanía;9114;Pitrufquén;Mixta;27270
+9;La Araucanía;9115;Pucón;Rural;35374
+9;La Araucanía;9116;Saavedra;Rural;12669
+9;La Araucanía;9117;Teodoro Schmidt;Rural;14603
+9;La Araucanía;9118;Toltén;Rural;8559
+9;La Araucanía;9119;Vilcún;Rural;27470
+9;La Araucanía;9120;Villarrica;Mixta;70203
+9;La Araucanía;9121;Cholchol;Rural;12384
+9;La Araucanía;9201;Angol;Urbana;56103
+9;La Araucanía;9202;Collipulli;Rural;18866
+9;La Araucanía;9203;Curacautín;Mixta;13681
+9;La Araucanía;9204;Ercilla;Rural;8810
+9;La Araucanía;9205;Lonquimay;Rural;8166
+9;La Araucanía;9206;Los Sauces;Rural;7859
+9;La Araucanía;9207;Lumaco;Rural;10108
+9;La Araucanía;9208;Purén;Rural;8391
+9;La Araucanía;9209;Renaico;Mixta;11466
+9;La Araucanía;9210;Traiguén;Mixta;13823
+9;La Araucanía;9211;Victoria;Mixta;37743
+10;Los Lagos;10101;Puerto Montt;Urbana;243103
+10;Los Lagos;10102;Calbuco;Mixta;38100
+10;Los Lagos;10103;Cochamó;Rural;2254
+10;Los Lagos;10104;Fresia;Rural;10142
+10;Los Lagos;10105;Frutillar;Rural;20343
+10;Los Lagos;10106;Los Muermos;Rural;19620
+10;Los Lagos;10107;Llanquihue;Rural;18611
+10;Los Lagos;10108;Maullín;Rural;13876
+10;Los Lagos;10109;Puerto Varas;Mixta;44267
+10;Los Lagos;10201;Castro;Mixta;48545
+10;Los Lagos;10202;Ancud;Mixta;41781
+10;Los Lagos;10203;Chonchi;Rural;15958
+10;Los Lagos;10204;Curaco de Vélez;Rural;3866
+10;Los Lagos;10205;Dalcahue;Rural;16102
+10;Los Lagos;10206;Puqueldón;Rural;3714
+10;Los Lagos;10207;Queilén;Rural;4372
+10;Los Lagos;10208;Quellón;Mixta;31005
+10;Los Lagos;10209;Quemchi;Rural;8854
+10;Los Lagos;10210;Quinchao;Rural;6969
+10;Los Lagos;10301;Osorno;Urbana;155500
+10;Los Lagos;10302;Puerto Octay;Rural;8084
+10;Los Lagos;10303;Purranque;Rural;21699
+10;Los Lagos;10304;Puyehue;Rural;13377
+10;Los Lagos;10305;Río Negro;Rural;14123
+10;Los Lagos;10306;San Juan de la Costa;Rural;9387
+10;Los Lagos;10307;San Pablo;Rural;10739
+10;Los Lagos;10401;Chaitén;Rural;2075
+10;Los Lagos;10402;Futaleufú;Rural;1849
+10;Los Lagos;10403;Hualaihué;Rural;7644
+10;Los Lagos;10404;Palena;Rural;1262
+11;Aysén del General Carlos Ibáñez del Campo;11101;Coyhaique;Urbana;51299
+11;Aysén del General Carlos Ibáñez del Campo;11102;Lago Verde;Rural;219
+11;Aysén del General Carlos Ibáñez del Campo;11201;Aysén;Rural;19059
+11;Aysén del General Carlos Ibáñez del Campo;11202;Cisnes;Rural;4413
+11;Aysén del General Carlos Ibáñez del Campo;11203;Guaitecas;Rural;379
+11;Aysén del General Carlos Ibáñez del Campo;11301;Cochrane;Rural;3552
+11;Aysén del General Carlos Ibáñez del Campo;11302;O'Higgins;Rural;120
+11;Aysén del General Carlos Ibáñez del Campo;11303;Tortel;Rural;100
+11;Aysén del General Carlos Ibáñez del Campo;11401;Chile Chico;Rural;4055
+11;Aysén del General Carlos Ibáñez del Campo;11402;Río Ibáñez;Rural;887
+12;Magallanes y de la Antártica Chilena;12101;Punta Arenas;Urbana;113791
+12;Magallanes y de la Antártica Chilena;12102;Laguna Blanca;Rural;33
+12;Magallanes y de la Antártica Chilena;12103;Río Verde;Rural;14
+12;Magallanes y de la Antártica Chilena;12104;San Gregorio;Rural;65
+12;Magallanes y de la Antártica Chilena;12201;Cabo de Hornos;Rural;373
+12;Magallanes y de la Antártica Chilena;12202;Antártica;NA;49
+12;Magallanes y de la Antártica Chilena;12301;Porvenir;Rural;5014
+12;Magallanes y de la Antártica Chilena;12302;Primavera;Rural;55
+12;Magallanes y de la Antártica Chilena;12303;Timaukel;Rural;20
+12;Magallanes y de la Antártica Chilena;12401;Natales;Rural;25124
+12;Magallanes y de la Antártica Chilena;12402;Torres del Paine;Rural;49
+13;Metropolitana de Santiago;13101;Santiago;Urbana;345023
+13;Metropolitana de Santiago;13102;Cerrillos;Urbana;60985
+13;Metropolitana de Santiago;13103;Cerro Navia;Urbana;126853
+13;Metropolitana de Santiago;13104;Conchalí;Urbana;123583
+13;Metropolitana de Santiago;13105;El Bosque;Urbana;175745
+13;Metropolitana de Santiago;13106;Estación Central;Urbana;125335
+13;Metropolitana de Santiago;13107;Huechuraba;Urbana;75040
+13;Metropolitana de Santiago;13108;Independencia;Urbana;110397
+13;Metropolitana de Santiago;13109;La Cisterna;Urbana;80459
+13;Metropolitana de Santiago;13110;La Florida;Urbana;352975
+13;Metropolitana de Santiago;13111;La Granja;Urbana;138631
+13;Metropolitana de Santiago;13112;La Pintana;Urbana;160738
+13;Metropolitana de Santiago;13113;La Reina;Urbana;45889
+13;Metropolitana de Santiago;13114;Las Condes;Urbana;96014
+13;Metropolitana de Santiago;13115;Lo Barnechea;Urbana;43545
+13;Metropolitana de Santiago;13116;Lo Espejo;Urbana;96425
+13;Metropolitana de Santiago;13117;Lo Prado;Urbana;123674
+13;Metropolitana de Santiago;13118;Macul;Urbana;125152
+13;Metropolitana de Santiago;13119;Maipú;Urbana;354088
+13;Metropolitana de Santiago;13120;Ñuñoa;Urbana;109415
+13;Metropolitana de Santiago;13121;Pedro Aguirre Cerda;Urbana;109212
+13;Metropolitana de Santiago;13122;Peñalolén;Urbana;208032
+13;Metropolitana de Santiago;13123;Providencia;Urbana;79138
+13;Metropolitana de Santiago;13124;Pudahuel;Urbana;207772
+13;Metropolitana de Santiago;13125;Quilicura;Urbana;175818
+13;Metropolitana de Santiago;13126;Quinta Normal;Urbana;110361
+13;Metropolitana de Santiago;13127;Recoleta;Urbana;145938
+13;Metropolitana de Santiago;13128;Renca;Urbana;139358
+13;Metropolitana de Santiago;13129;San Joaquín;Urbana;95325
+13;Metropolitana de Santiago;13130;San Miguel;Urbana;106893
+13;Metropolitana de Santiago;13131;San Ramón;Urbana;81963
+13;Metropolitana de Santiago;13132;Vitacura;Urbana;20822
+13;Metropolitana de Santiago;13201;Puente Alto;Urbana;433273
+13;Metropolitana de Santiago;13202;Pirque;Rural;25211
+13;Metropolitana de Santiago;13203;San José de Maipo;Rural;11715
+13;Metropolitana de Santiago;13301;Colina;Urbana;114883
+13;Metropolitana de Santiago;13302;Lampa;Urbana;84967
+13;Metropolitana de Santiago;13303;Tiltil;Rural;16310
+13;Metropolitana de Santiago;13401;San Bernardo;Urbana;258211
+13;Metropolitana de Santiago;13402;Buin;Urbana;96782
+13;Metropolitana de Santiago;13403;Calera de Tango;Mixta;20061
+13;Metropolitana de Santiago;13404;Paine;Mixta;71838
+13;Metropolitana de Santiago;13501;Melipilla;Urbana;125358
+13;Metropolitana de Santiago;13502;Alhué;Rural;8602
+13;Metropolitana de Santiago;13503;Curacaví;Mixta;26943
+13;Metropolitana de Santiago;13504;María Pinto;Rural;15583
+13;Metropolitana de Santiago;13505;San Pedro;Rural;12665
+13;Metropolitana de Santiago;13601;Talagante;Urbana;62392
+13;Metropolitana de Santiago;13602;El Monte;Mixta;34077
+13;Metropolitana de Santiago;13603;Isla de Maipo;Mixta;34438
+13;Metropolitana de Santiago;13604;Padre Hurtado;Urbana;58509
+13;Metropolitana de Santiago;13605;Peñaflor;Urbana;83212
+14;Los Ríos;14101;Valdivia;Urbana;147997
+14;Los Ríos;14102;Corral;Rural;3571
+14;Los Ríos;14103;Lanco;Mixta;15723
+14;Los Ríos;14104;Los Lagos;Rural;21384
+14;Los Ríos;14105;Máfil;Mixta;9420
+14;Los Ríos;14106;Mariquina;Rural;23946
+14;Los Ríos;14107;Paillaco;Rural;21615
+14;Los Ríos;14108;Panguipulli;Rural;40587
+14;Los Ríos;14201;La Unión;Rural;36363
+14;Los Ríos;14202;Futrono;Rural;18004
+14;Los Ríos;14203;Lago Ranco;Rural;12444
+14;Los Ríos;14204;Río Bueno;Mixta;29773
+15;Arica y Parinacota;15101;Arica;Urbana;230841
+15;Arica y Parinacota;15102;Camarones;Rural;214
+15;Arica y Parinacota;15201;Putre;Rural;745
+15;Arica y Parinacota;15202;General Lagos;Rural;260
+16;Ñuble;16101;Chillán;Urbana;177449
+16;Ñuble;16102;Bulnes;Rural;19231
+16;Ñuble;16103;Chillán Viejo;Mixta;35099
+16;Ñuble;16104;El Carmen;Rural;9940
+16;Ñuble;16105;Pemuco;Rural;8647
+16;Ñuble;16106;Pinto;Rural;13560
+16;Ñuble;16107;Quillón;Mixta;19020
+16;Ñuble;16108;San Ignacio;Rural;17827
+16;Ñuble;16109;Yungay;Mixta;12847
+16;Ñuble;16201;Quirihue;Mixta;7681
+16;Ñuble;16202;Cobquecura;Rural;5761
+16;Ñuble;16203;Coelemu;Rural;10303
+16;Ñuble;16204;Ninhue;Rural;5867
+16;Ñuble;16205;Portezuelo;Rural;5293
+16;Ñuble;16206;Ranquil;Rural;6156
+16;Ñuble;16207;Treguaco;Rural;5953
+16;Ñuble;16301;San Carlos;Mixta;55460
+16;Ñuble;16302;Coihueco;Rural;27866
+16;Ñuble;16303;Ñiquén;Rural;11499
+16;Ñuble;16304;San Fabián;Rural;5276
+16;Ñuble;16305;San Nicolás;Rural;13764

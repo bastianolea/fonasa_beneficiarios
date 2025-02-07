@@ -1,0 +1,3015 @@
+codigo_region;nombre_region;codigo_comuna;nombre_comuna;clasificacion;tramo_fonasa;sexo;beneficiarios
+1;Tarapacá;1101;Iquique;Urbana;A;Hombre;15540
+1;Tarapacá;1101;Iquique;Urbana;A;Indeterminado;12
+1;Tarapacá;1101;Iquique;Urbana;A;Mujer;23268
+1;Tarapacá;1101;Iquique;Urbana;B;Hombre;29439
+1;Tarapacá;1101;Iquique;Urbana;B;Mujer;39664
+1;Tarapacá;1101;Iquique;Urbana;C;Hombre;16743
+1;Tarapacá;1101;Iquique;Urbana;C;Mujer;16753
+1;Tarapacá;1101;Iquique;Urbana;D;Hombre;27744
+1;Tarapacá;1101;Iquique;Urbana;D;Indeterminado;2
+1;Tarapacá;1101;Iquique;Urbana;D;Mujer;20889
+1;Tarapacá;1107;Alto Hospicio;Urbana;A;Hombre;19408
+1;Tarapacá;1107;Alto Hospicio;Urbana;A;Indeterminado;7
+1;Tarapacá;1107;Alto Hospicio;Urbana;A;Mujer;25585
+1;Tarapacá;1107;Alto Hospicio;Urbana;B;Hombre;15947
+1;Tarapacá;1107;Alto Hospicio;Urbana;B;Indeterminado;1
+1;Tarapacá;1107;Alto Hospicio;Urbana;B;Mujer;18162
+1;Tarapacá;1107;Alto Hospicio;Urbana;C;Hombre;8861
+1;Tarapacá;1107;Alto Hospicio;Urbana;C;Indeterminado;1
+1;Tarapacá;1107;Alto Hospicio;Urbana;C;Mujer;8002
+1;Tarapacá;1107;Alto Hospicio;Urbana;D;Hombre;14553
+1;Tarapacá;1107;Alto Hospicio;Urbana;D;Mujer;8892
+1;Tarapacá;1401;Pozo Almonte;Rural;A;Hombre;2191
+1;Tarapacá;1401;Pozo Almonte;Rural;A;Indeterminado;1
+1;Tarapacá;1401;Pozo Almonte;Rural;A;Mujer;3023
+1;Tarapacá;1401;Pozo Almonte;Rural;B;Hombre;2448
+1;Tarapacá;1401;Pozo Almonte;Rural;B;Mujer;2758
+1;Tarapacá;1401;Pozo Almonte;Rural;C;Hombre;1546
+1;Tarapacá;1401;Pozo Almonte;Rural;C;Mujer;1306
+1;Tarapacá;1401;Pozo Almonte;Rural;D;Hombre;2662
+1;Tarapacá;1401;Pozo Almonte;Rural;D;Mujer;1475
+1;Tarapacá;1402;Camiña;Rural;A;Hombre;246
+1;Tarapacá;1402;Camiña;Rural;A;Mujer;332
+1;Tarapacá;1402;Camiña;Rural;B;Hombre;159
+1;Tarapacá;1402;Camiña;Rural;B;Mujer;143
+1;Tarapacá;1402;Camiña;Rural;C;Hombre;57
+1;Tarapacá;1402;Camiña;Rural;C;Mujer;35
+1;Tarapacá;1402;Camiña;Rural;D;Hombre;58
+1;Tarapacá;1402;Camiña;Rural;D;Mujer;65
+1;Tarapacá;1403;Colchane;Rural;A;Hombre;222
+1;Tarapacá;1403;Colchane;Rural;A;Mujer;328
+1;Tarapacá;1403;Colchane;Rural;B;Hombre;167
+1;Tarapacá;1403;Colchane;Rural;B;Mujer;157
+1;Tarapacá;1403;Colchane;Rural;C;Hombre;36
+1;Tarapacá;1403;Colchane;Rural;C;Mujer;41
+1;Tarapacá;1403;Colchane;Rural;D;Hombre;103
+1;Tarapacá;1403;Colchane;Rural;D;Mujer;76
+1;Tarapacá;1404;Huara;Rural;A;Hombre;672
+1;Tarapacá;1404;Huara;Rural;A;Indeterminado;1
+1;Tarapacá;1404;Huara;Rural;A;Mujer;903
+1;Tarapacá;1404;Huara;Rural;B;Hombre;433
+1;Tarapacá;1404;Huara;Rural;B;Mujer;474
+1;Tarapacá;1404;Huara;Rural;C;Hombre;168
+1;Tarapacá;1404;Huara;Rural;C;Mujer;145
+1;Tarapacá;1404;Huara;Rural;D;Hombre;288
+1;Tarapacá;1404;Huara;Rural;D;Mujer;204
+1;Tarapacá;1405;Pica;Rural;A;Hombre;1054
+1;Tarapacá;1405;Pica;Rural;A;Mujer;1401
+1;Tarapacá;1405;Pica;Rural;B;Hombre;1055
+1;Tarapacá;1405;Pica;Rural;B;Mujer;1241
+1;Tarapacá;1405;Pica;Rural;C;Hombre;506
+1;Tarapacá;1405;Pica;Rural;C;Mujer;580
+1;Tarapacá;1405;Pica;Rural;D;Hombre;908
+1;Tarapacá;1405;Pica;Rural;D;Mujer;652
+2;Antofagasta;2101;Antofagasta;Urbana;A;Hombre;22669
+2;Antofagasta;2101;Antofagasta;Urbana;A;Indeterminado;19
+2;Antofagasta;2101;Antofagasta;Urbana;A;Mujer;34729
+2;Antofagasta;2101;Antofagasta;Urbana;B;Hombre;44066
+2;Antofagasta;2101;Antofagasta;Urbana;B;Indeterminado;6
+2;Antofagasta;2101;Antofagasta;Urbana;B;Mujer;66413
+2;Antofagasta;2101;Antofagasta;Urbana;C;Hombre;28856
+2;Antofagasta;2101;Antofagasta;Urbana;C;Indeterminado;5
+2;Antofagasta;2101;Antofagasta;Urbana;C;Mujer;31245
+2;Antofagasta;2101;Antofagasta;Urbana;D;Hombre;60072
+2;Antofagasta;2101;Antofagasta;Urbana;D;Indeterminado;5
+2;Antofagasta;2101;Antofagasta;Urbana;D;Mujer;44693
+2;Antofagasta;2102;Mejillones;Rural;A;Hombre;754
+2;Antofagasta;2102;Mejillones;Rural;A;Mujer;1337
+2;Antofagasta;2102;Mejillones;Rural;B;Hombre;869
+2;Antofagasta;2102;Mejillones;Rural;B;Mujer;1086
+2;Antofagasta;2102;Mejillones;Rural;C;Hombre;838
+2;Antofagasta;2102;Mejillones;Rural;C;Mujer;875
+2;Antofagasta;2102;Mejillones;Rural;D;Hombre;1723
+2;Antofagasta;2102;Mejillones;Rural;D;Mujer;1118
+2;Antofagasta;2103;Sierra Gorda;Rural;A;Hombre;92
+2;Antofagasta;2103;Sierra Gorda;Rural;A;Mujer;186
+2;Antofagasta;2103;Sierra Gorda;Rural;B;Hombre;57
+2;Antofagasta;2103;Sierra Gorda;Rural;B;Mujer;97
+2;Antofagasta;2103;Sierra Gorda;Rural;C;Hombre;54
+2;Antofagasta;2103;Sierra Gorda;Rural;C;Mujer;75
+2;Antofagasta;2103;Sierra Gorda;Rural;D;Hombre;146
+2;Antofagasta;2103;Sierra Gorda;Rural;D;Mujer;103
+2;Antofagasta;2104;Taltal;Rural;A;Hombre;719
+2;Antofagasta;2104;Taltal;Rural;A;Indeterminado;1
+2;Antofagasta;2104;Taltal;Rural;A;Mujer;865
+2;Antofagasta;2104;Taltal;Rural;B;Hombre;1084
+2;Antofagasta;2104;Taltal;Rural;B;Mujer;1306
+2;Antofagasta;2104;Taltal;Rural;C;Hombre;792
+2;Antofagasta;2104;Taltal;Rural;C;Mujer;644
+2;Antofagasta;2104;Taltal;Rural;D;Hombre;1201
+2;Antofagasta;2104;Taltal;Rural;D;Mujer;746
+2;Antofagasta;2201;Calama;Urbana;A;Hombre;8465
+2;Antofagasta;2201;Calama;Urbana;A;Indeterminado;9
+2;Antofagasta;2201;Calama;Urbana;A;Mujer;13801
+2;Antofagasta;2201;Calama;Urbana;B;Hombre;18495
+2;Antofagasta;2201;Calama;Urbana;B;Indeterminado;3
+2;Antofagasta;2201;Calama;Urbana;B;Mujer;28245
+2;Antofagasta;2201;Calama;Urbana;C;Hombre;12101
+2;Antofagasta;2201;Calama;Urbana;C;Indeterminado;3
+2;Antofagasta;2201;Calama;Urbana;C;Mujer;13509
+2;Antofagasta;2201;Calama;Urbana;D;Hombre;31477
+2;Antofagasta;2201;Calama;Urbana;D;Indeterminado;5
+2;Antofagasta;2201;Calama;Urbana;D;Mujer;21895
+2;Antofagasta;2202;Ollagüe;Rural;A;Hombre;3
+2;Antofagasta;2202;Ollagüe;Rural;A;Mujer;5
+2;Antofagasta;2202;Ollagüe;Rural;B;Hombre;12
+2;Antofagasta;2202;Ollagüe;Rural;B;Mujer;11
+2;Antofagasta;2202;Ollagüe;Rural;C;Hombre;9
+2;Antofagasta;2202;Ollagüe;Rural;D;Hombre;17
+2;Antofagasta;2202;Ollagüe;Rural;D;Mujer;11
+2;Antofagasta;2203;San Pedro de Atacama;Rural;A;Hombre;818
+2;Antofagasta;2203;San Pedro de Atacama;Rural;A;Mujer;1308
+2;Antofagasta;2203;San Pedro de Atacama;Rural;B;Hombre;1658
+2;Antofagasta;2203;San Pedro de Atacama;Rural;B;Mujer;2179
+2;Antofagasta;2203;San Pedro de Atacama;Rural;C;Hombre;943
+2;Antofagasta;2203;San Pedro de Atacama;Rural;C;Mujer;1072
+2;Antofagasta;2203;San Pedro de Atacama;Rural;D;Hombre;1916
+2;Antofagasta;2203;San Pedro de Atacama;Rural;D;Indeterminado;1
+2;Antofagasta;2203;San Pedro de Atacama;Rural;D;Mujer;1779
+2;Antofagasta;2301;Tocopilla;Rural;A;Hombre;2036
+2;Antofagasta;2301;Tocopilla;Rural;A;Mujer;2703
+2;Antofagasta;2301;Tocopilla;Rural;B;Hombre;2046
+2;Antofagasta;2301;Tocopilla;Rural;B;Mujer;2722
+2;Antofagasta;2301;Tocopilla;Rural;C;Hombre;1140
+2;Antofagasta;2301;Tocopilla;Rural;C;Mujer;1206
+2;Antofagasta;2301;Tocopilla;Rural;D;Hombre;2582
+2;Antofagasta;2301;Tocopilla;Rural;D;Mujer;1457
+2;Antofagasta;2302;María Elena;Rural;A;Hombre;175
+2;Antofagasta;2302;María Elena;Rural;A;Mujer;280
+2;Antofagasta;2302;María Elena;Rural;B;Hombre;254
+2;Antofagasta;2302;María Elena;Rural;B;Mujer;319
+2;Antofagasta;2302;María Elena;Rural;C;Hombre;245
+2;Antofagasta;2302;María Elena;Rural;C;Mujer;256
+2;Antofagasta;2302;María Elena;Rural;D;Hombre;550
+2;Antofagasta;2302;María Elena;Rural;D;Mujer;397
+3;Atacama;3101;Copiapó;Urbana;A;Hombre;10855
+3;Atacama;3101;Copiapó;Urbana;A;Indeterminado;4
+3;Atacama;3101;Copiapó;Urbana;A;Mujer;15837
+3;Atacama;3101;Copiapó;Urbana;B;Hombre;20498
+3;Atacama;3101;Copiapó;Urbana;B;Indeterminado;2
+3;Atacama;3101;Copiapó;Urbana;B;Mujer;29734
+3;Atacama;3101;Copiapó;Urbana;C;Hombre;12002
+3;Atacama;3101;Copiapó;Urbana;C;Indeterminado;3
+3;Atacama;3101;Copiapó;Urbana;C;Mujer;12247
+3;Atacama;3101;Copiapó;Urbana;D;Hombre;26926
+3;Atacama;3101;Copiapó;Urbana;D;Indeterminado;2
+3;Atacama;3101;Copiapó;Urbana;D;Mujer;18632
+3;Atacama;3102;Caldera;Rural;A;Hombre;2068
+3;Atacama;3102;Caldera;Rural;A;Indeterminado;1
+3;Atacama;3102;Caldera;Rural;A;Mujer;2558
+3;Atacama;3102;Caldera;Rural;B;Hombre;3017
+3;Atacama;3102;Caldera;Rural;B;Indeterminado;1
+3;Atacama;3102;Caldera;Rural;B;Mujer;3704
+3;Atacama;3102;Caldera;Rural;C;Hombre;1501
+3;Atacama;3102;Caldera;Rural;C;Mujer;1341
+3;Atacama;3102;Caldera;Rural;D;Hombre;3184
+3;Atacama;3102;Caldera;Rural;D;Mujer;2041
+3;Atacama;3103;Tierra Amarilla;Rural;A;Hombre;1612
+3;Atacama;3103;Tierra Amarilla;Rural;A;Mujer;2231
+3;Atacama;3103;Tierra Amarilla;Rural;B;Hombre;2814
+3;Atacama;3103;Tierra Amarilla;Rural;B;Mujer;2774
+3;Atacama;3103;Tierra Amarilla;Rural;C;Hombre;1477
+3;Atacama;3103;Tierra Amarilla;Rural;C;Mujer;1143
+3;Atacama;3103;Tierra Amarilla;Rural;D;Hombre;3645
+3;Atacama;3103;Tierra Amarilla;Rural;D;Mujer;1885
+3;Atacama;3201;Chañaral;Rural;A;Hombre;1124
+3;Atacama;3201;Chañaral;Rural;A;Mujer;1437
+3;Atacama;3201;Chañaral;Rural;B;Hombre;1826
+3;Atacama;3201;Chañaral;Rural;B;Mujer;2482
+3;Atacama;3201;Chañaral;Rural;C;Hombre;1039
+3;Atacama;3201;Chañaral;Rural;C;Mujer;1025
+3;Atacama;3201;Chañaral;Rural;D;Hombre;2255
+3;Atacama;3201;Chañaral;Rural;D;Mujer;1327
+3;Atacama;3202;Diego de Almagro;Rural;A;Hombre;456
+3;Atacama;3202;Diego de Almagro;Rural;A;Indeterminado;1
+3;Atacama;3202;Diego de Almagro;Rural;A;Mujer;742
+3;Atacama;3202;Diego de Almagro;Rural;B;Hombre;1197
+3;Atacama;3202;Diego de Almagro;Rural;B;Mujer;1634
+3;Atacama;3202;Diego de Almagro;Rural;C;Hombre;1038
+3;Atacama;3202;Diego de Almagro;Rural;C;Mujer;957
+3;Atacama;3202;Diego de Almagro;Rural;D;Hombre;2555
+3;Atacama;3202;Diego de Almagro;Rural;D;Mujer;1495
+3;Atacama;3301;Vallenar;Mixta;A;Hombre;4303
+3;Atacama;3301;Vallenar;Mixta;A;Indeterminado;1
+3;Atacama;3301;Vallenar;Mixta;A;Mujer;6232
+3;Atacama;3301;Vallenar;Mixta;B;Hombre;7403
+3;Atacama;3301;Vallenar;Mixta;B;Mujer;10457
+3;Atacama;3301;Vallenar;Mixta;C;Hombre;4179
+3;Atacama;3301;Vallenar;Mixta;C;Mujer;3861
+3;Atacama;3301;Vallenar;Mixta;D;Hombre;8941
+3;Atacama;3301;Vallenar;Mixta;D;Mujer;5734
+3;Atacama;3302;Alto del Carmen;Rural;A;Hombre;470
+3;Atacama;3302;Alto del Carmen;Rural;A;Mujer;681
+3;Atacama;3302;Alto del Carmen;Rural;B;Hombre;1038
+3;Atacama;3302;Alto del Carmen;Rural;B;Indeterminado;1
+3;Atacama;3302;Alto del Carmen;Rural;B;Mujer;1057
+3;Atacama;3302;Alto del Carmen;Rural;C;Hombre;355
+3;Atacama;3302;Alto del Carmen;Rural;C;Mujer;242
+3;Atacama;3302;Alto del Carmen;Rural;D;Hombre;698
+3;Atacama;3302;Alto del Carmen;Rural;D;Mujer;437
+3;Atacama;3303;Freirina;Rural;A;Hombre;740
+3;Atacama;3303;Freirina;Rural;A;Mujer;1114
+3;Atacama;3303;Freirina;Rural;B;Hombre;1210
+3;Atacama;3303;Freirina;Rural;B;Mujer;1711
+3;Atacama;3303;Freirina;Rural;C;Hombre;632
+3;Atacama;3303;Freirina;Rural;C;Mujer;564
+3;Atacama;3303;Freirina;Rural;D;Hombre;1398
+3;Atacama;3303;Freirina;Rural;D;Mujer;855
+3;Atacama;3304;Huasco;Rural;A;Hombre;969
+3;Atacama;3304;Huasco;Rural;A;Indeterminado;1
+3;Atacama;3304;Huasco;Rural;A;Mujer;1243
+3;Atacama;3304;Huasco;Rural;B;Hombre;1337
+3;Atacama;3304;Huasco;Rural;B;Mujer;1909
+3;Atacama;3304;Huasco;Rural;C;Hombre;662
+3;Atacama;3304;Huasco;Rural;C;Mujer;686
+3;Atacama;3304;Huasco;Rural;D;Hombre;1724
+3;Atacama;3304;Huasco;Rural;D;Mujer;1096
+4;Coquimbo;4101;La Serena;Urbana;A;Hombre;15266
+4;Coquimbo;4101;La Serena;Urbana;A;Indeterminado;2
+4;Coquimbo;4101;La Serena;Urbana;A;Mujer;19744
+4;Coquimbo;4101;La Serena;Urbana;B;Hombre;38179
+4;Coquimbo;4101;La Serena;Urbana;B;Indeterminado;1
+4;Coquimbo;4101;La Serena;Urbana;B;Mujer;52991
+4;Coquimbo;4101;La Serena;Urbana;C;Hombre;20156
+4;Coquimbo;4101;La Serena;Urbana;C;Mujer;19920
+4;Coquimbo;4101;La Serena;Urbana;D;Hombre;35261
+4;Coquimbo;4101;La Serena;Urbana;D;Indeterminado;1
+4;Coquimbo;4101;La Serena;Urbana;D;Mujer;28785
+4;Coquimbo;4102;Coquimbo;Urbana;A;Hombre;17344
+4;Coquimbo;4102;Coquimbo;Urbana;A;Indeterminado;4
+4;Coquimbo;4102;Coquimbo;Urbana;A;Mujer;24341
+4;Coquimbo;4102;Coquimbo;Urbana;B;Hombre;38871
+4;Coquimbo;4102;Coquimbo;Urbana;B;Indeterminado;3
+4;Coquimbo;4102;Coquimbo;Urbana;B;Mujer;53072
+4;Coquimbo;4102;Coquimbo;Urbana;C;Hombre;20302
+4;Coquimbo;4102;Coquimbo;Urbana;C;Indeterminado;1
+4;Coquimbo;4102;Coquimbo;Urbana;C;Mujer;18699
+4;Coquimbo;4102;Coquimbo;Urbana;D;Hombre;33391
+4;Coquimbo;4102;Coquimbo;Urbana;D;Indeterminado;1
+4;Coquimbo;4102;Coquimbo;Urbana;D;Mujer;24636
+4;Coquimbo;4103;Andacollo;Rural;A;Hombre;566
+4;Coquimbo;4103;Andacollo;Rural;A;Mujer;759
+4;Coquimbo;4103;Andacollo;Rural;B;Hombre;1165
+4;Coquimbo;4103;Andacollo;Rural;B;Mujer;1443
+4;Coquimbo;4103;Andacollo;Rural;C;Hombre;527
+4;Coquimbo;4103;Andacollo;Rural;C;Mujer;464
+4;Coquimbo;4103;Andacollo;Rural;D;Hombre;1217
+4;Coquimbo;4103;Andacollo;Rural;D;Mujer;685
+4;Coquimbo;4104;La Higuera;Rural;A;Hombre;277
+4;Coquimbo;4104;La Higuera;Rural;A;Mujer;291
+4;Coquimbo;4104;La Higuera;Rural;B;Hombre;284
+4;Coquimbo;4104;La Higuera;Rural;B;Mujer;337
+4;Coquimbo;4104;La Higuera;Rural;C;Hombre;123
+4;Coquimbo;4104;La Higuera;Rural;C;Mujer;81
+4;Coquimbo;4104;La Higuera;Rural;D;Hombre;260
+4;Coquimbo;4104;La Higuera;Rural;D;Mujer;138
+4;Coquimbo;4105;Paiguano;Rural;A;Hombre;245
+4;Coquimbo;4105;Paiguano;Rural;A;Mujer;310
+4;Coquimbo;4105;Paiguano;Rural;B;Hombre;633
+4;Coquimbo;4105;Paiguano;Rural;B;Mujer;809
+4;Coquimbo;4105;Paiguano;Rural;C;Hombre;265
+4;Coquimbo;4105;Paiguano;Rural;C;Mujer;269
+4;Coquimbo;4105;Paiguano;Rural;D;Hombre;394
+4;Coquimbo;4105;Paiguano;Rural;D;Mujer;300
+4;Coquimbo;4106;Vicuña;Rural;A;Hombre;1785
+4;Coquimbo;4106;Vicuña;Rural;A;Mujer;2351
+4;Coquimbo;4106;Vicuña;Rural;B;Hombre;4601
+4;Coquimbo;4106;Vicuña;Rural;B;Mujer;5668
+4;Coquimbo;4106;Vicuña;Rural;C;Hombre;1655
+4;Coquimbo;4106;Vicuña;Rural;C;Mujer;1564
+4;Coquimbo;4106;Vicuña;Rural;D;Hombre;3459
+4;Coquimbo;4106;Vicuña;Rural;D;Mujer;2175
+4;Coquimbo;4201;Illapel;Rural;A;Hombre;2611
+4;Coquimbo;4201;Illapel;Rural;A;Mujer;3867
+4;Coquimbo;4201;Illapel;Rural;B;Hombre;5120
+4;Coquimbo;4201;Illapel;Rural;B;Mujer;7384
+4;Coquimbo;4201;Illapel;Rural;C;Hombre;2618
+4;Coquimbo;4201;Illapel;Rural;C;Mujer;2330
+4;Coquimbo;4201;Illapel;Rural;D;Hombre;4729
+4;Coquimbo;4201;Illapel;Rural;D;Mujer;2986
+4;Coquimbo;4202;Canela;Rural;A;Hombre;982
+4;Coquimbo;4202;Canela;Rural;A;Mujer;1344
+4;Coquimbo;4202;Canela;Rural;B;Hombre;2007
+4;Coquimbo;4202;Canela;Rural;B;Mujer;2441
+4;Coquimbo;4202;Canela;Rural;C;Hombre;734
+4;Coquimbo;4202;Canela;Rural;C;Mujer;547
+4;Coquimbo;4202;Canela;Rural;D;Hombre;1288
+4;Coquimbo;4202;Canela;Rural;D;Mujer;795
+4;Coquimbo;4203;Los Vilos;Rural;A;Hombre;2255
+4;Coquimbo;4203;Los Vilos;Rural;A;Mujer;2419
+4;Coquimbo;4203;Los Vilos;Rural;B;Hombre;2937
+4;Coquimbo;4203;Los Vilos;Rural;B;Mujer;3532
+4;Coquimbo;4203;Los Vilos;Rural;C;Hombre;1149
+4;Coquimbo;4203;Los Vilos;Rural;C;Mujer;946
+4;Coquimbo;4203;Los Vilos;Rural;D;Hombre;1994
+4;Coquimbo;4203;Los Vilos;Rural;D;Indeterminado;1
+4;Coquimbo;4203;Los Vilos;Rural;D;Mujer;1345
+4;Coquimbo;4204;Salamanca;Rural;A;Hombre;1715
+4;Coquimbo;4204;Salamanca;Rural;A;Mujer;2438
+4;Coquimbo;4204;Salamanca;Rural;B;Hombre;3871
+4;Coquimbo;4204;Salamanca;Rural;B;Mujer;4579
+4;Coquimbo;4204;Salamanca;Rural;C;Hombre;1549
+4;Coquimbo;4204;Salamanca;Rural;C;Indeterminado;1
+4;Coquimbo;4204;Salamanca;Rural;C;Mujer;1438
+4;Coquimbo;4204;Salamanca;Rural;D;Hombre;3540
+4;Coquimbo;4204;Salamanca;Rural;D;Mujer;1896
+4;Coquimbo;4301;Ovalle;Urbana;A;Hombre;7778
+4;Coquimbo;4301;Ovalle;Urbana;A;Mujer;10928
+4;Coquimbo;4301;Ovalle;Urbana;B;Hombre;21769
+4;Coquimbo;4301;Ovalle;Urbana;B;Mujer;28302
+4;Coquimbo;4301;Ovalle;Urbana;C;Hombre;9426
+4;Coquimbo;4301;Ovalle;Urbana;C;Mujer;9219
+4;Coquimbo;4301;Ovalle;Urbana;D;Hombre;15704
+4;Coquimbo;4301;Ovalle;Urbana;D;Mujer;11660
+4;Coquimbo;4302;Combarbalá;Rural;A;Hombre;916
+4;Coquimbo;4302;Combarbalá;Rural;A;Mujer;1186
+4;Coquimbo;4302;Combarbalá;Rural;B;Hombre;1977
+4;Coquimbo;4302;Combarbalá;Rural;B;Mujer;2469
+4;Coquimbo;4302;Combarbalá;Rural;C;Hombre;731
+4;Coquimbo;4302;Combarbalá;Rural;C;Mujer;545
+4;Coquimbo;4302;Combarbalá;Rural;D;Hombre;1276
+4;Coquimbo;4302;Combarbalá;Rural;D;Mujer;715
+4;Coquimbo;4303;Monte Patria;Rural;A;Hombre;2709
+4;Coquimbo;4303;Monte Patria;Rural;A;Mujer;3770
+4;Coquimbo;4303;Monte Patria;Rural;B;Hombre;6668
+4;Coquimbo;4303;Monte Patria;Rural;B;Mujer;7594
+4;Coquimbo;4303;Monte Patria;Rural;C;Hombre;2350
+4;Coquimbo;4303;Monte Patria;Rural;C;Mujer;2067
+4;Coquimbo;4303;Monte Patria;Rural;D;Hombre;4616
+4;Coquimbo;4303;Monte Patria;Rural;D;Mujer;2769
+4;Coquimbo;4304;Punitaqui;Rural;A;Hombre;1348
+4;Coquimbo;4304;Punitaqui;Rural;A;Mujer;1965
+4;Coquimbo;4304;Punitaqui;Rural;B;Hombre;2388
+4;Coquimbo;4304;Punitaqui;Rural;B;Indeterminado;1
+4;Coquimbo;4304;Punitaqui;Rural;B;Mujer;3086
+4;Coquimbo;4304;Punitaqui;Rural;C;Hombre;877
+4;Coquimbo;4304;Punitaqui;Rural;C;Mujer;817
+4;Coquimbo;4304;Punitaqui;Rural;D;Hombre;1786
+4;Coquimbo;4304;Punitaqui;Rural;D;Mujer;1023
+4;Coquimbo;4305;Río Hurtado;Rural;A;Hombre;500
+4;Coquimbo;4305;Río Hurtado;Rural;A;Mujer;597
+4;Coquimbo;4305;Río Hurtado;Rural;B;Hombre;894
+4;Coquimbo;4305;Río Hurtado;Rural;B;Mujer;1159
+4;Coquimbo;4305;Río Hurtado;Rural;C;Hombre;306
+4;Coquimbo;4305;Río Hurtado;Rural;C;Mujer;196
+4;Coquimbo;4305;Río Hurtado;Rural;D;Hombre;552
+4;Coquimbo;4305;Río Hurtado;Rural;D;Mujer;387
+5;Valparaíso;5101;Valparaíso;Urbana;A;Hombre;22677
+5;Valparaíso;5101;Valparaíso;Urbana;A;Indeterminado;2
+5;Valparaíso;5101;Valparaíso;Urbana;A;Mujer;27509
+5;Valparaíso;5101;Valparaíso;Urbana;B;Hombre;49923
+5;Valparaíso;5101;Valparaíso;Urbana;B;Mujer;68963
+5;Valparaíso;5101;Valparaíso;Urbana;C;Hombre;24552
+5;Valparaíso;5101;Valparaíso;Urbana;C;Mujer;21799
+5;Valparaíso;5101;Valparaíso;Urbana;D;Hombre;35934
+5;Valparaíso;5101;Valparaíso;Urbana;D;Indeterminado;2
+5;Valparaíso;5101;Valparaíso;Urbana;D;Mujer;28118
+5;Valparaíso;5102;Casablanca;Mixta;A;Hombre;1420
+5;Valparaíso;5102;Casablanca;Mixta;A;Mujer;2023
+5;Valparaíso;5102;Casablanca;Mixta;B;Hombre;4062
+5;Valparaíso;5102;Casablanca;Mixta;B;Indeterminado;2
+5;Valparaíso;5102;Casablanca;Mixta;B;Mujer;5690
+5;Valparaíso;5102;Casablanca;Mixta;C;Hombre;2347
+5;Valparaíso;5102;Casablanca;Mixta;C;Mujer;2177
+5;Valparaíso;5102;Casablanca;Mixta;D;Hombre;3827
+5;Valparaíso;5102;Casablanca;Mixta;D;Mujer;2658
+5;Valparaíso;5103;Concón;Mixta;A;Hombre;2324
+5;Valparaíso;5103;Concón;Mixta;A;Mujer;2976
+5;Valparaíso;5103;Concón;Mixta;B;Hombre;6720
+5;Valparaíso;5103;Concón;Mixta;B;Mujer;9961
+5;Valparaíso;5103;Concón;Mixta;C;Hombre;3399
+5;Valparaíso;5103;Concón;Mixta;C;Indeterminado;1
+5;Valparaíso;5103;Concón;Mixta;C;Mujer;3541
+5;Valparaíso;5103;Concón;Mixta;D;Hombre;5730
+5;Valparaíso;5103;Concón;Mixta;D;Mujer;4229
+5;Valparaíso;5104;Juan Fernández;Rural;A;Hombre;4
+5;Valparaíso;5104;Juan Fernández;Rural;A;Mujer;9
+5;Valparaíso;5104;Juan Fernández;Rural;B;Hombre;135
+5;Valparaíso;5104;Juan Fernández;Rural;B;Mujer;116
+5;Valparaíso;5104;Juan Fernández;Rural;C;Hombre;25
+5;Valparaíso;5104;Juan Fernández;Rural;C;Mujer;16
+5;Valparaíso;5104;Juan Fernández;Rural;D;Hombre;67
+5;Valparaíso;5104;Juan Fernández;Rural;D;Mujer;62
+5;Valparaíso;5105;Puchuncaví;Mixta;A;Hombre;1525
+5;Valparaíso;5105;Puchuncaví;Mixta;A;Mujer;1988
+5;Valparaíso;5105;Puchuncaví;Mixta;B;Hombre;3778
+5;Valparaíso;5105;Puchuncaví;Mixta;B;Mujer;5018
+5;Valparaíso;5105;Puchuncaví;Mixta;C;Hombre;1901
+5;Valparaíso;5105;Puchuncaví;Mixta;C;Mujer;1599
+5;Valparaíso;5105;Puchuncaví;Mixta;D;Hombre;2582
+5;Valparaíso;5105;Puchuncaví;Mixta;D;Mujer;1863
+5;Valparaíso;5107;Quintero;Mixta;A;Hombre;1913
+5;Valparaíso;5107;Quintero;Mixta;A;Mujer;2729
+5;Valparaíso;5107;Quintero;Mixta;B;Hombre;4018
+5;Valparaíso;5107;Quintero;Mixta;B;Mujer;5771
+5;Valparaíso;5107;Quintero;Mixta;C;Hombre;2051
+5;Valparaíso;5107;Quintero;Mixta;C;Mujer;1844
+5;Valparaíso;5107;Quintero;Mixta;D;Hombre;3395
+5;Valparaíso;5107;Quintero;Mixta;D;Mujer;2251
+5;Valparaíso;5109;Viña del Mar;Urbana;A;Hombre;17437
+5;Valparaíso;5109;Viña del Mar;Urbana;A;Indeterminado;3
+5;Valparaíso;5109;Viña del Mar;Urbana;A;Mujer;23677
+5;Valparaíso;5109;Viña del Mar;Urbana;B;Hombre;49797
+5;Valparaíso;5109;Viña del Mar;Urbana;B;Indeterminado;4
+5;Valparaíso;5109;Viña del Mar;Urbana;B;Mujer;73213
+5;Valparaíso;5109;Viña del Mar;Urbana;C;Hombre;25430
+5;Valparaíso;5109;Viña del Mar;Urbana;C;Indeterminado;4
+5;Valparaíso;5109;Viña del Mar;Urbana;C;Mujer;23224
+5;Valparaíso;5109;Viña del Mar;Urbana;D;Hombre;37153
+5;Valparaíso;5109;Viña del Mar;Urbana;D;Mujer;30747
+5;Valparaíso;5201;Isla de Pascua;Rural;A;Hombre;448
+5;Valparaíso;5201;Isla de Pascua;Rural;A;Mujer;423
+5;Valparaíso;5201;Isla de Pascua;Rural;B;Hombre;618
+5;Valparaíso;5201;Isla de Pascua;Rural;B;Mujer;605
+5;Valparaíso;5201;Isla de Pascua;Rural;C;Hombre;356
+5;Valparaíso;5201;Isla de Pascua;Rural;C;Indeterminado;1
+5;Valparaíso;5201;Isla de Pascua;Rural;C;Mujer;290
+5;Valparaíso;5201;Isla de Pascua;Rural;D;Hombre;540
+5;Valparaíso;5201;Isla de Pascua;Rural;D;Mujer;534
+5;Valparaíso;5301;Los Andes;Urbana;A;Hombre;3094
+5;Valparaíso;5301;Los Andes;Urbana;A;Mujer;4302
+5;Valparaíso;5301;Los Andes;Urbana;B;Hombre;9546
+5;Valparaíso;5301;Los Andes;Urbana;B;Indeterminado;1
+5;Valparaíso;5301;Los Andes;Urbana;B;Mujer;13917
+5;Valparaíso;5301;Los Andes;Urbana;C;Hombre;4907
+5;Valparaíso;5301;Los Andes;Urbana;C;Mujer;5037
+5;Valparaíso;5301;Los Andes;Urbana;D;Hombre;9509
+5;Valparaíso;5301;Los Andes;Urbana;D;Mujer;6862
+5;Valparaíso;5302;Calle Larga;Mixta;A;Hombre;971
+5;Valparaíso;5302;Calle Larga;Mixta;A;Mujer;1456
+5;Valparaíso;5302;Calle Larga;Mixta;B;Hombre;2413
+5;Valparaíso;5302;Calle Larga;Mixta;B;Mujer;3285
+5;Valparaíso;5302;Calle Larga;Mixta;C;Hombre;1204
+5;Valparaíso;5302;Calle Larga;Mixta;C;Mujer;1137
+5;Valparaíso;5302;Calle Larga;Mixta;D;Hombre;2266
+5;Valparaíso;5302;Calle Larga;Mixta;D;Mujer;1660
+5;Valparaíso;5303;Rinconada;Rural;A;Hombre;848
+5;Valparaíso;5303;Rinconada;Rural;A;Mujer;1088
+5;Valparaíso;5303;Rinconada;Rural;B;Hombre;2358
+5;Valparaíso;5303;Rinconada;Rural;B;Mujer;2980
+5;Valparaíso;5303;Rinconada;Rural;C;Hombre;856
+5;Valparaíso;5303;Rinconada;Rural;C;Mujer;772
+5;Valparaíso;5303;Rinconada;Rural;D;Hombre;1676
+5;Valparaíso;5303;Rinconada;Rural;D;Mujer;1101
+5;Valparaíso;5304;San Esteban;Mixta;A;Hombre;979
+5;Valparaíso;5304;San Esteban;Mixta;A;Indeterminado;1
+5;Valparaíso;5304;San Esteban;Mixta;A;Mujer;1407
+5;Valparaíso;5304;San Esteban;Mixta;B;Hombre;3177
+5;Valparaíso;5304;San Esteban;Mixta;B;Mujer;4177
+5;Valparaíso;5304;San Esteban;Mixta;C;Hombre;1540
+5;Valparaíso;5304;San Esteban;Mixta;C;Mujer;1462
+5;Valparaíso;5304;San Esteban;Mixta;D;Hombre;2677
+5;Valparaíso;5304;San Esteban;Mixta;D;Mujer;1738
+5;Valparaíso;5401;La Ligua;Mixta;A;Hombre;3085
+5;Valparaíso;5401;La Ligua;Mixta;A;Indeterminado;1
+5;Valparaíso;5401;La Ligua;Mixta;A;Mujer;3936
+5;Valparaíso;5401;La Ligua;Mixta;B;Hombre;7636
+5;Valparaíso;5401;La Ligua;Mixta;B;Mujer;9530
+5;Valparaíso;5401;La Ligua;Mixta;C;Hombre;3245
+5;Valparaíso;5401;La Ligua;Mixta;C;Mujer;2624
+5;Valparaíso;5401;La Ligua;Mixta;D;Hombre;4089
+5;Valparaíso;5401;La Ligua;Mixta;D;Mujer;3007
+5;Valparaíso;5402;Cabildo;Mixta;A;Hombre;950
+5;Valparaíso;5402;Cabildo;Mixta;A;Mujer;1339
+5;Valparaíso;5402;Cabildo;Mixta;B;Hombre;3081
+5;Valparaíso;5402;Cabildo;Mixta;B;Mujer;3868
+5;Valparaíso;5402;Cabildo;Mixta;C;Hombre;1672
+5;Valparaíso;5402;Cabildo;Mixta;C;Mujer;1248
+5;Valparaíso;5402;Cabildo;Mixta;D;Hombre;2295
+5;Valparaíso;5402;Cabildo;Mixta;D;Mujer;1463
+5;Valparaíso;5403;Papudo;Rural;A;Hombre;426
+5;Valparaíso;5403;Papudo;Rural;A;Mujer;614
+5;Valparaíso;5403;Papudo;Rural;B;Hombre;1270
+5;Valparaíso;5403;Papudo;Rural;B;Mujer;1565
+5;Valparaíso;5403;Papudo;Rural;C;Hombre;790
+5;Valparaíso;5403;Papudo;Rural;C;Mujer;575
+5;Valparaíso;5403;Papudo;Rural;D;Hombre;816
+5;Valparaíso;5403;Papudo;Rural;D;Mujer;587
+5;Valparaíso;5404;Petorca;Rural;A;Hombre;856
+5;Valparaíso;5404;Petorca;Rural;A;Mujer;989
+5;Valparaíso;5404;Petorca;Rural;B;Hombre;2156
+5;Valparaíso;5404;Petorca;Rural;B;Mujer;2645
+5;Valparaíso;5404;Petorca;Rural;C;Hombre;887
+5;Valparaíso;5404;Petorca;Rural;C;Mujer;557
+5;Valparaíso;5404;Petorca;Rural;D;Hombre;1432
+5;Valparaíso;5404;Petorca;Rural;D;Mujer;842
+5;Valparaíso;5405;Zapallar;Rural;A;Hombre;521
+5;Valparaíso;5405;Zapallar;Rural;A;Mujer;711
+5;Valparaíso;5405;Zapallar;Rural;B;Hombre;1819
+5;Valparaíso;5405;Zapallar;Rural;B;Mujer;2283
+5;Valparaíso;5405;Zapallar;Rural;C;Hombre;902
+5;Valparaíso;5405;Zapallar;Rural;C;Mujer;827
+5;Valparaíso;5405;Zapallar;Rural;D;Hombre;1245
+5;Valparaíso;5405;Zapallar;Rural;D;Mujer;1021
+5;Valparaíso;5501;Quillota;Urbana;A;Hombre;6280
+5;Valparaíso;5501;Quillota;Urbana;A;Indeterminado;1
+5;Valparaíso;5501;Quillota;Urbana;A;Mujer;9186
+5;Valparaíso;5501;Quillota;Urbana;B;Hombre;17461
+5;Valparaíso;5501;Quillota;Urbana;B;Mujer;23459
+5;Valparaíso;5501;Quillota;Urbana;C;Hombre;7899
+5;Valparaíso;5501;Quillota;Urbana;C;Mujer;7522
+5;Valparaíso;5501;Quillota;Urbana;D;Hombre;12420
+5;Valparaíso;5501;Quillota;Urbana;D;Mujer;9377
+5;Valparaíso;5502;Calera;Urbana;A;Hombre;3209
+5;Valparaíso;5502;Calera;Urbana;A;Mujer;4666
+5;Valparaíso;5502;Calera;Urbana;B;Hombre;8164
+5;Valparaíso;5502;Calera;Urbana;B;Indeterminado;1
+5;Valparaíso;5502;Calera;Urbana;B;Mujer;11228
+5;Valparaíso;5502;Calera;Urbana;C;Hombre;3953
+5;Valparaíso;5502;Calera;Urbana;C;Indeterminado;1
+5;Valparaíso;5502;Calera;Urbana;C;Mujer;3557
+5;Valparaíso;5502;Calera;Urbana;D;Hombre;6436
+5;Valparaíso;5502;Calera;Urbana;D;Mujer;4279
+5;Valparaíso;5503;Hijuelas;Mixta;A;Hombre;1714
+5;Valparaíso;5503;Hijuelas;Mixta;A;Mujer;2175
+5;Valparaíso;5503;Hijuelas;Mixta;B;Hombre;3754
+5;Valparaíso;5503;Hijuelas;Mixta;B;Indeterminado;1
+5;Valparaíso;5503;Hijuelas;Mixta;B;Mujer;4519
+5;Valparaíso;5503;Hijuelas;Mixta;C;Hombre;1743
+5;Valparaíso;5503;Hijuelas;Mixta;C;Mujer;1553
+5;Valparaíso;5503;Hijuelas;Mixta;D;Hombre;2728
+5;Valparaíso;5503;Hijuelas;Mixta;D;Mujer;1833
+5;Valparaíso;5504;La Cruz;Mixta;A;Hombre;1009
+5;Valparaíso;5504;La Cruz;Mixta;A;Mujer;1508
+5;Valparaíso;5504;La Cruz;Mixta;B;Hombre;3699
+5;Valparaíso;5504;La Cruz;Mixta;B;Mujer;5481
+5;Valparaíso;5504;La Cruz;Mixta;C;Hombre;1802
+5;Valparaíso;5504;La Cruz;Mixta;C;Indeterminado;1
+5;Valparaíso;5504;La Cruz;Mixta;C;Mujer;1848
+5;Valparaíso;5504;La Cruz;Mixta;D;Hombre;3123
+5;Valparaíso;5504;La Cruz;Mixta;D;Mujer;2680
+5;Valparaíso;5506;Nogales;Rural;A;Hombre;1246
+5;Valparaíso;5506;Nogales;Rural;A;Mujer;1838
+5;Valparaíso;5506;Nogales;Rural;B;Hombre;3558
+5;Valparaíso;5506;Nogales;Rural;B;Mujer;4925
+5;Valparaíso;5506;Nogales;Rural;C;Hombre;1991
+5;Valparaíso;5506;Nogales;Rural;C;Mujer;1755
+5;Valparaíso;5506;Nogales;Rural;D;Hombre;3987
+5;Valparaíso;5506;Nogales;Rural;D;Mujer;2509
+5;Valparaíso;5601;San Antonio;Urbana;A;Hombre;7091
+5;Valparaíso;5601;San Antonio;Urbana;A;Mujer;9030
+5;Valparaíso;5601;San Antonio;Urbana;B;Hombre;16412
+5;Valparaíso;5601;San Antonio;Urbana;B;Indeterminado;1
+5;Valparaíso;5601;San Antonio;Urbana;B;Mujer;21885
+5;Valparaíso;5601;San Antonio;Urbana;C;Hombre;7751
+5;Valparaíso;5601;San Antonio;Urbana;C;Mujer;6639
+5;Valparaíso;5601;San Antonio;Urbana;D;Hombre;12037
+5;Valparaíso;5601;San Antonio;Urbana;D;Mujer;9540
+5;Valparaíso;5602;Algarrobo;Mixta;A;Hombre;1211
+5;Valparaíso;5602;Algarrobo;Mixta;A;Mujer;1415
+5;Valparaíso;5602;Algarrobo;Mixta;B;Hombre;3210
+5;Valparaíso;5602;Algarrobo;Mixta;B;Mujer;4515
+5;Valparaíso;5602;Algarrobo;Mixta;C;Hombre;1460
+5;Valparaíso;5602;Algarrobo;Mixta;C;Mujer;1274
+5;Valparaíso;5602;Algarrobo;Mixta;D;Hombre;1747
+5;Valparaíso;5602;Algarrobo;Mixta;D;Mujer;1526
+5;Valparaíso;5603;Cartagena;Mixta;A;Hombre;3528
+5;Valparaíso;5603;Cartagena;Mixta;A;Mujer;4704
+5;Valparaíso;5603;Cartagena;Mixta;B;Hombre;5278
+5;Valparaíso;5603;Cartagena;Mixta;B;Mujer;6315
+5;Valparaíso;5603;Cartagena;Mixta;C;Hombre;2083
+5;Valparaíso;5603;Cartagena;Mixta;C;Mujer;1726
+5;Valparaíso;5603;Cartagena;Mixta;D;Hombre;2664
+5;Valparaíso;5603;Cartagena;Mixta;D;Mujer;1885
+5;Valparaíso;5604;El Quisco;Mixta;A;Hombre;1978
+5;Valparaíso;5604;El Quisco;Mixta;A;Mujer;2260
+5;Valparaíso;5604;El Quisco;Mixta;B;Hombre;3741
+5;Valparaíso;5604;El Quisco;Mixta;B;Mujer;4988
+5;Valparaíso;5604;El Quisco;Mixta;C;Hombre;1596
+5;Valparaíso;5604;El Quisco;Mixta;C;Mujer;1326
+5;Valparaíso;5604;El Quisco;Mixta;D;Hombre;1794
+5;Valparaíso;5604;El Quisco;Mixta;D;Indeterminado;1
+5;Valparaíso;5604;El Quisco;Mixta;D;Mujer;1502
+5;Valparaíso;5605;El Tabo;Mixta;A;Hombre;1592
+5;Valparaíso;5605;El Tabo;Mixta;A;Mujer;1922
+5;Valparaíso;5605;El Tabo;Mixta;B;Hombre;3218
+5;Valparaíso;5605;El Tabo;Mixta;B;Mujer;3983
+5;Valparaíso;5605;El Tabo;Mixta;C;Hombre;1151
+5;Valparaíso;5605;El Tabo;Mixta;C;Mujer;970
+5;Valparaíso;5605;El Tabo;Mixta;D;Hombre;1460
+5;Valparaíso;5605;El Tabo;Mixta;D;Mujer;1200
+5;Valparaíso;5606;Santo Domingo;Rural;A;Hombre;572
+5;Valparaíso;5606;Santo Domingo;Rural;A;Mujer;685
+5;Valparaíso;5606;Santo Domingo;Rural;B;Hombre;2195
+5;Valparaíso;5606;Santo Domingo;Rural;B;Mujer;2824
+5;Valparaíso;5606;Santo Domingo;Rural;C;Hombre;1121
+5;Valparaíso;5606;Santo Domingo;Rural;C;Mujer;1046
+5;Valparaíso;5606;Santo Domingo;Rural;D;Hombre;1644
+5;Valparaíso;5606;Santo Domingo;Rural;D;Mujer;1375
+5;Valparaíso;5701;San Felipe;Urbana;A;Hombre;4429
+5;Valparaíso;5701;San Felipe;Urbana;A;Indeterminado;2
+5;Valparaíso;5701;San Felipe;Urbana;A;Mujer;5814
+5;Valparaíso;5701;San Felipe;Urbana;B;Hombre;14403
+5;Valparaíso;5701;San Felipe;Urbana;B;Indeterminado;1
+5;Valparaíso;5701;San Felipe;Urbana;B;Mujer;18809
+5;Valparaíso;5701;San Felipe;Urbana;C;Hombre;5858
+5;Valparaíso;5701;San Felipe;Urbana;C;Mujer;5535
+5;Valparaíso;5701;San Felipe;Urbana;D;Hombre;9395
+5;Valparaíso;5701;San Felipe;Urbana;D;Mujer;6912
+5;Valparaíso;5702;Catemu;Rural;A;Hombre;1116
+5;Valparaíso;5702;Catemu;Rural;A;Mujer;1690
+5;Valparaíso;5702;Catemu;Rural;B;Hombre;2809
+5;Valparaíso;5702;Catemu;Rural;B;Mujer;3493
+5;Valparaíso;5702;Catemu;Rural;C;Hombre;1118
+5;Valparaíso;5702;Catemu;Rural;C;Mujer;1032
+5;Valparaíso;5702;Catemu;Rural;D;Hombre;2342
+5;Valparaíso;5702;Catemu;Rural;D;Mujer;1438
+5;Valparaíso;5703;Llaillay;Mixta;A;Hombre;1637
+5;Valparaíso;5703;Llaillay;Mixta;A;Mujer;2269
+5;Valparaíso;5703;Llaillay;Mixta;B;Hombre;3819
+5;Valparaíso;5703;Llaillay;Mixta;B;Mujer;4988
+5;Valparaíso;5703;Llaillay;Mixta;C;Hombre;1676
+5;Valparaíso;5703;Llaillay;Mixta;C;Mujer;1644
+5;Valparaíso;5703;Llaillay;Mixta;D;Hombre;3321
+5;Valparaíso;5703;Llaillay;Mixta;D;Mujer;2285
+5;Valparaíso;5704;Panquehue;Rural;A;Hombre;383
+5;Valparaíso;5704;Panquehue;Rural;A;Mujer;603
+5;Valparaíso;5704;Panquehue;Rural;B;Hombre;1646
+5;Valparaíso;5704;Panquehue;Rural;B;Mujer;2019
+5;Valparaíso;5704;Panquehue;Rural;C;Hombre;751
+5;Valparaíso;5704;Panquehue;Rural;C;Mujer;636
+5;Valparaíso;5704;Panquehue;Rural;D;Hombre;1200
+5;Valparaíso;5704;Panquehue;Rural;D;Mujer;711
+5;Valparaíso;5705;Putaendo;Mixta;A;Hombre;1302
+5;Valparaíso;5705;Putaendo;Mixta;A;Mujer;1625
+5;Valparaíso;5705;Putaendo;Mixta;B;Hombre;3945
+5;Valparaíso;5705;Putaendo;Mixta;B;Mujer;4700
+5;Valparaíso;5705;Putaendo;Mixta;C;Hombre;1289
+5;Valparaíso;5705;Putaendo;Mixta;C;Mujer;1074
+5;Valparaíso;5705;Putaendo;Mixta;D;Hombre;1778
+5;Valparaíso;5705;Putaendo;Mixta;D;Mujer;1373
+5;Valparaíso;5706;Santa María;Mixta;A;Hombre;1031
+5;Valparaíso;5706;Santa María;Mixta;A;Mujer;1326
+5;Valparaíso;5706;Santa María;Mixta;B;Hombre;3413
+5;Valparaíso;5706;Santa María;Mixta;B;Indeterminado;2
+5;Valparaíso;5706;Santa María;Mixta;B;Mujer;4195
+5;Valparaíso;5706;Santa María;Mixta;C;Hombre;1301
+5;Valparaíso;5706;Santa María;Mixta;C;Mujer;1235
+5;Valparaíso;5706;Santa María;Mixta;D;Hombre;1889
+5;Valparaíso;5706;Santa María;Mixta;D;Mujer;1402
+5;Valparaíso;5801;Quilpué;Urbana;A;Hombre;7658
+5;Valparaíso;5801;Quilpué;Urbana;A;Indeterminado;3
+5;Valparaíso;5801;Quilpué;Urbana;A;Mujer;11001
+5;Valparaíso;5801;Quilpué;Urbana;B;Hombre;23705
+5;Valparaíso;5801;Quilpué;Urbana;B;Indeterminado;1
+5;Valparaíso;5801;Quilpué;Urbana;B;Mujer;34135
+5;Valparaíso;5801;Quilpué;Urbana;C;Hombre;11865
+5;Valparaíso;5801;Quilpué;Urbana;C;Mujer;11145
+5;Valparaíso;5801;Quilpué;Urbana;D;Hombre;18449
+5;Valparaíso;5801;Quilpué;Urbana;D;Mujer;15367
+5;Valparaíso;5802;Limache;Mixta;A;Hombre;2164
+5;Valparaíso;5802;Limache;Mixta;A;Mujer;2801
+5;Valparaíso;5802;Limache;Mixta;B;Hombre;7254
+5;Valparaíso;5802;Limache;Mixta;B;Mujer;9568
+5;Valparaíso;5802;Limache;Mixta;C;Hombre;3197
+5;Valparaíso;5802;Limache;Mixta;C;Mujer;2994
+5;Valparaíso;5802;Limache;Mixta;D;Hombre;3835
+5;Valparaíso;5802;Limache;Mixta;D;Mujer;3174
+5;Valparaíso;5803;Olmué;Rural;A;Hombre;1311
+5;Valparaíso;5803;Olmué;Rural;A;Mujer;1700
+5;Valparaíso;5803;Olmué;Rural;B;Hombre;4132
+5;Valparaíso;5803;Olmué;Rural;B;Mujer;5263
+5;Valparaíso;5803;Olmué;Rural;C;Hombre;1634
+5;Valparaíso;5803;Olmué;Rural;C;Mujer;1465
+5;Valparaíso;5803;Olmué;Rural;D;Hombre;1970
+5;Valparaíso;5803;Olmué;Rural;D;Mujer;1528
+5;Valparaíso;5804;Villa Alemana;Urbana;A;Hombre;6529
+5;Valparaíso;5804;Villa Alemana;Urbana;A;Mujer;9182
+5;Valparaíso;5804;Villa Alemana;Urbana;B;Hombre;19915
+5;Valparaíso;5804;Villa Alemana;Urbana;B;Mujer;29869
+5;Valparaíso;5804;Villa Alemana;Urbana;C;Hombre;10003
+5;Valparaíso;5804;Villa Alemana;Urbana;C;Mujer;9720
+5;Valparaíso;5804;Villa Alemana;Urbana;D;Hombre;14953
+5;Valparaíso;5804;Villa Alemana;Urbana;D;Mujer;12428
+6;Libertador General Bernardo O'Higgins;6101;Rancagua;Urbana;A;Hombre;14979
+6;Libertador General Bernardo O'Higgins;6101;Rancagua;Urbana;A;Indeterminado;6
+6;Libertador General Bernardo O'Higgins;6101;Rancagua;Urbana;A;Mujer;19753
+6;Libertador General Bernardo O'Higgins;6101;Rancagua;Urbana;B;Hombre;39420
+6;Libertador General Bernardo O'Higgins;6101;Rancagua;Urbana;B;Indeterminado;2
+6;Libertador General Bernardo O'Higgins;6101;Rancagua;Urbana;B;Mujer;56753
+6;Libertador General Bernardo O'Higgins;6101;Rancagua;Urbana;C;Hombre;20043
+6;Libertador General Bernardo O'Higgins;6101;Rancagua;Urbana;C;Indeterminado;1
+6;Libertador General Bernardo O'Higgins;6101;Rancagua;Urbana;C;Mujer;19819
+6;Libertador General Bernardo O'Higgins;6101;Rancagua;Urbana;D;Hombre;35457
+6;Libertador General Bernardo O'Higgins;6101;Rancagua;Urbana;D;Indeterminado;2
+6;Libertador General Bernardo O'Higgins;6101;Rancagua;Urbana;D;Mujer;26349
+6;Libertador General Bernardo O'Higgins;6102;Codegua;Mixta;A;Hombre;948
+6;Libertador General Bernardo O'Higgins;6102;Codegua;Mixta;A;Indeterminado;1
+6;Libertador General Bernardo O'Higgins;6102;Codegua;Mixta;A;Mujer;1274
+6;Libertador General Bernardo O'Higgins;6102;Codegua;Mixta;B;Hombre;3297
+6;Libertador General Bernardo O'Higgins;6102;Codegua;Mixta;B;Mujer;4351
+6;Libertador General Bernardo O'Higgins;6102;Codegua;Mixta;C;Hombre;1600
+6;Libertador General Bernardo O'Higgins;6102;Codegua;Mixta;C;Mujer;1456
+6;Libertador General Bernardo O'Higgins;6102;Codegua;Mixta;D;Hombre;2728
+6;Libertador General Bernardo O'Higgins;6102;Codegua;Mixta;D;Mujer;1947
+6;Libertador General Bernardo O'Higgins;6103;Coinco;Rural;A;Hombre;314
+6;Libertador General Bernardo O'Higgins;6103;Coinco;Rural;A;Mujer;332
+6;Libertador General Bernardo O'Higgins;6103;Coinco;Rural;B;Hombre;940
+6;Libertador General Bernardo O'Higgins;6103;Coinco;Rural;B;Mujer;1066
+6;Libertador General Bernardo O'Higgins;6103;Coinco;Rural;C;Hombre;288
+6;Libertador General Bernardo O'Higgins;6103;Coinco;Rural;C;Mujer;250
+6;Libertador General Bernardo O'Higgins;6103;Coinco;Rural;D;Hombre;514
+6;Libertador General Bernardo O'Higgins;6103;Coinco;Rural;D;Mujer;372
+6;Libertador General Bernardo O'Higgins;6104;Coltauco;Mixta;A;Hombre;1257
+6;Libertador General Bernardo O'Higgins;6104;Coltauco;Mixta;A;Mujer;1588
+6;Libertador General Bernardo O'Higgins;6104;Coltauco;Mixta;B;Hombre;4159
+6;Libertador General Bernardo O'Higgins;6104;Coltauco;Mixta;B;Mujer;4911
+6;Libertador General Bernardo O'Higgins;6104;Coltauco;Mixta;C;Hombre;1470
+6;Libertador General Bernardo O'Higgins;6104;Coltauco;Mixta;C;Mujer;1385
+6;Libertador General Bernardo O'Higgins;6104;Coltauco;Mixta;D;Hombre;2603
+6;Libertador General Bernardo O'Higgins;6104;Coltauco;Mixta;D;Mujer;1818
+6;Libertador General Bernardo O'Higgins;6105;Doñihue;Mixta;A;Hombre;1369
+6;Libertador General Bernardo O'Higgins;6105;Doñihue;Mixta;A;Mujer;1963
+6;Libertador General Bernardo O'Higgins;6105;Doñihue;Mixta;B;Hombre;4693
+6;Libertador General Bernardo O'Higgins;6105;Doñihue;Mixta;B;Mujer;6262
+6;Libertador General Bernardo O'Higgins;6105;Doñihue;Mixta;C;Hombre;2059
+6;Libertador General Bernardo O'Higgins;6105;Doñihue;Mixta;C;Mujer;1807
+6;Libertador General Bernardo O'Higgins;6105;Doñihue;Mixta;D;Hombre;3873
+6;Libertador General Bernardo O'Higgins;6105;Doñihue;Mixta;D;Mujer;2671
+6;Libertador General Bernardo O'Higgins;6106;Graneros;Mixta;A;Hombre;1191
+6;Libertador General Bernardo O'Higgins;6106;Graneros;Mixta;A;Mujer;1520
+6;Libertador General Bernardo O'Higgins;6106;Graneros;Mixta;B;Hombre;3749
+6;Libertador General Bernardo O'Higgins;6106;Graneros;Mixta;B;Mujer;4153
+6;Libertador General Bernardo O'Higgins;6106;Graneros;Mixta;C;Hombre;1580
+6;Libertador General Bernardo O'Higgins;6106;Graneros;Mixta;C;Mujer;1397
+6;Libertador General Bernardo O'Higgins;6106;Graneros;Mixta;D;Hombre;2948
+6;Libertador General Bernardo O'Higgins;6106;Graneros;Mixta;D;Mujer;2019
+6;Libertador General Bernardo O'Higgins;6107;Las Cabras;Rural;A;Hombre;2118
+6;Libertador General Bernardo O'Higgins;6107;Las Cabras;Rural;A;Indeterminado;1
+6;Libertador General Bernardo O'Higgins;6107;Las Cabras;Rural;A;Mujer;2642
+6;Libertador General Bernardo O'Higgins;6107;Las Cabras;Rural;B;Hombre;6287
+6;Libertador General Bernardo O'Higgins;6107;Las Cabras;Rural;B;Mujer;6859
+6;Libertador General Bernardo O'Higgins;6107;Las Cabras;Rural;C;Hombre;2010
+6;Libertador General Bernardo O'Higgins;6107;Las Cabras;Rural;C;Mujer;1705
+6;Libertador General Bernardo O'Higgins;6107;Las Cabras;Rural;D;Hombre;3138
+6;Libertador General Bernardo O'Higgins;6107;Las Cabras;Rural;D;Mujer;2285
+6;Libertador General Bernardo O'Higgins;6108;Machalí;Urbana;A;Hombre;1890
+6;Libertador General Bernardo O'Higgins;6108;Machalí;Urbana;A;Indeterminado;1
+6;Libertador General Bernardo O'Higgins;6108;Machalí;Urbana;A;Mujer;2636
+6;Libertador General Bernardo O'Higgins;6108;Machalí;Urbana;B;Hombre;5592
+6;Libertador General Bernardo O'Higgins;6108;Machalí;Urbana;B;Mujer;8342
+6;Libertador General Bernardo O'Higgins;6108;Machalí;Urbana;C;Hombre;2993
+6;Libertador General Bernardo O'Higgins;6108;Machalí;Urbana;C;Indeterminado;1
+6;Libertador General Bernardo O'Higgins;6108;Machalí;Urbana;C;Mujer;2884
+6;Libertador General Bernardo O'Higgins;6108;Machalí;Urbana;D;Hombre;5817
+6;Libertador General Bernardo O'Higgins;6108;Machalí;Urbana;D;Mujer;4262
+6;Libertador General Bernardo O'Higgins;6109;Malloa;Rural;A;Hombre;1241
+6;Libertador General Bernardo O'Higgins;6109;Malloa;Rural;A;Mujer;1391
+6;Libertador General Bernardo O'Higgins;6109;Malloa;Rural;B;Hombre;3467
+6;Libertador General Bernardo O'Higgins;6109;Malloa;Rural;B;Mujer;3888
+6;Libertador General Bernardo O'Higgins;6109;Malloa;Rural;C;Hombre;1167
+6;Libertador General Bernardo O'Higgins;6109;Malloa;Rural;C;Mujer;985
+6;Libertador General Bernardo O'Higgins;6109;Malloa;Rural;D;Hombre;1525
+6;Libertador General Bernardo O'Higgins;6109;Malloa;Rural;D;Mujer;1235
+6;Libertador General Bernardo O'Higgins;6110;Mostazal;Mixta;A;Hombre;1546
+6;Libertador General Bernardo O'Higgins;6110;Mostazal;Mixta;A;Mujer;2080
+6;Libertador General Bernardo O'Higgins;6110;Mostazal;Mixta;B;Hombre;5120
+6;Libertador General Bernardo O'Higgins;6110;Mostazal;Mixta;B;Mujer;6565
+6;Libertador General Bernardo O'Higgins;6110;Mostazal;Mixta;C;Hombre;2453
+6;Libertador General Bernardo O'Higgins;6110;Mostazal;Mixta;C;Mujer;2153
+6;Libertador General Bernardo O'Higgins;6110;Mostazal;Mixta;D;Hombre;3815
+6;Libertador General Bernardo O'Higgins;6110;Mostazal;Mixta;D;Mujer;2619
+6;Libertador General Bernardo O'Higgins;6111;Olivar;Mixta;A;Hombre;906
+6;Libertador General Bernardo O'Higgins;6111;Olivar;Mixta;A;Mujer;1101
+6;Libertador General Bernardo O'Higgins;6111;Olivar;Mixta;B;Hombre;2747
+6;Libertador General Bernardo O'Higgins;6111;Olivar;Mixta;B;Mujer;3457
+6;Libertador General Bernardo O'Higgins;6111;Olivar;Mixta;C;Hombre;1254
+6;Libertador General Bernardo O'Higgins;6111;Olivar;Mixta;C;Mujer;1043
+6;Libertador General Bernardo O'Higgins;6111;Olivar;Mixta;D;Hombre;2112
+6;Libertador General Bernardo O'Higgins;6111;Olivar;Mixta;D;Mujer;1251
+6;Libertador General Bernardo O'Higgins;6112;Peumo;Mixta;A;Hombre;564
+6;Libertador General Bernardo O'Higgins;6112;Peumo;Mixta;A;Mujer;811
+6;Libertador General Bernardo O'Higgins;6112;Peumo;Mixta;B;Hombre;2537
+6;Libertador General Bernardo O'Higgins;6112;Peumo;Mixta;B;Mujer;2922
+6;Libertador General Bernardo O'Higgins;6112;Peumo;Mixta;C;Hombre;868
+6;Libertador General Bernardo O'Higgins;6112;Peumo;Mixta;C;Mujer;819
+6;Libertador General Bernardo O'Higgins;6112;Peumo;Mixta;D;Hombre;1752
+6;Libertador General Bernardo O'Higgins;6112;Peumo;Mixta;D;Mujer;1114
+6;Libertador General Bernardo O'Higgins;6113;Pichidegua;Rural;A;Hombre;1134
+6;Libertador General Bernardo O'Higgins;6113;Pichidegua;Rural;A;Mujer;1496
+6;Libertador General Bernardo O'Higgins;6113;Pichidegua;Rural;B;Hombre;4581
+6;Libertador General Bernardo O'Higgins;6113;Pichidegua;Rural;B;Mujer;4979
+6;Libertador General Bernardo O'Higgins;6113;Pichidegua;Rural;C;Hombre;1347
+6;Libertador General Bernardo O'Higgins;6113;Pichidegua;Rural;C;Mujer;1167
+6;Libertador General Bernardo O'Higgins;6113;Pichidegua;Rural;D;Hombre;2160
+6;Libertador General Bernardo O'Higgins;6113;Pichidegua;Rural;D;Mujer;1538
+6;Libertador General Bernardo O'Higgins;6114;Quinta de Tilcoco;Mixta;A;Hombre;1242
+6;Libertador General Bernardo O'Higgins;6114;Quinta de Tilcoco;Mixta;A;Mujer;1484
+6;Libertador General Bernardo O'Higgins;6114;Quinta de Tilcoco;Mixta;B;Hombre;3225
+6;Libertador General Bernardo O'Higgins;6114;Quinta de Tilcoco;Mixta;B;Mujer;3636
+6;Libertador General Bernardo O'Higgins;6114;Quinta de Tilcoco;Mixta;C;Hombre;1059
+6;Libertador General Bernardo O'Higgins;6114;Quinta de Tilcoco;Mixta;C;Indeterminado;1
+6;Libertador General Bernardo O'Higgins;6114;Quinta de Tilcoco;Mixta;C;Mujer;1018
+6;Libertador General Bernardo O'Higgins;6114;Quinta de Tilcoco;Mixta;D;Hombre;1503
+6;Libertador General Bernardo O'Higgins;6114;Quinta de Tilcoco;Mixta;D;Mujer;1169
+6;Libertador General Bernardo O'Higgins;6115;Rengo;Urbana;A;Hombre;4752
+6;Libertador General Bernardo O'Higgins;6115;Rengo;Urbana;A;Indeterminado;3
+6;Libertador General Bernardo O'Higgins;6115;Rengo;Urbana;A;Mujer;6046
+6;Libertador General Bernardo O'Higgins;6115;Rengo;Urbana;B;Hombre;12904
+6;Libertador General Bernardo O'Higgins;6115;Rengo;Urbana;B;Mujer;15798
+6;Libertador General Bernardo O'Higgins;6115;Rengo;Urbana;C;Hombre;5013
+6;Libertador General Bernardo O'Higgins;6115;Rengo;Urbana;C;Mujer;4673
+6;Libertador General Bernardo O'Higgins;6115;Rengo;Urbana;D;Hombre;8065
+6;Libertador General Bernardo O'Higgins;6115;Rengo;Urbana;D;Mujer;5986
+6;Libertador General Bernardo O'Higgins;6116;Requínoa;Mixta;A;Hombre;1281
+6;Libertador General Bernardo O'Higgins;6116;Requínoa;Mixta;A;Mujer;1732
+6;Libertador General Bernardo O'Higgins;6116;Requínoa;Mixta;B;Hombre;5640
+6;Libertador General Bernardo O'Higgins;6116;Requínoa;Mixta;B;Mujer;6836
+6;Libertador General Bernardo O'Higgins;6116;Requínoa;Mixta;C;Hombre;2573
+6;Libertador General Bernardo O'Higgins;6116;Requínoa;Mixta;C;Mujer;2333
+6;Libertador General Bernardo O'Higgins;6116;Requínoa;Mixta;D;Hombre;4086
+6;Libertador General Bernardo O'Higgins;6116;Requínoa;Mixta;D;Mujer;2786
+6;Libertador General Bernardo O'Higgins;6117;San Vicente;Mixta;A;Hombre;3019
+6;Libertador General Bernardo O'Higgins;6117;San Vicente;Mixta;A;Mujer;3755
+6;Libertador General Bernardo O'Higgins;6117;San Vicente;Mixta;B;Hombre;11205
+6;Libertador General Bernardo O'Higgins;6117;San Vicente;Mixta;B;Mujer;12869
+6;Libertador General Bernardo O'Higgins;6117;San Vicente;Mixta;C;Hombre;3950
+6;Libertador General Bernardo O'Higgins;6117;San Vicente;Mixta;C;Mujer;3727
+6;Libertador General Bernardo O'Higgins;6117;San Vicente;Mixta;D;Hombre;5636
+6;Libertador General Bernardo O'Higgins;6117;San Vicente;Mixta;D;Mujer;4531
+6;Libertador General Bernardo O'Higgins;6201;Pichilemu;Rural;A;Hombre;945
+6;Libertador General Bernardo O'Higgins;6201;Pichilemu;Rural;A;Mujer;1017
+6;Libertador General Bernardo O'Higgins;6201;Pichilemu;Rural;B;Hombre;2920
+6;Libertador General Bernardo O'Higgins;6201;Pichilemu;Rural;B;Indeterminado;1
+6;Libertador General Bernardo O'Higgins;6201;Pichilemu;Rural;B;Mujer;2847
+6;Libertador General Bernardo O'Higgins;6201;Pichilemu;Rural;C;Hombre;1069
+6;Libertador General Bernardo O'Higgins;6201;Pichilemu;Rural;C;Mujer;907
+6;Libertador General Bernardo O'Higgins;6201;Pichilemu;Rural;D;Hombre;1057
+6;Libertador General Bernardo O'Higgins;6201;Pichilemu;Rural;D;Mujer;907
+6;Libertador General Bernardo O'Higgins;6202;La Estrella;Rural;A;Hombre;313
+6;Libertador General Bernardo O'Higgins;6202;La Estrella;Rural;A;Mujer;385
+6;Libertador General Bernardo O'Higgins;6202;La Estrella;Rural;B;Hombre;957
+6;Libertador General Bernardo O'Higgins;6202;La Estrella;Rural;B;Mujer;1086
+6;Libertador General Bernardo O'Higgins;6202;La Estrella;Rural;C;Hombre;344
+6;Libertador General Bernardo O'Higgins;6202;La Estrella;Rural;C;Mujer;292
+6;Libertador General Bernardo O'Higgins;6202;La Estrella;Rural;D;Hombre;482
+6;Libertador General Bernardo O'Higgins;6202;La Estrella;Rural;D;Mujer;313
+6;Libertador General Bernardo O'Higgins;6203;Litueche;Rural;A;Hombre;355
+6;Libertador General Bernardo O'Higgins;6203;Litueche;Rural;A;Mujer;505
+6;Libertador General Bernardo O'Higgins;6203;Litueche;Rural;B;Hombre;1046
+6;Libertador General Bernardo O'Higgins;6203;Litueche;Rural;B;Mujer;1084
+6;Libertador General Bernardo O'Higgins;6203;Litueche;Rural;C;Hombre;455
+6;Libertador General Bernardo O'Higgins;6203;Litueche;Rural;C;Mujer;283
+6;Libertador General Bernardo O'Higgins;6203;Litueche;Rural;D;Hombre;440
+6;Libertador General Bernardo O'Higgins;6203;Litueche;Rural;D;Mujer;363
+6;Libertador General Bernardo O'Higgins;6204;Marchihue;Rural;A;Hombre;311
+6;Libertador General Bernardo O'Higgins;6204;Marchihue;Rural;A;Mujer;429
+6;Libertador General Bernardo O'Higgins;6204;Marchihue;Rural;B;Hombre;1272
+6;Libertador General Bernardo O'Higgins;6204;Marchihue;Rural;B;Mujer;1443
+6;Libertador General Bernardo O'Higgins;6204;Marchihue;Rural;C;Hombre;588
+6;Libertador General Bernardo O'Higgins;6204;Marchihue;Rural;C;Mujer;451
+6;Libertador General Bernardo O'Higgins;6204;Marchihue;Rural;D;Hombre;695
+6;Libertador General Bernardo O'Higgins;6204;Marchihue;Rural;D;Mujer;463
+6;Libertador General Bernardo O'Higgins;6205;Navidad;Rural;A;Hombre;857
+6;Libertador General Bernardo O'Higgins;6205;Navidad;Rural;A;Mujer;1011
+6;Libertador General Bernardo O'Higgins;6205;Navidad;Rural;B;Hombre;1703
+6;Libertador General Bernardo O'Higgins;6205;Navidad;Rural;B;Mujer;1937
+6;Libertador General Bernardo O'Higgins;6205;Navidad;Rural;C;Hombre;611
+6;Libertador General Bernardo O'Higgins;6205;Navidad;Rural;C;Mujer;473
+6;Libertador General Bernardo O'Higgins;6205;Navidad;Rural;D;Hombre;786
+6;Libertador General Bernardo O'Higgins;6205;Navidad;Rural;D;Mujer;673
+6;Libertador General Bernardo O'Higgins;6206;Paredones;Rural;A;Hombre;606
+6;Libertador General Bernardo O'Higgins;6206;Paredones;Rural;A;Mujer;739
+6;Libertador General Bernardo O'Higgins;6206;Paredones;Rural;B;Hombre;1882
+6;Libertador General Bernardo O'Higgins;6206;Paredones;Rural;B;Mujer;2019
+6;Libertador General Bernardo O'Higgins;6206;Paredones;Rural;C;Hombre;519
+6;Libertador General Bernardo O'Higgins;6206;Paredones;Rural;C;Mujer;392
+6;Libertador General Bernardo O'Higgins;6206;Paredones;Rural;D;Hombre;536
+6;Libertador General Bernardo O'Higgins;6206;Paredones;Rural;D;Mujer;383
+6;Libertador General Bernardo O'Higgins;6301;San Fernando;Urbana;A;Hombre;5272
+6;Libertador General Bernardo O'Higgins;6301;San Fernando;Urbana;A;Indeterminado;3
+6;Libertador General Bernardo O'Higgins;6301;San Fernando;Urbana;A;Mujer;6359
+6;Libertador General Bernardo O'Higgins;6301;San Fernando;Urbana;B;Hombre;16243
+6;Libertador General Bernardo O'Higgins;6301;San Fernando;Urbana;B;Mujer;21349
+6;Libertador General Bernardo O'Higgins;6301;San Fernando;Urbana;C;Hombre;6949
+6;Libertador General Bernardo O'Higgins;6301;San Fernando;Urbana;C;Indeterminado;1
+6;Libertador General Bernardo O'Higgins;6301;San Fernando;Urbana;C;Mujer;6222
+6;Libertador General Bernardo O'Higgins;6301;San Fernando;Urbana;D;Hombre;10914
+6;Libertador General Bernardo O'Higgins;6301;San Fernando;Urbana;D;Mujer;8416
+6;Libertador General Bernardo O'Higgins;6302;Chépica;Mixta;A;Hombre;1068
+6;Libertador General Bernardo O'Higgins;6302;Chépica;Mixta;A;Mujer;1459
+6;Libertador General Bernardo O'Higgins;6302;Chépica;Mixta;B;Hombre;3798
+6;Libertador General Bernardo O'Higgins;6302;Chépica;Mixta;B;Mujer;4006
+6;Libertador General Bernardo O'Higgins;6302;Chépica;Mixta;C;Hombre;1123
+6;Libertador General Bernardo O'Higgins;6302;Chépica;Mixta;C;Mujer;984
+6;Libertador General Bernardo O'Higgins;6302;Chépica;Mixta;D;Hombre;1281
+6;Libertador General Bernardo O'Higgins;6302;Chépica;Mixta;D;Mujer;999
+6;Libertador General Bernardo O'Higgins;6303;Chimbarongo;Rural;A;Hombre;1860
+6;Libertador General Bernardo O'Higgins;6303;Chimbarongo;Rural;A;Indeterminado;1
+6;Libertador General Bernardo O'Higgins;6303;Chimbarongo;Rural;A;Mujer;2324
+6;Libertador General Bernardo O'Higgins;6303;Chimbarongo;Rural;B;Hombre;6718
+6;Libertador General Bernardo O'Higgins;6303;Chimbarongo;Rural;B;Mujer;7196
+6;Libertador General Bernardo O'Higgins;6303;Chimbarongo;Rural;C;Hombre;2364
+6;Libertador General Bernardo O'Higgins;6303;Chimbarongo;Rural;C;Indeterminado;1
+6;Libertador General Bernardo O'Higgins;6303;Chimbarongo;Rural;C;Mujer;1995
+6;Libertador General Bernardo O'Higgins;6303;Chimbarongo;Rural;D;Hombre;3138
+6;Libertador General Bernardo O'Higgins;6303;Chimbarongo;Rural;D;Mujer;2232
+6;Libertador General Bernardo O'Higgins;6304;Lolol;Rural;A;Hombre;416
+6;Libertador General Bernardo O'Higgins;6304;Lolol;Rural;A;Mujer;656
+6;Libertador General Bernardo O'Higgins;6304;Lolol;Rural;B;Hombre;1774
+6;Libertador General Bernardo O'Higgins;6304;Lolol;Rural;B;Mujer;1884
+6;Libertador General Bernardo O'Higgins;6304;Lolol;Rural;C;Hombre;488
+6;Libertador General Bernardo O'Higgins;6304;Lolol;Rural;C;Mujer;324
+6;Libertador General Bernardo O'Higgins;6304;Lolol;Rural;D;Hombre;561
+6;Libertador General Bernardo O'Higgins;6304;Lolol;Rural;D;Mujer;388
+6;Libertador General Bernardo O'Higgins;6305;Nancagua;Mixta;A;Hombre;1167
+6;Libertador General Bernardo O'Higgins;6305;Nancagua;Mixta;A;Mujer;1659
+6;Libertador General Bernardo O'Higgins;6305;Nancagua;Mixta;B;Hombre;3544
+6;Libertador General Bernardo O'Higgins;6305;Nancagua;Mixta;B;Indeterminado;1
+6;Libertador General Bernardo O'Higgins;6305;Nancagua;Mixta;B;Mujer;4010
+6;Libertador General Bernardo O'Higgins;6305;Nancagua;Mixta;C;Hombre;1300
+6;Libertador General Bernardo O'Higgins;6305;Nancagua;Mixta;C;Mujer;1136
+6;Libertador General Bernardo O'Higgins;6305;Nancagua;Mixta;D;Hombre;1620
+6;Libertador General Bernardo O'Higgins;6305;Nancagua;Mixta;D;Indeterminado;1
+6;Libertador General Bernardo O'Higgins;6305;Nancagua;Mixta;D;Mujer;1166
+6;Libertador General Bernardo O'Higgins;6306;Palmilla;Rural;A;Hombre;614
+6;Libertador General Bernardo O'Higgins;6306;Palmilla;Rural;A;Indeterminado;1
+6;Libertador General Bernardo O'Higgins;6306;Palmilla;Rural;A;Mujer;842
+6;Libertador General Bernardo O'Higgins;6306;Palmilla;Rural;B;Hombre;2835
+6;Libertador General Bernardo O'Higgins;6306;Palmilla;Rural;B;Mujer;3241
+6;Libertador General Bernardo O'Higgins;6306;Palmilla;Rural;C;Hombre;1056
+6;Libertador General Bernardo O'Higgins;6306;Palmilla;Rural;C;Mujer;871
+6;Libertador General Bernardo O'Higgins;6306;Palmilla;Rural;D;Hombre;1496
+6;Libertador General Bernardo O'Higgins;6306;Palmilla;Rural;D;Mujer;1059
+6;Libertador General Bernardo O'Higgins;6307;Peralillo;Rural;A;Hombre;922
+6;Libertador General Bernardo O'Higgins;6307;Peralillo;Rural;A;Mujer;1235
+6;Libertador General Bernardo O'Higgins;6307;Peralillo;Rural;B;Hombre;2918
+6;Libertador General Bernardo O'Higgins;6307;Peralillo;Rural;B;Mujer;3507
+6;Libertador General Bernardo O'Higgins;6307;Peralillo;Rural;C;Hombre;1249
+6;Libertador General Bernardo O'Higgins;6307;Peralillo;Rural;C;Mujer;985
+6;Libertador General Bernardo O'Higgins;6307;Peralillo;Rural;D;Hombre;1626
+6;Libertador General Bernardo O'Higgins;6307;Peralillo;Rural;D;Mujer;1073
+6;Libertador General Bernardo O'Higgins;6308;Placilla;Rural;A;Hombre;698
+6;Libertador General Bernardo O'Higgins;6308;Placilla;Rural;A;Mujer;893
+6;Libertador General Bernardo O'Higgins;6308;Placilla;Rural;B;Hombre;2287
+6;Libertador General Bernardo O'Higgins;6308;Placilla;Rural;B;Mujer;2657
+6;Libertador General Bernardo O'Higgins;6308;Placilla;Rural;C;Hombre;834
+6;Libertador General Bernardo O'Higgins;6308;Placilla;Rural;C;Mujer;689
+6;Libertador General Bernardo O'Higgins;6308;Placilla;Rural;D;Hombre;1018
+6;Libertador General Bernardo O'Higgins;6308;Placilla;Rural;D;Mujer;774
+6;Libertador General Bernardo O'Higgins;6309;Pumanque;Rural;A;Hombre;309
+6;Libertador General Bernardo O'Higgins;6309;Pumanque;Rural;A;Mujer;459
+6;Libertador General Bernardo O'Higgins;6309;Pumanque;Rural;B;Hombre;997
+6;Libertador General Bernardo O'Higgins;6309;Pumanque;Rural;B;Mujer;1144
+6;Libertador General Bernardo O'Higgins;6309;Pumanque;Rural;C;Hombre;315
+6;Libertador General Bernardo O'Higgins;6309;Pumanque;Rural;C;Mujer;269
+6;Libertador General Bernardo O'Higgins;6309;Pumanque;Rural;D;Hombre;473
+6;Libertador General Bernardo O'Higgins;6309;Pumanque;Rural;D;Mujer;327
+6;Libertador General Bernardo O'Higgins;6310;Santa Cruz;Mixta;A;Hombre;3282
+6;Libertador General Bernardo O'Higgins;6310;Santa Cruz;Mixta;A;Indeterminado;3
+6;Libertador General Bernardo O'Higgins;6310;Santa Cruz;Mixta;A;Mujer;4014
+6;Libertador General Bernardo O'Higgins;6310;Santa Cruz;Mixta;B;Hombre;10161
+6;Libertador General Bernardo O'Higgins;6310;Santa Cruz;Mixta;B;Mujer;11784
+6;Libertador General Bernardo O'Higgins;6310;Santa Cruz;Mixta;C;Hombre;3538
+6;Libertador General Bernardo O'Higgins;6310;Santa Cruz;Mixta;C;Mujer;3242
+6;Libertador General Bernardo O'Higgins;6310;Santa Cruz;Mixta;D;Hombre;4379
+6;Libertador General Bernardo O'Higgins;6310;Santa Cruz;Mixta;D;Mujer;3785
+7;Maule;7101;Talca;Urbana;A;Hombre;17889
+7;Maule;7101;Talca;Urbana;A;Indeterminado;3
+7;Maule;7101;Talca;Urbana;A;Mujer;23980
+7;Maule;7101;Talca;Urbana;B;Hombre;43734
+7;Maule;7101;Talca;Urbana;B;Mujer;57605
+7;Maule;7101;Talca;Urbana;C;Hombre;19301
+7;Maule;7101;Talca;Urbana;C;Mujer;17981
+7;Maule;7101;Talca;Urbana;D;Hombre;28630
+7;Maule;7101;Talca;Urbana;D;Indeterminado;1
+7;Maule;7101;Talca;Urbana;D;Mujer;23528
+7;Maule;7102;Constitución;Mixta;A;Hombre;5352
+7;Maule;7102;Constitución;Mixta;A;Mujer;8198
+7;Maule;7102;Constitución;Mixta;B;Hombre;7926
+7;Maule;7102;Constitución;Mixta;B;Mujer;9364
+7;Maule;7102;Constitución;Mixta;C;Hombre;4446
+7;Maule;7102;Constitución;Mixta;C;Indeterminado;1
+7;Maule;7102;Constitución;Mixta;C;Mujer;3482
+7;Maule;7102;Constitución;Mixta;D;Hombre;5836
+7;Maule;7102;Constitución;Mixta;D;Mujer;3612
+7;Maule;7103;Curepto;Rural;A;Hombre;648
+7;Maule;7103;Curepto;Rural;A;Mujer;742
+7;Maule;7103;Curepto;Rural;B;Hombre;1623
+7;Maule;7103;Curepto;Rural;B;Mujer;1803
+7;Maule;7103;Curepto;Rural;C;Hombre;521
+7;Maule;7103;Curepto;Rural;C;Mujer;352
+7;Maule;7103;Curepto;Rural;D;Hombre;705
+7;Maule;7103;Curepto;Rural;D;Mujer;459
+7;Maule;7104;Empedrado;Rural;A;Hombre;485
+7;Maule;7104;Empedrado;Rural;A;Mujer;729
+7;Maule;7104;Empedrado;Rural;B;Hombre;905
+7;Maule;7104;Empedrado;Rural;B;Mujer;943
+7;Maule;7104;Empedrado;Rural;C;Hombre;576
+7;Maule;7104;Empedrado;Rural;C;Mujer;288
+7;Maule;7104;Empedrado;Rural;D;Hombre;379
+7;Maule;7104;Empedrado;Rural;D;Mujer;243
+7;Maule;7105;Maule;Mixta;A;Hombre;4209
+7;Maule;7105;Maule;Mixta;A;Mujer;5772
+7;Maule;7105;Maule;Mixta;B;Hombre;6538
+7;Maule;7105;Maule;Mixta;B;Mujer;7483
+7;Maule;7105;Maule;Mixta;C;Hombre;2928
+7;Maule;7105;Maule;Mixta;C;Mujer;2384
+7;Maule;7105;Maule;Mixta;D;Hombre;3952
+7;Maule;7105;Maule;Mixta;D;Mujer;2850
+7;Maule;7106;Pelarco;Rural;A;Hombre;1025
+7;Maule;7106;Pelarco;Rural;A;Mujer;1357
+7;Maule;7106;Pelarco;Rural;B;Hombre;2339
+7;Maule;7106;Pelarco;Rural;B;Mujer;2697
+7;Maule;7106;Pelarco;Rural;C;Hombre;1001
+7;Maule;7106;Pelarco;Rural;C;Indeterminado;1
+7;Maule;7106;Pelarco;Rural;C;Mujer;776
+7;Maule;7106;Pelarco;Rural;D;Hombre;1284
+7;Maule;7106;Pelarco;Rural;D;Mujer;828
+7;Maule;7107;Pencahue;Rural;A;Hombre;855
+7;Maule;7107;Pencahue;Rural;A;Mujer;1053
+7;Maule;7107;Pencahue;Rural;B;Hombre;1923
+7;Maule;7107;Pencahue;Rural;B;Mujer;2258
+7;Maule;7107;Pencahue;Rural;C;Hombre;794
+7;Maule;7107;Pencahue;Rural;C;Mujer;602
+7;Maule;7107;Pencahue;Rural;D;Hombre;1158
+7;Maule;7107;Pencahue;Rural;D;Mujer;728
+7;Maule;7108;Río Claro;Rural;A;Hombre;969
+7;Maule;7108;Río Claro;Rural;A;Mujer;1389
+7;Maule;7108;Río Claro;Rural;B;Hombre;2977
+7;Maule;7108;Río Claro;Rural;B;Mujer;3156
+7;Maule;7108;Río Claro;Rural;C;Hombre;1211
+7;Maule;7108;Río Claro;Rural;C;Mujer;1038
+7;Maule;7108;Río Claro;Rural;D;Hombre;1540
+7;Maule;7108;Río Claro;Rural;D;Mujer;1040
+7;Maule;7109;San Clemente;Rural;A;Hombre;4363
+7;Maule;7109;San Clemente;Rural;A;Mujer;6989
+7;Maule;7109;San Clemente;Rural;B;Hombre;8422
+7;Maule;7109;San Clemente;Rural;B;Mujer;9788
+7;Maule;7109;San Clemente;Rural;C;Hombre;3572
+7;Maule;7109;San Clemente;Rural;C;Mujer;2853
+7;Maule;7109;San Clemente;Rural;D;Hombre;5408
+7;Maule;7109;San Clemente;Rural;D;Mujer;3034
+7;Maule;7110;San Rafael;Rural;A;Hombre;946
+7;Maule;7110;San Rafael;Rural;A;Mujer;1375
+7;Maule;7110;San Rafael;Rural;B;Hombre;2002
+7;Maule;7110;San Rafael;Rural;B;Mujer;2658
+7;Maule;7110;San Rafael;Rural;C;Hombre;1040
+7;Maule;7110;San Rafael;Rural;C;Mujer;877
+7;Maule;7110;San Rafael;Rural;D;Hombre;1410
+7;Maule;7110;San Rafael;Rural;D;Mujer;845
+7;Maule;7201;Cauquenes;Rural;A;Hombre;4606
+7;Maule;7201;Cauquenes;Rural;A;Mujer;6135
+7;Maule;7201;Cauquenes;Rural;B;Hombre;8424
+7;Maule;7201;Cauquenes;Rural;B;Mujer;11143
+7;Maule;7201;Cauquenes;Rural;C;Hombre;2814
+7;Maule;7201;Cauquenes;Rural;C;Mujer;2513
+7;Maule;7201;Cauquenes;Rural;D;Hombre;3521
+7;Maule;7201;Cauquenes;Rural;D;Mujer;2708
+7;Maule;7202;Chanco;Rural;A;Hombre;846
+7;Maule;7202;Chanco;Rural;A;Mujer;1181
+7;Maule;7202;Chanco;Rural;B;Hombre;1285
+7;Maule;7202;Chanco;Rural;B;Mujer;1385
+7;Maule;7202;Chanco;Rural;C;Hombre;451
+7;Maule;7202;Chanco;Rural;C;Mujer;387
+7;Maule;7202;Chanco;Rural;D;Hombre;447
+7;Maule;7202;Chanco;Rural;D;Mujer;308
+7;Maule;7203;Pelluhue;Rural;A;Hombre;1514
+7;Maule;7203;Pelluhue;Rural;A;Mujer;1485
+7;Maule;7203;Pelluhue;Rural;B;Hombre;1674
+7;Maule;7203;Pelluhue;Rural;B;Mujer;1969
+7;Maule;7203;Pelluhue;Rural;C;Hombre;434
+7;Maule;7203;Pelluhue;Rural;C;Mujer;430
+7;Maule;7203;Pelluhue;Rural;D;Hombre;631
+7;Maule;7203;Pelluhue;Rural;D;Mujer;666
+7;Maule;7301;Curicó;Urbana;A;Hombre;9870
+7;Maule;7301;Curicó;Urbana;A;Indeterminado;4
+7;Maule;7301;Curicó;Urbana;A;Mujer;14027
+7;Maule;7301;Curicó;Urbana;B;Hombre;30867
+7;Maule;7301;Curicó;Urbana;B;Indeterminado;5
+7;Maule;7301;Curicó;Urbana;B;Mujer;37651
+7;Maule;7301;Curicó;Urbana;C;Hombre;12851
+7;Maule;7301;Curicó;Urbana;C;Indeterminado;2
+7;Maule;7301;Curicó;Urbana;C;Mujer;12281
+7;Maule;7301;Curicó;Urbana;D;Hombre;18644
+7;Maule;7301;Curicó;Urbana;D;Indeterminado;1
+7;Maule;7301;Curicó;Urbana;D;Mujer;15952
+7;Maule;7302;Hualañé;Rural;A;Hombre;639
+7;Maule;7302;Hualañé;Rural;A;Mujer;837
+7;Maule;7302;Hualañé;Rural;B;Hombre;2212
+7;Maule;7302;Hualañé;Rural;B;Mujer;2426
+7;Maule;7302;Hualañé;Rural;C;Hombre;585
+7;Maule;7302;Hualañé;Rural;C;Mujer;472
+7;Maule;7302;Hualañé;Rural;D;Hombre;839
+7;Maule;7302;Hualañé;Rural;D;Mujer;669
+7;Maule;7303;Licantén;Rural;A;Hombre;711
+7;Maule;7303;Licantén;Rural;A;Mujer;691
+7;Maule;7303;Licantén;Rural;B;Hombre;1304
+7;Maule;7303;Licantén;Rural;B;Mujer;1559
+7;Maule;7303;Licantén;Rural;C;Hombre;438
+7;Maule;7303;Licantén;Rural;C;Mujer;394
+7;Maule;7303;Licantén;Rural;D;Hombre;571
+7;Maule;7303;Licantén;Rural;D;Mujer;415
+7;Maule;7304;Molina;Mixta;A;Hombre;3576
+7;Maule;7304;Molina;Mixta;A;Indeterminado;1
+7;Maule;7304;Molina;Mixta;A;Mujer;5272
+7;Maule;7304;Molina;Mixta;B;Hombre;10113
+7;Maule;7304;Molina;Mixta;B;Indeterminado;2
+7;Maule;7304;Molina;Mixta;B;Mujer;11560
+7;Maule;7304;Molina;Mixta;C;Hombre;3808
+7;Maule;7304;Molina;Mixta;C;Mujer;3562
+7;Maule;7304;Molina;Mixta;D;Hombre;6123
+7;Maule;7304;Molina;Mixta;D;Indeterminado;1
+7;Maule;7304;Molina;Mixta;D;Mujer;4351
+7;Maule;7305;Rauco;Rural;A;Hombre;794
+7;Maule;7305;Rauco;Rural;A;Mujer;993
+7;Maule;7305;Rauco;Rural;B;Hombre;2725
+7;Maule;7305;Rauco;Rural;B;Mujer;3001
+7;Maule;7305;Rauco;Rural;C;Hombre;948
+7;Maule;7305;Rauco;Rural;C;Mujer;782
+7;Maule;7305;Rauco;Rural;D;Hombre;1078
+7;Maule;7305;Rauco;Rural;D;Mujer;846
+7;Maule;7306;Romeral;Mixta;A;Hombre;1182
+7;Maule;7306;Romeral;Mixta;A;Mujer;1437
+7;Maule;7306;Romeral;Mixta;B;Hombre;3492
+7;Maule;7306;Romeral;Mixta;B;Mujer;4171
+7;Maule;7306;Romeral;Mixta;C;Hombre;1523
+7;Maule;7306;Romeral;Mixta;C;Mujer;1453
+7;Maule;7306;Romeral;Mixta;D;Hombre;1909
+7;Maule;7306;Romeral;Mixta;D;Mujer;1431
+7;Maule;7307;Sagrada Familia;Rural;A;Hombre;1124
+7;Maule;7307;Sagrada Familia;Rural;A;Mujer;1588
+7;Maule;7307;Sagrada Familia;Rural;B;Hombre;4700
+7;Maule;7307;Sagrada Familia;Rural;B;Mujer;5026
+7;Maule;7307;Sagrada Familia;Rural;C;Hombre;1429
+7;Maule;7307;Sagrada Familia;Rural;C;Mujer;1384
+7;Maule;7307;Sagrada Familia;Rural;D;Hombre;2540
+7;Maule;7307;Sagrada Familia;Rural;D;Mujer;1803
+7;Maule;7308;Teno;Rural;A;Hombre;1718
+7;Maule;7308;Teno;Rural;A;Mujer;2289
+7;Maule;7308;Teno;Rural;B;Hombre;6300
+7;Maule;7308;Teno;Rural;B;Indeterminado;2
+7;Maule;7308;Teno;Rural;B;Mujer;7069
+7;Maule;7308;Teno;Rural;C;Hombre;2540
+7;Maule;7308;Teno;Rural;C;Mujer;2122
+7;Maule;7308;Teno;Rural;D;Hombre;3420
+7;Maule;7308;Teno;Rural;D;Mujer;2457
+7;Maule;7309;Vichuquén;Rural;A;Hombre;462
+7;Maule;7309;Vichuquén;Rural;A;Mujer;493
+7;Maule;7309;Vichuquén;Rural;B;Hombre;1114
+7;Maule;7309;Vichuquén;Rural;B;Mujer;1182
+7;Maule;7309;Vichuquén;Rural;C;Hombre;319
+7;Maule;7309;Vichuquén;Rural;C;Mujer;262
+7;Maule;7309;Vichuquén;Rural;D;Hombre;391
+7;Maule;7309;Vichuquén;Rural;D;Mujer;313
+7;Maule;7401;Linares;Urbana;A;Hombre;7634
+7;Maule;7401;Linares;Urbana;A;Mujer;9623
+7;Maule;7401;Linares;Urbana;B;Hombre;17900
+7;Maule;7401;Linares;Urbana;B;Indeterminado;1
+7;Maule;7401;Linares;Urbana;B;Mujer;23351
+7;Maule;7401;Linares;Urbana;C;Hombre;7362
+7;Maule;7401;Linares;Urbana;C;Mujer;6733
+7;Maule;7401;Linares;Urbana;D;Hombre;9677
+7;Maule;7401;Linares;Urbana;D;Indeterminado;1
+7;Maule;7401;Linares;Urbana;D;Mujer;8224
+7;Maule;7402;Colbún;Rural;A;Hombre;2390
+7;Maule;7402;Colbún;Rural;A;Mujer;3505
+7;Maule;7402;Colbún;Rural;B;Hombre;5108
+7;Maule;7402;Colbún;Rural;B;Mujer;6284
+7;Maule;7402;Colbún;Rural;C;Hombre;2165
+7;Maule;7402;Colbún;Rural;C;Mujer;1804
+7;Maule;7402;Colbún;Rural;D;Hombre;3254
+7;Maule;7402;Colbún;Rural;D;Mujer;1945
+7;Maule;7403;Longaví;Rural;A;Hombre;3418
+7;Maule;7403;Longaví;Rural;A;Mujer;4680
+7;Maule;7403;Longaví;Rural;B;Hombre;7301
+7;Maule;7403;Longaví;Rural;B;Mujer;7960
+7;Maule;7403;Longaví;Rural;C;Hombre;2708
+7;Maule;7403;Longaví;Rural;C;Mujer;2185
+7;Maule;7403;Longaví;Rural;D;Hombre;3315
+7;Maule;7403;Longaví;Rural;D;Mujer;2079
+7;Maule;7404;Parral;Mixta;A;Hombre;4201
+7;Maule;7404;Parral;Mixta;A;Mujer;5484
+7;Maule;7404;Parral;Mixta;B;Hombre;9379
+7;Maule;7404;Parral;Mixta;B;Indeterminado;2
+7;Maule;7404;Parral;Mixta;B;Mujer;11324
+7;Maule;7404;Parral;Mixta;C;Hombre;3460
+7;Maule;7404;Parral;Mixta;C;Indeterminado;1
+7;Maule;7404;Parral;Mixta;C;Mujer;2799
+7;Maule;7404;Parral;Mixta;D;Hombre;3748
+7;Maule;7404;Parral;Mixta;D;Indeterminado;1
+7;Maule;7404;Parral;Mixta;D;Mujer;3168
+7;Maule;7405;Retiro;Rural;A;Hombre;2312
+7;Maule;7405;Retiro;Rural;A;Mujer;3259
+7;Maule;7405;Retiro;Rural;B;Hombre;4896
+7;Maule;7405;Retiro;Rural;B;Mujer;5352
+7;Maule;7405;Retiro;Rural;C;Hombre;1821
+7;Maule;7405;Retiro;Rural;C;Mujer;1370
+7;Maule;7405;Retiro;Rural;D;Hombre;2019
+7;Maule;7405;Retiro;Rural;D;Mujer;1291
+7;Maule;7406;San Javier;Mixta;A;Hombre;3520
+7;Maule;7406;San Javier;Mixta;A;Mujer;5258
+7;Maule;7406;San Javier;Mixta;B;Hombre;9321
+7;Maule;7406;San Javier;Mixta;B;Mujer;11780
+7;Maule;7406;San Javier;Mixta;C;Hombre;3547
+7;Maule;7406;San Javier;Mixta;C;Mujer;3081
+7;Maule;7406;San Javier;Mixta;D;Hombre;4921
+7;Maule;7406;San Javier;Mixta;D;Mujer;3624
+7;Maule;7407;Villa Alegre;Mixta;A;Hombre;1430
+7;Maule;7407;Villa Alegre;Mixta;A;Mujer;2077
+7;Maule;7407;Villa Alegre;Mixta;B;Hombre;3931
+7;Maule;7407;Villa Alegre;Mixta;B;Mujer;4864
+7;Maule;7407;Villa Alegre;Mixta;C;Hombre;1482
+7;Maule;7407;Villa Alegre;Mixta;C;Mujer;1226
+7;Maule;7407;Villa Alegre;Mixta;D;Hombre;1904
+7;Maule;7407;Villa Alegre;Mixta;D;Mujer;1430
+7;Maule;7408;Yerbas Buenas;Rural;A;Hombre;1935
+7;Maule;7408;Yerbas Buenas;Rural;A;Mujer;2646
+7;Maule;7408;Yerbas Buenas;Rural;B;Hombre;4444
+7;Maule;7408;Yerbas Buenas;Rural;B;Mujer;4883
+7;Maule;7408;Yerbas Buenas;Rural;C;Hombre;1748
+7;Maule;7408;Yerbas Buenas;Rural;C;Mujer;1375
+7;Maule;7408;Yerbas Buenas;Rural;D;Hombre;2412
+7;Maule;7408;Yerbas Buenas;Rural;D;Mujer;1468
+8;Biobío;8101;Concepción;Urbana;A;Hombre;13090
+8;Biobío;8101;Concepción;Urbana;A;Indeterminado;5
+8;Biobío;8101;Concepción;Urbana;A;Mujer;17409
+8;Biobío;8101;Concepción;Urbana;B;Hombre;34680
+8;Biobío;8101;Concepción;Urbana;B;Indeterminado;1
+8;Biobío;8101;Concepción;Urbana;B;Mujer;50034
+8;Biobío;8101;Concepción;Urbana;C;Hombre;17677
+8;Biobío;8101;Concepción;Urbana;C;Indeterminado;3
+8;Biobío;8101;Concepción;Urbana;C;Mujer;17142
+8;Biobío;8101;Concepción;Urbana;D;Hombre;28550
+8;Biobío;8101;Concepción;Urbana;D;Mujer;23941
+8;Biobío;8102;Coronel;Urbana;A;Hombre;8753
+8;Biobío;8102;Coronel;Urbana;A;Indeterminado;1
+8;Biobío;8102;Coronel;Urbana;A;Mujer;12881
+8;Biobío;8102;Coronel;Urbana;B;Hombre;16294
+8;Biobío;8102;Coronel;Urbana;B;Mujer;23751
+8;Biobío;8102;Coronel;Urbana;C;Hombre;8753
+8;Biobío;8102;Coronel;Urbana;C;Mujer;8045
+8;Biobío;8102;Coronel;Urbana;D;Hombre;16562
+8;Biobío;8102;Coronel;Urbana;D;Mujer;10729
+8;Biobío;8103;Chiguayante;Urbana;A;Hombre;4458
+8;Biobío;8103;Chiguayante;Urbana;A;Mujer;6540
+8;Biobío;8103;Chiguayante;Urbana;B;Hombre;11973
+8;Biobío;8103;Chiguayante;Urbana;B;Mujer;17678
+8;Biobío;8103;Chiguayante;Urbana;C;Hombre;6455
+8;Biobío;8103;Chiguayante;Urbana;C;Mujer;6003
+8;Biobío;8103;Chiguayante;Urbana;D;Hombre;10723
+8;Biobío;8103;Chiguayante;Urbana;D;Mujer;8140
+8;Biobío;8104;Florida;Rural;A;Hombre;954
+8;Biobío;8104;Florida;Rural;A;Mujer;1403
+8;Biobío;8104;Florida;Rural;B;Hombre;1960
+8;Biobío;8104;Florida;Rural;B;Mujer;2099
+8;Biobío;8104;Florida;Rural;C;Hombre;826
+8;Biobío;8104;Florida;Rural;C;Mujer;604
+8;Biobío;8104;Florida;Rural;D;Hombre;994
+8;Biobío;8104;Florida;Rural;D;Mujer;589
+8;Biobío;8105;Hualqui;Mixta;A;Hombre;2269
+8;Biobío;8105;Hualqui;Mixta;A;Mujer;3247
+8;Biobío;8105;Hualqui;Mixta;B;Hombre;4079
+8;Biobío;8105;Hualqui;Mixta;B;Mujer;5434
+8;Biobío;8105;Hualqui;Mixta;C;Hombre;1996
+8;Biobío;8105;Hualqui;Mixta;C;Indeterminado;1
+8;Biobío;8105;Hualqui;Mixta;C;Mujer;1689
+8;Biobío;8105;Hualqui;Mixta;D;Hombre;3348
+8;Biobío;8105;Hualqui;Mixta;D;Mujer;1995
+8;Biobío;8106;Lota;Mixta;A;Hombre;3424
+8;Biobío;8106;Lota;Mixta;A;Mujer;4840
+8;Biobío;8106;Lota;Mixta;B;Hombre;7804
+8;Biobío;8106;Lota;Mixta;B;Mujer;11913
+8;Biobío;8106;Lota;Mixta;C;Hombre;3400
+8;Biobío;8106;Lota;Mixta;C;Mujer;2805
+8;Biobío;8106;Lota;Mixta;D;Hombre;6764
+8;Biobío;8106;Lota;Mixta;D;Mujer;3513
+8;Biobío;8107;Penco;Mixta;A;Hombre;3548
+8;Biobío;8107;Penco;Mixta;A;Mujer;5196
+8;Biobío;8107;Penco;Mixta;B;Hombre;7916
+8;Biobío;8107;Penco;Mixta;B;Mujer;11172
+8;Biobío;8107;Penco;Mixta;C;Hombre;4182
+8;Biobío;8107;Penco;Mixta;C;Mujer;3744
+8;Biobío;8107;Penco;Mixta;D;Hombre;6798
+8;Biobío;8107;Penco;Mixta;D;Mujer;4586
+8;Biobío;8108;San Pedro de la Paz;Urbana;A;Hombre;8140
+8;Biobío;8108;San Pedro de la Paz;Urbana;A;Mujer;11590
+8;Biobío;8108;San Pedro de la Paz;Urbana;B;Hombre;16951
+8;Biobío;8108;San Pedro de la Paz;Urbana;B;Indeterminado;1
+8;Biobío;8108;San Pedro de la Paz;Urbana;B;Mujer;23657
+8;Biobío;8108;San Pedro de la Paz;Urbana;C;Hombre;9317
+8;Biobío;8108;San Pedro de la Paz;Urbana;C;Mujer;8713
+8;Biobío;8108;San Pedro de la Paz;Urbana;D;Hombre;14838
+8;Biobío;8108;San Pedro de la Paz;Urbana;D;Indeterminado;1
+8;Biobío;8108;San Pedro de la Paz;Urbana;D;Mujer;10784
+8;Biobío;8109;Santa Juana;Mixta;A;Hombre;1296
+8;Biobío;8109;Santa Juana;Mixta;A;Mujer;1827
+8;Biobío;8109;Santa Juana;Mixta;B;Hombre;2072
+8;Biobío;8109;Santa Juana;Mixta;B;Mujer;2419
+8;Biobío;8109;Santa Juana;Mixta;C;Hombre;808
+8;Biobío;8109;Santa Juana;Mixta;C;Mujer;729
+8;Biobío;8109;Santa Juana;Mixta;D;Hombre;1419
+8;Biobío;8109;Santa Juana;Mixta;D;Mujer;726
+8;Biobío;8110;Talcahuano;Urbana;A;Hombre;7400
+8;Biobío;8110;Talcahuano;Urbana;A;Mujer;10578
+8;Biobío;8110;Talcahuano;Urbana;B;Hombre;21977
+8;Biobío;8110;Talcahuano;Urbana;B;Mujer;33179
+8;Biobío;8110;Talcahuano;Urbana;C;Hombre;11288
+8;Biobío;8110;Talcahuano;Urbana;C;Mujer;10623
+8;Biobío;8110;Talcahuano;Urbana;D;Hombre;21807
+8;Biobío;8110;Talcahuano;Urbana;D;Mujer;15913
+8;Biobío;8111;Tomé;Urbana;A;Hombre;5197
+8;Biobío;8111;Tomé;Urbana;A;Mujer;7150
+8;Biobío;8111;Tomé;Urbana;B;Hombre;10355
+8;Biobío;8111;Tomé;Urbana;B;Mujer;14214
+8;Biobío;8111;Tomé;Urbana;C;Hombre;4089
+8;Biobío;8111;Tomé;Urbana;C;Mujer;3614
+8;Biobío;8111;Tomé;Urbana;D;Hombre;7276
+8;Biobío;8111;Tomé;Urbana;D;Mujer;5261
+8;Biobío;8112;Hualpén;Urbana;A;Hombre;5265
+8;Biobío;8112;Hualpén;Urbana;A;Indeterminado;2
+8;Biobío;8112;Hualpén;Urbana;A;Mujer;7418
+8;Biobío;8112;Hualpén;Urbana;B;Hombre;14532
+8;Biobío;8112;Hualpén;Urbana;B;Mujer;21181
+8;Biobío;8112;Hualpén;Urbana;C;Hombre;7751
+8;Biobío;8112;Hualpén;Urbana;C;Mujer;7684
+8;Biobío;8112;Hualpén;Urbana;D;Hombre;14120
+8;Biobío;8112;Hualpén;Urbana;D;Mujer;10437
+8;Biobío;8201;Lebu;Mixta;A;Hombre;3618
+8;Biobío;8201;Lebu;Mixta;A;Mujer;3944
+8;Biobío;8201;Lebu;Mixta;B;Hombre;4543
+8;Biobío;8201;Lebu;Mixta;B;Mujer;5522
+8;Biobío;8201;Lebu;Mixta;C;Hombre;1333
+8;Biobío;8201;Lebu;Mixta;C;Mujer;1058
+8;Biobío;8201;Lebu;Mixta;D;Hombre;1899
+8;Biobío;8201;Lebu;Mixta;D;Mujer;1613
+8;Biobío;8202;Arauco;Rural;A;Hombre;3790
+8;Biobío;8202;Arauco;Rural;A;Indeterminado;1
+8;Biobío;8202;Arauco;Rural;A;Mujer;5009
+8;Biobío;8202;Arauco;Rural;B;Hombre;5317
+8;Biobío;8202;Arauco;Rural;B;Mujer;6961
+8;Biobío;8202;Arauco;Rural;C;Hombre;2502
+8;Biobío;8202;Arauco;Rural;C;Mujer;2292
+8;Biobío;8202;Arauco;Rural;D;Hombre;5102
+8;Biobío;8202;Arauco;Rural;D;Mujer;3135
+8;Biobío;8203;Cañete;Rural;A;Hombre;4326
+8;Biobío;8203;Cañete;Rural;A;Mujer;5817
+8;Biobío;8203;Cañete;Rural;B;Hombre;5801
+8;Biobío;8203;Cañete;Rural;B;Mujer;6530
+8;Biobío;8203;Cañete;Rural;C;Hombre;1998
+8;Biobío;8203;Cañete;Rural;C;Mujer;1491
+8;Biobío;8203;Cañete;Rural;D;Hombre;2869
+8;Biobío;8203;Cañete;Rural;D;Mujer;1837
+8;Biobío;8204;Contulmo;Rural;A;Hombre;682
+8;Biobío;8204;Contulmo;Rural;A;Mujer;861
+8;Biobío;8204;Contulmo;Rural;B;Hombre;1210
+8;Biobío;8204;Contulmo;Rural;B;Mujer;1286
+8;Biobío;8204;Contulmo;Rural;C;Hombre;360
+8;Biobío;8204;Contulmo;Rural;C;Mujer;259
+8;Biobío;8204;Contulmo;Rural;D;Hombre;492
+8;Biobío;8204;Contulmo;Rural;D;Mujer;316
+8;Biobío;8205;Curanilahue;Mixta;A;Hombre;2418
+8;Biobío;8205;Curanilahue;Mixta;A;Mujer;3325
+8;Biobío;8205;Curanilahue;Mixta;B;Hombre;6137
+8;Biobío;8205;Curanilahue;Mixta;B;Mujer;8100
+8;Biobío;8205;Curanilahue;Mixta;C;Hombre;2376
+8;Biobío;8205;Curanilahue;Mixta;C;Mujer;1912
+8;Biobío;8205;Curanilahue;Mixta;D;Hombre;4879
+8;Biobío;8205;Curanilahue;Mixta;D;Mujer;2662
+8;Biobío;8206;Los Alamos;Rural;A;Hombre;2500
+8;Biobío;8206;Los Alamos;Rural;A;Indeterminado;1
+8;Biobío;8206;Los Alamos;Rural;A;Mujer;3726
+8;Biobío;8206;Los Alamos;Rural;B;Hombre;4016
+8;Biobío;8206;Los Alamos;Rural;B;Mujer;5272
+8;Biobío;8206;Los Alamos;Rural;C;Hombre;1569
+8;Biobío;8206;Los Alamos;Rural;C;Mujer;1197
+8;Biobío;8206;Los Alamos;Rural;D;Hombre;2822
+8;Biobío;8206;Los Alamos;Rural;D;Mujer;1517
+8;Biobío;8207;Tirúa;Rural;A;Hombre;1977
+8;Biobío;8207;Tirúa;Rural;A;Mujer;2362
+8;Biobío;8207;Tirúa;Rural;B;Hombre;1936
+8;Biobío;8207;Tirúa;Rural;B;Mujer;2319
+8;Biobío;8207;Tirúa;Rural;C;Hombre;644
+8;Biobío;8207;Tirúa;Rural;C;Mujer;429
+8;Biobío;8207;Tirúa;Rural;D;Hombre;953
+8;Biobío;8207;Tirúa;Rural;D;Mujer;674
+8;Biobío;8301;Los Angeles;Urbana;A;Hombre;15914
+8;Biobío;8301;Los Angeles;Urbana;A;Indeterminado;1
+8;Biobío;8301;Los Angeles;Urbana;A;Mujer;22599
+8;Biobío;8301;Los Angeles;Urbana;B;Hombre;34945
+8;Biobío;8301;Los Angeles;Urbana;B;Mujer;48364
+8;Biobío;8301;Los Angeles;Urbana;C;Hombre;18180
+8;Biobío;8301;Los Angeles;Urbana;C;Indeterminado;1
+8;Biobío;8301;Los Angeles;Urbana;C;Mujer;16672
+8;Biobío;8301;Los Angeles;Urbana;D;Hombre;28433
+8;Biobío;8301;Los Angeles;Urbana;D;Mujer;19670
+8;Biobío;8302;Antuco;Rural;A;Hombre;411
+8;Biobío;8302;Antuco;Rural;A;Mujer;630
+8;Biobío;8302;Antuco;Rural;B;Hombre;755
+8;Biobío;8302;Antuco;Rural;B;Mujer;1051
+8;Biobío;8302;Antuco;Rural;C;Hombre;320
+8;Biobío;8302;Antuco;Rural;C;Mujer;267
+8;Biobío;8302;Antuco;Rural;D;Hombre;693
+8;Biobío;8302;Antuco;Rural;D;Mujer;379
+8;Biobío;8303;Cabrero;Rural;A;Hombre;2543
+8;Biobío;8303;Cabrero;Rural;A;Mujer;3836
+8;Biobío;8303;Cabrero;Rural;B;Hombre;5151
+8;Biobío;8303;Cabrero;Rural;B;Mujer;6897
+8;Biobío;8303;Cabrero;Rural;C;Hombre;2920
+8;Biobío;8303;Cabrero;Rural;C;Mujer;2454
+8;Biobío;8303;Cabrero;Rural;D;Hombre;4628
+8;Biobío;8303;Cabrero;Rural;D;Mujer;2693
+8;Biobío;8304;Laja;Mixta;A;Hombre;1670
+8;Biobío;8304;Laja;Mixta;A;Mujer;2672
+8;Biobío;8304;Laja;Mixta;B;Hombre;3332
+8;Biobío;8304;Laja;Mixta;B;Mujer;4881
+8;Biobío;8304;Laja;Mixta;C;Hombre;1770
+8;Biobío;8304;Laja;Mixta;C;Mujer;1644
+8;Biobío;8304;Laja;Mixta;D;Hombre;3972
+8;Biobío;8304;Laja;Mixta;D;Mujer;2100
+8;Biobío;8305;Mulchén;Mixta;A;Hombre;2764
+8;Biobío;8305;Mulchén;Mixta;A;Mujer;4054
+8;Biobío;8305;Mulchén;Mixta;B;Hombre;5405
+8;Biobío;8305;Mulchén;Mixta;B;Mujer;7211
+8;Biobío;8305;Mulchén;Mixta;C;Hombre;2411
+8;Biobío;8305;Mulchén;Mixta;C;Mujer;1883
+8;Biobío;8305;Mulchén;Mixta;D;Hombre;3746
+8;Biobío;8305;Mulchén;Mixta;D;Mujer;2270
+8;Biobío;8306;Nacimiento;Mixta;A;Hombre;1744
+8;Biobío;8306;Nacimiento;Mixta;A;Mujer;2680
+8;Biobío;8306;Nacimiento;Mixta;B;Hombre;3815
+8;Biobío;8306;Nacimiento;Mixta;B;Mujer;5078
+8;Biobío;8306;Nacimiento;Mixta;C;Hombre;1946
+8;Biobío;8306;Nacimiento;Mixta;C;Mujer;1890
+8;Biobío;8306;Nacimiento;Mixta;D;Hombre;4290
+8;Biobío;8306;Nacimiento;Mixta;D;Mujer;2341
+8;Biobío;8307;Negrete;Rural;A;Hombre;960
+8;Biobío;8307;Negrete;Rural;A;Mujer;1521
+8;Biobío;8307;Negrete;Rural;B;Hombre;1890
+8;Biobío;8307;Negrete;Rural;B;Mujer;2600
+8;Biobío;8307;Negrete;Rural;C;Hombre;857
+8;Biobío;8307;Negrete;Rural;C;Mujer;702
+8;Biobío;8307;Negrete;Rural;D;Hombre;1619
+8;Biobío;8307;Negrete;Rural;D;Mujer;787
+8;Biobío;8308;Quilaco;Rural;A;Hombre;364
+8;Biobío;8308;Quilaco;Rural;A;Mujer;546
+8;Biobío;8308;Quilaco;Rural;B;Hombre;843
+8;Biobío;8308;Quilaco;Rural;B;Mujer;1041
+8;Biobío;8308;Quilaco;Rural;C;Hombre;335
+8;Biobío;8308;Quilaco;Rural;C;Mujer;226
+8;Biobío;8308;Quilaco;Rural;D;Hombre;454
+8;Biobío;8308;Quilaco;Rural;D;Mujer;257
+8;Biobío;8309;Quilleco;Rural;A;Hombre;773
+8;Biobío;8309;Quilleco;Rural;A;Mujer;1223
+8;Biobío;8309;Quilleco;Rural;B;Hombre;1861
+8;Biobío;8309;Quilleco;Rural;B;Mujer;2353
+8;Biobío;8309;Quilleco;Rural;C;Hombre;821
+8;Biobío;8309;Quilleco;Rural;C;Mujer;646
+8;Biobío;8309;Quilleco;Rural;D;Hombre;1532
+8;Biobío;8309;Quilleco;Rural;D;Mujer;749
+8;Biobío;8310;San Rosendo;Rural;A;Hombre;364
+8;Biobío;8310;San Rosendo;Rural;A;Mujer;564
+8;Biobío;8310;San Rosendo;Rural;B;Hombre;633
+8;Biobío;8310;San Rosendo;Rural;B;Mujer;956
+8;Biobío;8310;San Rosendo;Rural;C;Hombre;316
+8;Biobío;8310;San Rosendo;Rural;C;Mujer;264
+8;Biobío;8310;San Rosendo;Rural;D;Hombre;665
+8;Biobío;8310;San Rosendo;Rural;D;Mujer;370
+8;Biobío;8311;Santa Bárbara;Rural;A;Hombre;1446
+8;Biobío;8311;Santa Bárbara;Rural;A;Mujer;2026
+8;Biobío;8311;Santa Bárbara;Rural;B;Hombre;3077
+8;Biobío;8311;Santa Bárbara;Rural;B;Mujer;3973
+8;Biobío;8311;Santa Bárbara;Rural;C;Hombre;1265
+8;Biobío;8311;Santa Bárbara;Rural;C;Mujer;969
+8;Biobío;8311;Santa Bárbara;Rural;D;Hombre;1758
+8;Biobío;8311;Santa Bárbara;Rural;D;Mujer;1092
+8;Biobío;8312;Tucapel;Rural;A;Hombre;1287
+8;Biobío;8312;Tucapel;Rural;A;Mujer;2065
+8;Biobío;8312;Tucapel;Rural;B;Hombre;2995
+8;Biobío;8312;Tucapel;Rural;B;Mujer;3906
+8;Biobío;8312;Tucapel;Rural;C;Hombre;1188
+8;Biobío;8312;Tucapel;Rural;C;Mujer;1011
+8;Biobío;8312;Tucapel;Rural;D;Hombre;2270
+8;Biobío;8312;Tucapel;Rural;D;Mujer;1369
+8;Biobío;8313;Yumbel;Mixta;A;Hombre;1951
+8;Biobío;8313;Yumbel;Mixta;A;Mujer;2596
+8;Biobío;8313;Yumbel;Mixta;B;Hombre;3923
+8;Biobío;8313;Yumbel;Mixta;B;Mujer;4799
+8;Biobío;8313;Yumbel;Mixta;C;Hombre;1460
+8;Biobío;8313;Yumbel;Mixta;C;Mujer;1232
+8;Biobío;8313;Yumbel;Mixta;D;Hombre;2316
+8;Biobío;8313;Yumbel;Mixta;D;Mujer;1438
+8;Biobío;8314;Alto Biobío;Rural;A;Hombre;890
+8;Biobío;8314;Alto Biobío;Rural;A;Mujer;1299
+8;Biobío;8314;Alto Biobío;Rural;B;Hombre;1278
+8;Biobío;8314;Alto Biobío;Rural;B;Mujer;1136
+8;Biobío;8314;Alto Biobío;Rural;C;Hombre;405
+8;Biobío;8314;Alto Biobío;Rural;C;Mujer;298
+8;Biobío;8314;Alto Biobío;Rural;D;Hombre;626
+8;Biobío;8314;Alto Biobío;Rural;D;Mujer;313
+9;La Araucanía;9101;Temuco;Urbana;A;Hombre;21643
+9;La Araucanía;9101;Temuco;Urbana;A;Indeterminado;2
+9;La Araucanía;9101;Temuco;Urbana;A;Mujer;28486
+9;La Araucanía;9101;Temuco;Urbana;B;Hombre;45326
+9;La Araucanía;9101;Temuco;Urbana;B;Indeterminado;2
+9;La Araucanía;9101;Temuco;Urbana;B;Mujer;62621
+9;La Araucanía;9101;Temuco;Urbana;C;Hombre;22585
+9;La Araucanía;9101;Temuco;Urbana;C;Mujer;20071
+9;La Araucanía;9101;Temuco;Urbana;D;Hombre;31486
+9;La Araucanía;9101;Temuco;Urbana;D;Mujer;27763
+9;La Araucanía;9102;Carahue;Rural;A;Hombre;3315
+9;La Araucanía;9102;Carahue;Rural;A;Mujer;4253
+9;La Araucanía;9102;Carahue;Rural;B;Hombre;4000
+9;La Araucanía;9102;Carahue;Rural;B;Mujer;4284
+9;La Araucanía;9102;Carahue;Rural;C;Hombre;1342
+9;La Araucanía;9102;Carahue;Rural;C;Mujer;867
+9;La Araucanía;9102;Carahue;Rural;D;Hombre;1566
+9;La Araucanía;9102;Carahue;Rural;D;Mujer;1164
+9;La Araucanía;9103;Cunco;Rural;A;Hombre;1729
+9;La Araucanía;9103;Cunco;Rural;A;Mujer;2316
+9;La Araucanía;9103;Cunco;Rural;B;Hombre;3514
+9;La Araucanía;9103;Cunco;Rural;B;Mujer;4023
+9;La Araucanía;9103;Cunco;Rural;C;Hombre;1481
+9;La Araucanía;9103;Cunco;Rural;C;Mujer;1054
+9;La Araucanía;9103;Cunco;Rural;D;Hombre;1428
+9;La Araucanía;9103;Cunco;Rural;D;Mujer;1052
+9;La Araucanía;9104;Curarrehue;Rural;A;Hombre;1537
+9;La Araucanía;9104;Curarrehue;Rural;A;Mujer;1760
+9;La Araucanía;9104;Curarrehue;Rural;B;Hombre;1813
+9;La Araucanía;9104;Curarrehue;Rural;B;Indeterminado;1
+9;La Araucanía;9104;Curarrehue;Rural;B;Mujer;1850
+9;La Araucanía;9104;Curarrehue;Rural;C;Hombre;670
+9;La Araucanía;9104;Curarrehue;Rural;C;Mujer;553
+9;La Araucanía;9104;Curarrehue;Rural;D;Hombre;727
+9;La Araucanía;9104;Curarrehue;Rural;D;Mujer;550
+9;La Araucanía;9105;Freire;Rural;A;Hombre;2526
+9;La Araucanía;9105;Freire;Rural;A;Mujer;3351
+9;La Araucanía;9105;Freire;Rural;B;Hombre;4685
+9;La Araucanía;9105;Freire;Rural;B;Mujer;5688
+9;La Araucanía;9105;Freire;Rural;C;Hombre;2226
+9;La Araucanía;9105;Freire;Rural;C;Mujer;1667
+9;La Araucanía;9105;Freire;Rural;D;Hombre;2612
+9;La Araucanía;9105;Freire;Rural;D;Mujer;1710
+9;La Araucanía;9106;Galvarino;Rural;A;Hombre;1454
+9;La Araucanía;9106;Galvarino;Rural;A;Mujer;1953
+9;La Araucanía;9106;Galvarino;Rural;B;Hombre;2426
+9;La Araucanía;9106;Galvarino;Rural;B;Mujer;2201
+9;La Araucanía;9106;Galvarino;Rural;C;Hombre;764
+9;La Araucanía;9106;Galvarino;Rural;C;Mujer;478
+9;La Araucanía;9106;Galvarino;Rural;D;Hombre;771
+9;La Araucanía;9106;Galvarino;Rural;D;Mujer;572
+9;La Araucanía;9107;Gorbea;Mixta;A;Hombre;1206
+9;La Araucanía;9107;Gorbea;Mixta;A;Mujer;1466
+9;La Araucanía;9107;Gorbea;Mixta;B;Hombre;2698
+9;La Araucanía;9107;Gorbea;Mixta;B;Mujer;3294
+9;La Araucanía;9107;Gorbea;Mixta;C;Hombre;1003
+9;La Araucanía;9107;Gorbea;Mixta;C;Mujer;875
+9;La Araucanía;9107;Gorbea;Mixta;D;Hombre;1188
+9;La Araucanía;9107;Gorbea;Mixta;D;Mujer;883
+9;La Araucanía;9108;Lautaro;Mixta;A;Hombre;4476
+9;La Araucanía;9108;Lautaro;Mixta;A;Mujer;6401
+9;La Araucanía;9108;Lautaro;Mixta;B;Hombre;7942
+9;La Araucanía;9108;Lautaro;Mixta;B;Mujer;9847
+9;La Araucanía;9108;Lautaro;Mixta;C;Hombre;3630
+9;La Araucanía;9108;Lautaro;Mixta;C;Mujer;3141
+9;La Araucanía;9108;Lautaro;Mixta;D;Hombre;5298
+9;La Araucanía;9108;Lautaro;Mixta;D;Mujer;3635
+9;La Araucanía;9109;Loncoche;Mixta;A;Hombre;2348
+9;La Araucanía;9109;Loncoche;Mixta;A;Mujer;3049
+9;La Araucanía;9109;Loncoche;Mixta;B;Hombre;4092
+9;La Araucanía;9109;Loncoche;Mixta;B;Mujer;5243
+9;La Araucanía;9109;Loncoche;Mixta;C;Hombre;1562
+9;La Araucanía;9109;Loncoche;Mixta;C;Mujer;1287
+9;La Araucanía;9109;Loncoche;Mixta;D;Hombre;2442
+9;La Araucanía;9109;Loncoche;Mixta;D;Indeterminado;1
+9;La Araucanía;9109;Loncoche;Mixta;D;Mujer;1505
+9;La Araucanía;9110;Melipeuco;Rural;A;Hombre;1046
+9;La Araucanía;9110;Melipeuco;Rural;A;Mujer;1337
+9;La Araucanía;9110;Melipeuco;Rural;B;Hombre;1526
+9;La Araucanía;9110;Melipeuco;Rural;B;Mujer;1712
+9;La Araucanía;9110;Melipeuco;Rural;C;Hombre;496
+9;La Araucanía;9110;Melipeuco;Rural;C;Mujer;351
+9;La Araucanía;9110;Melipeuco;Rural;D;Hombre;670
+9;La Araucanía;9110;Melipeuco;Rural;D;Mujer;505
+9;La Araucanía;9111;Nueva Imperial;Mixta;A;Hombre;6045
+9;La Araucanía;9111;Nueva Imperial;Mixta;A;Mujer;7398
+9;La Araucanía;9111;Nueva Imperial;Mixta;B;Hombre;7667
+9;La Araucanía;9111;Nueva Imperial;Mixta;B;Mujer;8846
+9;La Araucanía;9111;Nueva Imperial;Mixta;C;Hombre;2909
+9;La Araucanía;9111;Nueva Imperial;Mixta;C;Mujer;2190
+9;La Araucanía;9111;Nueva Imperial;Mixta;D;Hombre;3461
+9;La Araucanía;9111;Nueva Imperial;Mixta;D;Mujer;2514
+9;La Araucanía;9112;Padre Las Casas;Mixta;A;Hombre;8282
+9;La Araucanía;9112;Padre Las Casas;Mixta;A;Indeterminado;1
+9;La Araucanía;9112;Padre Las Casas;Mixta;A;Mujer;11408
+9;La Araucanía;9112;Padre Las Casas;Mixta;B;Hombre;14046
+9;La Araucanía;9112;Padre Las Casas;Mixta;B;Indeterminado;1
+9;La Araucanía;9112;Padre Las Casas;Mixta;B;Mujer;17580
+9;La Araucanía;9112;Padre Las Casas;Mixta;C;Hombre;6993
+9;La Araucanía;9112;Padre Las Casas;Mixta;C;Mujer;5621
+9;La Araucanía;9112;Padre Las Casas;Mixta;D;Hombre;8347
+9;La Araucanía;9112;Padre Las Casas;Mixta;D;Mujer;6502
+9;La Araucanía;9113;Perquenco;Rural;A;Hombre;633
+9;La Araucanía;9113;Perquenco;Rural;A;Mujer;964
+9;La Araucanía;9113;Perquenco;Rural;B;Hombre;1182
+9;La Araucanía;9113;Perquenco;Rural;B;Mujer;1544
+9;La Araucanía;9113;Perquenco;Rural;C;Hombre;586
+9;La Araucanía;9113;Perquenco;Rural;C;Mujer;415
+9;La Araucanía;9113;Perquenco;Rural;D;Hombre;695
+9;La Araucanía;9113;Perquenco;Rural;D;Mujer;409
+9;La Araucanía;9114;Pitrufquén;Mixta;A;Hombre;2754
+9;La Araucanía;9114;Pitrufquén;Mixta;A;Mujer;3512
+9;La Araucanía;9114;Pitrufquén;Mixta;B;Hombre;5226
+9;La Araucanía;9114;Pitrufquén;Mixta;B;Mujer;6919
+9;La Araucanía;9114;Pitrufquén;Mixta;C;Hombre;2054
+9;La Araucanía;9114;Pitrufquén;Mixta;C;Mujer;1817
+9;La Araucanía;9114;Pitrufquén;Mixta;D;Hombre;2832
+9;La Araucanía;9114;Pitrufquén;Mixta;D;Mujer;2156
+9;La Araucanía;9115;Pucón;Rural;A;Hombre;3520
+9;La Araucanía;9115;Pucón;Rural;A;Mujer;3867
+9;La Araucanía;9115;Pucón;Rural;B;Hombre;6907
+9;La Araucanía;9115;Pucón;Rural;B;Indeterminado;1
+9;La Araucanía;9115;Pucón;Rural;B;Mujer;8081
+9;La Araucanía;9115;Pucón;Rural;C;Hombre;3200
+9;La Araucanía;9115;Pucón;Rural;C;Mujer;3006
+9;La Araucanía;9115;Pucón;Rural;D;Hombre;3542
+9;La Araucanía;9115;Pucón;Rural;D;Mujer;3250
+9;La Araucanía;9116;Saavedra;Rural;A;Hombre;2223
+9;La Araucanía;9116;Saavedra;Rural;A;Mujer;2633
+9;La Araucanía;9116;Saavedra;Rural;B;Hombre;2466
+9;La Araucanía;9116;Saavedra;Rural;B;Indeterminado;1
+9;La Araucanía;9116;Saavedra;Rural;B;Mujer;2788
+9;La Araucanía;9116;Saavedra;Rural;C;Hombre;758
+9;La Araucanía;9116;Saavedra;Rural;C;Mujer;502
+9;La Araucanía;9116;Saavedra;Rural;D;Hombre;779
+9;La Araucanía;9116;Saavedra;Rural;D;Mujer;519
+9;La Araucanía;9117;Teodoro Schmidt;Rural;A;Hombre;2439
+9;La Araucanía;9117;Teodoro Schmidt;Rural;A;Mujer;2604
+9;La Araucanía;9117;Teodoro Schmidt;Rural;B;Hombre;2900
+9;La Araucanía;9117;Teodoro Schmidt;Rural;B;Mujer;3327
+9;La Araucanía;9117;Teodoro Schmidt;Rural;C;Hombre;940
+9;La Araucanía;9117;Teodoro Schmidt;Rural;C;Mujer;690
+9;La Araucanía;9117;Teodoro Schmidt;Rural;D;Hombre;925
+9;La Araucanía;9117;Teodoro Schmidt;Rural;D;Mujer;778
+9;La Araucanía;9118;Toltén;Rural;A;Hombre;1226
+9;La Araucanía;9118;Toltén;Rural;A;Mujer;1333
+9;La Araucanía;9118;Toltén;Rural;B;Hombre;1809
+9;La Araucanía;9118;Toltén;Rural;B;Mujer;2078
+9;La Araucanía;9118;Toltén;Rural;C;Hombre;558
+9;La Araucanía;9118;Toltén;Rural;C;Mujer;442
+9;La Araucanía;9118;Toltén;Rural;D;Hombre;630
+9;La Araucanía;9118;Toltén;Rural;D;Mujer;483
+9;La Araucanía;9119;Vilcún;Rural;A;Hombre;2825
+9;La Araucanía;9119;Vilcún;Rural;A;Mujer;4042
+9;La Araucanía;9119;Vilcún;Rural;B;Hombre;5193
+9;La Araucanía;9119;Vilcún;Rural;B;Mujer;6238
+9;La Araucanía;9119;Vilcún;Rural;C;Hombre;2383
+9;La Araucanía;9119;Vilcún;Rural;C;Mujer;1864
+9;La Araucanía;9119;Vilcún;Rural;D;Hombre;2873
+9;La Araucanía;9119;Vilcún;Rural;D;Mujer;2052
+9;La Araucanía;9120;Villarrica;Mixta;A;Hombre;7788
+9;La Araucanía;9120;Villarrica;Mixta;A;Mujer;9505
+9;La Araucanía;9120;Villarrica;Mixta;B;Hombre;13055
+9;La Araucanía;9120;Villarrica;Mixta;B;Mujer;16205
+9;La Araucanía;9120;Villarrica;Mixta;C;Hombre;5769
+9;La Araucanía;9120;Villarrica;Mixta;C;Indeterminado;1
+9;La Araucanía;9120;Villarrica;Mixta;C;Mujer;5209
+9;La Araucanía;9120;Villarrica;Mixta;D;Hombre;6663
+9;La Araucanía;9120;Villarrica;Mixta;D;Mujer;6008
+9;La Araucanía;9121;Cholchol;Rural;A;Hombre;1863
+9;La Araucanía;9121;Cholchol;Rural;A;Mujer;2382
+9;La Araucanía;9121;Cholchol;Rural;B;Hombre;2545
+9;La Araucanía;9121;Cholchol;Rural;B;Mujer;2451
+9;La Araucanía;9121;Cholchol;Rural;C;Hombre;825
+9;La Araucanía;9121;Cholchol;Rural;C;Mujer;689
+9;La Araucanía;9121;Cholchol;Rural;D;Hombre;936
+9;La Araucanía;9121;Cholchol;Rural;D;Mujer;693
+9;La Araucanía;9201;Angol;Urbana;A;Hombre;5056
+9;La Araucanía;9201;Angol;Urbana;A;Indeterminado;1
+9;La Araucanía;9201;Angol;Urbana;A;Mujer;6483
+9;La Araucanía;9201;Angol;Urbana;B;Hombre;10289
+9;La Araucanía;9201;Angol;Urbana;B;Mujer;14188
+9;La Araucanía;9201;Angol;Urbana;C;Hombre;4488
+9;La Araucanía;9201;Angol;Urbana;C;Indeterminado;1
+9;La Araucanía;9201;Angol;Urbana;C;Mujer;3891
+9;La Araucanía;9201;Angol;Urbana;D;Hombre;6885
+9;La Araucanía;9201;Angol;Urbana;D;Mujer;4821
+9;La Araucanía;9202;Collipulli;Rural;A;Hombre;2010
+9;La Araucanía;9202;Collipulli;Rural;A;Mujer;2739
+9;La Araucanía;9202;Collipulli;Rural;B;Hombre;3472
+9;La Araucanía;9202;Collipulli;Rural;B;Mujer;4388
+9;La Araucanía;9202;Collipulli;Rural;C;Hombre;1444
+9;La Araucanía;9202;Collipulli;Rural;C;Mujer;1195
+9;La Araucanía;9202;Collipulli;Rural;D;Hombre;2271
+9;La Araucanía;9202;Collipulli;Rural;D;Mujer;1347
+9;La Araucanía;9203;Curacautín;Mixta;A;Hombre;1570
+9;La Araucanía;9203;Curacautín;Mixta;A;Mujer;2063
+9;La Araucanía;9203;Curacautín;Mixta;B;Hombre;2819
+9;La Araucanía;9203;Curacautín;Mixta;B;Mujer;3397
+9;La Araucanía;9203;Curacautín;Mixta;C;Hombre;936
+9;La Araucanía;9203;Curacautín;Mixta;C;Mujer;726
+9;La Araucanía;9203;Curacautín;Mixta;D;Hombre;1227
+9;La Araucanía;9203;Curacautín;Mixta;D;Mujer;943
+9;La Araucanía;9204;Ercilla;Rural;A;Hombre;1248
+9;La Araucanía;9204;Ercilla;Rural;A;Mujer;1528
+9;La Araucanía;9204;Ercilla;Rural;B;Hombre;1840
+9;La Araucanía;9204;Ercilla;Rural;B;Mujer;2060
+9;La Araucanía;9204;Ercilla;Rural;C;Hombre;614
+9;La Araucanía;9204;Ercilla;Rural;C;Mujer;437
+9;La Araucanía;9204;Ercilla;Rural;D;Hombre;654
+9;La Araucanía;9204;Ercilla;Rural;D;Mujer;429
+9;La Araucanía;9205;Lonquimay;Rural;A;Hombre;1305
+9;La Araucanía;9205;Lonquimay;Rural;A;Mujer;1641
+9;La Araucanía;9205;Lonquimay;Rural;B;Hombre;1816
+9;La Araucanía;9205;Lonquimay;Rural;B;Mujer;1769
+9;La Araucanía;9205;Lonquimay;Rural;C;Hombre;464
+9;La Araucanía;9205;Lonquimay;Rural;C;Mujer;305
+9;La Araucanía;9205;Lonquimay;Rural;D;Hombre;472
+9;La Araucanía;9205;Lonquimay;Rural;D;Mujer;394
+9;La Araucanía;9206;Los Sauces;Rural;A;Hombre;869
+9;La Araucanía;9206;Los Sauces;Rural;A;Mujer;1140
+9;La Araucanía;9206;Los Sauces;Rural;B;Hombre;1665
+9;La Araucanía;9206;Los Sauces;Rural;B;Mujer;1860
+9;La Araucanía;9206;Los Sauces;Rural;C;Hombre;648
+9;La Araucanía;9206;Los Sauces;Rural;C;Mujer;457
+9;La Araucanía;9206;Los Sauces;Rural;D;Hombre;764
+9;La Araucanía;9206;Los Sauces;Rural;D;Mujer;456
+9;La Araucanía;9207;Lumaco;Rural;A;Hombre;1183
+9;La Araucanía;9207;Lumaco;Rural;A;Mujer;1782
+9;La Araucanía;9207;Lumaco;Rural;B;Hombre;1965
+9;La Araucanía;9207;Lumaco;Rural;B;Mujer;2112
+9;La Araucanía;9207;Lumaco;Rural;C;Hombre;783
+9;La Araucanía;9207;Lumaco;Rural;C;Mujer;508
+9;La Araucanía;9207;Lumaco;Rural;D;Hombre;1162
+9;La Araucanía;9207;Lumaco;Rural;D;Mujer;613
+9;La Araucanía;9208;Purén;Rural;A;Hombre;1195
+9;La Araucanía;9208;Purén;Rural;A;Mujer;1689
+9;La Araucanía;9208;Purén;Rural;B;Hombre;1809
+9;La Araucanía;9208;Purén;Rural;B;Mujer;1791
+9;La Araucanía;9208;Purén;Rural;C;Hombre;484
+9;La Araucanía;9208;Purén;Rural;C;Mujer;288
+9;La Araucanía;9208;Purén;Rural;D;Hombre;667
+9;La Araucanía;9208;Purén;Rural;D;Mujer;468
+9;La Araucanía;9209;Renaico;Mixta;A;Hombre;1023
+9;La Araucanía;9209;Renaico;Mixta;A;Mujer;1510
+9;La Araucanía;9209;Renaico;Mixta;B;Hombre;1988
+9;La Araucanía;9209;Renaico;Mixta;B;Mujer;2722
+9;La Araucanía;9209;Renaico;Mixta;C;Hombre;980
+9;La Araucanía;9209;Renaico;Mixta;C;Mujer;796
+9;La Araucanía;9209;Renaico;Mixta;D;Hombre;1618
+9;La Araucanía;9209;Renaico;Mixta;D;Mujer;829
+9;La Araucanía;9210;Traiguén;Mixta;A;Hombre;1535
+9;La Araucanía;9210;Traiguén;Mixta;A;Mujer;2153
+9;La Araucanía;9210;Traiguén;Mixta;B;Hombre;3112
+9;La Araucanía;9210;Traiguén;Mixta;B;Mujer;3370
+9;La Araucanía;9210;Traiguén;Mixta;C;Hombre;991
+9;La Araucanía;9210;Traiguén;Mixta;C;Mujer;751
+9;La Araucanía;9210;Traiguén;Mixta;D;Hombre;1051
+9;La Araucanía;9210;Traiguén;Mixta;D;Mujer;860
+9;La Araucanía;9211;Victoria;Mixta;A;Hombre;3831
+9;La Araucanía;9211;Victoria;Mixta;A;Mujer;5108
+9;La Araucanía;9211;Victoria;Mixta;B;Hombre;7225
+9;La Araucanía;9211;Victoria;Mixta;B;Mujer;9215
+9;La Araucanía;9211;Victoria;Mixta;C;Hombre;3210
+9;La Araucanía;9211;Victoria;Mixta;C;Mujer;2652
+9;La Araucanía;9211;Victoria;Mixta;D;Hombre;3671
+9;La Araucanía;9211;Victoria;Mixta;D;Mujer;2831
+10;Los Lagos;10101;Puerto Montt;Urbana;A;Hombre;18303
+10;Los Lagos;10101;Puerto Montt;Urbana;A;Indeterminado;4
+10;Los Lagos;10101;Puerto Montt;Urbana;A;Mujer;24382
+10;Los Lagos;10101;Puerto Montt;Urbana;B;Hombre;40249
+10;Los Lagos;10101;Puerto Montt;Urbana;B;Indeterminado;5
+10;Los Lagos;10101;Puerto Montt;Urbana;B;Mujer;53237
+10;Los Lagos;10101;Puerto Montt;Urbana;C;Hombre;20351
+10;Los Lagos;10101;Puerto Montt;Urbana;C;Indeterminado;1
+10;Los Lagos;10101;Puerto Montt;Urbana;C;Mujer;19682
+10;Los Lagos;10101;Puerto Montt;Urbana;D;Hombre;36500
+10;Los Lagos;10101;Puerto Montt;Urbana;D;Mujer;30389
+10;Los Lagos;10102;Calbuco;Mixta;A;Hombre;5324
+10;Los Lagos;10102;Calbuco;Mixta;A;Mujer;6159
+10;Los Lagos;10102;Calbuco;Mixta;B;Hombre;5904
+10;Los Lagos;10102;Calbuco;Mixta;B;Indeterminado;1
+10;Los Lagos;10102;Calbuco;Mixta;B;Mujer;7022
+10;Los Lagos;10102;Calbuco;Mixta;C;Hombre;2343
+10;Los Lagos;10102;Calbuco;Mixta;C;Mujer;2009
+10;Los Lagos;10102;Calbuco;Mixta;D;Hombre;5569
+10;Los Lagos;10102;Calbuco;Mixta;D;Mujer;3769
+10;Los Lagos;10103;Cochamó;Rural;A;Hombre;350
+10;Los Lagos;10103;Cochamó;Rural;A;Mujer;326
+10;Los Lagos;10103;Cochamó;Rural;B;Hombre;536
+10;Los Lagos;10103;Cochamó;Rural;B;Mujer;465
+10;Los Lagos;10103;Cochamó;Rural;C;Hombre;146
+10;Los Lagos;10103;Cochamó;Rural;C;Mujer;69
+10;Los Lagos;10103;Cochamó;Rural;D;Hombre;246
+10;Los Lagos;10103;Cochamó;Rural;D;Mujer;116
+10;Los Lagos;10104;Fresia;Rural;A;Hombre;1226
+10;Los Lagos;10104;Fresia;Rural;A;Mujer;1320
+10;Los Lagos;10104;Fresia;Rural;B;Hombre;2208
+10;Los Lagos;10104;Fresia;Rural;B;Mujer;2475
+10;Los Lagos;10104;Fresia;Rural;C;Hombre;757
+10;Los Lagos;10104;Fresia;Rural;C;Mujer;499
+10;Los Lagos;10104;Fresia;Rural;D;Hombre;952
+10;Los Lagos;10104;Fresia;Rural;D;Mujer;705
+10;Los Lagos;10105;Frutillar;Rural;A;Hombre;1488
+10;Los Lagos;10105;Frutillar;Rural;A;Mujer;2034
+10;Los Lagos;10105;Frutillar;Rural;B;Hombre;3813
+10;Los Lagos;10105;Frutillar;Rural;B;Mujer;4840
+10;Los Lagos;10105;Frutillar;Rural;C;Hombre;1893
+10;Los Lagos;10105;Frutillar;Rural;C;Mujer;1684
+10;Los Lagos;10105;Frutillar;Rural;D;Hombre;2588
+10;Los Lagos;10105;Frutillar;Rural;D;Mujer;2003
+10;Los Lagos;10106;Los Muermos;Rural;A;Hombre;2726
+10;Los Lagos;10106;Los Muermos;Rural;A;Mujer;3088
+10;Los Lagos;10106;Los Muermos;Rural;B;Hombre;3963
+10;Los Lagos;10106;Los Muermos;Rural;B;Mujer;4354
+10;Los Lagos;10106;Los Muermos;Rural;C;Hombre;1352
+10;Los Lagos;10106;Los Muermos;Rural;C;Mujer;1015
+10;Los Lagos;10106;Los Muermos;Rural;D;Hombre;1771
+10;Los Lagos;10106;Los Muermos;Rural;D;Mujer;1351
+10;Los Lagos;10107;Llanquihue;Rural;A;Hombre;1303
+10;Los Lagos;10107;Llanquihue;Rural;A;Mujer;1789
+10;Los Lagos;10107;Llanquihue;Rural;B;Hombre;3221
+10;Los Lagos;10107;Llanquihue;Rural;B;Mujer;4151
+10;Los Lagos;10107;Llanquihue;Rural;C;Hombre;1751
+10;Los Lagos;10107;Llanquihue;Rural;C;Mujer;1508
+10;Los Lagos;10107;Llanquihue;Rural;D;Hombre;2790
+10;Los Lagos;10107;Llanquihue;Rural;D;Mujer;2098
+10;Los Lagos;10108;Maullín;Rural;A;Hombre;1872
+10;Los Lagos;10108;Maullín;Rural;A;Mujer;2125
+10;Los Lagos;10108;Maullín;Rural;B;Hombre;2742
+10;Los Lagos;10108;Maullín;Rural;B;Mujer;3029
+10;Los Lagos;10108;Maullín;Rural;C;Hombre;834
+10;Los Lagos;10108;Maullín;Rural;C;Mujer;747
+10;Los Lagos;10108;Maullín;Rural;D;Hombre;1597
+10;Los Lagos;10108;Maullín;Rural;D;Mujer;930
+10;Los Lagos;10109;Puerto Varas;Mixta;A;Hombre;3103
+10;Los Lagos;10109;Puerto Varas;Mixta;A;Indeterminado;1
+10;Los Lagos;10109;Puerto Varas;Mixta;A;Mujer;3852
+10;Los Lagos;10109;Puerto Varas;Mixta;B;Hombre;7914
+10;Los Lagos;10109;Puerto Varas;Mixta;B;Mujer;10323
+10;Los Lagos;10109;Puerto Varas;Mixta;C;Hombre;3985
+10;Los Lagos;10109;Puerto Varas;Mixta;C;Mujer;3981
+10;Los Lagos;10109;Puerto Varas;Mixta;D;Hombre;5997
+10;Los Lagos;10109;Puerto Varas;Mixta;D;Indeterminado;1
+10;Los Lagos;10109;Puerto Varas;Mixta;D;Mujer;5110
+10;Los Lagos;10201;Castro;Mixta;A;Hombre;4252
+10;Los Lagos;10201;Castro;Mixta;A;Indeterminado;1
+10;Los Lagos;10201;Castro;Mixta;A;Mujer;4943
+10;Los Lagos;10201;Castro;Mixta;B;Hombre;8675
+10;Los Lagos;10201;Castro;Mixta;B;Mujer;11275
+10;Los Lagos;10201;Castro;Mixta;C;Hombre;4273
+10;Los Lagos;10201;Castro;Mixta;C;Mujer;3818
+10;Los Lagos;10201;Castro;Mixta;D;Hombre;6153
+10;Los Lagos;10201;Castro;Mixta;D;Mujer;5155
+10;Los Lagos;10202;Ancud;Mixta;A;Hombre;4560
+10;Los Lagos;10202;Ancud;Mixta;A;Mujer;5005
+10;Los Lagos;10202;Ancud;Mixta;B;Hombre;8012
+10;Los Lagos;10202;Ancud;Mixta;B;Mujer;9921
+10;Los Lagos;10202;Ancud;Mixta;C;Hombre;3019
+10;Los Lagos;10202;Ancud;Mixta;C;Mujer;2716
+10;Los Lagos;10202;Ancud;Mixta;D;Hombre;4777
+10;Los Lagos;10202;Ancud;Mixta;D;Mujer;3771
+10;Los Lagos;10203;Chonchi;Rural;A;Hombre;1756
+10;Los Lagos;10203;Chonchi;Rural;A;Mujer;2051
+10;Los Lagos;10203;Chonchi;Rural;B;Hombre;2710
+10;Los Lagos;10203;Chonchi;Rural;B;Mujer;3461
+10;Los Lagos;10203;Chonchi;Rural;C;Hombre;1231
+10;Los Lagos;10203;Chonchi;Rural;C;Mujer;919
+10;Los Lagos;10203;Chonchi;Rural;D;Hombre;2036
+10;Los Lagos;10203;Chonchi;Rural;D;Mujer;1794
+10;Los Lagos;10204;Curaco de Vélez;Rural;A;Hombre;365
+10;Los Lagos;10204;Curaco de Vélez;Rural;A;Mujer;479
+10;Los Lagos;10204;Curaco de Vélez;Rural;B;Hombre;669
+10;Los Lagos;10204;Curaco de Vélez;Rural;B;Mujer;927
+10;Los Lagos;10204;Curaco de Vélez;Rural;C;Hombre;320
+10;Los Lagos;10204;Curaco de Vélez;Rural;C;Mujer;242
+10;Los Lagos;10204;Curaco de Vélez;Rural;D;Hombre;487
+10;Los Lagos;10204;Curaco de Vélez;Rural;D;Mujer;377
+10;Los Lagos;10205;Dalcahue;Rural;A;Hombre;2095
+10;Los Lagos;10205;Dalcahue;Rural;A;Mujer;2292
+10;Los Lagos;10205;Dalcahue;Rural;B;Hombre;2680
+10;Los Lagos;10205;Dalcahue;Rural;B;Mujer;3586
+10;Los Lagos;10205;Dalcahue;Rural;C;Hombre;1315
+10;Los Lagos;10205;Dalcahue;Rural;C;Mujer;1075
+10;Los Lagos;10205;Dalcahue;Rural;D;Hombre;1734
+10;Los Lagos;10205;Dalcahue;Rural;D;Mujer;1325
+10;Los Lagos;10206;Puqueldón;Rural;A;Hombre;360
+10;Los Lagos;10206;Puqueldón;Rural;A;Mujer;530
+10;Los Lagos;10206;Puqueldón;Rural;B;Hombre;694
+10;Los Lagos;10206;Puqueldón;Rural;B;Mujer;807
+10;Los Lagos;10206;Puqueldón;Rural;C;Hombre;305
+10;Los Lagos;10206;Puqueldón;Rural;C;Mujer;145
+10;Los Lagos;10206;Puqueldón;Rural;D;Hombre;516
+10;Los Lagos;10206;Puqueldón;Rural;D;Mujer;357
+10;Los Lagos;10207;Queilén;Rural;A;Hombre;614
+10;Los Lagos;10207;Queilén;Rural;A;Mujer;644
+10;Los Lagos;10207;Queilén;Rural;B;Hombre;811
+10;Los Lagos;10207;Queilén;Rural;B;Mujer;975
+10;Los Lagos;10207;Queilén;Rural;C;Hombre;285
+10;Los Lagos;10207;Queilén;Rural;C;Mujer;202
+10;Los Lagos;10207;Queilén;Rural;D;Hombre;472
+10;Los Lagos;10207;Queilén;Rural;D;Mujer;369
+10;Los Lagos;10208;Quellón;Mixta;A;Hombre;4387
+10;Los Lagos;10208;Quellón;Mixta;A;Mujer;4528
+10;Los Lagos;10208;Quellón;Mixta;B;Hombre;4273
+10;Los Lagos;10208;Quellón;Mixta;B;Mujer;5322
+10;Los Lagos;10208;Quellón;Mixta;C;Hombre;2160
+10;Los Lagos;10208;Quellón;Mixta;C;Mujer;1849
+10;Los Lagos;10208;Quellón;Mixta;D;Hombre;4738
+10;Los Lagos;10208;Quellón;Mixta;D;Mujer;3748
+10;Los Lagos;10209;Quemchi;Rural;A;Hombre;1113
+10;Los Lagos;10209;Quemchi;Rural;A;Mujer;1237
+10;Los Lagos;10209;Quemchi;Rural;B;Hombre;1594
+10;Los Lagos;10209;Quemchi;Rural;B;Mujer;1822
+10;Los Lagos;10209;Quemchi;Rural;C;Hombre;506
+10;Los Lagos;10209;Quemchi;Rural;C;Mujer;378
+10;Los Lagos;10209;Quemchi;Rural;D;Hombre;1326
+10;Los Lagos;10209;Quemchi;Rural;D;Mujer;878
+10;Los Lagos;10210;Quinchao;Rural;A;Hombre;865
+10;Los Lagos;10210;Quinchao;Rural;A;Indeterminado;1
+10;Los Lagos;10210;Quinchao;Rural;A;Mujer;1111
+10;Los Lagos;10210;Quinchao;Rural;B;Hombre;1215
+10;Los Lagos;10210;Quinchao;Rural;B;Mujer;1546
+10;Los Lagos;10210;Quinchao;Rural;C;Hombre;491
+10;Los Lagos;10210;Quinchao;Rural;C;Mujer;338
+10;Los Lagos;10210;Quinchao;Rural;D;Hombre;836
+10;Los Lagos;10210;Quinchao;Rural;D;Mujer;566
+10;Los Lagos;10301;Osorno;Urbana;A;Hombre;11894
+10;Los Lagos;10301;Osorno;Urbana;A;Mujer;17086
+10;Los Lagos;10301;Osorno;Urbana;B;Hombre;28603
+10;Los Lagos;10301;Osorno;Urbana;B;Mujer;38274
+10;Los Lagos;10301;Osorno;Urbana;C;Hombre;13307
+10;Los Lagos;10301;Osorno;Urbana;C;Indeterminado;1
+10;Los Lagos;10301;Osorno;Urbana;C;Mujer;11946
+10;Los Lagos;10301;Osorno;Urbana;D;Hombre;19332
+10;Los Lagos;10301;Osorno;Urbana;D;Mujer;15057
+10;Los Lagos;10302;Puerto Octay;Rural;A;Hombre;671
+10;Los Lagos;10302;Puerto Octay;Rural;A;Mujer;915
+10;Los Lagos;10302;Puerto Octay;Rural;B;Hombre;1562
+10;Los Lagos;10302;Puerto Octay;Rural;B;Mujer;1867
+10;Los Lagos;10302;Puerto Octay;Rural;C;Hombre;732
+10;Los Lagos;10302;Puerto Octay;Rural;C;Mujer;486
+10;Los Lagos;10302;Puerto Octay;Rural;D;Hombre;1213
+10;Los Lagos;10302;Puerto Octay;Rural;D;Mujer;638
+10;Los Lagos;10303;Purranque;Rural;A;Hombre;1731
+10;Los Lagos;10303;Purranque;Rural;A;Mujer;2262
+10;Los Lagos;10303;Purranque;Rural;B;Hombre;4394
+10;Los Lagos;10303;Purranque;Rural;B;Mujer;5695
+10;Los Lagos;10303;Purranque;Rural;C;Hombre;1830
+10;Los Lagos;10303;Purranque;Rural;C;Mujer;1503
+10;Los Lagos;10303;Purranque;Rural;D;Hombre;2597
+10;Los Lagos;10303;Purranque;Rural;D;Indeterminado;1
+10;Los Lagos;10303;Purranque;Rural;D;Mujer;1686
+10;Los Lagos;10304;Puyehue;Rural;A;Hombre;1103
+10;Los Lagos;10304;Puyehue;Rural;A;Mujer;1462
+10;Los Lagos;10304;Puyehue;Rural;B;Hombre;2542
+10;Los Lagos;10304;Puyehue;Rural;B;Mujer;3237
+10;Los Lagos;10304;Puyehue;Rural;C;Hombre;1276
+10;Los Lagos;10304;Puyehue;Rural;C;Mujer;1045
+10;Los Lagos;10304;Puyehue;Rural;D;Hombre;1708
+10;Los Lagos;10304;Puyehue;Rural;D;Mujer;1004
+10;Los Lagos;10305;Río Negro;Rural;A;Hombre;1327
+10;Los Lagos;10305;Río Negro;Rural;A;Mujer;1626
+10;Los Lagos;10305;Río Negro;Rural;B;Hombre;2964
+10;Los Lagos;10305;Río Negro;Rural;B;Mujer;3607
+10;Los Lagos;10305;Río Negro;Rural;C;Hombre;1137
+10;Los Lagos;10305;Río Negro;Rural;C;Mujer;884
+10;Los Lagos;10305;Río Negro;Rural;D;Hombre;1607
+10;Los Lagos;10305;Río Negro;Rural;D;Mujer;971
+10;Los Lagos;10306;San Juan de la Costa;Rural;A;Hombre;1664
+10;Los Lagos;10306;San Juan de la Costa;Rural;A;Mujer;1755
+10;Los Lagos;10306;San Juan de la Costa;Rural;B;Hombre;1937
+10;Los Lagos;10306;San Juan de la Costa;Rural;B;Mujer;1950
+10;Los Lagos;10306;San Juan de la Costa;Rural;C;Hombre;531
+10;Los Lagos;10306;San Juan de la Costa;Rural;C;Mujer;358
+10;Los Lagos;10306;San Juan de la Costa;Rural;D;Hombre;736
+10;Los Lagos;10306;San Juan de la Costa;Rural;D;Mujer;456
+10;Los Lagos;10307;San Pablo;Rural;A;Hombre;941
+10;Los Lagos;10307;San Pablo;Rural;A;Mujer;1272
+10;Los Lagos;10307;San Pablo;Rural;B;Hombre;2172
+10;Los Lagos;10307;San Pablo;Rural;B;Mujer;2701
+10;Los Lagos;10307;San Pablo;Rural;C;Hombre;914
+10;Los Lagos;10307;San Pablo;Rural;C;Mujer;717
+10;Los Lagos;10307;San Pablo;Rural;D;Hombre;1274
+10;Los Lagos;10307;San Pablo;Rural;D;Mujer;748
+10;Los Lagos;10401;Chaitén;Rural;A;Hombre;262
+10;Los Lagos;10401;Chaitén;Rural;A;Mujer;203
+10;Los Lagos;10401;Chaitén;Rural;B;Hombre;430
+10;Los Lagos;10401;Chaitén;Rural;B;Mujer;440
+10;Los Lagos;10401;Chaitén;Rural;C;Hombre;161
+10;Los Lagos;10401;Chaitén;Rural;C;Mujer;101
+10;Los Lagos;10401;Chaitén;Rural;D;Hombre;310
+10;Los Lagos;10401;Chaitén;Rural;D;Mujer;168
+10;Los Lagos;10402;Futaleufú;Rural;A;Hombre;284
+10;Los Lagos;10402;Futaleufú;Rural;A;Mujer;278
+10;Los Lagos;10402;Futaleufú;Rural;B;Hombre;363
+10;Los Lagos;10402;Futaleufú;Rural;B;Mujer;363
+10;Los Lagos;10402;Futaleufú;Rural;C;Hombre;138
+10;Los Lagos;10402;Futaleufú;Rural;C;Mujer;119
+10;Los Lagos;10402;Futaleufú;Rural;D;Hombre;167
+10;Los Lagos;10402;Futaleufú;Rural;D;Mujer;137
+10;Los Lagos;10403;Hualaihué;Rural;A;Hombre;1139
+10;Los Lagos;10403;Hualaihué;Rural;A;Mujer;1331
+10;Los Lagos;10403;Hualaihué;Rural;B;Hombre;1262
+10;Los Lagos;10403;Hualaihué;Rural;B;Mujer;1281
+10;Los Lagos;10403;Hualaihué;Rural;C;Hombre;542
+10;Los Lagos;10403;Hualaihué;Rural;C;Mujer;382
+10;Los Lagos;10403;Hualaihué;Rural;D;Hombre;1122
+10;Los Lagos;10403;Hualaihué;Rural;D;Mujer;585
+10;Los Lagos;10404;Palena;Rural;A;Hombre;130
+10;Los Lagos;10404;Palena;Rural;A;Mujer;132
+10;Los Lagos;10404;Palena;Rural;B;Hombre;279
+10;Los Lagos;10404;Palena;Rural;B;Mujer;290
+10;Los Lagos;10404;Palena;Rural;C;Hombre;115
+10;Los Lagos;10404;Palena;Rural;C;Mujer;81
+10;Los Lagos;10404;Palena;Rural;D;Hombre;121
+10;Los Lagos;10404;Palena;Rural;D;Mujer;114
+11;Aysén del General Carlos Ibáñez del Campo;11101;Coyhaique;Urbana;A;Hombre;4157
+11;Aysén del General Carlos Ibáñez del Campo;11101;Coyhaique;Urbana;A;Mujer;5117
+11;Aysén del General Carlos Ibáñez del Campo;11101;Coyhaique;Urbana;B;Hombre;9056
+11;Aysén del General Carlos Ibáñez del Campo;11101;Coyhaique;Urbana;B;Indeterminado;2
+11;Aysén del General Carlos Ibáñez del Campo;11101;Coyhaique;Urbana;B;Mujer;11863
+11;Aysén del General Carlos Ibáñez del Campo;11101;Coyhaique;Urbana;C;Hombre;4492
+11;Aysén del General Carlos Ibáñez del Campo;11101;Coyhaique;Urbana;C;Indeterminado;1
+11;Aysén del General Carlos Ibáñez del Campo;11101;Coyhaique;Urbana;C;Mujer;4271
+11;Aysén del General Carlos Ibáñez del Campo;11101;Coyhaique;Urbana;D;Hombre;6640
+11;Aysén del General Carlos Ibáñez del Campo;11101;Coyhaique;Urbana;D;Indeterminado;1
+11;Aysén del General Carlos Ibáñez del Campo;11101;Coyhaique;Urbana;D;Mujer;5699
+11;Aysén del General Carlos Ibáñez del Campo;11102;Lago Verde;Rural;A;Hombre;21
+11;Aysén del General Carlos Ibáñez del Campo;11102;Lago Verde;Rural;A;Mujer;13
+11;Aysén del General Carlos Ibáñez del Campo;11102;Lago Verde;Rural;B;Hombre;49
+11;Aysén del General Carlos Ibáñez del Campo;11102;Lago Verde;Rural;B;Mujer;46
+11;Aysén del General Carlos Ibáñez del Campo;11102;Lago Verde;Rural;C;Hombre;22
+11;Aysén del General Carlos Ibáñez del Campo;11102;Lago Verde;Rural;C;Mujer;13
+11;Aysén del General Carlos Ibáñez del Campo;11102;Lago Verde;Rural;D;Hombre;38
+11;Aysén del General Carlos Ibáñez del Campo;11102;Lago Verde;Rural;D;Mujer;17
+11;Aysén del General Carlos Ibáñez del Campo;11201;Aysén;Rural;A;Hombre;2103
+11;Aysén del General Carlos Ibáñez del Campo;11201;Aysén;Rural;A;Mujer;2539
+11;Aysén del General Carlos Ibáñez del Campo;11201;Aysén;Rural;B;Hombre;3100
+11;Aysén del General Carlos Ibáñez del Campo;11201;Aysén;Rural;B;Mujer;3641
+11;Aysén del General Carlos Ibáñez del Campo;11201;Aysén;Rural;C;Hombre;1412
+11;Aysén del General Carlos Ibáñez del Campo;11201;Aysén;Rural;C;Mujer;1177
+11;Aysén del General Carlos Ibáñez del Campo;11201;Aysén;Rural;D;Hombre;3044
+11;Aysén del General Carlos Ibáñez del Campo;11201;Aysén;Rural;D;Mujer;2043
+11;Aysén del General Carlos Ibáñez del Campo;11202;Cisnes;Rural;A;Hombre;458
+11;Aysén del General Carlos Ibáñez del Campo;11202;Cisnes;Rural;A;Mujer;455
+11;Aysén del General Carlos Ibáñez del Campo;11202;Cisnes;Rural;B;Hombre;862
+11;Aysén del General Carlos Ibáñez del Campo;11202;Cisnes;Rural;B;Mujer;797
+11;Aysén del General Carlos Ibáñez del Campo;11202;Cisnes;Rural;C;Hombre;375
+11;Aysén del General Carlos Ibáñez del Campo;11202;Cisnes;Rural;C;Mujer;265
+11;Aysén del General Carlos Ibáñez del Campo;11202;Cisnes;Rural;D;Hombre;775
+11;Aysén del General Carlos Ibáñez del Campo;11202;Cisnes;Rural;D;Mujer;426
+11;Aysén del General Carlos Ibáñez del Campo;11203;Guaitecas;Rural;A;Hombre;51
+11;Aysén del General Carlos Ibáñez del Campo;11203;Guaitecas;Rural;A;Mujer;42
+11;Aysén del General Carlos Ibáñez del Campo;11203;Guaitecas;Rural;B;Hombre;95
+11;Aysén del General Carlos Ibáñez del Campo;11203;Guaitecas;Rural;B;Mujer;70
+11;Aysén del General Carlos Ibáñez del Campo;11203;Guaitecas;Rural;C;Hombre;30
+11;Aysén del General Carlos Ibáñez del Campo;11203;Guaitecas;Rural;C;Mujer;23
+11;Aysén del General Carlos Ibáñez del Campo;11203;Guaitecas;Rural;D;Hombre;42
+11;Aysén del General Carlos Ibáñez del Campo;11203;Guaitecas;Rural;D;Mujer;26
+11;Aysén del General Carlos Ibáñez del Campo;11301;Cochrane;Rural;A;Hombre;378
+11;Aysén del General Carlos Ibáñez del Campo;11301;Cochrane;Rural;A;Mujer;355
+11;Aysén del General Carlos Ibáñez del Campo;11301;Cochrane;Rural;B;Hombre;687
+11;Aysén del General Carlos Ibáñez del Campo;11301;Cochrane;Rural;B;Indeterminado;1
+11;Aysén del General Carlos Ibáñez del Campo;11301;Cochrane;Rural;B;Mujer;816
+11;Aysén del General Carlos Ibáñez del Campo;11301;Cochrane;Rural;C;Hombre;280
+11;Aysén del General Carlos Ibáñez del Campo;11301;Cochrane;Rural;C;Mujer;189
+11;Aysén del General Carlos Ibáñez del Campo;11301;Cochrane;Rural;D;Hombre;481
+11;Aysén del General Carlos Ibáñez del Campo;11301;Cochrane;Rural;D;Mujer;365
+11;Aysén del General Carlos Ibáñez del Campo;11302;O'Higgins;Rural;A;Hombre;9
+11;Aysén del General Carlos Ibáñez del Campo;11302;O'Higgins;Rural;A;Mujer;17
+11;Aysén del General Carlos Ibáñez del Campo;11302;O'Higgins;Rural;B;Hombre;22
+11;Aysén del General Carlos Ibáñez del Campo;11302;O'Higgins;Rural;B;Mujer;18
+11;Aysén del General Carlos Ibáñez del Campo;11302;O'Higgins;Rural;C;Hombre;14
+11;Aysén del General Carlos Ibáñez del Campo;11302;O'Higgins;Rural;C;Mujer;7
+11;Aysén del General Carlos Ibáñez del Campo;11302;O'Higgins;Rural;D;Hombre;18
+11;Aysén del General Carlos Ibáñez del Campo;11302;O'Higgins;Rural;D;Mujer;15
+11;Aysén del General Carlos Ibáñez del Campo;11303;Tortel;Rural;A;Hombre;16
+11;Aysén del General Carlos Ibáñez del Campo;11303;Tortel;Rural;A;Mujer;9
+11;Aysén del General Carlos Ibáñez del Campo;11303;Tortel;Rural;B;Hombre;21
+11;Aysén del General Carlos Ibáñez del Campo;11303;Tortel;Rural;B;Mujer;3
+11;Aysén del General Carlos Ibáñez del Campo;11303;Tortel;Rural;C;Hombre;16
+11;Aysén del General Carlos Ibáñez del Campo;11303;Tortel;Rural;C;Mujer;6
+11;Aysén del General Carlos Ibáñez del Campo;11303;Tortel;Rural;D;Hombre;20
+11;Aysén del General Carlos Ibáñez del Campo;11303;Tortel;Rural;D;Mujer;9
+11;Aysén del General Carlos Ibáñez del Campo;11401;Chile Chico;Rural;A;Hombre;293
+11;Aysén del General Carlos Ibáñez del Campo;11401;Chile Chico;Rural;A;Mujer;344
+11;Aysén del General Carlos Ibáñez del Campo;11401;Chile Chico;Rural;B;Hombre;806
+11;Aysén del General Carlos Ibáñez del Campo;11401;Chile Chico;Rural;B;Mujer;886
+11;Aysén del General Carlos Ibáñez del Campo;11401;Chile Chico;Rural;C;Hombre;368
+11;Aysén del General Carlos Ibáñez del Campo;11401;Chile Chico;Rural;C;Mujer;287
+11;Aysén del General Carlos Ibáñez del Campo;11401;Chile Chico;Rural;D;Hombre;615
+11;Aysén del General Carlos Ibáñez del Campo;11401;Chile Chico;Rural;D;Mujer;456
+11;Aysén del General Carlos Ibáñez del Campo;11402;Río Ibáñez;Rural;A;Hombre;96
+11;Aysén del General Carlos Ibáñez del Campo;11402;Río Ibáñez;Rural;A;Mujer;83
+11;Aysén del General Carlos Ibáñez del Campo;11402;Río Ibáñez;Rural;B;Hombre;217
+11;Aysén del General Carlos Ibáñez del Campo;11402;Río Ibáñez;Rural;B;Mujer;198
+11;Aysén del General Carlos Ibáñez del Campo;11402;Río Ibáñez;Rural;C;Hombre;77
+11;Aysén del General Carlos Ibáñez del Campo;11402;Río Ibáñez;Rural;C;Mujer;44
+11;Aysén del General Carlos Ibáñez del Campo;11402;Río Ibáñez;Rural;D;Hombre;104
+11;Aysén del General Carlos Ibáñez del Campo;11402;Río Ibáñez;Rural;D;Mujer;68
+12;Magallanes y de la Antártica Chilena;12101;Punta Arenas;Urbana;A;Hombre;5269
+12;Magallanes y de la Antártica Chilena;12101;Punta Arenas;Urbana;A;Indeterminado;2
+12;Magallanes y de la Antártica Chilena;12101;Punta Arenas;Urbana;A;Mujer;7024
+12;Magallanes y de la Antártica Chilena;12101;Punta Arenas;Urbana;B;Hombre;18840
+12;Magallanes y de la Antártica Chilena;12101;Punta Arenas;Urbana;B;Indeterminado;1
+12;Magallanes y de la Antártica Chilena;12101;Punta Arenas;Urbana;B;Mujer;27759
+12;Magallanes y de la Antártica Chilena;12101;Punta Arenas;Urbana;C;Hombre;9229
+12;Magallanes y de la Antártica Chilena;12101;Punta Arenas;Urbana;C;Indeterminado;1
+12;Magallanes y de la Antártica Chilena;12101;Punta Arenas;Urbana;C;Mujer;9566
+12;Magallanes y de la Antártica Chilena;12101;Punta Arenas;Urbana;D;Hombre;20258
+12;Magallanes y de la Antártica Chilena;12101;Punta Arenas;Urbana;D;Indeterminado;1
+12;Magallanes y de la Antártica Chilena;12101;Punta Arenas;Urbana;D;Mujer;15841
+12;Magallanes y de la Antártica Chilena;12102;Laguna Blanca;Rural;A;Mujer;2
+12;Magallanes y de la Antártica Chilena;12102;Laguna Blanca;Rural;B;Hombre;8
+12;Magallanes y de la Antártica Chilena;12102;Laguna Blanca;Rural;B;Mujer;2
+12;Magallanes y de la Antártica Chilena;12102;Laguna Blanca;Rural;C;Mujer;3
+12;Magallanes y de la Antártica Chilena;12102;Laguna Blanca;Rural;D;Hombre;12
+12;Magallanes y de la Antártica Chilena;12102;Laguna Blanca;Rural;D;Mujer;6
+12;Magallanes y de la Antártica Chilena;12103;Río Verde;Rural;A;Hombre;3
+12;Magallanes y de la Antártica Chilena;12103;Río Verde;Rural;B;Hombre;1
+12;Magallanes y de la Antártica Chilena;12103;Río Verde;Rural;C;Hombre;3
+12;Magallanes y de la Antártica Chilena;12103;Río Verde;Rural;C;Mujer;2
+12;Magallanes y de la Antártica Chilena;12103;Río Verde;Rural;D;Hombre;3
+12;Magallanes y de la Antártica Chilena;12103;Río Verde;Rural;D;Mujer;2
+12;Magallanes y de la Antártica Chilena;12104;San Gregorio;Rural;A;Hombre;3
+12;Magallanes y de la Antártica Chilena;12104;San Gregorio;Rural;B;Hombre;8
+12;Magallanes y de la Antártica Chilena;12104;San Gregorio;Rural;B;Mujer;9
+12;Magallanes y de la Antártica Chilena;12104;San Gregorio;Rural;C;Hombre;13
+12;Magallanes y de la Antártica Chilena;12104;San Gregorio;Rural;C;Mujer;5
+12;Magallanes y de la Antártica Chilena;12104;San Gregorio;Rural;D;Hombre;22
+12;Magallanes y de la Antártica Chilena;12104;San Gregorio;Rural;D;Mujer;5
+12;Magallanes y de la Antártica Chilena;12201;Cabo de Hornos;Rural;A;Hombre;23
+12;Magallanes y de la Antártica Chilena;12201;Cabo de Hornos;Rural;A;Mujer;15
+12;Magallanes y de la Antártica Chilena;12201;Cabo de Hornos;Rural;B;Hombre;61
+12;Magallanes y de la Antártica Chilena;12201;Cabo de Hornos;Rural;B;Mujer;79
+12;Magallanes y de la Antártica Chilena;12201;Cabo de Hornos;Rural;C;Hombre;29
+12;Magallanes y de la Antártica Chilena;12201;Cabo de Hornos;Rural;C;Mujer;15
+12;Magallanes y de la Antártica Chilena;12201;Cabo de Hornos;Rural;D;Hombre;89
+12;Magallanes y de la Antártica Chilena;12201;Cabo de Hornos;Rural;D;Mujer;62
+12;Magallanes y de la Antártica Chilena;12202;Antártica;NA;A;Hombre;4
+12;Magallanes y de la Antártica Chilena;12202;Antártica;NA;A;Mujer;1
+12;Magallanes y de la Antártica Chilena;12202;Antártica;NA;B;Hombre;6
+12;Magallanes y de la Antártica Chilena;12202;Antártica;NA;B;Mujer;6
+12;Magallanes y de la Antártica Chilena;12202;Antártica;NA;C;Hombre;8
+12;Magallanes y de la Antártica Chilena;12202;Antártica;NA;C;Mujer;5
+12;Magallanes y de la Antártica Chilena;12202;Antártica;NA;D;Hombre;13
+12;Magallanes y de la Antártica Chilena;12202;Antártica;NA;D;Mujer;6
+12;Magallanes y de la Antártica Chilena;12301;Porvenir;Rural;A;Hombre;310
+12;Magallanes y de la Antártica Chilena;12301;Porvenir;Rural;A;Mujer;298
+12;Magallanes y de la Antártica Chilena;12301;Porvenir;Rural;B;Hombre;853
+12;Magallanes y de la Antártica Chilena;12301;Porvenir;Rural;B;Mujer;918
+12;Magallanes y de la Antártica Chilena;12301;Porvenir;Rural;C;Hombre;445
+12;Magallanes y de la Antártica Chilena;12301;Porvenir;Rural;C;Mujer;317
+12;Magallanes y de la Antártica Chilena;12301;Porvenir;Rural;D;Hombre;1113
+12;Magallanes y de la Antártica Chilena;12301;Porvenir;Rural;D;Mujer;760
+12;Magallanes y de la Antártica Chilena;12302;Primavera;Rural;A;Hombre;3
+12;Magallanes y de la Antártica Chilena;12302;Primavera;Rural;A;Mujer;2
+12;Magallanes y de la Antártica Chilena;12302;Primavera;Rural;B;Hombre;7
+12;Magallanes y de la Antártica Chilena;12302;Primavera;Rural;B;Mujer;6
+12;Magallanes y de la Antártica Chilena;12302;Primavera;Rural;C;Hombre;9
+12;Magallanes y de la Antártica Chilena;12302;Primavera;Rural;C;Mujer;5
+12;Magallanes y de la Antártica Chilena;12302;Primavera;Rural;D;Hombre;16
+12;Magallanes y de la Antártica Chilena;12302;Primavera;Rural;D;Mujer;7
+12;Magallanes y de la Antártica Chilena;12303;Timaukel;Rural;A;Mujer;1
+12;Magallanes y de la Antártica Chilena;12303;Timaukel;Rural;B;Hombre;1
+12;Magallanes y de la Antártica Chilena;12303;Timaukel;Rural;B;Mujer;1
+12;Magallanes y de la Antártica Chilena;12303;Timaukel;Rural;D;Hombre;8
+12;Magallanes y de la Antártica Chilena;12303;Timaukel;Rural;D;Mujer;9
+12;Magallanes y de la Antártica Chilena;12401;Natales;Rural;A;Hombre;1874
+12;Magallanes y de la Antártica Chilena;12401;Natales;Rural;A;Mujer;2193
+12;Magallanes y de la Antártica Chilena;12401;Natales;Rural;B;Hombre;4317
+12;Magallanes y de la Antártica Chilena;12401;Natales;Rural;B;Mujer;5240
+12;Magallanes y de la Antártica Chilena;12401;Natales;Rural;C;Hombre;2016
+12;Magallanes y de la Antártica Chilena;12401;Natales;Rural;C;Mujer;2061
+12;Magallanes y de la Antártica Chilena;12401;Natales;Rural;D;Hombre;4258
+12;Magallanes y de la Antártica Chilena;12401;Natales;Rural;D;Mujer;3165
+12;Magallanes y de la Antártica Chilena;12402;Torres del Paine;Rural;A;Mujer;1
+12;Magallanes y de la Antártica Chilena;12402;Torres del Paine;Rural;B;Hombre;7
+12;Magallanes y de la Antártica Chilena;12402;Torres del Paine;Rural;B;Mujer;7
+12;Magallanes y de la Antártica Chilena;12402;Torres del Paine;Rural;C;Hombre;6
+12;Magallanes y de la Antártica Chilena;12402;Torres del Paine;Rural;C;Mujer;2
+12;Magallanes y de la Antártica Chilena;12402;Torres del Paine;Rural;D;Hombre;12
+12;Magallanes y de la Antártica Chilena;12402;Torres del Paine;Rural;D;Mujer;14
+13;Metropolitana de Santiago;13101;Santiago;Urbana;A;Hombre;24563
+13;Metropolitana de Santiago;13101;Santiago;Urbana;A;Indeterminado;37
+13;Metropolitana de Santiago;13101;Santiago;Urbana;A;Mujer;37956
+13;Metropolitana de Santiago;13101;Santiago;Urbana;B;Hombre;51435
+13;Metropolitana de Santiago;13101;Santiago;Urbana;B;Indeterminado;15
+13;Metropolitana de Santiago;13101;Santiago;Urbana;B;Mujer;65983
+13;Metropolitana de Santiago;13101;Santiago;Urbana;C;Hombre;32809
+13;Metropolitana de Santiago;13101;Santiago;Urbana;C;Indeterminado;11
+13;Metropolitana de Santiago;13101;Santiago;Urbana;C;Mujer;32570
+13;Metropolitana de Santiago;13101;Santiago;Urbana;D;Hombre;53183
+13;Metropolitana de Santiago;13101;Santiago;Urbana;D;Indeterminado;14
+13;Metropolitana de Santiago;13101;Santiago;Urbana;D;Mujer;46447
+13;Metropolitana de Santiago;13102;Cerrillos;Urbana;A;Hombre;4490
+13;Metropolitana de Santiago;13102;Cerrillos;Urbana;A;Indeterminado;4
+13;Metropolitana de Santiago;13102;Cerrillos;Urbana;A;Mujer;6614
+13;Metropolitana de Santiago;13102;Cerrillos;Urbana;B;Hombre;9686
+13;Metropolitana de Santiago;13102;Cerrillos;Urbana;B;Mujer;13369
+13;Metropolitana de Santiago;13102;Cerrillos;Urbana;C;Hombre;5468
+13;Metropolitana de Santiago;13102;Cerrillos;Urbana;C;Indeterminado;1
+13;Metropolitana de Santiago;13102;Cerrillos;Urbana;C;Mujer;5132
+13;Metropolitana de Santiago;13102;Cerrillos;Urbana;D;Hombre;9022
+13;Metropolitana de Santiago;13102;Cerrillos;Urbana;D;Mujer;7199
+13;Metropolitana de Santiago;13103;Cerro Navia;Urbana;A;Hombre;11269
+13;Metropolitana de Santiago;13103;Cerro Navia;Urbana;A;Indeterminado;16
+13;Metropolitana de Santiago;13103;Cerro Navia;Urbana;A;Mujer;15607
+13;Metropolitana de Santiago;13103;Cerro Navia;Urbana;B;Hombre;21695
+13;Metropolitana de Santiago;13103;Cerro Navia;Urbana;B;Mujer;27083
+13;Metropolitana de Santiago;13103;Cerro Navia;Urbana;C;Hombre;11613
+13;Metropolitana de Santiago;13103;Cerro Navia;Urbana;C;Indeterminado;1
+13;Metropolitana de Santiago;13103;Cerro Navia;Urbana;C;Mujer;10170
+13;Metropolitana de Santiago;13103;Cerro Navia;Urbana;D;Hombre;17023
+13;Metropolitana de Santiago;13103;Cerro Navia;Urbana;D;Mujer;12376
+13;Metropolitana de Santiago;13104;Conchalí;Urbana;A;Hombre;8940
+13;Metropolitana de Santiago;13104;Conchalí;Urbana;A;Indeterminado;8
+13;Metropolitana de Santiago;13104;Conchalí;Urbana;A;Mujer;12312
+13;Metropolitana de Santiago;13104;Conchalí;Urbana;B;Hombre;20595
+13;Metropolitana de Santiago;13104;Conchalí;Urbana;B;Mujer;28248
+13;Metropolitana de Santiago;13104;Conchalí;Urbana;C;Hombre;11346
+13;Metropolitana de Santiago;13104;Conchalí;Urbana;C;Indeterminado;4
+13;Metropolitana de Santiago;13104;Conchalí;Urbana;C;Mujer;10406
+13;Metropolitana de Santiago;13104;Conchalí;Urbana;D;Hombre;17551
+13;Metropolitana de Santiago;13104;Conchalí;Urbana;D;Indeterminado;4
+13;Metropolitana de Santiago;13104;Conchalí;Urbana;D;Mujer;14169
+13;Metropolitana de Santiago;13105;El Bosque;Urbana;A;Hombre;15902
+13;Metropolitana de Santiago;13105;El Bosque;Urbana;A;Indeterminado;11
+13;Metropolitana de Santiago;13105;El Bosque;Urbana;A;Mujer;20901
+13;Metropolitana de Santiago;13105;El Bosque;Urbana;B;Hombre;30109
+13;Metropolitana de Santiago;13105;El Bosque;Urbana;B;Indeterminado;2
+13;Metropolitana de Santiago;13105;El Bosque;Urbana;B;Mujer;39177
+13;Metropolitana de Santiago;13105;El Bosque;Urbana;C;Hombre;15657
+13;Metropolitana de Santiago;13105;El Bosque;Urbana;C;Indeterminado;1
+13;Metropolitana de Santiago;13105;El Bosque;Urbana;C;Mujer;13901
+13;Metropolitana de Santiago;13105;El Bosque;Urbana;D;Hombre;22936
+13;Metropolitana de Santiago;13105;El Bosque;Urbana;D;Indeterminado;1
+13;Metropolitana de Santiago;13105;El Bosque;Urbana;D;Mujer;17147
+13;Metropolitana de Santiago;13106;Estación Central;Urbana;A;Hombre;10139
+13;Metropolitana de Santiago;13106;Estación Central;Urbana;A;Indeterminado;18
+13;Metropolitana de Santiago;13106;Estación Central;Urbana;A;Mujer;15988
+13;Metropolitana de Santiago;13106;Estación Central;Urbana;B;Hombre;19104
+13;Metropolitana de Santiago;13106;Estación Central;Urbana;B;Indeterminado;6
+13;Metropolitana de Santiago;13106;Estación Central;Urbana;B;Mujer;23562
+13;Metropolitana de Santiago;13106;Estación Central;Urbana;C;Hombre;12209
+13;Metropolitana de Santiago;13106;Estación Central;Urbana;C;Indeterminado;7
+13;Metropolitana de Santiago;13106;Estación Central;Urbana;C;Mujer;11358
+13;Metropolitana de Santiago;13106;Estación Central;Urbana;D;Hombre;18504
+13;Metropolitana de Santiago;13106;Estación Central;Urbana;D;Indeterminado;7
+13;Metropolitana de Santiago;13106;Estación Central;Urbana;D;Mujer;14433
+13;Metropolitana de Santiago;13107;Huechuraba;Urbana;A;Hombre;6306
+13;Metropolitana de Santiago;13107;Huechuraba;Urbana;A;Indeterminado;2
+13;Metropolitana de Santiago;13107;Huechuraba;Urbana;A;Mujer;8193
+13;Metropolitana de Santiago;13107;Huechuraba;Urbana;B;Hombre;12319
+13;Metropolitana de Santiago;13107;Huechuraba;Urbana;B;Mujer;16897
+13;Metropolitana de Santiago;13107;Huechuraba;Urbana;C;Hombre;6597
+13;Metropolitana de Santiago;13107;Huechuraba;Urbana;C;Mujer;6268
+13;Metropolitana de Santiago;13107;Huechuraba;Urbana;D;Hombre;10209
+13;Metropolitana de Santiago;13107;Huechuraba;Urbana;D;Mujer;8249
+13;Metropolitana de Santiago;13108;Independencia;Urbana;A;Hombre;10372
+13;Metropolitana de Santiago;13108;Independencia;Urbana;A;Indeterminado;23
+13;Metropolitana de Santiago;13108;Independencia;Urbana;A;Mujer;16122
+13;Metropolitana de Santiago;13108;Independencia;Urbana;B;Hombre;15792
+13;Metropolitana de Santiago;13108;Independencia;Urbana;B;Indeterminado;2
+13;Metropolitana de Santiago;13108;Independencia;Urbana;B;Mujer;21358
+13;Metropolitana de Santiago;13108;Independencia;Urbana;C;Hombre;9611
+13;Metropolitana de Santiago;13108;Independencia;Urbana;C;Indeterminado;2
+13;Metropolitana de Santiago;13108;Independencia;Urbana;C;Mujer;10130
+13;Metropolitana de Santiago;13108;Independencia;Urbana;D;Hombre;14557
+13;Metropolitana de Santiago;13108;Independencia;Urbana;D;Indeterminado;4
+13;Metropolitana de Santiago;13108;Independencia;Urbana;D;Mujer;12424
+13;Metropolitana de Santiago;13109;La Cisterna;Urbana;A;Hombre;6385
+13;Metropolitana de Santiago;13109;La Cisterna;Urbana;A;Indeterminado;8
+13;Metropolitana de Santiago;13109;La Cisterna;Urbana;A;Mujer;8673
+13;Metropolitana de Santiago;13109;La Cisterna;Urbana;B;Hombre;12923
+13;Metropolitana de Santiago;13109;La Cisterna;Urbana;B;Indeterminado;1
+13;Metropolitana de Santiago;13109;La Cisterna;Urbana;B;Mujer;18155
+13;Metropolitana de Santiago;13109;La Cisterna;Urbana;C;Hombre;6867
+13;Metropolitana de Santiago;13109;La Cisterna;Urbana;C;Mujer;6865
+13;Metropolitana de Santiago;13109;La Cisterna;Urbana;D;Hombre;10906
+13;Metropolitana de Santiago;13109;La Cisterna;Urbana;D;Indeterminado;1
+13;Metropolitana de Santiago;13109;La Cisterna;Urbana;D;Mujer;9675
+13;Metropolitana de Santiago;13110;La Florida;Urbana;A;Hombre;23691
+13;Metropolitana de Santiago;13110;La Florida;Urbana;A;Indeterminado;7
+13;Metropolitana de Santiago;13110;La Florida;Urbana;A;Mujer;32453
+13;Metropolitana de Santiago;13110;La Florida;Urbana;B;Hombre;58015
+13;Metropolitana de Santiago;13110;La Florida;Urbana;B;Mujer;84482
+13;Metropolitana de Santiago;13110;La Florida;Urbana;C;Hombre;30657
+13;Metropolitana de Santiago;13110;La Florida;Urbana;C;Indeterminado;1
+13;Metropolitana de Santiago;13110;La Florida;Urbana;C;Mujer;29365
+13;Metropolitana de Santiago;13110;La Florida;Urbana;D;Hombre;50430
+13;Metropolitana de Santiago;13110;La Florida;Urbana;D;Indeterminado;2
+13;Metropolitana de Santiago;13110;La Florida;Urbana;D;Mujer;43872
+13;Metropolitana de Santiago;13111;La Granja;Urbana;A;Hombre;12547
+13;Metropolitana de Santiago;13111;La Granja;Urbana;A;Indeterminado;14
+13;Metropolitana de Santiago;13111;La Granja;Urbana;A;Mujer;15719
+13;Metropolitana de Santiago;13111;La Granja;Urbana;B;Hombre;24026
+13;Metropolitana de Santiago;13111;La Granja;Urbana;B;Indeterminado;1
+13;Metropolitana de Santiago;13111;La Granja;Urbana;B;Mujer;29663
+13;Metropolitana de Santiago;13111;La Granja;Urbana;C;Hombre;12631
+13;Metropolitana de Santiago;13111;La Granja;Urbana;C;Indeterminado;1
+13;Metropolitana de Santiago;13111;La Granja;Urbana;C;Mujer;10657
+13;Metropolitana de Santiago;13111;La Granja;Urbana;D;Hombre;19315
+13;Metropolitana de Santiago;13111;La Granja;Urbana;D;Mujer;14057
+13;Metropolitana de Santiago;13112;La Pintana;Urbana;A;Hombre;17833
+13;Metropolitana de Santiago;13112;La Pintana;Urbana;A;Indeterminado;10
+13;Metropolitana de Santiago;13112;La Pintana;Urbana;A;Mujer;23833
+13;Metropolitana de Santiago;13112;La Pintana;Urbana;B;Hombre;26624
+13;Metropolitana de Santiago;13112;La Pintana;Urbana;B;Mujer;33105
+13;Metropolitana de Santiago;13112;La Pintana;Urbana;C;Hombre;13901
+13;Metropolitana de Santiago;13112;La Pintana;Urbana;C;Mujer;11979
+13;Metropolitana de Santiago;13112;La Pintana;Urbana;D;Hombre;19845
+13;Metropolitana de Santiago;13112;La Pintana;Urbana;D;Mujer;13608
+13;Metropolitana de Santiago;13113;La Reina;Urbana;A;Hombre;1951
+13;Metropolitana de Santiago;13113;La Reina;Urbana;A;Mujer;2371
+13;Metropolitana de Santiago;13113;La Reina;Urbana;B;Hombre;7906
+13;Metropolitana de Santiago;13113;La Reina;Urbana;B;Indeterminado;2
+13;Metropolitana de Santiago;13113;La Reina;Urbana;B;Mujer;12899
+13;Metropolitana de Santiago;13113;La Reina;Urbana;C;Hombre;3525
+13;Metropolitana de Santiago;13113;La Reina;Urbana;C;Mujer;4291
+13;Metropolitana de Santiago;13113;La Reina;Urbana;D;Hombre;6240
+13;Metropolitana de Santiago;13113;La Reina;Urbana;D;Indeterminado;2
+13;Metropolitana de Santiago;13113;La Reina;Urbana;D;Mujer;6702
+13;Metropolitana de Santiago;13114;Las Condes;Urbana;A;Hombre;3920
+13;Metropolitana de Santiago;13114;Las Condes;Urbana;A;Indeterminado;1
+13;Metropolitana de Santiago;13114;Las Condes;Urbana;A;Mujer;4768
+13;Metropolitana de Santiago;13114;Las Condes;Urbana;B;Hombre;15136
+13;Metropolitana de Santiago;13114;Las Condes;Urbana;B;Mujer;28004
+13;Metropolitana de Santiago;13114;Las Condes;Urbana;C;Hombre;6545
+13;Metropolitana de Santiago;13114;Las Condes;Urbana;C;Indeterminado;1
+13;Metropolitana de Santiago;13114;Las Condes;Urbana;C;Mujer;9456
+13;Metropolitana de Santiago;13114;Las Condes;Urbana;D;Hombre;12560
+13;Metropolitana de Santiago;13114;Las Condes;Urbana;D;Indeterminado;2
+13;Metropolitana de Santiago;13114;Las Condes;Urbana;D;Mujer;15621
+13;Metropolitana de Santiago;13115;Lo Barnechea;Urbana;A;Hombre;2294
+13;Metropolitana de Santiago;13115;Lo Barnechea;Urbana;A;Indeterminado;3
+13;Metropolitana de Santiago;13115;Lo Barnechea;Urbana;A;Mujer;2859
+13;Metropolitana de Santiago;13115;Lo Barnechea;Urbana;B;Hombre;6901
+13;Metropolitana de Santiago;13115;Lo Barnechea;Urbana;B;Mujer;11254
+13;Metropolitana de Santiago;13115;Lo Barnechea;Urbana;C;Hombre;3364
+13;Metropolitana de Santiago;13115;Lo Barnechea;Urbana;C;Mujer;5147
+13;Metropolitana de Santiago;13115;Lo Barnechea;Urbana;D;Hombre;5204
+13;Metropolitana de Santiago;13115;Lo Barnechea;Urbana;D;Mujer;6519
+13;Metropolitana de Santiago;13116;Lo Espejo;Urbana;A;Hombre;9478
+13;Metropolitana de Santiago;13116;Lo Espejo;Urbana;A;Indeterminado;1
+13;Metropolitana de Santiago;13116;Lo Espejo;Urbana;A;Mujer;12148
+13;Metropolitana de Santiago;13116;Lo Espejo;Urbana;B;Hombre;16260
+13;Metropolitana de Santiago;13116;Lo Espejo;Urbana;B;Indeterminado;1
+13;Metropolitana de Santiago;13116;Lo Espejo;Urbana;B;Mujer;20833
+13;Metropolitana de Santiago;13116;Lo Espejo;Urbana;C;Hombre;8761
+13;Metropolitana de Santiago;13116;Lo Espejo;Urbana;C;Mujer;7458
+13;Metropolitana de Santiago;13116;Lo Espejo;Urbana;D;Hombre;12515
+13;Metropolitana de Santiago;13116;Lo Espejo;Urbana;D;Mujer;8970
+13;Metropolitana de Santiago;13117;Lo Prado;Urbana;A;Hombre;10099
+13;Metropolitana de Santiago;13117;Lo Prado;Urbana;A;Indeterminado;4
+13;Metropolitana de Santiago;13117;Lo Prado;Urbana;A;Mujer;13541
+13;Metropolitana de Santiago;13117;Lo Prado;Urbana;B;Hombre;20380
+13;Metropolitana de Santiago;13117;Lo Prado;Urbana;B;Indeterminado;1
+13;Metropolitana de Santiago;13117;Lo Prado;Urbana;B;Mujer;28247
+13;Metropolitana de Santiago;13117;Lo Prado;Urbana;C;Hombre;10731
+13;Metropolitana de Santiago;13117;Lo Prado;Urbana;C;Indeterminado;1
+13;Metropolitana de Santiago;13117;Lo Prado;Urbana;C;Mujer;10250
+13;Metropolitana de Santiago;13117;Lo Prado;Urbana;D;Hombre;16849
+13;Metropolitana de Santiago;13117;Lo Prado;Urbana;D;Mujer;13571
+13;Metropolitana de Santiago;13118;Macul;Urbana;A;Hombre;9922
+13;Metropolitana de Santiago;13118;Macul;Urbana;A;Indeterminado;4
+13;Metropolitana de Santiago;13118;Macul;Urbana;A;Mujer;12222
+13;Metropolitana de Santiago;13118;Macul;Urbana;B;Hombre;19996
+13;Metropolitana de Santiago;13118;Macul;Urbana;B;Indeterminado;5
+13;Metropolitana de Santiago;13118;Macul;Urbana;B;Mujer;28339
+13;Metropolitana de Santiago;13118;Macul;Urbana;C;Hombre;10353
+13;Metropolitana de Santiago;13118;Macul;Urbana;C;Indeterminado;4
+13;Metropolitana de Santiago;13118;Macul;Urbana;C;Mujer;9898
+13;Metropolitana de Santiago;13118;Macul;Urbana;D;Hombre;18022
+13;Metropolitana de Santiago;13118;Macul;Urbana;D;Mujer;16387
+13;Metropolitana de Santiago;13119;Maipú;Urbana;A;Hombre;17685
+13;Metropolitana de Santiago;13119;Maipú;Urbana;A;Indeterminado;3
+13;Metropolitana de Santiago;13119;Maipú;Urbana;A;Mujer;25649
+13;Metropolitana de Santiago;13119;Maipú;Urbana;B;Hombre;56382
+13;Metropolitana de Santiago;13119;Maipú;Urbana;B;Indeterminado;4
+13;Metropolitana de Santiago;13119;Maipú;Urbana;B;Mujer;83649
+13;Metropolitana de Santiago;13119;Maipú;Urbana;C;Hombre;31714
+13;Metropolitana de Santiago;13119;Maipú;Urbana;C;Indeterminado;3
+13;Metropolitana de Santiago;13119;Maipú;Urbana;C;Mujer;31900
+13;Metropolitana de Santiago;13119;Maipú;Urbana;D;Hombre;56588
+13;Metropolitana de Santiago;13119;Maipú;Urbana;D;Indeterminado;2
+13;Metropolitana de Santiago;13119;Maipú;Urbana;D;Mujer;50509
+13;Metropolitana de Santiago;13120;Ñuñoa;Urbana;A;Hombre;4665
+13;Metropolitana de Santiago;13120;Ñuñoa;Urbana;A;Indeterminado;3
+13;Metropolitana de Santiago;13120;Ñuñoa;Urbana;A;Mujer;6327
+13;Metropolitana de Santiago;13120;Ñuñoa;Urbana;B;Hombre;17828
+13;Metropolitana de Santiago;13120;Ñuñoa;Urbana;B;Mujer;29019
+13;Metropolitana de Santiago;13120;Ñuñoa;Urbana;C;Hombre;8127
+13;Metropolitana de Santiago;13120;Ñuñoa;Urbana;C;Mujer;9168
+13;Metropolitana de Santiago;13120;Ñuñoa;Urbana;D;Hombre;16189
+13;Metropolitana de Santiago;13120;Ñuñoa;Urbana;D;Indeterminado;2
+13;Metropolitana de Santiago;13120;Ñuñoa;Urbana;D;Mujer;18087
+13;Metropolitana de Santiago;13121;Pedro Aguirre Cerda;Urbana;A;Hombre;9459
+13;Metropolitana de Santiago;13121;Pedro Aguirre Cerda;Urbana;A;Indeterminado;3
+13;Metropolitana de Santiago;13121;Pedro Aguirre Cerda;Urbana;A;Mujer;12071
+13;Metropolitana de Santiago;13121;Pedro Aguirre Cerda;Urbana;B;Hombre;19257
+13;Metropolitana de Santiago;13121;Pedro Aguirre Cerda;Urbana;B;Mujer;24947
+13;Metropolitana de Santiago;13121;Pedro Aguirre Cerda;Urbana;C;Hombre;9525
+13;Metropolitana de Santiago;13121;Pedro Aguirre Cerda;Urbana;C;Indeterminado;1
+13;Metropolitana de Santiago;13121;Pedro Aguirre Cerda;Urbana;C;Mujer;8343
+13;Metropolitana de Santiago;13121;Pedro Aguirre Cerda;Urbana;D;Hombre;14467
+13;Metropolitana de Santiago;13121;Pedro Aguirre Cerda;Urbana;D;Mujer;11139
+13;Metropolitana de Santiago;13122;Peñalolén;Urbana;A;Hombre;17932
+13;Metropolitana de Santiago;13122;Peñalolén;Urbana;A;Indeterminado;3
+13;Metropolitana de Santiago;13122;Peñalolén;Urbana;A;Mujer;22226
+13;Metropolitana de Santiago;13122;Peñalolén;Urbana;B;Hombre;35281
+13;Metropolitana de Santiago;13122;Peñalolén;Urbana;B;Indeterminado;2
+13;Metropolitana de Santiago;13122;Peñalolén;Urbana;B;Mujer;48359
+13;Metropolitana de Santiago;13122;Peñalolén;Urbana;C;Hombre;17864
+13;Metropolitana de Santiago;13122;Peñalolén;Urbana;C;Mujer;16889
+13;Metropolitana de Santiago;13122;Peñalolén;Urbana;D;Hombre;27369
+13;Metropolitana de Santiago;13122;Peñalolén;Urbana;D;Mujer;22107
+13;Metropolitana de Santiago;13123;Providencia;Urbana;A;Hombre;2749
+13;Metropolitana de Santiago;13123;Providencia;Urbana;A;Indeterminado;1
+13;Metropolitana de Santiago;13123;Providencia;Urbana;A;Mujer;3400
+13;Metropolitana de Santiago;13123;Providencia;Urbana;B;Hombre;12688
+13;Metropolitana de Santiago;13123;Providencia;Urbana;B;Indeterminado;1
+13;Metropolitana de Santiago;13123;Providencia;Urbana;B;Mujer;22714
+13;Metropolitana de Santiago;13123;Providencia;Urbana;C;Hombre;5373
+13;Metropolitana de Santiago;13123;Providencia;Urbana;C;Indeterminado;3
+13;Metropolitana de Santiago;13123;Providencia;Urbana;C;Mujer;7032
+13;Metropolitana de Santiago;13123;Providencia;Urbana;D;Hombre;11360
+13;Metropolitana de Santiago;13123;Providencia;Urbana;D;Indeterminado;1
+13;Metropolitana de Santiago;13123;Providencia;Urbana;D;Mujer;13816
+13;Metropolitana de Santiago;13124;Pudahuel;Urbana;A;Hombre;15753
+13;Metropolitana de Santiago;13124;Pudahuel;Urbana;A;Indeterminado;7
+13;Metropolitana de Santiago;13124;Pudahuel;Urbana;A;Mujer;21167
+13;Metropolitana de Santiago;13124;Pudahuel;Urbana;B;Hombre;33000
+13;Metropolitana de Santiago;13124;Pudahuel;Urbana;B;Mujer;44983
+13;Metropolitana de Santiago;13124;Pudahuel;Urbana;C;Hombre;18657
+13;Metropolitana de Santiago;13124;Pudahuel;Urbana;C;Indeterminado;2
+13;Metropolitana de Santiago;13124;Pudahuel;Urbana;C;Mujer;17141
+13;Metropolitana de Santiago;13124;Pudahuel;Urbana;D;Hombre;31474
+13;Metropolitana de Santiago;13124;Pudahuel;Urbana;D;Indeterminado;1
+13;Metropolitana de Santiago;13124;Pudahuel;Urbana;D;Mujer;25587
+13;Metropolitana de Santiago;13125;Quilicura;Urbana;A;Hombre;10486
+13;Metropolitana de Santiago;13125;Quilicura;Urbana;A;Indeterminado;9
+13;Metropolitana de Santiago;13125;Quilicura;Urbana;A;Mujer;16625
+13;Metropolitana de Santiago;13125;Quilicura;Urbana;B;Hombre;25636
+13;Metropolitana de Santiago;13125;Quilicura;Urbana;B;Mujer;34996
+13;Metropolitana de Santiago;13125;Quilicura;Urbana;C;Hombre;16513
+13;Metropolitana de Santiago;13125;Quilicura;Urbana;C;Indeterminado;1
+13;Metropolitana de Santiago;13125;Quilicura;Urbana;C;Mujer;16628
+13;Metropolitana de Santiago;13125;Quilicura;Urbana;D;Hombre;30169
+13;Metropolitana de Santiago;13125;Quilicura;Urbana;D;Indeterminado;2
+13;Metropolitana de Santiago;13125;Quilicura;Urbana;D;Mujer;24753
+13;Metropolitana de Santiago;13126;Quinta Normal;Urbana;A;Hombre;9314
+13;Metropolitana de Santiago;13126;Quinta Normal;Urbana;A;Indeterminado;20
+13;Metropolitana de Santiago;13126;Quinta Normal;Urbana;A;Mujer;12874
+13;Metropolitana de Santiago;13126;Quinta Normal;Urbana;B;Hombre;17510
+13;Metropolitana de Santiago;13126;Quinta Normal;Urbana;B;Mujer;22849
+13;Metropolitana de Santiago;13126;Quinta Normal;Urbana;C;Hombre;10191
+13;Metropolitana de Santiago;13126;Quinta Normal;Urbana;C;Indeterminado;4
+13;Metropolitana de Santiago;13126;Quinta Normal;Urbana;C;Mujer;9418
+13;Metropolitana de Santiago;13126;Quinta Normal;Urbana;D;Hombre;15697
+13;Metropolitana de Santiago;13126;Quinta Normal;Urbana;D;Mujer;12484
+13;Metropolitana de Santiago;13127;Recoleta;Urbana;A;Hombre;13226
+13;Metropolitana de Santiago;13127;Recoleta;Urbana;A;Indeterminado;10
+13;Metropolitana de Santiago;13127;Recoleta;Urbana;A;Mujer;18592
+13;Metropolitana de Santiago;13127;Recoleta;Urbana;B;Hombre;24362
+13;Metropolitana de Santiago;13127;Recoleta;Urbana;B;Indeterminado;2
+13;Metropolitana de Santiago;13127;Recoleta;Urbana;B;Mujer;31225
+13;Metropolitana de Santiago;13127;Recoleta;Urbana;C;Hombre;13199
+13;Metropolitana de Santiago;13127;Recoleta;Urbana;C;Indeterminado;1
+13;Metropolitana de Santiago;13127;Recoleta;Urbana;C;Mujer;12416
+13;Metropolitana de Santiago;13127;Recoleta;Urbana;D;Hombre;18536
+13;Metropolitana de Santiago;13127;Recoleta;Urbana;D;Mujer;14369
+13;Metropolitana de Santiago;13128;Renca;Urbana;A;Hombre;12510
+13;Metropolitana de Santiago;13128;Renca;Urbana;A;Indeterminado;11
+13;Metropolitana de Santiago;13128;Renca;Urbana;A;Mujer;16489
+13;Metropolitana de Santiago;13128;Renca;Urbana;B;Hombre;21592
+13;Metropolitana de Santiago;13128;Renca;Urbana;B;Mujer;29047
+13;Metropolitana de Santiago;13128;Renca;Urbana;C;Hombre;12508
+13;Metropolitana de Santiago;13128;Renca;Urbana;C;Mujer;11651
+13;Metropolitana de Santiago;13128;Renca;Urbana;D;Hombre;20078
+13;Metropolitana de Santiago;13128;Renca;Urbana;D;Mujer;15472
+13;Metropolitana de Santiago;13129;San Joaquín;Urbana;A;Hombre;8072
+13;Metropolitana de Santiago;13129;San Joaquín;Urbana;A;Indeterminado;5
+13;Metropolitana de Santiago;13129;San Joaquín;Urbana;A;Mujer;10637
+13;Metropolitana de Santiago;13129;San Joaquín;Urbana;B;Hombre;16478
+13;Metropolitana de Santiago;13129;San Joaquín;Urbana;B;Indeterminado;2
+13;Metropolitana de Santiago;13129;San Joaquín;Urbana;B;Mujer;21535
+13;Metropolitana de Santiago;13129;San Joaquín;Urbana;C;Hombre;8386
+13;Metropolitana de Santiago;13129;San Joaquín;Urbana;C;Indeterminado;1
+13;Metropolitana de Santiago;13129;San Joaquín;Urbana;C;Mujer;7484
+13;Metropolitana de Santiago;13129;San Joaquín;Urbana;D;Hombre;12611
+13;Metropolitana de Santiago;13129;San Joaquín;Urbana;D;Mujer;10114
+13;Metropolitana de Santiago;13130;San Miguel;Urbana;A;Hombre;7128
+13;Metropolitana de Santiago;13130;San Miguel;Urbana;A;Indeterminado;3
+13;Metropolitana de Santiago;13130;San Miguel;Urbana;A;Mujer;10437
+13;Metropolitana de Santiago;13130;San Miguel;Urbana;B;Hombre;16355
+13;Metropolitana de Santiago;13130;San Miguel;Urbana;B;Indeterminado;1
+13;Metropolitana de Santiago;13130;San Miguel;Urbana;B;Mujer;23706
+13;Metropolitana de Santiago;13130;San Miguel;Urbana;C;Hombre;8731
+13;Metropolitana de Santiago;13130;San Miguel;Urbana;C;Indeterminado;1
+13;Metropolitana de Santiago;13130;San Miguel;Urbana;C;Mujer;9389
+13;Metropolitana de Santiago;13130;San Miguel;Urbana;D;Hombre;15902
+13;Metropolitana de Santiago;13130;San Miguel;Urbana;D;Indeterminado;2
+13;Metropolitana de Santiago;13130;San Miguel;Urbana;D;Mujer;15238
+13;Metropolitana de Santiago;13131;San Ramón;Urbana;A;Hombre;8472
+13;Metropolitana de Santiago;13131;San Ramón;Urbana;A;Indeterminado;1
+13;Metropolitana de Santiago;13131;San Ramón;Urbana;A;Mujer;10565
+13;Metropolitana de Santiago;13131;San Ramón;Urbana;B;Hombre;14157
+13;Metropolitana de Santiago;13131;San Ramón;Urbana;B;Indeterminado;2
+13;Metropolitana de Santiago;13131;San Ramón;Urbana;B;Mujer;18002
+13;Metropolitana de Santiago;13131;San Ramón;Urbana;C;Hombre;7029
+13;Metropolitana de Santiago;13131;San Ramón;Urbana;C;Mujer;5965
+13;Metropolitana de Santiago;13131;San Ramón;Urbana;D;Hombre;10373
+13;Metropolitana de Santiago;13131;San Ramón;Urbana;D;Mujer;7397
+13;Metropolitana de Santiago;13132;Vitacura;Urbana;A;Hombre;579
+13;Metropolitana de Santiago;13132;Vitacura;Urbana;A;Mujer;699
+13;Metropolitana de Santiago;13132;Vitacura;Urbana;B;Hombre;2765
+13;Metropolitana de Santiago;13132;Vitacura;Urbana;B;Indeterminado;1
+13;Metropolitana de Santiago;13132;Vitacura;Urbana;B;Mujer;6781
+13;Metropolitana de Santiago;13132;Vitacura;Urbana;C;Hombre;1096
+13;Metropolitana de Santiago;13132;Vitacura;Urbana;C;Mujer;2773
+13;Metropolitana de Santiago;13132;Vitacura;Urbana;D;Hombre;2232
+13;Metropolitana de Santiago;13132;Vitacura;Urbana;D;Mujer;3896
+13;Metropolitana de Santiago;13201;Puente Alto;Urbana;A;Hombre;29157
+13;Metropolitana de Santiago;13201;Puente Alto;Urbana;A;Indeterminado;8
+13;Metropolitana de Santiago;13201;Puente Alto;Urbana;A;Mujer;40699
+13;Metropolitana de Santiago;13201;Puente Alto;Urbana;B;Hombre;70899
+13;Metropolitana de Santiago;13201;Puente Alto;Urbana;B;Mujer;99624
+13;Metropolitana de Santiago;13201;Puente Alto;Urbana;C;Hombre;39630
+13;Metropolitana de Santiago;13201;Puente Alto;Urbana;C;Indeterminado;1
+13;Metropolitana de Santiago;13201;Puente Alto;Urbana;C;Mujer;37624
+13;Metropolitana de Santiago;13201;Puente Alto;Urbana;D;Hombre;63125
+13;Metropolitana de Santiago;13201;Puente Alto;Urbana;D;Indeterminado;1
+13;Metropolitana de Santiago;13201;Puente Alto;Urbana;D;Mujer;52505
+13;Metropolitana de Santiago;13202;Pirque;Rural;A;Hombre;1671
+13;Metropolitana de Santiago;13202;Pirque;Rural;A;Mujer;2203
+13;Metropolitana de Santiago;13202;Pirque;Rural;B;Hombre;4852
+13;Metropolitana de Santiago;13202;Pirque;Rural;B;Mujer;5767
+13;Metropolitana de Santiago;13202;Pirque;Rural;C;Hombre;2425
+13;Metropolitana de Santiago;13202;Pirque;Rural;C;Mujer;2000
+13;Metropolitana de Santiago;13202;Pirque;Rural;D;Hombre;3490
+13;Metropolitana de Santiago;13202;Pirque;Rural;D;Indeterminado;1
+13;Metropolitana de Santiago;13202;Pirque;Rural;D;Mujer;2802
+13;Metropolitana de Santiago;13203;San José de Maipo;Rural;A;Hombre;855
+13;Metropolitana de Santiago;13203;San José de Maipo;Rural;A;Mujer;1140
+13;Metropolitana de Santiago;13203;San José de Maipo;Rural;B;Hombre;2127
+13;Metropolitana de Santiago;13203;San José de Maipo;Rural;B;Mujer;2780
+13;Metropolitana de Santiago;13203;San José de Maipo;Rural;C;Hombre;1010
+13;Metropolitana de Santiago;13203;San José de Maipo;Rural;C;Mujer;854
+13;Metropolitana de Santiago;13203;San José de Maipo;Rural;D;Hombre;1674
+13;Metropolitana de Santiago;13203;San José de Maipo;Rural;D;Mujer;1275
+13;Metropolitana de Santiago;13301;Colina;Urbana;A;Hombre;11924
+13;Metropolitana de Santiago;13301;Colina;Urbana;A;Indeterminado;10
+13;Metropolitana de Santiago;13301;Colina;Urbana;A;Mujer;13352
+13;Metropolitana de Santiago;13301;Colina;Urbana;B;Hombre;19414
+13;Metropolitana de Santiago;13301;Colina;Urbana;B;Indeterminado;2
+13;Metropolitana de Santiago;13301;Colina;Urbana;B;Mujer;23067
+13;Metropolitana de Santiago;13301;Colina;Urbana;C;Hombre;10235
+13;Metropolitana de Santiago;13301;Colina;Urbana;C;Indeterminado;8
+13;Metropolitana de Santiago;13301;Colina;Urbana;C;Mujer;9408
+13;Metropolitana de Santiago;13301;Colina;Urbana;D;Hombre;15912
+13;Metropolitana de Santiago;13301;Colina;Urbana;D;Indeterminado;8
+13;Metropolitana de Santiago;13301;Colina;Urbana;D;Mujer;11543
+13;Metropolitana de Santiago;13302;Lampa;Urbana;A;Hombre;9415
+13;Metropolitana de Santiago;13302;Lampa;Urbana;A;Indeterminado;3
+13;Metropolitana de Santiago;13302;Lampa;Urbana;A;Mujer;13355
+13;Metropolitana de Santiago;13302;Lampa;Urbana;B;Hombre;12992
+13;Metropolitana de Santiago;13302;Lampa;Urbana;B;Mujer;15390
+13;Metropolitana de Santiago;13302;Lampa;Urbana;C;Hombre;7532
+13;Metropolitana de Santiago;13302;Lampa;Urbana;C;Indeterminado;1
+13;Metropolitana de Santiago;13302;Lampa;Urbana;C;Mujer;6721
+13;Metropolitana de Santiago;13302;Lampa;Urbana;D;Hombre;11460
+13;Metropolitana de Santiago;13302;Lampa;Urbana;D;Indeterminado;1
+13;Metropolitana de Santiago;13302;Lampa;Urbana;D;Mujer;8097
+13;Metropolitana de Santiago;13303;Tiltil;Rural;A;Hombre;1344
+13;Metropolitana de Santiago;13303;Tiltil;Rural;A;Mujer;1703
+13;Metropolitana de Santiago;13303;Tiltil;Rural;B;Hombre;2636
+13;Metropolitana de Santiago;13303;Tiltil;Rural;B;Mujer;3283
+13;Metropolitana de Santiago;13303;Tiltil;Rural;C;Hombre;1504
+13;Metropolitana de Santiago;13303;Tiltil;Rural;C;Mujer;1306
+13;Metropolitana de Santiago;13303;Tiltil;Rural;D;Hombre;2681
+13;Metropolitana de Santiago;13303;Tiltil;Rural;D;Mujer;1853
+13;Metropolitana de Santiago;13401;San Bernardo;Urbana;A;Hombre;20727
+13;Metropolitana de Santiago;13401;San Bernardo;Urbana;A;Indeterminado;7
+13;Metropolitana de Santiago;13401;San Bernardo;Urbana;A;Mujer;28874
+13;Metropolitana de Santiago;13401;San Bernardo;Urbana;B;Hombre;42295
+13;Metropolitana de Santiago;13401;San Bernardo;Urbana;B;Indeterminado;1
+13;Metropolitana de Santiago;13401;San Bernardo;Urbana;B;Mujer;57141
+13;Metropolitana de Santiago;13401;San Bernardo;Urbana;C;Hombre;23835
+13;Metropolitana de Santiago;13401;San Bernardo;Urbana;C;Indeterminado;3
+13;Metropolitana de Santiago;13401;San Bernardo;Urbana;C;Mujer;21434
+13;Metropolitana de Santiago;13401;San Bernardo;Urbana;D;Hombre;35996
+13;Metropolitana de Santiago;13401;San Bernardo;Urbana;D;Indeterminado;4
+13;Metropolitana de Santiago;13401;San Bernardo;Urbana;D;Mujer;27894
+13;Metropolitana de Santiago;13402;Buin;Urbana;A;Hombre;6581
+13;Metropolitana de Santiago;13402;Buin;Urbana;A;Mujer;8484
+13;Metropolitana de Santiago;13402;Buin;Urbana;B;Hombre;17895
+13;Metropolitana de Santiago;13402;Buin;Urbana;B;Mujer;23223
+13;Metropolitana de Santiago;13402;Buin;Urbana;C;Hombre;8421
+13;Metropolitana de Santiago;13402;Buin;Urbana;C;Indeterminado;3
+13;Metropolitana de Santiago;13402;Buin;Urbana;C;Mujer;7797
+13;Metropolitana de Santiago;13402;Buin;Urbana;D;Hombre;13660
+13;Metropolitana de Santiago;13402;Buin;Urbana;D;Mujer;10718
+13;Metropolitana de Santiago;13403;Calera de Tango;Mixta;A;Hombre;1157
+13;Metropolitana de Santiago;13403;Calera de Tango;Mixta;A;Indeterminado;1
+13;Metropolitana de Santiago;13403;Calera de Tango;Mixta;A;Mujer;1552
+13;Metropolitana de Santiago;13403;Calera de Tango;Mixta;B;Hombre;3972
+13;Metropolitana de Santiago;13403;Calera de Tango;Mixta;B;Mujer;4910
+13;Metropolitana de Santiago;13403;Calera de Tango;Mixta;C;Hombre;2014
+13;Metropolitana de Santiago;13403;Calera de Tango;Mixta;C;Mujer;1807
+13;Metropolitana de Santiago;13403;Calera de Tango;Mixta;D;Hombre;2706
+13;Metropolitana de Santiago;13403;Calera de Tango;Mixta;D;Mujer;1942
+13;Metropolitana de Santiago;13404;Paine;Mixta;A;Hombre;5135
+13;Metropolitana de Santiago;13404;Paine;Mixta;A;Indeterminado;2
+13;Metropolitana de Santiago;13404;Paine;Mixta;A;Mujer;6803
+13;Metropolitana de Santiago;13404;Paine;Mixta;B;Hombre;14680
+13;Metropolitana de Santiago;13404;Paine;Mixta;B;Indeterminado;1
+13;Metropolitana de Santiago;13404;Paine;Mixta;B;Mujer;16915
+13;Metropolitana de Santiago;13404;Paine;Mixta;C;Hombre;6362
+13;Metropolitana de Santiago;13404;Paine;Mixta;C;Indeterminado;1
+13;Metropolitana de Santiago;13404;Paine;Mixta;C;Mujer;5626
+13;Metropolitana de Santiago;13404;Paine;Mixta;D;Hombre;9253
+13;Metropolitana de Santiago;13404;Paine;Mixta;D;Mujer;7060
+13;Metropolitana de Santiago;13501;Melipilla;Urbana;A;Hombre;9898
+13;Metropolitana de Santiago;13501;Melipilla;Urbana;A;Indeterminado;3
+13;Metropolitana de Santiago;13501;Melipilla;Urbana;A;Mujer;14231
+13;Metropolitana de Santiago;13501;Melipilla;Urbana;B;Hombre;25858
+13;Metropolitana de Santiago;13501;Melipilla;Urbana;B;Mujer;30539
+13;Metropolitana de Santiago;13501;Melipilla;Urbana;C;Hombre;10393
+13;Metropolitana de Santiago;13501;Melipilla;Urbana;C;Mujer;8641
+13;Metropolitana de Santiago;13501;Melipilla;Urbana;D;Hombre;14667
+13;Metropolitana de Santiago;13501;Melipilla;Urbana;D;Mujer;11128
+13;Metropolitana de Santiago;13502;Alhué;Rural;A;Hombre;473
+13;Metropolitana de Santiago;13502;Alhué;Rural;A;Mujer;787
+13;Metropolitana de Santiago;13502;Alhué;Rural;B;Hombre;1832
+13;Metropolitana de Santiago;13502;Alhué;Rural;B;Mujer;1969
+13;Metropolitana de Santiago;13502;Alhué;Rural;C;Hombre;683
+13;Metropolitana de Santiago;13502;Alhué;Rural;C;Mujer;603
+13;Metropolitana de Santiago;13502;Alhué;Rural;D;Hombre;1370
+13;Metropolitana de Santiago;13502;Alhué;Rural;D;Mujer;885
+13;Metropolitana de Santiago;13503;Curacaví;Mixta;A;Hombre;2193
+13;Metropolitana de Santiago;13503;Curacaví;Mixta;A;Mujer;2804
+13;Metropolitana de Santiago;13503;Curacaví;Mixta;B;Hombre;5497
+13;Metropolitana de Santiago;13503;Curacaví;Mixta;B;Mujer;6668
+13;Metropolitana de Santiago;13503;Curacaví;Mixta;C;Hombre;2122
+13;Metropolitana de Santiago;13503;Curacaví;Mixta;C;Mujer;1997
+13;Metropolitana de Santiago;13503;Curacaví;Mixta;D;Hombre;3102
+13;Metropolitana de Santiago;13503;Curacaví;Mixta;D;Mujer;2560
+13;Metropolitana de Santiago;13504;María Pinto;Rural;A;Hombre;1253
+13;Metropolitana de Santiago;13504;María Pinto;Rural;A;Indeterminado;1
+13;Metropolitana de Santiago;13504;María Pinto;Rural;A;Mujer;1647
+13;Metropolitana de Santiago;13504;María Pinto;Rural;B;Hombre;3039
+13;Metropolitana de Santiago;13504;María Pinto;Rural;B;Mujer;3833
+13;Metropolitana de Santiago;13504;María Pinto;Rural;C;Hombre;1265
+13;Metropolitana de Santiago;13504;María Pinto;Rural;C;Mujer;1200
+13;Metropolitana de Santiago;13504;María Pinto;Rural;D;Hombre;1967
+13;Metropolitana de Santiago;13504;María Pinto;Rural;D;Mujer;1378
+13;Metropolitana de Santiago;13505;San Pedro;Rural;A;Hombre;1728
+13;Metropolitana de Santiago;13505;San Pedro;Rural;A;Indeterminado;7
+13;Metropolitana de Santiago;13505;San Pedro;Rural;A;Mujer;2161
+13;Metropolitana de Santiago;13505;San Pedro;Rural;B;Hombre;2461
+13;Metropolitana de Santiago;13505;San Pedro;Rural;B;Mujer;2598
+13;Metropolitana de Santiago;13505;San Pedro;Rural;C;Hombre;838
+13;Metropolitana de Santiago;13505;San Pedro;Rural;C;Mujer;721
+13;Metropolitana de Santiago;13505;San Pedro;Rural;D;Hombre;1243
+13;Metropolitana de Santiago;13505;San Pedro;Rural;D;Mujer;908
+13;Metropolitana de Santiago;13601;Talagante;Urbana;A;Hombre;3779
+13;Metropolitana de Santiago;13601;Talagante;Urbana;A;Mujer;4958
+13;Metropolitana de Santiago;13601;Talagante;Urbana;B;Hombre;11059
+13;Metropolitana de Santiago;13601;Talagante;Urbana;B;Mujer;14946
+13;Metropolitana de Santiago;13601;Talagante;Urbana;C;Hombre;5706
+13;Metropolitana de Santiago;13601;Talagante;Urbana;C;Indeterminado;2
+13;Metropolitana de Santiago;13601;Talagante;Urbana;C;Mujer;5499
+13;Metropolitana de Santiago;13601;Talagante;Urbana;D;Hombre;9254
+13;Metropolitana de Santiago;13601;Talagante;Urbana;D;Mujer;7189
+13;Metropolitana de Santiago;13602;El Monte;Mixta;A;Hombre;2788
+13;Metropolitana de Santiago;13602;El Monte;Mixta;A;Mujer;3497
+13;Metropolitana de Santiago;13602;El Monte;Mixta;B;Hombre;6299
+13;Metropolitana de Santiago;13602;El Monte;Mixta;B;Mujer;7531
+13;Metropolitana de Santiago;13602;El Monte;Mixta;C;Hombre;3084
+13;Metropolitana de Santiago;13602;El Monte;Mixta;C;Mujer;2748
+13;Metropolitana de Santiago;13602;El Monte;Mixta;D;Hombre;4706
+13;Metropolitana de Santiago;13602;El Monte;Mixta;D;Mujer;3424
+13;Metropolitana de Santiago;13603;Isla de Maipo;Mixta;A;Hombre;2152
+13;Metropolitana de Santiago;13603;Isla de Maipo;Mixta;A;Mujer;2787
+13;Metropolitana de Santiago;13603;Isla de Maipo;Mixta;B;Hombre;7018
+13;Metropolitana de Santiago;13603;Isla de Maipo;Mixta;B;Mujer;8626
+13;Metropolitana de Santiago;13603;Isla de Maipo;Mixta;C;Hombre;3245
+13;Metropolitana de Santiago;13603;Isla de Maipo;Mixta;C;Mujer;2782
+13;Metropolitana de Santiago;13603;Isla de Maipo;Mixta;D;Hombre;4594
+13;Metropolitana de Santiago;13603;Isla de Maipo;Mixta;D;Mujer;3234
+13;Metropolitana de Santiago;13604;Padre Hurtado;Urbana;A;Hombre;4378
+13;Metropolitana de Santiago;13604;Padre Hurtado;Urbana;A;Mujer;6696
+13;Metropolitana de Santiago;13604;Padre Hurtado;Urbana;B;Hombre;9285
+13;Metropolitana de Santiago;13604;Padre Hurtado;Urbana;B;Mujer;12358
+13;Metropolitana de Santiago;13604;Padre Hurtado;Urbana;C;Hombre;5461
+13;Metropolitana de Santiago;13604;Padre Hurtado;Urbana;C;Mujer;5008
+13;Metropolitana de Santiago;13604;Padre Hurtado;Urbana;D;Hombre;8560
+13;Metropolitana de Santiago;13604;Padre Hurtado;Urbana;D;Mujer;6763
+13;Metropolitana de Santiago;13605;Peñaflor;Urbana;A;Hombre;5654
+13;Metropolitana de Santiago;13605;Peñaflor;Urbana;A;Indeterminado;2
+13;Metropolitana de Santiago;13605;Peñaflor;Urbana;A;Mujer;7618
+13;Metropolitana de Santiago;13605;Peñaflor;Urbana;B;Hombre;14264
+13;Metropolitana de Santiago;13605;Peñaflor;Urbana;B;Indeterminado;3
+13;Metropolitana de Santiago;13605;Peñaflor;Urbana;B;Mujer;19279
+13;Metropolitana de Santiago;13605;Peñaflor;Urbana;C;Hombre;7621
+13;Metropolitana de Santiago;13605;Peñaflor;Urbana;C;Mujer;6841
+13;Metropolitana de Santiago;13605;Peñaflor;Urbana;D;Hombre;12396
+13;Metropolitana de Santiago;13605;Peñaflor;Urbana;D;Mujer;9534
+14;Los Ríos;14101;Valdivia;Urbana;A;Hombre;10003
+14;Los Ríos;14101;Valdivia;Urbana;A;Mujer;12485
+14;Los Ríos;14101;Valdivia;Urbana;B;Hombre;27420
+14;Los Ríos;14101;Valdivia;Urbana;B;Mujer;38050
+14;Los Ríos;14101;Valdivia;Urbana;C;Hombre;12375
+14;Los Ríos;14101;Valdivia;Urbana;C;Mujer;12102
+14;Los Ríos;14101;Valdivia;Urbana;D;Hombre;18873
+14;Los Ríos;14101;Valdivia;Urbana;D;Mujer;16689
+14;Los Ríos;14102;Corral;Rural;A;Hombre;358
+14;Los Ríos;14102;Corral;Rural;A;Mujer;483
+14;Los Ríos;14102;Corral;Rural;B;Hombre;660
+14;Los Ríos;14102;Corral;Rural;B;Mujer;813
+14;Los Ríos;14102;Corral;Rural;C;Hombre;265
+14;Los Ríos;14102;Corral;Rural;C;Mujer;200
+14;Los Ríos;14102;Corral;Rural;D;Hombre;519
+14;Los Ríos;14102;Corral;Rural;D;Mujer;273
+14;Los Ríos;14103;Lanco;Mixta;A;Hombre;1573
+14;Los Ríos;14103;Lanco;Mixta;A;Mujer;2043
+14;Los Ríos;14103;Lanco;Mixta;B;Hombre;2906
+14;Los Ríos;14103;Lanco;Mixta;B;Mujer;3796
+14;Los Ríos;14103;Lanco;Mixta;C;Hombre;1187
+14;Los Ríos;14103;Lanco;Mixta;C;Mujer;1026
+14;Los Ríos;14103;Lanco;Mixta;D;Hombre;1945
+14;Los Ríos;14103;Lanco;Mixta;D;Mujer;1247
+14;Los Ríos;14104;Los Lagos;Rural;A;Hombre;1904
+14;Los Ríos;14104;Los Lagos;Rural;A;Mujer;2734
+14;Los Ríos;14104;Los Lagos;Rural;B;Hombre;3947
+14;Los Ríos;14104;Los Lagos;Rural;B;Mujer;4959
+14;Los Ríos;14104;Los Lagos;Rural;C;Hombre;1804
+14;Los Ríos;14104;Los Lagos;Rural;C;Mujer;1392
+14;Los Ríos;14104;Los Lagos;Rural;D;Hombre;2924
+14;Los Ríos;14104;Los Lagos;Rural;D;Mujer;1720
+14;Los Ríos;14105;Máfil;Mixta;A;Hombre;879
+14;Los Ríos;14105;Máfil;Mixta;A;Mujer;1082
+14;Los Ríos;14105;Máfil;Mixta;B;Hombre;1732
+14;Los Ríos;14105;Máfil;Mixta;B;Mujer;2097
+14;Los Ríos;14105;Máfil;Mixta;C;Hombre;753
+14;Los Ríos;14105;Máfil;Mixta;C;Mujer;642
+14;Los Ríos;14105;Máfil;Mixta;D;Hombre;1406
+14;Los Ríos;14105;Máfil;Mixta;D;Mujer;829
+14;Los Ríos;14106;Mariquina;Rural;A;Hombre;2684
+14;Los Ríos;14106;Mariquina;Rural;A;Mujer;3305
+14;Los Ríos;14106;Mariquina;Rural;B;Hombre;4237
+14;Los Ríos;14106;Mariquina;Rural;B;Mujer;5399
+14;Los Ríos;14106;Mariquina;Rural;C;Hombre;1768
+14;Los Ríos;14106;Mariquina;Rural;C;Mujer;1654
+14;Los Ríos;14106;Mariquina;Rural;D;Hombre;3075
+14;Los Ríos;14106;Mariquina;Rural;D;Mujer;1824
+14;Los Ríos;14107;Paillaco;Rural;A;Hombre;2142
+14;Los Ríos;14107;Paillaco;Rural;A;Mujer;2656
+14;Los Ríos;14107;Paillaco;Rural;B;Hombre;4088
+14;Los Ríos;14107;Paillaco;Rural;B;Mujer;5448
+14;Los Ríos;14107;Paillaco;Rural;C;Hombre;1739
+14;Los Ríos;14107;Paillaco;Rural;C;Mujer;1486
+14;Los Ríos;14107;Paillaco;Rural;D;Hombre;2406
+14;Los Ríos;14107;Paillaco;Rural;D;Mujer;1650
+14;Los Ríos;14108;Panguipulli;Rural;A;Hombre;5091
+14;Los Ríos;14108;Panguipulli;Rural;A;Mujer;6592
+14;Los Ríos;14108;Panguipulli;Rural;B;Hombre;7514
+14;Los Ríos;14108;Panguipulli;Rural;B;Mujer;8586
+14;Los Ríos;14108;Panguipulli;Rural;C;Hombre;3438
+14;Los Ríos;14108;Panguipulli;Rural;C;Mujer;2681
+14;Los Ríos;14108;Panguipulli;Rural;D;Hombre;3862
+14;Los Ríos;14108;Panguipulli;Rural;D;Mujer;2823
+14;Los Ríos;14201;La Unión;Rural;A;Hombre;3292
+14;Los Ríos;14201;La Unión;Rural;A;Mujer;4172
+14;Los Ríos;14201;La Unión;Rural;B;Hombre;6910
+14;Los Ríos;14201;La Unión;Rural;B;Mujer;9197
+14;Los Ríos;14201;La Unión;Rural;C;Hombre;2893
+14;Los Ríos;14201;La Unión;Rural;C;Mujer;2434
+14;Los Ríos;14201;La Unión;Rural;D;Hombre;4389
+14;Los Ríos;14201;La Unión;Rural;D;Mujer;3076
+14;Los Ríos;14202;Futrono;Rural;A;Hombre;1875
+14;Los Ríos;14202;Futrono;Rural;A;Mujer;2512
+14;Los Ríos;14202;Futrono;Rural;B;Hombre;3533
+14;Los Ríos;14202;Futrono;Rural;B;Mujer;4161
+14;Los Ríos;14202;Futrono;Rural;C;Hombre;1531
+14;Los Ríos;14202;Futrono;Rural;C;Mujer;1160
+14;Los Ríos;14202;Futrono;Rural;D;Hombre;1892
+14;Los Ríos;14202;Futrono;Rural;D;Mujer;1340
+14;Los Ríos;14203;Lago Ranco;Rural;A;Hombre;1500
+14;Los Ríos;14203;Lago Ranco;Rural;A;Mujer;1951
+14;Los Ríos;14203;Lago Ranco;Rural;B;Hombre;2452
+14;Los Ríos;14203;Lago Ranco;Rural;B;Mujer;2772
+14;Los Ríos;14203;Lago Ranco;Rural;C;Hombre;918
+14;Los Ríos;14203;Lago Ranco;Rural;C;Mujer;726
+14;Los Ríos;14203;Lago Ranco;Rural;D;Hombre;1301
+14;Los Ríos;14203;Lago Ranco;Rural;D;Mujer;824
+14;Los Ríos;14204;Río Bueno;Mixta;A;Hombre;2556
+14;Los Ríos;14204;Río Bueno;Mixta;A;Mujer;3187
+14;Los Ríos;14204;Río Bueno;Mixta;B;Hombre;5837
+14;Los Ríos;14204;Río Bueno;Mixta;B;Mujer;7717
+14;Los Ríos;14204;Río Bueno;Mixta;C;Hombre;2451
+14;Los Ríos;14204;Río Bueno;Mixta;C;Mujer;2001
+14;Los Ríos;14204;Río Bueno;Mixta;D;Hombre;3598
+14;Los Ríos;14204;Río Bueno;Mixta;D;Mujer;2426
+15;Arica y Parinacota;15101;Arica;Urbana;A;Hombre;26148
+15;Arica y Parinacota;15101;Arica;Urbana;A;Indeterminado;17
+15;Arica y Parinacota;15101;Arica;Urbana;A;Mujer;37065
+15;Arica y Parinacota;15101;Arica;Urbana;B;Hombre;38618
+15;Arica y Parinacota;15101;Arica;Urbana;B;Indeterminado;1
+15;Arica y Parinacota;15101;Arica;Urbana;B;Mujer;49692
+15;Arica y Parinacota;15101;Arica;Urbana;C;Hombre;16232
+15;Arica y Parinacota;15101;Arica;Urbana;C;Indeterminado;1
+15;Arica y Parinacota;15101;Arica;Urbana;C;Mujer;15266
+15;Arica y Parinacota;15101;Arica;Urbana;D;Hombre;27534
+15;Arica y Parinacota;15101;Arica;Urbana;D;Indeterminado;3
+15;Arica y Parinacota;15101;Arica;Urbana;D;Mujer;20264
+15;Arica y Parinacota;15102;Camarones;Rural;A;Hombre;27
+15;Arica y Parinacota;15102;Camarones;Rural;A;Mujer;51
+15;Arica y Parinacota;15102;Camarones;Rural;B;Hombre;38
+15;Arica y Parinacota;15102;Camarones;Rural;B;Mujer;23
+15;Arica y Parinacota;15102;Camarones;Rural;C;Hombre;15
+15;Arica y Parinacota;15102;Camarones;Rural;C;Mujer;12
+15;Arica y Parinacota;15102;Camarones;Rural;D;Hombre;39
+15;Arica y Parinacota;15102;Camarones;Rural;D;Mujer;9
+15;Arica y Parinacota;15201;Putre;Rural;A;Hombre;121
+15;Arica y Parinacota;15201;Putre;Rural;A;Mujer;178
+15;Arica y Parinacota;15201;Putre;Rural;B;Hombre;124
+15;Arica y Parinacota;15201;Putre;Rural;B;Mujer;111
+15;Arica y Parinacota;15201;Putre;Rural;C;Hombre;55
+15;Arica y Parinacota;15201;Putre;Rural;C;Mujer;27
+15;Arica y Parinacota;15201;Putre;Rural;D;Hombre;84
+15;Arica y Parinacota;15201;Putre;Rural;D;Mujer;45
+15;Arica y Parinacota;15202;General Lagos;Rural;A;Hombre;45
+15;Arica y Parinacota;15202;General Lagos;Rural;A;Mujer;75
+15;Arica y Parinacota;15202;General Lagos;Rural;B;Hombre;43
+15;Arica y Parinacota;15202;General Lagos;Rural;B;Mujer;34
+15;Arica y Parinacota;15202;General Lagos;Rural;C;Hombre;15
+15;Arica y Parinacota;15202;General Lagos;Rural;C;Mujer;5
+15;Arica y Parinacota;15202;General Lagos;Rural;D;Hombre;33
+15;Arica y Parinacota;15202;General Lagos;Rural;D;Mujer;10
+16;Ñuble;16101;Chillán;Urbana;A;Hombre;12718
+16;Ñuble;16101;Chillán;Urbana;A;Indeterminado;2
+16;Ñuble;16101;Chillán;Urbana;A;Mujer;16259
+16;Ñuble;16101;Chillán;Urbana;B;Hombre;33800
+16;Ñuble;16101;Chillán;Urbana;B;Indeterminado;1
+16;Ñuble;16101;Chillán;Urbana;B;Mujer;46397
+16;Ñuble;16101;Chillán;Urbana;C;Hombre;14924
+16;Ñuble;16101;Chillán;Urbana;C;Mujer;13872
+16;Ñuble;16101;Chillán;Urbana;D;Hombre;21512
+16;Ñuble;16101;Chillán;Urbana;D;Indeterminado;1
+16;Ñuble;16101;Chillán;Urbana;D;Mujer;17963
+16;Ñuble;16102;Bulnes;Rural;A;Hombre;1584
+16;Ñuble;16102;Bulnes;Rural;A;Mujer;2155
+16;Ñuble;16102;Bulnes;Rural;B;Hombre;3797
+16;Ñuble;16102;Bulnes;Rural;B;Mujer;4879
+16;Ñuble;16102;Bulnes;Rural;C;Hombre;1706
+16;Ñuble;16102;Bulnes;Rural;C;Mujer;1376
+16;Ñuble;16102;Bulnes;Rural;D;Hombre;2186
+16;Ñuble;16102;Bulnes;Rural;D;Mujer;1548
+16;Ñuble;16103;Chillán Viejo;Mixta;A;Hombre;2753
+16;Ñuble;16103;Chillán Viejo;Mixta;A;Mujer;3671
+16;Ñuble;16103;Chillán Viejo;Mixta;B;Hombre;6234
+16;Ñuble;16103;Chillán Viejo;Mixta;B;Mujer;8754
+16;Ñuble;16103;Chillán Viejo;Mixta;C;Hombre;3017
+16;Ñuble;16103;Chillán Viejo;Mixta;C;Mujer;2862
+16;Ñuble;16103;Chillán Viejo;Mixta;D;Hombre;4313
+16;Ñuble;16103;Chillán Viejo;Mixta;D;Mujer;3495
+16;Ñuble;16104;El Carmen;Rural;A;Hombre;1207
+16;Ñuble;16104;El Carmen;Rural;A;Mujer;1233
+16;Ñuble;16104;El Carmen;Rural;B;Hombre;2431
+16;Ñuble;16104;El Carmen;Rural;B;Mujer;2685
+16;Ñuble;16104;El Carmen;Rural;C;Hombre;669
+16;Ñuble;16104;El Carmen;Rural;C;Mujer;484
+16;Ñuble;16104;El Carmen;Rural;D;Hombre;724
+16;Ñuble;16104;El Carmen;Rural;D;Mujer;507
+16;Ñuble;16105;Pemuco;Rural;A;Hombre;733
+16;Ñuble;16105;Pemuco;Rural;A;Mujer;1080
+16;Ñuble;16105;Pemuco;Rural;B;Hombre;1908
+16;Ñuble;16105;Pemuco;Rural;B;Mujer;2233
+16;Ñuble;16105;Pemuco;Rural;C;Hombre;694
+16;Ñuble;16105;Pemuco;Rural;C;Mujer;485
+16;Ñuble;16105;Pemuco;Rural;D;Hombre;917
+16;Ñuble;16105;Pemuco;Rural;D;Mujer;597
+16;Ñuble;16106;Pinto;Rural;A;Hombre;1537
+16;Ñuble;16106;Pinto;Rural;A;Mujer;1903
+16;Ñuble;16106;Pinto;Rural;B;Hombre;2927
+16;Ñuble;16106;Pinto;Rural;B;Mujer;3377
+16;Ñuble;16106;Pinto;Rural;C;Hombre;995
+16;Ñuble;16106;Pinto;Rural;C;Mujer;832
+16;Ñuble;16106;Pinto;Rural;D;Hombre;1140
+16;Ñuble;16106;Pinto;Rural;D;Mujer;849
+16;Ñuble;16107;Quillón;Mixta;A;Hombre;1921
+16;Ñuble;16107;Quillón;Mixta;A;Indeterminado;1
+16;Ñuble;16107;Quillón;Mixta;A;Mujer;2478
+16;Ñuble;16107;Quillón;Mixta;B;Hombre;3887
+16;Ñuble;16107;Quillón;Mixta;B;Mujer;4901
+16;Ñuble;16107;Quillón;Mixta;C;Hombre;1466
+16;Ñuble;16107;Quillón;Mixta;C;Mujer;1254
+16;Ñuble;16107;Quillón;Mixta;D;Hombre;1917
+16;Ñuble;16107;Quillón;Mixta;D;Mujer;1195
+16;Ñuble;16108;San Ignacio;Rural;A;Hombre;1993
+16;Ñuble;16108;San Ignacio;Rural;A;Indeterminado;1
+16;Ñuble;16108;San Ignacio;Rural;A;Mujer;2474
+16;Ñuble;16108;San Ignacio;Rural;B;Hombre;3993
+16;Ñuble;16108;San Ignacio;Rural;B;Mujer;4696
+16;Ñuble;16108;San Ignacio;Rural;C;Hombre;1295
+16;Ñuble;16108;San Ignacio;Rural;C;Mujer;899
+16;Ñuble;16108;San Ignacio;Rural;D;Hombre;1454
+16;Ñuble;16108;San Ignacio;Rural;D;Mujer;1022
+16;Ñuble;16109;Yungay;Mixta;A;Hombre;933
+16;Ñuble;16109;Yungay;Mixta;A;Mujer;1165
+16;Ñuble;16109;Yungay;Mixta;B;Hombre;2568
+16;Ñuble;16109;Yungay;Mixta;B;Mujer;3100
+16;Ñuble;16109;Yungay;Mixta;C;Hombre;1122
+16;Ñuble;16109;Yungay;Mixta;C;Mujer;942
+16;Ñuble;16109;Yungay;Mixta;D;Hombre;1853
+16;Ñuble;16109;Yungay;Mixta;D;Mujer;1164
+16;Ñuble;16201;Quirihue;Mixta;A;Hombre;717
+16;Ñuble;16201;Quirihue;Mixta;A;Mujer;890
+16;Ñuble;16201;Quirihue;Mixta;B;Hombre;1678
+16;Ñuble;16201;Quirihue;Mixta;B;Mujer;1892
+16;Ñuble;16201;Quirihue;Mixta;C;Hombre;677
+16;Ñuble;16201;Quirihue;Mixta;C;Mujer;516
+16;Ñuble;16201;Quirihue;Mixta;D;Hombre;706
+16;Ñuble;16201;Quirihue;Mixta;D;Mujer;605
+16;Ñuble;16202;Cobquecura;Rural;A;Hombre;792
+16;Ñuble;16202;Cobquecura;Rural;A;Mujer;910
+16;Ñuble;16202;Cobquecura;Rural;B;Hombre;1240
+16;Ñuble;16202;Cobquecura;Rural;B;Mujer;1370
+16;Ñuble;16202;Cobquecura;Rural;C;Hombre;363
+16;Ñuble;16202;Cobquecura;Rural;C;Mujer;300
+16;Ñuble;16202;Cobquecura;Rural;D;Hombre;432
+16;Ñuble;16202;Cobquecura;Rural;D;Mujer;354
+16;Ñuble;16203;Coelemu;Rural;A;Hombre;885
+16;Ñuble;16203;Coelemu;Rural;A;Mujer;1133
+16;Ñuble;16203;Coelemu;Rural;B;Hombre;2013
+16;Ñuble;16203;Coelemu;Rural;B;Mujer;2475
+16;Ñuble;16203;Coelemu;Rural;C;Hombre;898
+16;Ñuble;16203;Coelemu;Rural;C;Mujer;688
+16;Ñuble;16203;Coelemu;Rural;D;Hombre;1389
+16;Ñuble;16203;Coelemu;Rural;D;Mujer;822
+16;Ñuble;16204;Ninhue;Rural;A;Hombre;514
+16;Ñuble;16204;Ninhue;Rural;A;Mujer;734
+16;Ñuble;16204;Ninhue;Rural;B;Hombre;1506
+16;Ñuble;16204;Ninhue;Rural;B;Mujer;1638
+16;Ñuble;16204;Ninhue;Rural;C;Hombre;417
+16;Ñuble;16204;Ninhue;Rural;C;Mujer;281
+16;Ñuble;16204;Ninhue;Rural;D;Hombre;438
+16;Ñuble;16204;Ninhue;Rural;D;Mujer;339
+16;Ñuble;16205;Portezuelo;Rural;A;Hombre;524
+16;Ñuble;16205;Portezuelo;Rural;A;Mujer;637
+16;Ñuble;16205;Portezuelo;Rural;B;Hombre;1304
+16;Ñuble;16205;Portezuelo;Rural;B;Mujer;1425
+16;Ñuble;16205;Portezuelo;Rural;C;Hombre;395
+16;Ñuble;16205;Portezuelo;Rural;C;Mujer;289
+16;Ñuble;16205;Portezuelo;Rural;D;Hombre;389
+16;Ñuble;16205;Portezuelo;Rural;D;Mujer;330
+16;Ñuble;16206;Ranquil;Rural;A;Hombre;549
+16;Ñuble;16206;Ranquil;Rural;A;Mujer;782
+16;Ñuble;16206;Ranquil;Rural;B;Hombre;1216
+16;Ñuble;16206;Ranquil;Rural;B;Mujer;1524
+16;Ñuble;16206;Ranquil;Rural;C;Hombre;439
+16;Ñuble;16206;Ranquil;Rural;C;Mujer;323
+16;Ñuble;16206;Ranquil;Rural;D;Hombre;811
+16;Ñuble;16206;Ranquil;Rural;D;Mujer;512
+16;Ñuble;16207;Treguaco;Rural;A;Hombre;392
+16;Ñuble;16207;Treguaco;Rural;A;Mujer;704
+16;Ñuble;16207;Treguaco;Rural;B;Hombre;1208
+16;Ñuble;16207;Treguaco;Rural;B;Mujer;1430
+16;Ñuble;16207;Treguaco;Rural;C;Hombre;503
+16;Ñuble;16207;Treguaco;Rural;C;Mujer;365
+16;Ñuble;16207;Treguaco;Rural;D;Hombre;862
+16;Ñuble;16207;Treguaco;Rural;D;Mujer;489
+16;Ñuble;16301;San Carlos;Mixta;A;Hombre;5065
+16;Ñuble;16301;San Carlos;Mixta;A;Mujer;6674
+16;Ñuble;16301;San Carlos;Mixta;B;Hombre;11844
+16;Ñuble;16301;San Carlos;Mixta;B;Mujer;14935
+16;Ñuble;16301;San Carlos;Mixta;C;Hombre;3992
+16;Ñuble;16301;San Carlos;Mixta;C;Mujer;3470
+16;Ñuble;16301;San Carlos;Mixta;D;Hombre;5546
+16;Ñuble;16301;San Carlos;Mixta;D;Mujer;3934
+16;Ñuble;16302;Coihueco;Rural;A;Hombre;2849
+16;Ñuble;16302;Coihueco;Rural;A;Mujer;3969
+16;Ñuble;16302;Coihueco;Rural;B;Hombre;5886
+16;Ñuble;16302;Coihueco;Rural;B;Mujer;6443
+16;Ñuble;16302;Coihueco;Rural;C;Hombre;2415
+16;Ñuble;16302;Coihueco;Rural;C;Mujer;1868
+16;Ñuble;16302;Coihueco;Rural;D;Hombre;2614
+16;Ñuble;16302;Coihueco;Rural;D;Mujer;1822
+16;Ñuble;16303;Ñiquén;Rural;A;Hombre;1166
+16;Ñuble;16303;Ñiquén;Rural;A;Mujer;1658
+16;Ñuble;16303;Ñiquén;Rural;B;Hombre;2618
+16;Ñuble;16303;Ñiquén;Rural;B;Mujer;2986
+16;Ñuble;16303;Ñiquén;Rural;C;Hombre;769
+16;Ñuble;16303;Ñiquén;Rural;C;Mujer;566
+16;Ñuble;16303;Ñiquén;Rural;D;Hombre;1105
+16;Ñuble;16303;Ñiquén;Rural;D;Mujer;631
+16;Ñuble;16304;San Fabián;Rural;A;Hombre;553
+16;Ñuble;16304;San Fabián;Rural;A;Mujer;686
+16;Ñuble;16304;San Fabián;Rural;B;Hombre;1131
+16;Ñuble;16304;San Fabián;Rural;B;Mujer;1316
+16;Ñuble;16304;San Fabián;Rural;C;Hombre;416
+16;Ñuble;16304;San Fabián;Rural;C;Mujer;303
+16;Ñuble;16304;San Fabián;Rural;D;Hombre;518
+16;Ñuble;16304;San Fabián;Rural;D;Mujer;353
+16;Ñuble;16305;San Nicolás;Rural;A;Hombre;1137
+16;Ñuble;16305;San Nicolás;Rural;A;Mujer;1494
+16;Ñuble;16305;San Nicolás;Rural;B;Hombre;2956
+16;Ñuble;16305;San Nicolás;Rural;B;Mujer;3458
+16;Ñuble;16305;San Nicolás;Rural;C;Hombre;1264
+16;Ñuble;16305;San Nicolás;Rural;C;Mujer;977
+16;Ñuble;16305;San Nicolás;Rural;D;Hombre;1444
+16;Ñuble;16305;San Nicolás;Rural;D;Mujer;1034
